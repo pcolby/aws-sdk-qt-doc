@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::CreateSizeConstraintSetResponse" name="QtAws::WAFRegional::CreateSizeConstraintSetResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalResponse.html" title="Handles WAFRegional WAFRegional responses. " alt="" coords="37,169,208,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="32,80,213,121"/>
+</map>

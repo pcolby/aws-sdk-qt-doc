@@ -1,0 +1,4 @@
+<map id="QtAws::SageMaker::ListEndpointConfigsRequest" name="QtAws::SageMaker::ListEndpointConfigsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerRequest.html" title="Interface class for providing SageMaker requests. " alt="" coords="8,95,219,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="23,5,204,47"/>
+</map>

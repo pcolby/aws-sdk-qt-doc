@@ -1,0 +1,13 @@
+<map id="QtAws::MediaStore::MediaStoreResponsePrivate" name="QtAws::MediaStore::MediaStoreResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStore_1_1CreateContainerResponsePrivate.html" title="Private implementation for CreateContainerResponse. " alt="" coords="477,5,695,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStore_1_1DeleteContainerPolicyResponsePrivate.html" title="Private implementation for DeleteContainerPolicyResponse. " alt="" coords="481,71,691,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStore_1_1DeleteContainerResponsePrivate.html" title="Private implementation for DeleteContainerResponse. " alt="" coords="478,152,694,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStore_1_1DeleteCorsPolicyResponsePrivate.html" title="Private implementation for DeleteCorsPolicyResponse. " alt="" coords="474,217,698,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStore_1_1DescribeContainerResponsePrivate.html" title="Private implementation for DescribeContainerResponse. " alt="" coords="471,283,701,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaStore_1_1GetContainerPolicyResponsePrivate.html" title="Private implementation for GetContainerPolicyResponse. " alt="" coords="489,349,683,405"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaStore_1_1GetCorsPolicyResponsePrivate.html" title="Private implementation for GetCorsPolicyResponse. " alt="" coords="483,429,689,471"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaStore_1_1ListContainersResponsePrivate.html" title="Private implementation for ListContainersResponse. " alt="" coords="483,495,689,536"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaStore_1_1PutContainerPolicyResponsePrivate.html" title="Private implementation for PutContainerPolicyResponse. " alt="" coords="489,561,683,617"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaStore_1_1PutCorsPolicyResponsePrivate.html" title="Private implementation for PutCorsPolicyResponse. " alt="" coords="483,641,689,683"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,320,187,361"/>
+</map>

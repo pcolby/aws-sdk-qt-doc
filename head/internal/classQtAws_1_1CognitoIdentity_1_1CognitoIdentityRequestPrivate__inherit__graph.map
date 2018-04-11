@@ -1,0 +1,21 @@
+<map id="QtAws::CognitoIdentity::CognitoIdentityRequestPrivate" name="QtAws::CognitoIdentity::CognitoIdentityRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CognitoIdentity_1_1CreateIdentityPoolRequestPrivate.html" title="Private implementation for CreateIdentityPoolRequest. " alt="" coords="492,5,720,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentitiesRequestPrivate.html" title="Private implementation for DeleteIdentitiesRequest. " alt="" coords="501,71,711,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentityPoolRequestPrivate.html" title="Private implementation for DeleteIdentityPoolRequest. " alt="" coords="493,136,719,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityPoolRequestPrivate.html" title="Private implementation for DescribeIdentityPoolRequest. " alt="" coords="506,202,706,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityRequestPrivate.html" title="Private implementation for DescribeIdentityRequest. " alt="" coords="499,283,713,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoIdentity_1_1GetCredentialsForIdentityRequestPrivate.html" title="Private implementation for GetCredentialsForIdentityRequest. " alt="" coords="492,349,720,405"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoIdentity_1_1GetIdentityPoolRolesRequestPrivate.html" title="Private implementation for GetIdentityPoolRolesRequest. " alt="" coords="505,429,707,485"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoIdentity_1_1GetIdRequestPrivate.html" title="Private implementation for GetIdRequest. " alt="" coords="527,509,685,551"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenForDeveloperIdentityRequestPrivate.html" title="Private implementation for GetOpenIdTokenForDeveloperIdentityRequest. " alt="" coords="503,575,709,631"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenRequestPrivate.html" title="Private implementation for GetOpenIdTokenRequest. " alt="" coords="497,656,715,697"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentitiesRequestPrivate.html" title="Private implementation for ListIdentitiesRequest. " alt="" coords="509,721,703,763"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentityPoolsRequestPrivate.html" title="Private implementation for ListIdentityPoolsRequest. " alt="" coords="497,787,715,828"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoIdentity_1_1LookupDeveloperIdentityRequestPrivate.html" title="Private implementation for LookupDeveloperIdentityRequest. " alt="" coords="495,853,717,909"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoIdentity_1_1MergeDeveloperIdentitiesRequestPrivate.html" title="Private implementation for MergeDeveloperIdentitiesRequest. " alt="" coords="493,933,719,989"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoIdentity_1_1SetIdentityPoolRolesRequestPrivate.html" title="Private implementation for SetIdentityPoolRolesRequest. " alt="" coords="505,1013,707,1069"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkDeveloperIdentityRequestPrivate.html" title="Private implementation for UnlinkDeveloperIdentityRequest. " alt="" coords="497,1093,715,1149"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkIdentityRequestPrivate.html" title="Private implementation for UnlinkIdentityRequest. " alt="" coords="506,1173,706,1215"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CognitoIdentity_1_1UpdateIdentityPoolRequestPrivate.html" title="Private implementation for UpdateIdentityPoolRequest. " alt="" coords="491,1239,721,1280"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,620,187,661"/>
+</map>

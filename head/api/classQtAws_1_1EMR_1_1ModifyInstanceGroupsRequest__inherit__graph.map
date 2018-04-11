@@ -1,0 +1,4 @@
+<map id="QtAws::EMR::ModifyInstanceGroupsRequest" name="QtAws::EMR::ModifyInstanceGroupsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1EMR_1_1EMRRequest.html" title="Interface class for providing EMR requests. " alt="" coords="11,95,197,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="13,5,195,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Route53::AssociateVPCWithHostedZoneResponsePrivate" name="QtAws::Route53::AssociateVPCWithHostedZoneResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53_1_1Route53ResponsePrivate.html" title="Private implementation for Route53Response. " alt="" coords="12,95,247,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="39,5,220,47"/>
+</map>

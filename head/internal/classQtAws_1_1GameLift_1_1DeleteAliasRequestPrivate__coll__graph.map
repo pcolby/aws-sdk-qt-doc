@@ -1,0 +1,5 @@
+<map id="QtAws::GameLift::DeleteAliasRequestPrivate" name="QtAws::GameLift::DeleteAliasRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftRequestPrivate.html" title="Private implementation for GameLiftRequest. " alt="" coords="13,109,197,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="157,5,338,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="221,109,402,151"/>
+</map>

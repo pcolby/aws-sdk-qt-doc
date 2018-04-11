@@ -1,0 +1,4 @@
+<map id="QtAws::SES::DeleteConfigurationSetResponse" name="QtAws::SES::DeleteConfigurationSetResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESResponse.html" title="Handles SES SES responses. " alt="" coords="20,169,211,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="25,80,206,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::SSM::CreateActivationRequest" name="QtAws::SSM::CreateActivationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SSM_1_1SSMRequest.html" title="Interface class for providing SSM requests. " alt="" coords="15,117,200,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="161,5,342,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="225,109,406,151"/>
+</map>

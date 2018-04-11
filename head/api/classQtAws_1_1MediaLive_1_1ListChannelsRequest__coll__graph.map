@@ -1,0 +1,4 @@
+<map id="QtAws::MediaLive::ListChannelsRequest" name="QtAws::MediaLive::ListChannelsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MediaLive_1_1MediaLiveRequest.html" title="Interface class for providing MediaLive requests. " alt="" coords="14,95,210,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="21,5,203,47"/>
+</map>

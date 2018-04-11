@@ -1,0 +1,33 @@
+<map id="QtAws::SNS::SNSResponsePrivate" name="QtAws::SNS::SNSResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SNS_1_1AddPermissionResponsePrivate.html" title="Private implementation for AddPermissionResponse. " alt="" coords="545,5,740,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SNS_1_1CheckIfPhoneNumberIsOptedOutResponsePrivate.html" title="Private implementation for CheckIfPhoneNumberIsOptedOutResponse. " alt="" coords="525,71,760,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SNS_1_1ConfirmSubscriptionResponsePrivate.html" title="Private implementation for ConfirmSubscriptionResponse. " alt="" coords="531,136,755,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SNS_1_1CreatePlatformApplicationResponsePrivate.html" title="Private implementation for CreatePlatformApplicationResponse. " alt="" coords="545,201,740,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SNS_1_1CreatePlatformEndpointResponsePrivate.html" title="Private implementation for CreatePlatformEndpointResponse. " alt="" coords="545,267,740,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SNS_1_1CreateTopicResponsePrivate.html" title="Private implementation for CreateTopicResponse. " alt="" coords="525,332,761,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SNS_1_1DeleteEndpointResponsePrivate.html" title="Private implementation for DeleteEndpointResponse. " alt="" coords="545,397,740,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SNS_1_1DeletePlatformApplicationResponsePrivate.html" title="Private implementation for DeletePlatformApplicationResponse. " alt="" coords="546,463,739,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SNS_1_1DeleteTopicResponsePrivate.html" title="Private implementation for DeleteTopicResponse. " alt="" coords="525,528,760,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SNS_1_1GetEndpointAttributesResponsePrivate.html" title="Private implementation for GetEndpointAttributesResponse. " alt="" coords="525,593,760,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SNS_1_1GetPlatformApplicationAttributesResponsePrivate.html" title="Private implementation for GetPlatformApplicationAttributesResponse. " alt="" coords="523,659,763,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SNS_1_1GetSMSAttributesResponsePrivate.html" title="Private implementation for GetSMSAttributesResponse. " alt="" coords="537,724,749,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SNS_1_1GetSubscriptionAttributesResponsePrivate.html" title="Private implementation for GetSubscriptionAttributesResponse. " alt="" coords="543,789,742,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SNS_1_1GetTopicAttributesResponsePrivate.html" title="Private implementation for GetTopicAttributesResponse. " alt="" coords="535,855,750,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SNS_1_1ListEndpointsByPlatformApplicationResponsePrivate.html" title="Private implementation for ListEndpointsByPlatformApplicationResponse. " alt="" coords="517,920,768,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SNS_1_1ListPhoneNumbersOptedOutResponsePrivate.html" title="Private implementation for ListPhoneNumbersOptedOutResponse. " alt="" coords="534,985,751,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SNS_1_1ListPlatformApplicationsResponsePrivate.html" title="Private implementation for ListPlatformApplicationsResponse. " alt="" coords="546,1051,739,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SNS_1_1ListSubscriptionsByTopicResponsePrivate.html" title="Private implementation for ListSubscriptionsByTopicResponse. " alt="" coords="539,1116,746,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SNS_1_1ListSubscriptionsResponsePrivate.html" title="Private implementation for ListSubscriptionsResponse. " alt="" coords="539,1181,746,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SNS_1_1ListTopicsResponsePrivate.html" title="Private implementation for ListTopicsResponse. " alt="" coords="530,1247,755,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SNS_1_1OptInPhoneNumberResponsePrivate.html" title="Private implementation for OptInPhoneNumberResponse. " alt="" coords="532,1312,753,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SNS_1_1PublishResponsePrivate.html" title="Private implementation for PublishResponse. " alt="" coords="539,1377,747,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SNS_1_1RemovePermissionResponsePrivate.html" title="Private implementation for RemovePermissionResponse. " alt="" coords="533,1443,753,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SNS_1_1SetEndpointAttributesResponsePrivate.html" title="Private implementation for SetEndpointAttributesResponse. " alt="" coords="526,1508,759,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SNS_1_1SetPlatformApplicationAttributesResponsePrivate.html" title="Private implementation for SetPlatformApplicationAttributesResponse. " alt="" coords="523,1573,762,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SNS_1_1SetSMSAttributesResponsePrivate.html" title="Private implementation for SetSMSAttributesResponse. " alt="" coords="537,1639,748,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SNS_1_1SetSubscriptionAttributesResponsePrivate.html" title="Private implementation for SetSubscriptionAttributesResponse. " alt="" coords="543,1704,742,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SNS_1_1SetTopicAttributesResponsePrivate.html" title="Private implementation for SetTopicAttributesResponse. " alt="" coords="535,1769,750,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SNS_1_1SubscribeResponsePrivate.html" title="Private implementation for SubscribeResponse. " alt="" coords="531,1835,754,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SNS_1_1UnsubscribeResponsePrivate.html" title="Private implementation for UnsubscribeResponse. " alt="" coords="523,1900,762,1941"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,953,187,995"/>
+</map>

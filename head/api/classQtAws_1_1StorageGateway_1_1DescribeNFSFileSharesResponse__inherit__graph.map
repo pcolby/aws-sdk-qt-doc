@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::DescribeNFSFileSharesResponse" name="QtAws::StorageGateway::DescribeNFSFileSharesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponse.html" title="Handles StorageGateway StorageGateway responses. " alt="" coords="27,169,214,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="30,80,211,121"/>
+</map>

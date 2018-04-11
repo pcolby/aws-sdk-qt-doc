@@ -1,0 +1,33 @@
+<map id="QtAws::Lambda::LambdaResponse" name="QtAws::Lambda::LambdaResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Lambda_1_1AddPermissionResponse.html" title="Handles Lambda AddPermission responses. " alt="" coords="644,5,856,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Lambda_1_1CreateAliasResponse.html" title="Handles Lambda CreateAlias responses. " alt="" coords="654,71,846,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Lambda_1_1CreateEventSourceMappingResponse.html" title="Handles Lambda CreateEventSourceMapping responses. " alt="" coords="651,136,849,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Lambda_1_1CreateFunctionResponse.html" title="Handles Lambda CreateFunction responses. " alt="" coords="643,201,857,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Lambda_1_1DeleteAliasResponse.html" title="Handles Lambda DeleteAlias responses. " alt="" coords="655,267,845,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Lambda_1_1DeleteEventSourceMappingResponse.html" title="Handles Lambda DeleteEventSourceMapping responses. " alt="" coords="652,332,848,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Lambda_1_1DeleteFunctionConcurrencyResponse.html" title="Handles Lambda DeleteFunctionConcurrency responses. " alt="" coords="644,397,856,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Lambda_1_1DeleteFunctionResponse.html" title="Handles Lambda DeleteFunction responses. " alt="" coords="644,463,856,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Lambda_1_1GetAccountSettingsResponse.html" title="Handles Lambda GetAccountSettings responses. " alt="" coords="653,528,847,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Lambda_1_1GetAliasResponse.html" title="Handles Lambda GetAlias responses. " alt="" coords="633,594,867,621"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Lambda_1_1GetEventSourceMappingResponse.html" title="Handles Lambda GetEventSourceMapping responses. " alt="" coords="640,645,860,687"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Lambda_1_1GetFunctionConfigurationResponse.html" title="Handles Lambda GetFunctionConfiguration responses. " alt="" coords="653,711,847,752"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Lambda_1_1GetFunctionResponse.html" title="Handles Lambda GetFunction responses. " alt="" coords="653,776,847,817"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Lambda_1_1GetPolicyResponse.html" title="Handles Lambda GetPolicy responses. " alt="" coords="659,841,841,883"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Lambda_1_1InvokeAsyncResponse.html" title="Handles Lambda InvokeAsync responses. " alt="" coords="650,907,850,948"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Lambda_1_1InvokeResponse.html" title="Handles Lambda Invoke responses. " alt="" coords="639,973,861,999"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Lambda_1_1ListAliasesResponse.html" title="Handles Lambda ListAliases responses. " alt="" coords="656,1024,844,1065"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Lambda_1_1ListEventSourceMappingsResponse.html" title="Handles Lambda ListEventSourceMappings responses. " alt="" coords="661,1089,839,1131"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Lambda_1_1ListFunctionsResponse.html" title="Handles Lambda ListFunctions responses. " alt="" coords="649,1155,851,1196"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Lambda_1_1ListTagsResponse.html" title="Handles Lambda ListTags responses. " alt="" coords="633,1221,867,1247"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Lambda_1_1ListVersionsByFunctionResponse.html" title="Handles Lambda ListVersionsByFunction responses. " alt="" coords="652,1272,848,1313"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Lambda_1_1PublishVersionResponse.html" title="Handles Lambda PublishVersion responses. " alt="" coords="645,1337,855,1379"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Lambda_1_1PutFunctionConcurrencyResponse.html" title="Handles Lambda PutFunctionConcurrency responses. " alt="" coords="653,1403,847,1444"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Lambda_1_1RemovePermissionResponse.html" title="Handles Lambda RemovePermission responses. " alt="" coords="631,1468,869,1509"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Lambda_1_1TagResourceResponse.html" title="Handles Lambda TagResource responses. " alt="" coords="649,1533,851,1575"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Lambda_1_1UntagResourceResponse.html" title="Handles Lambda UntagResource responses. " alt="" coords="643,1599,857,1640"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Lambda_1_1UpdateAliasResponse.html" title="Handles Lambda UpdateAlias responses. " alt="" coords="653,1664,847,1705"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Lambda_1_1UpdateEventSourceMappingResponse.html" title="Handles Lambda UpdateEventSourceMapping responses. " alt="" coords="650,1729,850,1771"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Lambda_1_1UpdateFunctionCodeResponse.html" title="Handles Lambda UpdateFunctionCode responses. " alt="" coords="642,1795,858,1836"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Lambda_1_1UpdateFunctionConfigurationResponse.html" title="Handles Lambda UpdateFunctionConfiguration responses. " alt="" coords="642,1860,858,1901"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,936,305,977"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFront::ListCloudFrontOriginAccessIdentitiesRequestPrivate" name="QtAws::CloudFront::ListCloudFrontOriginAccessIdentitiesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFront_1_1CloudFrontRequestPrivate.html" title="Private implementation for CloudFrontRequest. " alt="" coords="10,95,186,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="7,5,189,47"/>
+</map>

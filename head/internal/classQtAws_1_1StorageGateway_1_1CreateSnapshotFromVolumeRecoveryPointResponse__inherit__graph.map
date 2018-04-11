@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::CreateSnapshotFromVolumeRecoveryPointResponse" name="QtAws::StorageGateway::CreateSnapshotFromVolumeRecoveryPointResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponse.html" title="Handles StorageGateway StorageGateway responses. " alt="" coords="39,169,226,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="42,80,223,121"/>
+</map>

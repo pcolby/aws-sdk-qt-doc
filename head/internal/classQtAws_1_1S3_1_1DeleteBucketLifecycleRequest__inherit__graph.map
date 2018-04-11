@@ -1,0 +1,4 @@
+<map id="QtAws::S3::DeleteBucketLifecycleRequest" name="QtAws::S3::DeleteBucketLifecycleRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3Request.html" title="Interface class for providing S3 requests. " alt="" coords="39,95,197,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="27,5,209,47"/>
+</map>

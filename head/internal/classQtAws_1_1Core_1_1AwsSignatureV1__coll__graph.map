@@ -1,0 +1,5 @@
+<map id="QtAws::Core::AwsSignatureV1" name="QtAws::Core::AwsSignatureV1">
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsSignatureV0.html" title="Implements AWS Signature Version 0 (deprecated by Amazon). " alt="" coords="5,117,208,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractSignature.html" title="Interface class for providing AWS signatures. " alt="" coords="168,5,349,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractSignaturePrivate.html" title="Private implementation for AwsAbstractSignature. " alt="" coords="232,109,413,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::SageMaker::ListNotebookInstancesResponsePrivate" name="QtAws::SageMaker::ListNotebookInstancesResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerResponsePrivate.html" title="Private implementation for SageMakerResponse. " alt="" coords="11,95,221,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="25,5,207,47"/>
+</map>

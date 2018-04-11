@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFormation::CreateStackInstancesResponse" name="QtAws::CloudFormation::CreateStackInstancesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationResponse.html" title="Handles CloudFormation CloudFormation responses. " alt="" coords="24,169,205,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="24,80,205,121"/>
+</map>

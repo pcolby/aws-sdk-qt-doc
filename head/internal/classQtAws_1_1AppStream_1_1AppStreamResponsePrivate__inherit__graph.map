@@ -1,0 +1,36 @@
+<map id="QtAws::AppStream::AppStreamResponsePrivate" name="QtAws::AppStream::AppStreamResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1AppStream_1_1AssociateFleetResponsePrivate.html" title="Private implementation for AssociateFleetResponse. " alt="" coords="511,5,713,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1AppStream_1_1CopyImageResponsePrivate.html" title="Private implementation for CopyImageResponse. " alt="" coords="507,71,717,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AppStream_1_1CreateDirectoryConfigResponsePrivate.html" title="Private implementation for CreateDirectoryConfigResponse. " alt="" coords="505,136,719,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AppStream_1_1CreateFleetResponsePrivate.html" title="Private implementation for CreateFleetResponse. " alt="" coords="521,201,703,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1AppStream_1_1CreateImageBuilderResponsePrivate.html" title="Private implementation for CreateImageBuilderResponse. " alt="" coords="513,267,711,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1AppStream_1_1CreateImageBuilderStreamingURLResponsePrivate.html" title="Private implementation for CreateImageBuilderStreamingURLResponse. " alt="" coords="491,333,733,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1AppStream_1_1CreateStackResponsePrivate.html" title="Private implementation for CreateStackResponse. " alt="" coords="521,413,703,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1AppStream_1_1CreateStreamingURLResponsePrivate.html" title="Private implementation for CreateStreamingURLResponse. " alt="" coords="508,479,716,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1AppStream_1_1DeleteDirectoryConfigResponsePrivate.html" title="Private implementation for DeleteDirectoryConfigResponse. " alt="" coords="505,544,719,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1AppStream_1_1DeleteFleetResponsePrivate.html" title="Private implementation for DeleteFleetResponse. " alt="" coords="521,609,703,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1AppStream_1_1DeleteImageBuilderResponsePrivate.html" title="Private implementation for DeleteImageBuilderResponse. " alt="" coords="513,675,711,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1AppStream_1_1DeleteImageResponsePrivate.html" title="Private implementation for DeleteImageResponse. " alt="" coords="521,740,703,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1AppStream_1_1DeleteStackResponsePrivate.html" title="Private implementation for DeleteStackResponse. " alt="" coords="521,805,703,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1AppStream_1_1DescribeDirectoryConfigsResponsePrivate.html" title="Private implementation for DescribeDirectoryConfigsResponse. " alt="" coords="502,871,722,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1AppStream_1_1DescribeFleetsResponsePrivate.html" title="Private implementation for DescribeFleetsResponse. " alt="" coords="515,936,709,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1AppStream_1_1DescribeImageBuildersResponsePrivate.html" title="Private implementation for DescribeImageBuildersResponse. " alt="" coords="509,1001,715,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1AppStream_1_1DescribeImagesResponsePrivate.html" title="Private implementation for DescribeImagesResponse. " alt="" coords="515,1067,709,1108"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1AppStream_1_1DescribeSessionsResponsePrivate.html" title="Private implementation for DescribeSessionsResponse. " alt="" coords="515,1132,709,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1AppStream_1_1DescribeStacksResponsePrivate.html" title="Private implementation for DescribeStacksResponse. " alt="" coords="515,1197,709,1239"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1AppStream_1_1DisassociateFleetResponsePrivate.html" title="Private implementation for DisassociateFleetResponse. " alt="" coords="503,1263,721,1304"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1AppStream_1_1ExpireSessionResponsePrivate.html" title="Private implementation for ExpireSessionResponse. " alt="" coords="522,1328,702,1369"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1AppStream_1_1ListAssociatedFleetsResponsePrivate.html" title="Private implementation for ListAssociatedFleetsResponse. " alt="" coords="497,1393,727,1435"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1AppStream_1_1ListAssociatedStacksResponsePrivate.html" title="Private implementation for ListAssociatedStacksResponse. " alt="" coords="497,1459,727,1500"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1AppStream_1_1ListTagsForResourceResponsePrivate.html" title="Private implementation for ListTagsForResourceResponse. " alt="" coords="513,1524,711,1565"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1AppStream_1_1StartFleetResponsePrivate.html" title="Private implementation for StartFleetResponse. " alt="" coords="512,1589,712,1631"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1AppStream_1_1StartImageBuilderResponsePrivate.html" title="Private implementation for StartImageBuilderResponse. " alt="" coords="509,1655,715,1696"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1AppStream_1_1StopFleetResponsePrivate.html" title="Private implementation for StopFleetResponse. " alt="" coords="513,1720,711,1761"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1AppStream_1_1StopImageBuilderResponsePrivate.html" title="Private implementation for StopImageBuilderResponse. " alt="" coords="509,1785,715,1827"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1AppStream_1_1TagResourceResponsePrivate.html" title="Private implementation for TagResourceResponse. " alt="" coords="501,1851,723,1892"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1AppStream_1_1UntagResourceResponsePrivate.html" title="Private implementation for UntagResourceResponse. " alt="" coords="495,1916,729,1957"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1AppStream_1_1UpdateDirectoryConfigResponsePrivate.html" title="Private implementation for UpdateDirectoryConfigResponse. " alt="" coords="505,1981,719,2023"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1AppStream_1_1UpdateFleetResponsePrivate.html" title="Private implementation for UpdateFleetResponse. " alt="" coords="519,2047,705,2088"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1AppStream_1_1UpdateStackResponsePrivate.html" title="Private implementation for UpdateStackResponse. " alt="" coords="519,2112,705,2153"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,1067,187,1108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::GuardDuty::CreateMembersRequest" name="QtAws::GuardDuty::CreateMembersRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1GuardDuty_1_1GuardDutyRequest.html" title="Interface class for providing GuardDuty requests. " alt="" coords="5,95,209,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="17,5,198,47"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="QtAws::MachineLearning::MachineLearningRequestPrivate" name="QtAws::MachineLearning::MachineLearningRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MachineLearning_1_1AddTagsRequestPrivate.html" title="Private implementation for AddTagsRequest. " alt="" coords="539,5,711,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MachineLearning_1_1CreateBatchPredictionRequestPrivate.html" title="Private implementation for CreateBatchPredictionRequest. " alt="" coords="519,71,730,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromRDSRequestPrivate.html" title="Private implementation for CreateDataSourceFromRDSRequest. " alt="" coords="501,151,748,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromRedshiftRequestPrivate.html" title="Private implementation for CreateDataSourceFromRedshiftRequest. " alt="" coords="516,231,733,287"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromS3RequestPrivate.html" title="Private implementation for CreateDataSourceFromS3Request. " alt="" coords="508,311,741,367"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MachineLearning_1_1CreateEvaluationRequestPrivate.html" title="Private implementation for CreateEvaluationRequest. " alt="" coords="515,392,735,433"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MachineLearning_1_1CreateMLModelRequestPrivate.html" title="Private implementation for CreateMLModelRequest. " alt="" coords="519,457,731,499"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MachineLearning_1_1CreateRealtimeEndpointRequestPrivate.html" title="Private implementation for CreateRealtimeEndpointRequest. " alt="" coords="514,523,735,579"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MachineLearning_1_1DeleteBatchPredictionRequestPrivate.html" title="Private implementation for DeleteBatchPredictionRequest. " alt="" coords="520,603,729,659"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MachineLearning_1_1DeleteDataSourceRequestPrivate.html" title="Private implementation for DeleteDataSourceRequest. " alt="" coords="511,684,738,725"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MachineLearning_1_1DeleteEvaluationRequestPrivate.html" title="Private implementation for DeleteEvaluationRequest. " alt="" coords="515,749,734,791"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MachineLearning_1_1DeleteMLModelRequestPrivate.html" title="Private implementation for DeleteMLModelRequest. " alt="" coords="519,815,730,856"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MachineLearning_1_1DeleteRealtimeEndpointRequestPrivate.html" title="Private implementation for DeleteRealtimeEndpointRequest. " alt="" coords="515,881,735,937"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MachineLearning_1_1DeleteTagsRequestPrivate.html" title="Private implementation for DeleteTagsRequest. " alt="" coords="531,961,718,1003"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MachineLearning_1_1DescribeBatchPredictionsRequestPrivate.html" title="Private implementation for DescribeBatchPredictionsRequest. " alt="" coords="509,1027,740,1083"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MachineLearning_1_1DescribeDataSourcesRequestPrivate.html" title="Private implementation for DescribeDataSourcesRequest. " alt="" coords="521,1107,728,1163"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MachineLearning_1_1DescribeEvaluationsRequestPrivate.html" title="Private implementation for DescribeEvaluationsRequest. " alt="" coords="525,1187,724,1243"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1MachineLearning_1_1DescribeMLModelsRequestPrivate.html" title="Private implementation for DescribeMLModelsRequest. " alt="" coords="509,1268,741,1309"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1MachineLearning_1_1DescribeTagsRequestPrivate.html" title="Private implementation for DescribeTagsRequest. " alt="" coords="524,1333,725,1375"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1MachineLearning_1_1GetBatchPredictionRequestPrivate.html" title="Private implementation for GetBatchPredictionRequest. " alt="" coords="508,1399,741,1440"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1MachineLearning_1_1GetDataSourceRequestPrivate.html" title="Private implementation for GetDataSourceRequest. " alt="" coords="519,1464,730,1505"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1MachineLearning_1_1GetEvaluationRequestPrivate.html" title="Private implementation for GetEvaluationRequest. " alt="" coords="523,1529,726,1571"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1MachineLearning_1_1GetMLModelRequestPrivate.html" title="Private implementation for GetMLModelRequest. " alt="" coords="527,1595,722,1636"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1MachineLearning_1_1PredictRequestPrivate.html" title="Private implementation for PredictRequest. " alt="" coords="541,1660,709,1701"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1MachineLearning_1_1UpdateBatchPredictionRequestPrivate.html" title="Private implementation for UpdateBatchPredictionRequest. " alt="" coords="518,1726,731,1782"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1MachineLearning_1_1UpdateDataSourceRequestPrivate.html" title="Private implementation for UpdateDataSourceRequest. " alt="" coords="509,1807,740,1848"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1MachineLearning_1_1UpdateEvaluationRequestPrivate.html" title="Private implementation for UpdateEvaluationRequest. " alt="" coords="513,1872,736,1913"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1MachineLearning_1_1UpdateMLModelRequestPrivate.html" title="Private implementation for UpdateMLModelRequest. " alt="" coords="517,1937,732,1979"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,999,187,1040"/>
+</map>

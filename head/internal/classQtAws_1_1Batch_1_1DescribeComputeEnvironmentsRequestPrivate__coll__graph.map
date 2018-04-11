@@ -1,0 +1,5 @@
+<map id="QtAws::Batch::DescribeComputeEnvironmentsRequestPrivate" name="QtAws::Batch::DescribeComputeEnvironmentsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Batch_1_1BatchRequestPrivate.html" title="Private implementation for BatchRequest. " alt="" coords="17,109,211,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="171,5,353,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="235,109,417,151"/>
+</map>

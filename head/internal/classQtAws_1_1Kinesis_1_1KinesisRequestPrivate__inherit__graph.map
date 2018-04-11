@@ -1,0 +1,26 @@
+<map id="QtAws::Kinesis::KinesisRequestPrivate" name="QtAws::Kinesis::KinesisRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Kinesis_1_1AddTagsToStreamRequestPrivate.html" title="Private implementation for AddTagsToStreamRequest. " alt="" coords="513,5,701,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Kinesis_1_1CreateStreamRequestPrivate.html" title="Private implementation for CreateStreamRequest. " alt="" coords="506,71,709,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Kinesis_1_1DecreaseStreamRetentionPeriodRequestPrivate.html" title="Private implementation for DecreaseStreamRetentionPeriodRequest. " alt="" coords="504,137,711,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Kinesis_1_1DeleteStreamRequestPrivate.html" title="Private implementation for DeleteStreamRequest. " alt="" coords="507,217,708,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Kinesis_1_1DescribeLimitsRequestPrivate.html" title="Private implementation for DescribeLimitsRequest. " alt="" coords="521,283,694,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Kinesis_1_1DescribeStreamRequestPrivate.html" title="Private implementation for DescribeStreamRequest. " alt="" coords="521,348,694,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Kinesis_1_1DescribeStreamSummaryRequestPrivate.html" title="Private implementation for DescribeStreamSummaryRequest. " alt="" coords="502,413,713,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Kinesis_1_1DisableEnhancedMonitoringRequestPrivate.html" title="Private implementation for DisableEnhancedMonitoringRequest. " alt="" coords="496,479,719,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Kinesis_1_1EnableEnhancedMonitoringRequestPrivate.html" title="Private implementation for EnableEnhancedMonitoringRequest. " alt="" coords="498,544,717,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Kinesis_1_1GetRecordsRequestPrivate.html" title="Private implementation for GetRecordsRequest. " alt="" coords="512,609,703,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Kinesis_1_1GetShardIteratorRequestPrivate.html" title="Private implementation for GetShardIteratorRequest. " alt="" coords="519,675,695,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Kinesis_1_1IncreaseStreamRetentionPeriodRequestPrivate.html" title="Private implementation for IncreaseStreamRetentionPeriodRequest. " alt="" coords="504,741,711,797"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Kinesis_1_1ListShardsRequestPrivate.html" title="Private implementation for ListShardsRequest. " alt="" coords="516,821,699,863"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Kinesis_1_1ListStreamsRequestPrivate.html" title="Private implementation for ListStreamsRequest. " alt="" coords="512,887,703,928"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Kinesis_1_1ListTagsForStreamRequestPrivate.html" title="Private implementation for ListTagsForStreamRequest. " alt="" coords="521,952,694,993"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Kinesis_1_1MergeShardsRequestPrivate.html" title="Private implementation for MergeShardsRequest. " alt="" coords="508,1017,707,1059"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Kinesis_1_1PutRecordRequestPrivate.html" title="Private implementation for PutRecordRequest. " alt="" coords="516,1083,699,1124"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Kinesis_1_1PutRecordsRequestPrivate.html" title="Private implementation for PutRecordsRequest. " alt="" coords="512,1148,703,1189"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Kinesis_1_1RemoveTagsFromStreamRequestPrivate.html" title="Private implementation for RemoveTagsFromStreamRequest. " alt="" coords="508,1213,707,1255"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Kinesis_1_1SplitShardRequestPrivate.html" title="Private implementation for SplitShardRequest. " alt="" coords="517,1279,698,1320"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Kinesis_1_1StartStreamEncryptionRequestPrivate.html" title="Private implementation for StartStreamEncryptionRequest. " alt="" coords="512,1344,703,1385"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Kinesis_1_1StopStreamEncryptionRequestPrivate.html" title="Private implementation for StopStreamEncryptionRequest. " alt="" coords="512,1409,703,1451"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Kinesis_1_1UpdateShardCountRequestPrivate.html" title="Private implementation for UpdateShardCountRequest. " alt="" coords="509,1475,706,1516"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,748,187,789"/>
+</map>

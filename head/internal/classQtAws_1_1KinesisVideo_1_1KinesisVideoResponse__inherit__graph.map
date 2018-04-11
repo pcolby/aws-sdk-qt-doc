@@ -1,0 +1,13 @@
+<map id="QtAws::KinesisVideo::KinesisVideoResponse" name="QtAws::KinesisVideo::KinesisVideoResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideo_1_1CreateStreamResponse.html" title="Handles KinesisVideo CreateStream responses. " alt="" coords="589,5,759,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KinesisVideo_1_1DeleteStreamResponse.html" title="Handles KinesisVideo DeleteStream responses. " alt="" coords="589,71,759,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KinesisVideo_1_1DescribeStreamResponse.html" title="Handles KinesisVideo DescribeStream responses. " alt="" coords="583,136,765,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KinesisVideo_1_1GetDataEndpointResponse.html" title="Handles KinesisVideo GetDataEndpoint responses. " alt="" coords="579,201,769,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KinesisVideo_1_1ListStreamsResponse.html" title="Handles KinesisVideo ListStreams responses. " alt="" coords="595,267,753,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KinesisVideo_1_1ListTagsForStreamResponse.html" title="Handles KinesisVideo ListTagsForStream responses. " alt="" coords="574,332,774,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KinesisVideo_1_1TagStreamResponse.html" title="Handles KinesisVideo TagStream responses. " alt="" coords="597,397,751,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KinesisVideo_1_1UntagStreamResponse.html" title="Handles KinesisVideo UntagStream responses. " alt="" coords="591,463,757,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KinesisVideo_1_1UpdateDataRetentionResponse.html" title="Handles KinesisVideo UpdateDataRetention responses. " alt="" coords="567,528,781,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1KinesisVideo_1_1UpdateStreamResponse.html" title="Handles KinesisVideo UpdateStream responses. " alt="" coords="587,593,761,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,300,305,341"/>
+</map>

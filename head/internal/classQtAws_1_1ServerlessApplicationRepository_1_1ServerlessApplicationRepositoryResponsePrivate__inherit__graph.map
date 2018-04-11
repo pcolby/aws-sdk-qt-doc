@@ -1,0 +1,13 @@
+<map id="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryResponsePrivate" name="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationResponsePrivate.html" title="Private implementation for CreateApplicationResponse. " alt="" coords="503,5,758,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationVersionResponsePrivate.html" title="Private implementation for CreateApplicationVersionResponse. " alt="" coords="511,85,751,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateCloudFormationChangeSetResponsePrivate.html" title="Private implementation for CreateCloudFormationChangeSetResponse. " alt="" coords="519,165,743,221"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ServerlessApplicationRepository_1_1DeleteApplicationResponsePrivate.html" title="Private implementation for DeleteApplicationResponse. " alt="" coords="503,245,758,301"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationPolicyResponsePrivate.html" title="Private implementation for GetApplicationPolicyResponse. " alt="" coords="523,325,738,381"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationResponsePrivate.html" title="Private implementation for GetApplicationResponse. " alt="" coords="512,405,749,461"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationsResponsePrivate.html" title="Private implementation for ListApplicationsResponse. " alt="" coords="509,485,753,541"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationVersionsResponsePrivate.html" title="Private implementation for ListApplicationVersionsResponse. " alt="" coords="516,565,745,621"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ServerlessApplicationRepository_1_1PutApplicationPolicyResponsePrivate.html" title="Private implementation for PutApplicationPolicyResponse. " alt="" coords="524,645,737,701"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ServerlessApplicationRepository_1_1UpdateApplicationResponsePrivate.html" title="Private implementation for UpdateApplicationResponse. " alt="" coords="501,725,760,781"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,373,187,414"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="QtAws::MigrationHub::MigrationHubRequest" name="QtAws::MigrationHub::MigrationHubRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MigrationHub_1_1AssociateCreatedArtifactRequest.html" title="Implements MigrationHub AssociateCreatedArtifact requests. " alt="" coords="465,5,641,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MigrationHub_1_1AssociateDiscoveredResourceRequest.html" title="Implements MigrationHub AssociateDiscoveredResource requests. " alt="" coords="448,85,659,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MigrationHub_1_1CreateProgressUpdateStreamRequest.html" title="Implements MigrationHub CreateProgressUpdateStream requests. " alt="" coords="451,165,656,221"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MigrationHub_1_1DeleteProgressUpdateStreamRequest.html" title="Implements MigrationHub DeleteProgressUpdateStream requests. " alt="" coords="451,245,655,301"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MigrationHub_1_1DescribeApplicationStateRequest.html" title="Implements MigrationHub DescribeApplicationState requests. " alt="" coords="465,325,642,381"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MigrationHub_1_1DescribeMigrationTaskRequest.html" title="Implements MigrationHub DescribeMigrationTask requests. " alt="" coords="447,406,660,447"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MigrationHub_1_1DisassociateCreatedArtifactRequest.html" title="Implements MigrationHub DisassociateCreatedArtifact requests. " alt="" coords="456,472,651,528"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MigrationHub_1_1DisassociateDiscoveredResourceRequest.html" title="Implements MigrationHub DisassociateDiscoveredResource requests. " alt="" coords="439,552,667,608"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MigrationHub_1_1ImportMigrationTaskRequest.html" title="Implements MigrationHub ImportMigrationTask requests. " alt="" coords="454,633,653,674"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MigrationHub_1_1ListCreatedArtifactsRequest.html" title="Implements MigrationHub ListCreatedArtifacts requests. " alt="" coords="456,698,651,739"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MigrationHub_1_1ListDiscoveredResourcesRequest.html" title="Implements MigrationHub ListDiscoveredResources requests. " alt="" coords="439,763,668,805"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MigrationHub_1_1ListMigrationTasksRequest.html" title="Implements MigrationHub ListMigrationTasks requests. " alt="" coords="459,829,648,870"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MigrationHub_1_1ListProgressUpdateStreamsRequest.html" title="Implements MigrationHub ListProgressUpdateStreams requests. " alt="" coords="456,895,651,951"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MigrationHub_1_1NotifyApplicationStateRequest.html" title="Implements MigrationHub NotifyApplicationState requests. " alt="" coords="449,975,658,1017"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MigrationHub_1_1NotifyMigrationTaskStateRequest.html" title="Implements MigrationHub NotifyMigrationTaskState requests. " alt="" coords="464,1041,643,1097"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MigrationHub_1_1PutResourceAttributesRequest.html" title="Implements MigrationHub PutResourceAttributes requests. " alt="" coords="448,1122,659,1163"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,597,187,638"/>
+</map>

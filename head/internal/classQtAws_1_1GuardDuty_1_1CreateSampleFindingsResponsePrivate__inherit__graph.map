@@ -1,0 +1,4 @@
+<map id="QtAws::GuardDuty::CreateSampleFindingsResponsePrivate" name="QtAws::GuardDuty::CreateSampleFindingsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1GuardDuty_1_1GuardDutyResponsePrivate.html" title="Private implementation for GuardDutyResponse. " alt="" coords="11,95,215,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="22,5,203,47"/>
+</map>

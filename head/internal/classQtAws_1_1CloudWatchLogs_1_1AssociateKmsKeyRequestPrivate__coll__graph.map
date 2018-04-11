@@ -1,0 +1,5 @@
+<map id="QtAws::CloudWatchLogs::AssociateKmsKeyRequestPrivate" name="QtAws::CloudWatchLogs::AssociateKmsKeyRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatchLogs_1_1CloudWatchLogsRequestPrivate.html" title="Private implementation for CloudWatchLogsRequest. " alt="" coords="9,109,229,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="190,5,371,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="254,109,435,151"/>
+</map>

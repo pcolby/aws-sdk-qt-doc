@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::CreateInstanceSnapshotResponse" name="QtAws::Lightsail::CreateInstanceSnapshotResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailResponse.html" title="Handles Lightsail Lightsail responses. " alt="" coords="11,169,186,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="8,80,189,121"/>
+</map>

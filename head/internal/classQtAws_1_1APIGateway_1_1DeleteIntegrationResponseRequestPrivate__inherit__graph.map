@@ -1,0 +1,4 @@
+<map id="QtAws::APIGateway::DeleteIntegrationResponseRequestPrivate" name="QtAws::APIGateway::DeleteIntegrationResponseRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayRequestPrivate.html" title="Private implementation for APIGatewayRequest. " alt="" coords="27,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="29,5,211,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Firehose::ListDeliveryStreamsRequest" name="QtAws::Firehose::ListDeliveryStreamsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Firehose_1_1FirehoseRequest.html" title="Interface class for providing Firehose requests. " alt="" coords="15,95,193,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="13,5,195,47"/>
+</map>

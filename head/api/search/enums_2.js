@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['errorcode',['ErrorCode',['../classSqsError.html#ae1749929dec229427131dcd183b77877',1,'SqsError']]],
-  ['errortype',['ErrorType',['../classSqsError.html#ac47706a4c98c65c20b97f3f5ff1d01af',1,'SqsError']]]
+  ['errorcode',['ErrorCode',['../classQtAws_1_1SqsOld_1_1SqsError.html#acb1af77562adcb21d289e3785c15f841',1,'QtAws::SqsOld::SqsError']]],
+  ['errortype',['ErrorType',['../classQtAws_1_1SqsOld_1_1SqsError.html#aa0f93220ea8912d8b0ed5177b2342f48',1,'QtAws::SqsOld::SqsError']]]
 ];

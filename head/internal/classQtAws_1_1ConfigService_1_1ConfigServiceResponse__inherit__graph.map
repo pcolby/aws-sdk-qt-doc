@@ -1,0 +1,31 @@
+<map id="QtAws::ConfigService::ConfigServiceResponse" name="QtAws::ConfigService::ConfigServiceResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ConfigService_1_1BatchGetResourceConfigResponse.html" title="Handles ConfigService BatchGetResourceConfig responses. " alt="" coords="577,5,815,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ConfigService_1_1DeleteConfigRuleResponse.html" title="Handles ConfigService DeleteConfigRule responses. " alt="" coords="600,71,792,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ConfigService_1_1DeleteConfigurationRecorderResponse.html" title="Handles ConfigService DeleteConfigurationRecorder responses. " alt="" coords="597,137,795,193"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ConfigService_1_1DeleteDeliveryChannelResponse.html" title="Handles ConfigService DeleteDeliveryChannel responses. " alt="" coords="585,217,807,259"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ConfigService_1_1DeleteEvaluationResultsResponse.html" title="Handles ConfigService DeleteEvaluationResults responses. " alt="" coords="579,283,813,324"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ConfigService_1_1DeliverConfigSnapshotResponse.html" title="Handles ConfigService DeliverConfigSnapshot responses. " alt="" coords="585,348,807,389"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ConfigService_1_1DescribeComplianceByConfigRuleResponse.html" title="Handles ConfigService DescribeComplianceByConfigRule responses. " alt="" coords="593,414,799,470"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ConfigService_1_1DescribeComplianceByResourceResponse.html" title="Handles ConfigService DescribeComplianceByResource responses. " alt="" coords="585,494,807,550"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ConfigService_1_1DescribeConfigRuleEvaluationStatusResponse.html" title="Handles ConfigService DescribeConfigRuleEvaluationStatus responses. " alt="" coords="592,574,800,630"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ConfigService_1_1DescribeConfigRulesResponse.html" title="Handles ConfigService DescribeConfigRules responses. " alt="" coords="589,655,803,696"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ConfigService_1_1DescribeConfigurationRecordersResponse.html" title="Handles ConfigService DescribeConfigurationRecorders responses. " alt="" coords="587,721,805,777"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ConfigService_1_1DescribeConfigurationRecorderStatusResponse.html" title="Handles ConfigService DescribeConfigurationRecorderStatus responses. " alt="" coords="590,801,802,857"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ConfigService_1_1DescribeDeliveryChannelsResponse.html" title="Handles ConfigService DescribeDeliveryChannels responses. " alt="" coords="574,881,818,923"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ConfigService_1_1DescribeDeliveryChannelStatusResponse.html" title="Handles ConfigService DescribeDeliveryChannelStatus responses. " alt="" coords="588,947,804,1003"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ConfigService_1_1GetComplianceDetailsByConfigRuleResponse.html" title="Handles ConfigService GetComplianceDetailsByConfigRule responses. " alt="" coords="589,1027,803,1083"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ConfigService_1_1GetComplianceDetailsByResourceResponse.html" title="Handles ConfigService GetComplianceDetailsByResource responses. " alt="" coords="579,1107,813,1163"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ConfigService_1_1GetComplianceSummaryByConfigRuleResponse.html" title="Handles ConfigService GetComplianceSummaryByConfigRule responses. " alt="" coords="581,1187,811,1243"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ConfigService_1_1GetComplianceSummaryByResourceTypeResponse.html" title="Handles ConfigService GetComplianceSummaryByResourceType responses. " alt="" coords="572,1267,820,1323"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ConfigService_1_1GetDiscoveredResourceCountsResponse.html" title="Handles ConfigService GetDiscoveredResourceCounts responses. " alt="" coords="589,1347,803,1403"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ConfigService_1_1GetResourceConfigHistoryResponse.html" title="Handles ConfigService GetResourceConfigHistory responses. " alt="" coords="573,1428,819,1469"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ConfigService_1_1ListDiscoveredResourcesResponse.html" title="Handles ConfigService ListDiscoveredResources responses. " alt="" coords="577,1493,815,1535"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1ConfigService_1_1PutConfigRuleResponse.html" title="Handles ConfigService PutConfigRule responses. " alt="" coords="609,1559,783,1600"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1ConfigService_1_1PutConfigurationRecorderResponse.html" title="Handles ConfigService PutConfigurationRecorder responses. " alt="" coords="577,1624,815,1665"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1ConfigService_1_1PutDeliveryChannelResponse.html" title="Handles ConfigService PutDeliveryChannel responses. " alt="" coords="593,1689,799,1731"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1ConfigService_1_1PutEvaluationsResponse.html" title="Handles ConfigService PutEvaluations responses. " alt="" coords="607,1755,785,1796"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1ConfigService_1_1StartConfigRulesEvaluationResponse.html" title="Handles ConfigService StartConfigRulesEvaluation responses. " alt="" coords="601,1821,791,1877"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1ConfigService_1_1StartConfigurationRecorderResponse.html" title="Handles ConfigService StartConfigurationRecorder responses. " alt="" coords="602,1901,790,1957"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1ConfigService_1_1StopConfigurationRecorderResponse.html" title="Handles ConfigService StopConfigurationRecorder responses. " alt="" coords="603,1981,789,2037"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,995,305,1036"/>
+</map>

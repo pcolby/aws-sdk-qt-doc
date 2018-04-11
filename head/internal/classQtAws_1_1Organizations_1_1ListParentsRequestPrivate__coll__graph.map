@@ -1,0 +1,5 @@
+<map id="QtAws::Organizations::ListParentsRequestPrivate" name="QtAws::Organizations::ListParentsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Organizations_1_1OrganizationsRequestPrivate.html" title="Private implementation for OrganizationsRequest. " alt="" coords="5,109,205,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="165,5,347,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="229,109,411,151"/>
+</map>

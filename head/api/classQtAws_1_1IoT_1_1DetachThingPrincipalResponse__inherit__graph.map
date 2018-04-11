@@ -1,0 +1,4 @@
+<map id="QtAws::IoT::DetachThingPrincipalResponse" name="QtAws::IoT::DetachThingPrincipalResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoT_1_1IoTResponse.html" title="Handles IoT IoT responses. " alt="" coords="29,169,203,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="25,80,207,121"/>
+</map>

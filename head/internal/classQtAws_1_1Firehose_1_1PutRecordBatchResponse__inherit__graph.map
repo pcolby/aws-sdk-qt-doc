@@ -1,0 +1,4 @@
+<map id="QtAws::Firehose::PutRecordBatchResponse" name="QtAws::Firehose::PutRecordBatchResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Firehose_1_1FirehoseResponse.html" title="Handles Firehose Firehose responses. " alt="" coords="11,169,190,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="10,80,191,121"/>
+</map>

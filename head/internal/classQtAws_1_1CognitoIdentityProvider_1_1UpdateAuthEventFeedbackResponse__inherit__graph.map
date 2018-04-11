@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoIdentityProvider::UpdateAuthEventFeedbackResponse" name="QtAws::CognitoIdentityProvider::UpdateAuthEventFeedbackResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderResponse.html" title="Handles CognitoIdentityProvider CognitoIdentityProvider responses. " alt="" coords="17,169,243,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="39,80,221,121"/>
+</map>

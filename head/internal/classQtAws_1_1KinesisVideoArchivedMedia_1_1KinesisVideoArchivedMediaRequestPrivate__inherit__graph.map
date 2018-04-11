@@ -1,0 +1,5 @@
+<map id="QtAws::KinesisVideoArchivedMedia::KinesisVideoArchivedMediaRequestPrivate" name="QtAws::KinesisVideoArchivedMedia::KinesisVideoArchivedMediaRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisVideoArchivedMedia_1_1GetMediaForFragmentListRequestPrivate.html" title="Private implementation for GetMediaForFragmentListRequest. " alt="" coords="509,5,775,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideoArchivedMedia_1_1ListFragmentsRequestPrivate.html" title="Private implementation for ListFragmentsRequest. " alt="" coords="523,86,761,127"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,50,187,91"/>
+</map>

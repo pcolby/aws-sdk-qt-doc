@@ -1,0 +1,14 @@
+<map id="QtAws::Athena::AthenaRequest" name="QtAws::Athena::AthenaRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Athena_1_1BatchGetNamedQueryRequest.html" title="Implements Athena BatchGetNamedQuery requests. " alt="" coords="501,5,717,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Athena_1_1BatchGetQueryExecutionRequest.html" title="Implements Athena BatchGetQueryExecution requests. " alt="" coords="504,71,713,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Athena_1_1CreateNamedQueryRequest.html" title="Implements Athena CreateNamedQuery requests. " alt="" coords="509,136,709,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Athena_1_1DeleteNamedQueryRequest.html" title="Implements Athena DeleteNamedQuery requests. " alt="" coords="509,201,708,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Athena_1_1GetNamedQueryRequest.html" title="Implements Athena GetNamedQuery requests. " alt="" coords="500,267,717,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Athena_1_1GetQueryExecutionRequest.html" title="Implements Athena GetQueryExecution requests. " alt="" coords="492,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Athena_1_1GetQueryResultsRequest.html" title="Implements Athena GetQueryResults requests. " alt="" coords="499,397,719,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Athena_1_1ListNamedQueriesRequest.html" title="Implements Athena ListNamedQueries requests. " alt="" coords="517,463,700,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Athena_1_1ListQueryExecutionsRequest.html" title="Implements Athena ListQueryExecutions requests. " alt="" coords="521,528,696,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Athena_1_1StartQueryExecutionRequest.html" title="Implements Athena StartQueryExecution requests. " alt="" coords="517,593,700,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Athena_1_1StopQueryExecutionRequest.html" title="Implements Athena StopQueryExecution requests. " alt="" coords="518,659,699,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,332,187,373"/>
+</map>

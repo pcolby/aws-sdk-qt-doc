@@ -1,0 +1,4 @@
+<map id="QtAws::SNS::GetSubscriptionAttributesRequest" name="QtAws::SNS::GetSubscriptionAttributesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSRequest.html" title="Interface class for providing SNS requests. " alt="" coords="13,95,196,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

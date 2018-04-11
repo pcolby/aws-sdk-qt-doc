@@ -1,0 +1,4 @@
+<map id="QtAws::Comprehend::DescribeTopicsDetectionJobResponse" name="QtAws::Comprehend::DescribeTopicsDetectionJobResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Comprehend_1_1ComprehendResponse.html" title="Handles Comprehend Comprehend responses. " alt="" coords="23,169,178,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="10,80,191,121"/>
+</map>

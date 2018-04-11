@@ -1,0 +1,44 @@
+<map id="QtAws::CloudFormation::CloudFormationRequest" name="QtAws::CloudFormation::CloudFormationRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudFormation_1_1CancelUpdateStackRequest.html" title="Implements CloudFormation CancelUpdateStack requests. " alt="" coords="469,5,665,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudFormation_1_1ContinueUpdateRollbackRequest.html" title="Implements CloudFormation ContinueUpdateRollback requests. " alt="" coords="455,71,679,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudFormation_1_1CreateChangeSetRequest.html" title="Implements CloudFormation CreateChangeSet requests. " alt="" coords="476,136,659,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudFormation_1_1CreateStackInstancesRequest.html" title="Implements CloudFormation CreateStackInstances requests. " alt="" coords="463,201,672,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudFormation_1_1CreateStackRequest.html" title="Implements CloudFormation CreateStack requests. " alt="" coords="486,267,649,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudFormation_1_1CreateStackSetRequest.html" title="Implements CloudFormation CreateStackSet requests. " alt="" coords="481,332,653,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudFormation_1_1DeleteChangeSetRequest.html" title="Implements CloudFormation DeleteChangeSet requests. " alt="" coords="476,397,659,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudFormation_1_1DeleteStackInstancesRequest.html" title="Implements CloudFormation DeleteStackInstances requests. " alt="" coords="463,463,671,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudFormation_1_1DeleteStackRequest.html" title="Implements CloudFormation DeleteStack requests. " alt="" coords="486,528,649,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudFormation_1_1DeleteStackSetRequest.html" title="Implements CloudFormation DeleteStackSet requests. " alt="" coords="482,593,653,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudFormation_1_1DescribeAccountLimitsRequest.html" title="Implements CloudFormation DescribeAccountLimits requests. " alt="" coords="460,659,675,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudFormation_1_1DescribeChangeSetRequest.html" title="Implements CloudFormation DescribeChangeSet requests. " alt="" coords="469,724,665,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudFormation_1_1DescribeStackEventsRequest.html" title="Implements CloudFormation DescribeStackEvents requests. " alt="" coords="464,789,671,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudFormation_1_1DescribeStackInstanceRequest.html" title="Implements CloudFormation DescribeStackInstance requests. " alt="" coords="460,855,675,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudFormation_1_1DescribeStackResourceRequest.html" title="Implements CloudFormation DescribeStackResource requests. " alt="" coords="457,920,678,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudFormation_1_1DescribeStackResourcesRequest.html" title="Implements CloudFormation DescribeStackResources requests. " alt="" coords="453,985,681,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudFormation_1_1DescribeStackSetOperationRequest.html" title="Implements CloudFormation DescribeStackSetOperation requests. " alt="" coords="471,1051,663,1107"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudFormation_1_1DescribeStackSetRequest.html" title="Implements CloudFormation DescribeStackSet requests. " alt="" coords="475,1132,660,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudFormation_1_1DescribeStacksRequest.html" title="Implements CloudFormation DescribeStacks requests. " alt="" coords="481,1197,653,1239"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudFormation_1_1EstimateTemplateCostRequest.html" title="Implements CloudFormation EstimateTemplateCost requests. " alt="" coords="461,1263,674,1304"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudFormation_1_1ExecuteChangeSetRequest.html" title="Implements CloudFormation ExecuteChangeSet requests. " alt="" coords="471,1328,663,1369"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudFormation_1_1GetStackPolicyRequest.html" title="Implements CloudFormation GetStackPolicy requests. " alt="" coords="482,1393,653,1435"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudFormation_1_1GetTemplateRequest.html" title="Implements CloudFormation GetTemplate requests. " alt="" coords="486,1459,649,1500"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudFormation_1_1GetTemplateSummaryRequest.html" title="Implements CloudFormation GetTemplateSummary requests. " alt="" coords="462,1524,673,1565"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudFormation_1_1ListChangeSetsRequest.html" title="Implements CloudFormation ListChangeSets requests. " alt="" coords="481,1589,653,1631"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudFormation_1_1ListExportsRequest.html" title="Implements CloudFormation ListExports requests. " alt="" coords="486,1655,649,1696"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudFormation_1_1ListImportsRequest.html" title="Implements CloudFormation ListImports requests. " alt="" coords="486,1720,649,1761"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudFormation_1_1ListStackInstancesRequest.html" title="Implements CloudFormation ListStackInstances requests. " alt="" coords="472,1785,663,1827"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1CloudFormation_1_1ListStackResourcesRequest.html" title="Implements CloudFormation ListStackResources requests. " alt="" coords="469,1851,666,1892"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1CloudFormation_1_1ListStackSetOperationResultsRequest.html" title="Implements CloudFormation ListStackSetOperationResults requests. " alt="" coords="464,1917,671,1973"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1CloudFormation_1_1ListStackSetOperationsRequest.html" title="Implements CloudFormation ListStackSetOperations requests. " alt="" coords="459,1997,676,2039"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1CloudFormation_1_1ListStackSetsRequest.html" title="Implements CloudFormation ListStackSets requests. " alt="" coords="486,2063,649,2104"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1CloudFormation_1_1ListStacksRequest.html" title="Implements CloudFormation ListStacks requests. " alt="" coords="486,2128,649,2169"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1CloudFormation_1_1SetStackPolicyRequest.html" title="Implements CloudFormation SetStackPolicy requests. " alt="" coords="483,2193,652,2235"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1CloudFormation_1_1SignalResourceRequest.html" title="Implements CloudFormation SignalResource requests. " alt="" coords="482,2259,653,2300"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1CloudFormation_1_1StopStackSetOperationRequest.html" title="Implements CloudFormation StopStackSetOperation requests. " alt="" coords="459,2324,675,2365"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1CloudFormation_1_1UpdateStackInstancesRequest.html" title="Implements CloudFormation UpdateStackInstances requests. " alt="" coords="461,2389,673,2431"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1CloudFormation_1_1UpdateStackRequest.html" title="Implements CloudFormation UpdateStack requests. " alt="" coords="486,2455,649,2496"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1CloudFormation_1_1UpdateStackSetRequest.html" title="Implements CloudFormation UpdateStackSet requests. " alt="" coords="480,2520,655,2561"/>
+<area shape="rect" id="node42" href="$classQtAws_1_1CloudFormation_1_1UpdateTerminationProtectionRequest.html" title="Implements CloudFormation UpdateTerminationProtection requests. " alt="" coords="468,2586,667,2642"/>
+<area shape="rect" id="node43" href="$classQtAws_1_1CloudFormation_1_1ValidateTemplateRequest.html" title="Implements CloudFormation ValidateTemplate requests. " alt="" coords="477,2667,657,2708"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1328,187,1369"/>
+</map>

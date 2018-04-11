@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::CreateInstanceSnapshotRequestPrivate" name="QtAws::Lightsail::CreateInstanceSnapshotRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailRequestPrivate.html" title="Private implementation for LightsailRequest. " alt="" coords="27,95,201,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="23,5,205,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::IoT::DisableTopicRuleRequest" name="QtAws::IoT::DisableTopicRuleRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoT_1_1IoTRequest.html" title="Interface class for providing IoT requests. " alt="" coords="9,117,175,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="135,5,316,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="199,109,380,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::APIGateway::DeleteDocumentationVersionRequest" name="QtAws::APIGateway::DeleteDocumentationVersionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayRequest.html" title="Interface class for providing APIGateway requests. " alt="" coords="25,109,177,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="137,5,319,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="201,109,383,151"/>
+</map>

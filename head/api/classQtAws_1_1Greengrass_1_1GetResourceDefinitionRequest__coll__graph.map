@@ -1,0 +1,4 @@
+<map id="QtAws::Greengrass::GetResourceDefinitionRequest" name="QtAws::Greengrass::GetResourceDefinitionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassRequest.html" title="Interface class for providing Greengrass requests. " alt="" coords="34,95,179,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="16,5,197,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::SWF::RegisterDomainRequest" name="QtAws::SWF::RegisterDomainRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SWF_1_1SWFRequest.html" title="Interface class for providing SWF requests. " alt="" coords="13,117,200,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="160,5,341,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="224,109,405,151"/>
+</map>

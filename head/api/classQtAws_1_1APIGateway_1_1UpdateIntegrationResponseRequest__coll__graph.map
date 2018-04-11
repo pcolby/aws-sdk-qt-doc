@@ -1,0 +1,4 @@
+<map id="QtAws::APIGateway::UpdateIntegrationResponseRequest" name="QtAws::APIGateway::UpdateIntegrationResponseRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayRequest.html" title="Interface class for providing APIGateway requests. " alt="" coords="46,95,198,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,213,47"/>
+</map>

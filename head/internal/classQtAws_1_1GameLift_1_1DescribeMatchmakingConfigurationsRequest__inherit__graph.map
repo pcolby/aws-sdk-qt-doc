@@ -1,0 +1,4 @@
+<map id="QtAws::GameLift::DescribeMatchmakingConfigurationsRequest" name="QtAws::GameLift::DescribeMatchmakingConfigurationsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftRequest.html" title="Interface class for providing GameLift requests. " alt="" coords="30,95,214,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,213,47"/>
+</map>

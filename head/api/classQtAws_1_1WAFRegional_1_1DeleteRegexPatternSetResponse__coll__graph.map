@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::DeleteRegexPatternSetResponse" name="QtAws::WAFRegional::DeleteRegexPatternSetResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalResponse.html" title="Handles WAFRegional WAFRegional responses. " alt="" coords="33,169,204,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="28,80,209,121"/>
+</map>

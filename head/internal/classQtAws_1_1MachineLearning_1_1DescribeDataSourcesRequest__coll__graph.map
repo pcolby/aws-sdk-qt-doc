@@ -1,0 +1,5 @@
+<map id="QtAws::MachineLearning::DescribeDataSourcesRequest" name="QtAws::MachineLearning::DescribeDataSourcesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MachineLearning_1_1MachineLearningRequest.html" title="Interface class for providing MachineLearning requests. " alt="" coords="20,109,197,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="158,5,339,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="222,109,403,151"/>
+</map>

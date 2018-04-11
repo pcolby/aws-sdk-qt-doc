@@ -1,0 +1,9 @@
+<map id="QtAws::Health::HealthRequestPrivate" name="QtAws::Health::HealthRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Health_1_1DescribeAffectedEntitiesRequestPrivate.html" title="Private implementation for DescribeAffectedEntitiesRequest. " alt="" coords="485,5,703,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Health_1_1DescribeEntityAggregatesRequestPrivate.html" title="Private implementation for DescribeEntityAggregatesRequest. " alt="" coords="493,71,695,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Health_1_1DescribeEventAggregatesRequestPrivate.html" title="Private implementation for DescribeEventAggregatesRequest. " alt="" coords="493,136,695,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Health_1_1DescribeEventDetailsRequestPrivate.html" title="Private implementation for DescribeEventDetailsRequest. " alt="" coords="493,201,695,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Health_1_1DescribeEventsRequestPrivate.html" title="Private implementation for DescribeEventsRequest. " alt="" coords="489,267,699,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Health_1_1DescribeEventTypesRequestPrivate.html" title="Private implementation for DescribeEventTypesRequest. " alt="" coords="493,332,695,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,169,187,211"/>
+</map>

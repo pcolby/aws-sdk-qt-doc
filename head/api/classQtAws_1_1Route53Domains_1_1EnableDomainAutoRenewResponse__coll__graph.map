@@ -1,0 +1,4 @@
+<map id="QtAws::Route53Domains::EnableDomainAutoRenewResponse" name="QtAws::Route53Domains::EnableDomainAutoRenewResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsResponse.html" title="Handles Route53Domains Route53Domains responses. " alt="" coords="31,169,222,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="36,80,217,121"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QtAws::MediaStore::MediaStoreRequestPrivate" name="QtAws::MediaStore::MediaStoreRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStore_1_1CreateContainerRequestPrivate.html" title="Private implementation for CreateContainerRequest. " alt="" coords="471,5,677,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStore_1_1DeleteContainerPolicyRequestPrivate.html" title="Private implementation for DeleteContainerPolicyRequest. " alt="" coords="473,71,675,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStore_1_1DeleteContainerRequestPrivate.html" title="Private implementation for DeleteContainerRequest. " alt="" coords="471,152,677,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStore_1_1DeleteCorsPolicyRequestPrivate.html" title="Private implementation for DeleteCorsPolicyRequest. " alt="" coords="467,217,681,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStore_1_1DescribeContainerRequestPrivate.html" title="Private implementation for DescribeContainerRequest. " alt="" coords="464,283,684,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaStore_1_1GetContainerPolicyRequestPrivate.html" title="Private implementation for GetContainerPolicyRequest. " alt="" coords="461,348,687,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaStore_1_1GetCorsPolicyRequestPrivate.html" title="Private implementation for GetCorsPolicyRequest. " alt="" coords="475,413,673,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaStore_1_1ListContainersRequestPrivate.html" title="Private implementation for ListContainersRequest. " alt="" coords="476,479,672,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaStore_1_1PutContainerPolicyRequestPrivate.html" title="Private implementation for PutContainerPolicyRequest. " alt="" coords="462,544,686,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaStore_1_1PutCorsPolicyRequestPrivate.html" title="Private implementation for PutCorsPolicyRequest. " alt="" coords="476,609,672,651"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,316,187,357"/>
+</map>

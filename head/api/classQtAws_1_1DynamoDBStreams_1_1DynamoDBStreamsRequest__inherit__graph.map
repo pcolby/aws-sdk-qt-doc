@@ -1,0 +1,7 @@
+<map id="QtAws::DynamoDBStreams::DynamoDBStreamsRequest" name="QtAws::DynamoDBStreams::DynamoDBStreamsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1DynamoDBStreams_1_1DescribeStreamRequest.html" title="Implements DynamoDBStreams DescribeStream requests. " alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DynamoDBStreams_1_1GetRecordsRequest.html" title="Implements DynamoDBStreams GetRecords requests. " alt="" coords="479,71,665,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DynamoDBStreams_1_1GetShardIteratorRequest.html" title="Implements DynamoDBStreams GetShardIterator requests. " alt="" coords="479,136,665,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DynamoDBStreams_1_1ListStreamsRequest.html" title="Implements DynamoDBStreams ListStreams requests. " alt="" coords="479,201,665,243"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,104,187,145"/>
+</map>

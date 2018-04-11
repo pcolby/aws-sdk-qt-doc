@@ -1,0 +1,4 @@
+<map id="QtAws::Inspector::DescribeAssessmentTemplatesRequest" name="QtAws::Inspector::DescribeAssessmentTemplatesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Inspector_1_1InspectorRequest.html" title="Interface class for providing Inspector requests. " alt="" coords="15,95,201,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="17,5,199,47"/>
+</map>

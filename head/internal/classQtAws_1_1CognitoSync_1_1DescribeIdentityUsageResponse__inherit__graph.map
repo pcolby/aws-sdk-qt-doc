@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoSync::DescribeIdentityUsageResponse" name="QtAws::CognitoSync::DescribeIdentityUsageResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoSync_1_1CognitoSyncResponse.html" title="Handles CognitoSync CognitoSync responses. " alt="" coords="35,169,199,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

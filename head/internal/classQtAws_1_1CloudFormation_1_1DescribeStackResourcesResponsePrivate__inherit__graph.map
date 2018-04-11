@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFormation::DescribeStackResourcesResponsePrivate" name="QtAws::CloudFormation::DescribeStackResourcesResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationResponsePrivate.html" title="Private implementation for CloudFormationResponse. " alt="" coords="13,95,236,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="34,5,215,47"/>
+</map>

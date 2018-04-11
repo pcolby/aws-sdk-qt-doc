@@ -1,0 +1,4 @@
+<map id="QtAws::OpsWorks::DescribeLoadBasedAutoScalingResponse" name="QtAws::OpsWorks::DescribeLoadBasedAutoScalingResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksResponse.html" title="Handles OpsWorks OpsWorks responses. " alt="" coords="12,169,215,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="23,80,204,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticLoadBalancing::CreateAppCookieStickinessPolicyResponse" name="QtAws::ElasticLoadBalancing::CreateAppCookieStickinessPolicyResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticLoadBalancing_1_1ElasticLoadBalancingResponse.html" title="Handles ElasticLoadBalancing ElasticLoadBalancing responses. " alt="" coords="13,169,228,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="30,80,211,121"/>
+</map>

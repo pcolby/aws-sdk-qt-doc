@@ -1,0 +1,4 @@
+<map id="QtAws::Redshift::ResetClusterParameterGroupRequest" name="QtAws::Redshift::ResetClusterParameterGroupRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Redshift_1_1RedshiftRequest.html" title="Interface class for providing Redshift requests. " alt="" coords="19,95,195,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="17,5,198,47"/>
+</map>

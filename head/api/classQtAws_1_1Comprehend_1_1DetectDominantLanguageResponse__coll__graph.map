@@ -1,0 +1,4 @@
+<map id="QtAws::Comprehend::DetectDominantLanguageResponse" name="QtAws::Comprehend::DetectDominantLanguageResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Comprehend_1_1ComprehendResponse.html" title="Handles Comprehend Comprehend responses. " alt="" coords="44,169,199,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="31,80,212,121"/>
+</map>

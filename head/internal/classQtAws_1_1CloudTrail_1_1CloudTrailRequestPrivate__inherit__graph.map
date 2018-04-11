@@ -1,0 +1,17 @@
+<map id="QtAws::CloudTrail::CloudTrailRequestPrivate" name="QtAws::CloudTrail::CloudTrailRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudTrail_1_1AddTagsRequestPrivate.html" title="Private implementation for AddTagsRequest. " alt="" coords="483,5,647,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudTrail_1_1CreateTrailRequestPrivate.html" title="Private implementation for CreateTrailRequest. " alt="" coords="477,71,653,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudTrail_1_1DeleteTrailRequestPrivate.html" title="Private implementation for DeleteTrailRequest. " alt="" coords="477,136,652,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudTrail_1_1DescribeTrailsRequestPrivate.html" title="Private implementation for DescribeTrailsRequest. " alt="" coords="467,201,663,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudTrail_1_1GetEventSelectorsRequestPrivate.html" title="Private implementation for GetEventSelectorsRequest. " alt="" coords="453,267,676,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudTrail_1_1GetTrailStatusRequestPrivate.html" title="Private implementation for GetTrailStatusRequest. " alt="" coords="467,332,663,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudTrail_1_1ListPublicKeysRequestPrivate.html" title="Private implementation for ListPublicKeysRequest. " alt="" coords="465,397,664,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudTrail_1_1ListTagsRequestPrivate.html" title="Private implementation for ListTagsRequest. " alt="" coords="483,463,646,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudTrail_1_1LookupEventsRequestPrivate.html" title="Private implementation for LookupEventsRequest. " alt="" coords="467,528,662,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudTrail_1_1PutEventSelectorsRequestPrivate.html" title="Private implementation for PutEventSelectorsRequest. " alt="" coords="454,593,675,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudTrail_1_1RemoveTagsRequestPrivate.html" title="Private implementation for RemoveTagsRequest. " alt="" coords="469,659,660,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudTrail_1_1StartLoggingRequestPrivate.html" title="Private implementation for StartLoggingRequest. " alt="" coords="472,724,657,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudTrail_1_1StopLoggingRequestPrivate.html" title="Private implementation for StopLoggingRequest. " alt="" coords="473,789,657,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudTrail_1_1UpdateTrailRequestPrivate.html" title="Private implementation for UpdateTrailRequest. " alt="" coords="475,855,654,896"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,431,187,472"/>
+</map>

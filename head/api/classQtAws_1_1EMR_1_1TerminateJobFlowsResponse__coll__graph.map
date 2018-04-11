@@ -1,0 +1,4 @@
+<map id="QtAws::EMR::TerminateJobFlowsResponse" name="QtAws::EMR::TerminateJobFlowsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EMR_1_1EMRResponse.html" title="Handles EMR EMR responses. " alt="" coords="5,169,203,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="13,80,195,121"/>
+</map>

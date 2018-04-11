@@ -1,0 +1,4 @@
+<map id="QtAws::ConfigService::GetComplianceSummaryByResourceTypeRequest" name="QtAws::ConfigService::GetComplianceSummaryByResourceTypeRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ConfigService_1_1ConfigServiceRequest.html" title="Interface class for providing ConfigService requests. " alt="" coords="49,95,210,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="39,5,220,47"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="QtAws::WorkMail::WorkMailResponse" name="QtAws::WorkMail::WorkMailResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1WorkMail_1_1AssociateDelegateToResourceResponse.html" title="Handles WorkMail AssociateDelegateToResource responses. " alt="" coords="605,5,809,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1WorkMail_1_1AssociateMemberToGroupResponse.html" title="Handles WorkMail AssociateMemberToGroup responses. " alt="" coords="611,71,802,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1WorkMail_1_1CreateAliasResponse.html" title="Handles WorkMail CreateAlias responses. " alt="" coords="606,136,807,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1WorkMail_1_1CreateGroupResponse.html" title="Handles WorkMail CreateGroup responses. " alt="" coords="603,201,810,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1WorkMail_1_1CreateResourceResponse.html" title="Handles WorkMail CreateResource responses. " alt="" coords="593,267,821,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1WorkMail_1_1CreateUserResponse.html" title="Handles WorkMail CreateUser responses. " alt="" coords="607,332,807,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1WorkMail_1_1DeleteAliasResponse.html" title="Handles WorkMail DeleteAlias responses. " alt="" coords="607,397,807,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1WorkMail_1_1DeleteGroupResponse.html" title="Handles WorkMail DeleteGroup responses. " alt="" coords="603,463,810,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1WorkMail_1_1DeleteResourceResponse.html" title="Handles WorkMail DeleteResource responses. " alt="" coords="593,528,820,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1WorkMail_1_1DeleteUserResponse.html" title="Handles WorkMail DeleteUser responses. " alt="" coords="607,593,806,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1WorkMail_1_1DeregisterFromWorkMailResponse.html" title="Handles WorkMail DeregisterFromWorkMail responses. " alt="" coords="610,659,803,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1WorkMail_1_1DescribeGroupResponse.html" title="Handles WorkMail DescribeGroup responses. " alt="" coords="614,724,799,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1WorkMail_1_1DescribeOrganizationResponse.html" title="Handles WorkMail DescribeOrganization responses. " alt="" coords="614,789,799,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1WorkMail_1_1DescribeResourceResponse.html" title="Handles WorkMail DescribeResource responses. " alt="" coords="614,855,799,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1WorkMail_1_1DescribeUserResponse.html" title="Handles WorkMail DescribeUser responses. " alt="" coords="614,920,799,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1WorkMail_1_1DisassociateDelegateFromResourceResponse.html" title="Handles WorkMail DisassociateDelegateFromResource responses. " alt="" coords="597,985,816,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1WorkMail_1_1DisassociateMemberFromGroupResponse.html" title="Handles WorkMail DisassociateMemberFromGroup responses. " alt="" coords="602,1051,811,1092"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1WorkMail_1_1ListAliasesResponse.html" title="Handles WorkMail ListAliases responses. " alt="" coords="608,1116,805,1157"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1WorkMail_1_1ListGroupMembersResponse.html" title="Handles WorkMail ListGroupMembers responses. " alt="" coords="612,1181,801,1223"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1WorkMail_1_1ListGroupsResponse.html" title="Handles WorkMail ListGroups responses. " alt="" coords="609,1247,805,1288"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1WorkMail_1_1ListOrganizationsResponse.html" title="Handles WorkMail ListOrganizations responses. " alt="" coords="589,1312,824,1353"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1WorkMail_1_1ListResourceDelegatesResponse.html" title="Handles WorkMail ListResourceDelegates responses. " alt="" coords="601,1377,812,1419"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1WorkMail_1_1ListResourcesResponse.html" title="Handles WorkMail ListResources responses. " alt="" coords="598,1443,815,1484"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1WorkMail_1_1ListUsersResponse.html" title="Handles WorkMail ListUsers responses. " alt="" coords="612,1508,801,1549"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1WorkMail_1_1RegisterToWorkMailResponse.html" title="Handles WorkMail RegisterToWorkMail responses. " alt="" coords="615,1573,798,1615"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1WorkMail_1_1ResetPasswordResponse.html" title="Handles WorkMail ResetPassword responses. " alt="" coords="593,1639,820,1680"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1WorkMail_1_1UpdatePrimaryEmailAddressResponse.html" title="Handles WorkMail UpdatePrimaryEmailAddress responses. " alt="" coords="597,1704,817,1745"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1WorkMail_1_1UpdateResourceResponse.html" title="Handles WorkMail UpdateResource responses. " alt="" coords="591,1769,822,1811"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,888,305,929"/>
+</map>

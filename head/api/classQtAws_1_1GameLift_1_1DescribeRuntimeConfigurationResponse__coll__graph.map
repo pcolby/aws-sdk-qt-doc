@@ -1,0 +1,4 @@
+<map id="QtAws::GameLift::DescribeRuntimeConfigurationResponse" name="QtAws::GameLift::DescribeRuntimeConfigurationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftResponse.html" title="Handles GameLift GameLift responses. " alt="" coords="17,169,201,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="18,80,199,121"/>
+</map>

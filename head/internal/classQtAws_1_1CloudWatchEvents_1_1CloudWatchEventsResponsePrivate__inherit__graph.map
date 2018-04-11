@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatchEvents::CloudWatchEventsResponsePrivate" name="QtAws::CloudWatchEvents::CloudWatchEventsResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatchEvents_1_1DeleteRuleResponsePrivate.html" title="Private implementation for DeleteRuleResponse. " alt="" coords="550,5,745,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeEventBusResponsePrivate.html" title="Private implementation for DescribeEventBusResponse. " alt="" coords="528,71,767,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeRuleResponsePrivate.html" title="Private implementation for DescribeRuleResponse. " alt="" coords="543,136,752,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatchEvents_1_1DisableRuleResponsePrivate.html" title="Private implementation for DisableRuleResponse. " alt="" coords="547,201,748,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatchEvents_1_1EnableRuleResponsePrivate.html" title="Private implementation for EnableRuleResponse. " alt="" coords="549,267,746,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatchEvents_1_1ListRuleNamesByTargetResponsePrivate.html" title="Private implementation for ListRuleNamesByTargetResponse. " alt="" coords="531,333,763,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatchEvents_1_1ListRulesResponsePrivate.html" title="Private implementation for ListRulesResponse. " alt="" coords="555,413,740,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatchEvents_1_1ListTargetsByRuleResponsePrivate.html" title="Private implementation for ListTargetsByRuleResponse. " alt="" coords="528,479,767,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatchEvents_1_1PutEventsResponsePrivate.html" title="Private implementation for PutEventsResponse. " alt="" coords="552,544,743,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatchEvents_1_1PutPermissionResponsePrivate.html" title="Private implementation for PutPermissionResponse. " alt="" coords="540,609,755,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatchEvents_1_1PutRuleResponsePrivate.html" title="Private implementation for PutRuleResponse. " alt="" coords="556,675,739,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatchEvents_1_1PutTargetsResponsePrivate.html" title="Private implementation for PutTargetsResponse. " alt="" coords="550,740,745,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatchEvents_1_1RemovePermissionResponsePrivate.html" title="Private implementation for RemovePermissionResponse. " alt="" coords="525,805,769,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatchEvents_1_1RemoveTargetsResponsePrivate.html" title="Private implementation for RemoveTargetsResponse. " alt="" coords="536,871,759,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatchEvents_1_1TestEventPatternResponsePrivate.html" title="Private implementation for TestEventPatternResponse. " alt="" coords="531,936,763,977"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,479,187,520"/>
+</map>

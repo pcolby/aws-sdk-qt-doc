@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoIdentityProvider::AdminListGroupsForUserResponse" name="QtAws::CognitoIdentityProvider::AdminListGroupsForUserResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderResponse.html" title="Handles CognitoIdentityProvider CognitoIdentityProvider responses. " alt="" coords="11,169,236,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="33,80,214,121"/>
+</map>

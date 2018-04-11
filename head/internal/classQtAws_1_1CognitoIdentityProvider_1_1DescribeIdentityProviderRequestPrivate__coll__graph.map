@@ -1,0 +1,5 @@
+<map id="QtAws::CognitoIdentityProvider::DescribeIdentityProviderRequestPrivate" name="QtAws::CognitoIdentityProvider::DescribeIdentityProviderRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderRequestPrivate.html" title="Private implementation for CognitoIdentityProviderRequest. " alt="" coords="9,109,265,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="225,5,406,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="289,109,470,151"/>
+</map>

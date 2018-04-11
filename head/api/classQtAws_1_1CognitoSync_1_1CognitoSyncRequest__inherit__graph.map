@@ -1,0 +1,20 @@
+<map id="QtAws::CognitoSync::CognitoSyncRequest" name="QtAws::CognitoSync::CognitoSyncRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CognitoSync_1_1BulkPublishRequest.html" title="Implements CognitoSync BulkPublish requests. " alt="" coords="477,5,625,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoSync_1_1DeleteDatasetRequest.html" title="Implements CognitoSync DeleteDataset requests. " alt="" coords="470,71,633,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoSync_1_1DescribeDatasetRequest.html" title="Implements CognitoSync DescribeDataset requests. " alt="" coords="463,136,640,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityPoolUsageRequest.html" title="Implements CognitoSync DescribeIdentityPoolUsage requests. " alt="" coords="457,202,646,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityUsageRequest.html" title="Implements CognitoSync DescribeIdentityUsage requests. " alt="" coords="445,283,657,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoSync_1_1GetBulkPublishDetailsRequest.html" title="Implements CognitoSync GetBulkPublishDetails requests. " alt="" coords="446,348,657,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoSync_1_1GetCognitoEventsRequest.html" title="Implements CognitoSync GetCognitoEvents requests. " alt="" coords="458,413,645,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoSync_1_1GetIdentityPoolConfigurationRequest.html" title="Implements CognitoSync GetIdentityPoolConfiguration requests. " alt="" coords="453,479,650,535"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoSync_1_1ListDatasetsRequest.html" title="Implements CognitoSync ListDatasets requests. " alt="" coords="475,560,628,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoSync_1_1ListIdentityPoolUsageRequest.html" title="Implements CognitoSync ListIdentityPoolUsage requests. " alt="" coords="448,625,655,667"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoSync_1_1ListRecordsRequest.html" title="Implements CognitoSync ListRecords requests. " alt="" coords="477,691,626,732"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoSync_1_1RegisterDeviceRequest.html" title="Implements CognitoSync RegisterDevice requests. " alt="" coords="467,756,636,797"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoSync_1_1SetCognitoEventsRequest.html" title="Implements CognitoSync SetCognitoEvents requests. " alt="" coords="459,821,644,863"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoSync_1_1SetIdentityPoolConfigurationRequest.html" title="Implements CognitoSync SetIdentityPoolConfiguration requests. " alt="" coords="453,887,649,943"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoSync_1_1SubscribeToDatasetRequest.html" title="Implements CognitoSync SubscribeToDataset requests. " alt="" coords="452,968,651,1009"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoSync_1_1UnsubscribeFromDatasetRequest.html" title="Implements CognitoSync UnsubscribeFromDataset requests. " alt="" coords="437,1033,665,1075"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoSync_1_1UpdateRecordsRequest.html" title="Implements CognitoSync UpdateRecords requests. " alt="" coords="466,1099,637,1140"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,560,187,601"/>
+</map>

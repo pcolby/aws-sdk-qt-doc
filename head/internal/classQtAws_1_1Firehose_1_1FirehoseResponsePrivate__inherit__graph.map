@@ -1,0 +1,10 @@
+<map id="QtAws::Firehose::FirehoseResponsePrivate" name="QtAws::Firehose::FirehoseResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Firehose_1_1CreateDeliveryStreamResponsePrivate.html" title="Private implementation for CreateDeliveryStreamResponse. " alt="" coords="472,5,687,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Firehose_1_1DeleteDeliveryStreamResponsePrivate.html" title="Private implementation for DeleteDeliveryStreamResponse. " alt="" coords="472,71,687,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Firehose_1_1DescribeDeliveryStreamResponsePrivate.html" title="Private implementation for DescribeDeliveryStreamResponse. " alt="" coords="473,136,685,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Firehose_1_1ListDeliveryStreamsResponsePrivate.html" title="Private implementation for ListDeliveryStreamsResponse. " alt="" coords="481,201,678,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Firehose_1_1PutRecordBatchResponsePrivate.html" title="Private implementation for PutRecordBatchResponse. " alt="" coords="484,267,675,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Firehose_1_1PutRecordResponsePrivate.html" title="Private implementation for PutRecordResponse. " alt="" coords="484,332,675,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Firehose_1_1UpdateDestinationResponsePrivate.html" title="Private implementation for UpdateDestinationResponse. " alt="" coords="461,397,697,439"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,201,187,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::SES::UpdateConfigurationSetReputationMetricsEnabledRequest" name="QtAws::SES::UpdateConfigurationSetReputationMetricsEnabledRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESRequest.html" title="Interface class for providing SES requests. " alt="" coords="37,95,218,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="37,5,218,47"/>
+</map>

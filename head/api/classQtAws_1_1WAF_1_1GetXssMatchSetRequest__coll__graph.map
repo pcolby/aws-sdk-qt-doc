@@ -1,0 +1,4 @@
+<map id="QtAws::WAF::GetXssMatchSetRequest" name="QtAws::WAF::GetXssMatchSetRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAF_1_1WAFRequest.html" title="Interface class for providing WAF requests. " alt="" coords="16,95,203,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="19,5,200,47"/>
+</map>

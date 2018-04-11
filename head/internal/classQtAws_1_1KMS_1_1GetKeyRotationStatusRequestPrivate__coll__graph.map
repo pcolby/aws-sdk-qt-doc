@@ -1,0 +1,5 @@
+<map id="QtAws::KMS::GetKeyRotationStatusRequestPrivate" name="QtAws::KMS::GetKeyRotationStatusRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1KMS_1_1KMSRequestPrivate.html" title="Private implementation for KMSRequest. " alt="" coords="5,117,232,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="192,5,373,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="256,109,437,151"/>
+</map>

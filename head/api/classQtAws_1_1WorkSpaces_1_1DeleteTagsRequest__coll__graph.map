@@ -1,0 +1,4 @@
+<map id="QtAws::WorkSpaces::DeleteTagsRequest" name="QtAws::WorkSpaces::DeleteTagsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkSpaces_1_1WorkSpacesRequest.html" title="Interface class for providing WorkSpaces requests. " alt="" coords="19,95,173,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

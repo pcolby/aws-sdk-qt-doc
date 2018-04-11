@@ -1,0 +1,47 @@
+<map id="QtAws::DirectConnect::DirectConnectResponse" name="QtAws::DirectConnect::DirectConnectResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1DirectConnect_1_1AllocateConnectionOnInterconnectResponse.html" title="Handles DirectConnect AllocateConnectionOnInterconnect responses. " alt="" coords="581,5,813,61"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DirectConnect_1_1AllocateHostedConnectionResponse.html" title="Handles DirectConnect AllocateHostedConnection responses. " alt="" coords="575,86,819,127"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DirectConnect_1_1AllocatePrivateVirtualInterfaceResponse.html" title="Handles DirectConnect AllocatePrivateVirtualInterface responses. " alt="" coords="593,152,800,208"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DirectConnect_1_1AllocatePublicVirtualInterfaceResponse.html" title="Handles DirectConnect AllocatePublicVirtualInterface responses. " alt="" coords="596,232,797,288"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DirectConnect_1_1AssociateConnectionWithLagResponse.html" title="Handles DirectConnect AssociateConnectionWithLag responses. " alt="" coords="595,312,798,368"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DirectConnect_1_1AssociateHostedConnectionResponse.html" title="Handles DirectConnect AssociateHostedConnection responses. " alt="" coords="599,392,795,448"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DirectConnect_1_1AssociateVirtualInterfaceResponse.html" title="Handles DirectConnect AssociateVirtualInterface responses. " alt="" coords="609,472,785,528"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DirectConnect_1_1ConfirmConnectionResponse.html" title="Handles DirectConnect ConfirmConnection responses. " alt="" coords="596,553,797,594"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DirectConnect_1_1ConfirmPrivateVirtualInterfaceResponse.html" title="Handles DirectConnect ConfirmPrivateVirtualInterface responses. " alt="" coords="594,619,799,675"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DirectConnect_1_1ConfirmPublicVirtualInterfaceResponse.html" title="Handles DirectConnect ConfirmPublicVirtualInterface responses. " alt="" coords="597,699,797,755"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DirectConnect_1_1CreateBGPPeerResponse.html" title="Handles DirectConnect CreateBGPPeer responses. " alt="" coords="605,779,788,821"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DirectConnect_1_1CreateConnectionResponse.html" title="Handles DirectConnect CreateConnection responses. " alt="" coords="599,845,794,886"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DirectConnect_1_1CreateDirectConnectGatewayAssociationResponse.html" title="Handles DirectConnect CreateDirectConnectGatewayAssociation responses. " alt="" coords="594,911,799,967"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DirectConnect_1_1CreateDirectConnectGatewayResponse.html" title="Handles DirectConnect CreateDirectConnectGateway responses. " alt="" coords="594,991,799,1047"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DirectConnect_1_1CreateInterconnectResponse.html" title="Handles DirectConnect CreateInterconnect responses. " alt="" coords="597,1071,797,1113"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DirectConnect_1_1CreateLagResponse.html" title="Handles DirectConnect CreateLag responses. " alt="" coords="619,1137,774,1178"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DirectConnect_1_1CreatePrivateVirtualInterfaceResponse.html" title="Handles DirectConnect CreatePrivateVirtualInterface responses. " alt="" coords="597,1203,796,1259"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DirectConnect_1_1CreatePublicVirtualInterfaceResponse.html" title="Handles DirectConnect CreatePublicVirtualInterface responses. " alt="" coords="600,1283,793,1339"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DirectConnect_1_1DeleteBGPPeerResponse.html" title="Handles DirectConnect DeleteBGPPeer responses. " alt="" coords="605,1363,788,1405"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DirectConnect_1_1DeleteConnectionResponse.html" title="Handles DirectConnect DeleteConnection responses. " alt="" coords="600,1429,793,1470"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1DirectConnect_1_1DeleteDirectConnectGatewayAssociationResponse.html" title="Handles DirectConnect DeleteDirectConnectGatewayAssociation responses. " alt="" coords="595,1495,799,1551"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1DirectConnect_1_1DeleteDirectConnectGatewayResponse.html" title="Handles DirectConnect DeleteDirectConnectGateway responses. " alt="" coords="595,1575,799,1631"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1DirectConnect_1_1DeleteInterconnectResponse.html" title="Handles DirectConnect DeleteInterconnect responses. " alt="" coords="597,1655,796,1697"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1DirectConnect_1_1DeleteLagResponse.html" title="Handles DirectConnect DeleteLag responses. " alt="" coords="619,1721,774,1762"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1DirectConnect_1_1DeleteVirtualInterfaceResponse.html" title="Handles DirectConnect DeleteVirtualInterface responses. " alt="" coords="589,1786,804,1827"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1DirectConnect_1_1DescribeConnectionLoaResponse.html" title="Handles DirectConnect DescribeConnectionLoa responses. " alt="" coords="583,1851,811,1893"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1DirectConnect_1_1DescribeConnectionsOnInterconnectResponse.html" title="Handles DirectConnect DescribeConnectionsOnInterconnect responses. " alt="" coords="575,1917,819,1973"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1DirectConnect_1_1DescribeConnectionsResponse.html" title="Handles DirectConnect DescribeConnections responses. " alt="" coords="589,1998,804,2039"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1DirectConnect_1_1DescribeDirectConnectGatewayAssociationsResponse.html" title="Handles DirectConnect DescribeDirectConnectGatewayAssociations responses. " alt="" coords="587,2064,806,2120"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1DirectConnect_1_1DescribeDirectConnectGatewayAttachmentsResponse.html" title="Handles DirectConnect DescribeDirectConnectGatewayAttachments responses. " alt="" coords="587,2144,806,2200"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1DirectConnect_1_1DescribeDirectConnectGatewaysResponse.html" title="Handles DirectConnect DescribeDirectConnectGateways responses. " alt="" coords="584,2224,809,2280"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1DirectConnect_1_1DescribeHostedConnectionsResponse.html" title="Handles DirectConnect DescribeHostedConnections responses. " alt="" coords="598,2304,795,2360"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1DirectConnect_1_1DescribeInterconnectLoaResponse.html" title="Handles DirectConnect DescribeInterconnectLoa responses. " alt="" coords="579,2385,814,2426"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1DirectConnect_1_1DescribeInterconnectsResponse.html" title="Handles DirectConnect DescribeInterconnects responses. " alt="" coords="587,2450,807,2491"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1DirectConnect_1_1DescribeLagsResponse.html" title="Handles DirectConnect DescribeLags responses. " alt="" coords="612,2515,781,2557"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1DirectConnect_1_1DescribeLoaResponse.html" title="Handles DirectConnect DescribeLoa responses. " alt="" coords="615,2581,778,2622"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1DirectConnect_1_1DescribeLocationsResponse.html" title="Handles DirectConnect DescribeLocations responses. " alt="" coords="598,2646,795,2687"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1DirectConnect_1_1DescribeTagsResponse.html" title="Handles DirectConnect DescribeTags responses. " alt="" coords="611,2711,782,2753"/>
+<area shape="rect" id="node42" href="$classQtAws_1_1DirectConnect_1_1DescribeVirtualGatewaysResponse.html" title="Handles DirectConnect DescribeVirtualGateways responses. " alt="" coords="578,2777,815,2818"/>
+<area shape="rect" id="node43" href="$classQtAws_1_1DirectConnect_1_1DescribeVirtualInterfacesResponse.html" title="Handles DirectConnect DescribeVirtualInterfaces responses. " alt="" coords="608,2843,785,2899"/>
+<area shape="rect" id="node44" href="$classQtAws_1_1DirectConnect_1_1DisassociateConnectionFromLagResponse.html" title="Handles DirectConnect DisassociateConnectionFromLag responses. " alt="" coords="595,2923,798,2979"/>
+<area shape="rect" id="node45" href="$classQtAws_1_1DirectConnect_1_1TagResourceResponse.html" title="Handles DirectConnect TagResource responses. " alt="" coords="613,3003,780,3045"/>
+<area shape="rect" id="node46" href="$classQtAws_1_1DirectConnect_1_1UntagResourceResponse.html" title="Handles DirectConnect UntagResource responses. " alt="" coords="607,3069,787,3110"/>
+<area shape="rect" id="node47" href="$classQtAws_1_1DirectConnect_1_1UpdateLagResponse.html" title="Handles DirectConnect UpdateLag responses. " alt="" coords="619,3134,774,3175"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,1619,305,1661"/>
+</map>

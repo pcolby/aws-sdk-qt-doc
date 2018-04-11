@@ -1,0 +1,4 @@
+<map id="QtAws::MachineLearning::CreateDataSourceFromS3Request" name="QtAws::MachineLearning::CreateDataSourceFromS3Request">
+<area shape="rect" id="node2" href="$classQtAws_1_1MachineLearning_1_1MachineLearningRequest.html" title="Interface class for providing MachineLearning requests. " alt="" coords="33,95,211,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,213,47"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="QtAws::MQ::MQRequest" name="QtAws::MQ::MQRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MQ_1_1CreateBrokerRequest.html" title="Implements MQ CreateBroker requests. " alt="" coords="453,5,679,32"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MQ_1_1CreateConfigurationRequest.html" title="Implements MQ CreateConfiguration requests. " alt="" coords="459,57,673,98"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MQ_1_1CreateUserRequest.html" title="Implements MQ CreateUser requests. " alt="" coords="459,123,673,149"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MQ_1_1DeleteBrokerRequest.html" title="Implements MQ DeleteBroker requests. " alt="" coords="454,173,678,200"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MQ_1_1DeleteUserRequest.html" title="Implements MQ DeleteUser requests. " alt="" coords="459,224,673,251"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MQ_1_1DescribeBrokerRequest.html" title="Implements MQ DescribeBroker requests. " alt="" coords="471,275,661,317"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MQ_1_1DescribeConfigurationRequest.html" title="Implements MQ DescribeConfiguration requests. " alt="" coords="452,341,680,382"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MQ_1_1DescribeConfigurationRevisionRequest.html" title="Implements MQ DescribeConfigurationRevision requests. " alt="" coords="452,406,680,447"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MQ_1_1DescribeUserRequest.html" title="Implements MQ DescribeUser requests. " alt="" coords="452,472,680,499"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MQ_1_1ListBrokersRequest.html" title="Implements MQ ListBrokers requests. " alt="" coords="459,523,673,549"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MQ_1_1ListConfigurationRevisionsRequest.html" title="Implements MQ ListConfigurationRevisions requests. " alt="" coords="467,574,665,615"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MQ_1_1ListConfigurationsRequest.html" title="Implements MQ ListConfigurations requests. " alt="" coords="464,639,668,681"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MQ_1_1ListUsersRequest.html" title="Implements MQ ListUsers requests. " alt="" coords="464,705,668,732"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MQ_1_1RebootBrokerRequest.html" title="Implements MQ RebootBroker requests. " alt="" coords="452,756,680,783"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MQ_1_1UpdateBrokerRequest.html" title="Implements MQ UpdateBroker requests. " alt="" coords="452,807,680,833"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MQ_1_1UpdateConfigurationRequest.html" title="Implements MQ UpdateConfiguration requests. " alt="" coords="457,858,675,899"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MQ_1_1UpdateUserRequest.html" title="Implements MQ UpdateUser requests. " alt="" coords="457,924,675,951"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,465,187,506"/>
+</map>

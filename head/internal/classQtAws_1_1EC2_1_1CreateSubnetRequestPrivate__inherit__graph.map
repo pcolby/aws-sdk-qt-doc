@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::CreateSubnetRequestPrivate" name="QtAws::EC2::CreateSubnetRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2RequestPrivate.html" title="Private implementation for EC2Request. " alt="" coords="5,95,225,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="25,5,206,47"/>
+</map>

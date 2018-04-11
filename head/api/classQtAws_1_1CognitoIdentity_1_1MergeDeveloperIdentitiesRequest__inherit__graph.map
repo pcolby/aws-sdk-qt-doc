@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoIdentity::MergeDeveloperIdentitiesRequest" name="QtAws::CognitoIdentity::MergeDeveloperIdentitiesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentity_1_1CognitoIdentityRequest.html" title="Interface class for providing CognitoIdentity requests. " alt="" coords="35,95,202,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="28,5,209,47"/>
+</map>

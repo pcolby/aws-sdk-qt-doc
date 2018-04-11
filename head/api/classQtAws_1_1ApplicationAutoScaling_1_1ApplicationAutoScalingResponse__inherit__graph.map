@@ -1,0 +1,13 @@
+<map id="QtAws::ApplicationAutoScaling::ApplicationAutoScalingResponse" name="QtAws::ApplicationAutoScaling::ApplicationAutoScalingResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScalingPolicyResponse.html" title="Handles ApplicationAutoScaling DeleteScalingPolicy responses. " alt="" coords="644,5,851,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScheduledActionResponse.html" title="Handles ApplicationAutoScaling DeleteScheduledAction responses. " alt="" coords="635,71,860,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeregisterScalableTargetResponse.html" title="Handles ApplicationAutoScaling DeregisterScalableTarget responses. " alt="" coords="629,136,865,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalableTargetsResponse.html" title="Handles ApplicationAutoScaling DescribeScalableTargets responses. " alt="" coords="630,201,865,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingActivitiesResponse.html" title="Handles ApplicationAutoScaling DescribeScalingActivities responses. " alt="" coords="628,267,867,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingPoliciesResponse.html" title="Handles ApplicationAutoScaling DescribeScalingPolicies responses. " alt="" coords="632,332,863,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScheduledActionsResponse.html" title="Handles ApplicationAutoScaling DescribeScheduledActions responses. " alt="" coords="624,397,871,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScalingPolicyResponse.html" title="Handles ApplicationAutoScaling PutScalingPolicy responses. " alt="" coords="645,463,849,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScheduledActionResponse.html" title="Handles ApplicationAutoScaling PutScheduledAction responses. " alt="" coords="644,528,851,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ApplicationAutoScaling_1_1RegisterScalableTargetResponse.html" title="Handles ApplicationAutoScaling RegisterScalableTarget responses. " alt="" coords="635,593,860,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,300,305,341"/>
+</map>

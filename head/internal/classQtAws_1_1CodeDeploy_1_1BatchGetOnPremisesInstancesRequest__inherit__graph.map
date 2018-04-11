@@ -1,0 +1,4 @@
+<map id="QtAws::CodeDeploy::BatchGetOnPremisesInstancesRequest" name="QtAws::CodeDeploy::BatchGetOnPremisesInstancesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeDeploy_1_1CodeDeployRequest.html" title="Interface class for providing CodeDeploy requests. " alt="" coords="33,95,184,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

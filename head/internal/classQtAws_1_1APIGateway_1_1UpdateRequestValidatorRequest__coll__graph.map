@@ -1,0 +1,5 @@
+<map id="QtAws::APIGateway::UpdateRequestValidatorRequest" name="QtAws::APIGateway::UpdateRequestValidatorRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayRequest.html" title="Interface class for providing APIGateway requests. " alt="" coords="36,109,188,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="148,5,329,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="212,109,393,151"/>
+</map>

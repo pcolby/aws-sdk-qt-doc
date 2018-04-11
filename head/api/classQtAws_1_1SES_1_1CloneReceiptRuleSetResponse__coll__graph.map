@@ -1,0 +1,4 @@
+<map id="QtAws::SES::CloneReceiptRuleSetResponse" name="QtAws::SES::CloneReceiptRuleSetResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESResponse.html" title="Handles SES SES responses. " alt="" coords="5,169,196,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="10,80,191,121"/>
+</map>

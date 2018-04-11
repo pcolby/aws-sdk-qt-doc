@@ -1,0 +1,7 @@
+<map id="QtAws::IoTDataPlane::IoTDataPlaneResponse" name="QtAws::IoTDataPlane::IoTDataPlaneResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1IoTDataPlane_1_1DeleteThingShadowResponse.html" title="Handles IoTDataPlane DeleteThingShadow responses. " alt="" coords="573,5,779,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1IoTDataPlane_1_1GetThingShadowResponse.html" title="Handles IoTDataPlane GetThingShadow responses. " alt="" coords="581,71,771,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1IoTDataPlane_1_1PublishResponse.html" title="Handles IoTDataPlane Publish responses. " alt="" coords="601,136,751,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1IoTDataPlane_1_1UpdateThingShadowResponse.html" title="Handles IoTDataPlane UpdateThingShadow responses. " alt="" coords="571,201,781,243"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,104,305,145"/>
+</map>

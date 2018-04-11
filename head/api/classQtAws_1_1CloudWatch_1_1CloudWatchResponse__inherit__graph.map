@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatch::CloudWatchResponse" name="QtAws::CloudWatch::CloudWatchResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatch_1_1DeleteAlarmsResponse.html" title="Handles CloudWatch DeleteAlarms responses. " alt="" coords="589,5,749,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatch_1_1DeleteDashboardsResponse.html" title="Handles CloudWatch DeleteDashboards responses. " alt="" coords="575,71,764,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmHistoryResponse.html" title="Handles CloudWatch DescribeAlarmHistory responses. " alt="" coords="565,136,774,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsForMetricResponse.html" title="Handles CloudWatch DescribeAlarmsForMetric responses. " alt="" coords="555,201,784,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsResponse.html" title="Handles CloudWatch DescribeAlarms responses. " alt="" coords="582,267,757,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatch_1_1DisableAlarmActionsResponse.html" title="Handles CloudWatch DisableAlarmActions responses. " alt="" coords="568,332,771,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatch_1_1EnableAlarmActionsResponse.html" title="Handles CloudWatch EnableAlarmActions responses. " alt="" coords="570,397,769,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatch_1_1GetDashboardResponse.html" title="Handles CloudWatch GetDashboard responses. " alt="" coords="587,463,752,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatch_1_1GetMetricStatisticsResponse.html" title="Handles CloudWatch GetMetricStatistics responses. " alt="" coords="573,528,766,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatch_1_1ListDashboardsResponse.html" title="Handles CloudWatch ListDashboards responses. " alt="" coords="583,593,755,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatch_1_1ListMetricsResponse.html" title="Handles CloudWatch ListMetrics responses. " alt="" coords="594,659,745,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatch_1_1PutDashboardResponse.html" title="Handles CloudWatch PutDashboard responses. " alt="" coords="587,724,751,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatch_1_1PutMetricAlarmResponse.html" title="Handles CloudWatch PutMetricAlarm responses. " alt="" coords="584,789,755,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatch_1_1PutMetricDataResponse.html" title="Handles CloudWatch PutMetricData responses. " alt="" coords="587,855,752,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudWatch_1_1SetAlarmStateResponse.html" title="Handles CloudWatch SetAlarmState responses. " alt="" coords="586,920,753,961"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,463,305,504"/>
+</map>

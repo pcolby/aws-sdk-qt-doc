@@ -1,0 +1,4 @@
+<map id="QtAws::ServiceCatalog::DescribeProductAsAdminResponse" name="QtAws::ServiceCatalog::DescribeProductAsAdminResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServiceCatalog_1_1ServiceCatalogResponse.html" title="Handles ServiceCatalog ServiceCatalog responses. " alt="" coords="35,169,214,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="34,80,215,121"/>
+</map>

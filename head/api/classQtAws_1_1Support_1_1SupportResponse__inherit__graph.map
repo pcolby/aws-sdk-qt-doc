@@ -1,0 +1,17 @@
+<map id="QtAws::Support::SupportResponse" name="QtAws::Support::SupportResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Support_1_1AddAttachmentsToSetResponse.html" title="Handles Support AddAttachmentsToSet responses. " alt="" coords="641,5,861,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Support_1_1AddCommunicationToCaseResponse.html" title="Handles Support AddCommunicationToCase responses. " alt="" coords="633,71,870,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Support_1_1CreateCaseResponse.html" title="Handles Support CreateCase responses. " alt="" coords="655,136,848,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Support_1_1DescribeAttachmentResponse.html" title="Handles Support DescribeAttachment responses. " alt="" coords="664,201,839,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Support_1_1DescribeCasesResponse.html" title="Handles Support DescribeCases responses. " alt="" coords="664,267,839,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Support_1_1DescribeCommunicationsResponse.html" title="Handles Support DescribeCommunications responses. " alt="" coords="662,332,841,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Support_1_1DescribeServicesResponse.html" title="Handles Support DescribeServices responses. " alt="" coords="664,397,839,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Support_1_1DescribeSeverityLevelsResponse.html" title="Handles Support DescribeSeverityLevels responses. " alt="" coords="664,463,839,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckRefreshStatusesResponse.html" title="Handles Support DescribeTrustedAdvisorCheckRefreshStatuses responses. " alt="" coords="628,529,875,585"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckResultResponse.html" title="Handles Support DescribeTrustedAdvisorCheckResult responses. " alt="" coords="629,609,874,651"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorChecksResponse.html" title="Handles Support DescribeTrustedAdvisorChecks responses. " alt="" coords="644,675,859,716"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckSummariesResponse.html" title="Handles Support DescribeTrustedAdvisorCheckSummaries responses. " alt="" coords="644,741,859,797"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Support_1_1RefreshTrustedAdvisorCheckResponse.html" title="Handles Support RefreshTrustedAdvisorCheck responses. " alt="" coords="645,821,858,863"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Support_1_1ResolveCaseResponse.html" title="Handles Support ResolveCase responses. " alt="" coords="650,887,853,928"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,431,305,472"/>
+</map>

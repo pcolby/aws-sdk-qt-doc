@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::GetInstanceSnapshotRequest" name="QtAws::Lightsail::GetInstanceSnapshotRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailRequest.html" title="Interface class for providing Lightsail requests. " alt="" coords="17,95,191,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="13,5,195,47"/>
+</map>

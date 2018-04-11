@@ -1,0 +1,5 @@
+<map id="QtAws::Greengrass::UpdateGroupRequest" name="QtAws::Greengrass::UpdateGroupRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassRequest.html" title="Interface class for providing Greengrass requests. " alt="" coords="7,109,152,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="113,5,294,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="177,109,358,151"/>
+</map>

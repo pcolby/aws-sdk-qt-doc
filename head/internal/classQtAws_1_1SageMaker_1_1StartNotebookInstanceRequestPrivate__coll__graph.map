@@ -1,0 +1,5 @@
+<map id="QtAws::SageMaker::StartNotebookInstanceRequestPrivate" name="QtAws::SageMaker::StartNotebookInstanceRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerRequestPrivate.html" title="Private implementation for SageMakerRequest. " alt="" coords="14,109,225,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="185,5,366,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="249,109,430,151"/>
+</map>

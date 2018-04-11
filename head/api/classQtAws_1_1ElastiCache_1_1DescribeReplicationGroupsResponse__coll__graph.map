@@ -1,0 +1,4 @@
+<map id="QtAws::ElastiCache::DescribeReplicationGroupsResponse" name="QtAws::ElastiCache::DescribeReplicationGroupsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElastiCache_1_1ElastiCacheResponse.html" title="Handles ElastiCache ElastiCache responses. " alt="" coords="20,169,180,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="9,80,191,121"/>
+</map>

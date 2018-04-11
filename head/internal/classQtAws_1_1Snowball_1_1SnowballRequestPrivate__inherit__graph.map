@@ -1,0 +1,20 @@
+<map id="QtAws::Snowball::SnowballRequestPrivate" name="QtAws::Snowball::SnowballRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Snowball_1_1CancelClusterRequestPrivate.html" title="Private implementation for CancelClusterRequest. " alt="" coords="471,5,685,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Snowball_1_1CancelJobRequestPrivate.html" title="Private implementation for CancelJobRequest. " alt="" coords="481,71,675,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Snowball_1_1CreateAddressRequestPrivate.html" title="Private implementation for CreateAddressRequest. " alt="" coords="469,136,687,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Snowball_1_1CreateClusterRequestPrivate.html" title="Private implementation for CreateClusterRequest. " alt="" coords="472,201,684,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Snowball_1_1CreateJobRequestPrivate.html" title="Private implementation for CreateJobRequest. " alt="" coords="483,267,673,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Snowball_1_1DescribeAddressesRequestPrivate.html" title="Private implementation for DescribeAddressesRequest. " alt="" coords="487,332,669,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Snowball_1_1DescribeAddressRequestPrivate.html" title="Private implementation for DescribeAddressRequest. " alt="" coords="487,397,669,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Snowball_1_1DescribeClusterRequestPrivate.html" title="Private implementation for DescribeClusterRequest. " alt="" coords="487,463,669,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Snowball_1_1DescribeJobRequestPrivate.html" title="Private implementation for DescribeJobRequest. " alt="" coords="487,528,669,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Snowball_1_1GetJobManifestRequestPrivate.html" title="Private implementation for GetJobManifestRequest. " alt="" coords="467,593,689,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Snowball_1_1GetJobUnlockCodeRequestPrivate.html" title="Private implementation for GetJobUnlockCodeRequest. " alt="" coords="471,659,685,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Snowball_1_1GetSnowballUsageRequestPrivate.html" title="Private implementation for GetSnowballUsageRequest. " alt="" coords="475,724,681,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Snowball_1_1ListClusterJobsRequestPrivate.html" title="Private implementation for ListClusterJobsRequest. " alt="" coords="481,789,675,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Snowball_1_1ListClustersRequestPrivate.html" title="Private implementation for ListClustersRequest. " alt="" coords="477,855,679,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Snowball_1_1ListJobsRequestPrivate.html" title="Private implementation for ListJobsRequest. " alt="" coords="488,920,668,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Snowball_1_1UpdateClusterRequestPrivate.html" title="Private implementation for UpdateClusterRequest. " alt="" coords="471,985,685,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Snowball_1_1UpdateJobRequestPrivate.html" title="Private implementation for UpdateJobRequest. " alt="" coords="481,1051,675,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,528,187,569"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="QtAws::ResourceGroups::ResourceGroupsRequestPrivate" name="QtAws::ResourceGroups::ResourceGroupsRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ResourceGroups_1_1CreateGroupRequestPrivate.html" title="Private implementation for CreateGroupRequest. " alt="" coords="520,5,715,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ResourceGroups_1_1DeleteGroupRequestPrivate.html" title="Private implementation for DeleteGroupRequest. " alt="" coords="521,71,714,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ResourceGroups_1_1GetGroupQueryRequestPrivate.html" title="Private implementation for GetGroupQueryRequest. " alt="" coords="512,136,723,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ResourceGroups_1_1GetGroupRequestPrivate.html" title="Private implementation for GetGroupRequest. " alt="" coords="529,201,705,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ResourceGroups_1_1GetTagsRequestPrivate.html" title="Private implementation for GetTagsRequest. " alt="" coords="532,267,703,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ResourceGroups_1_1ListGroupResourcesRequestPrivate.html" title="Private implementation for ListGroupResourcesRequest. " alt="" coords="518,333,717,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ResourceGroups_1_1ListGroupsRequestPrivate.html" title="Private implementation for ListGroupsRequest. " alt="" coords="526,413,709,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ResourceGroups_1_1SearchResourcesRequestPrivate.html" title="Private implementation for SearchResourcesRequest. " alt="" coords="505,479,729,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ResourceGroups_1_1TagRequestPrivate.html" title="Private implementation for TagRequest. " alt="" coords="533,544,701,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ResourceGroups_1_1UntagRequestPrivate.html" title="Private implementation for UntagRequest. " alt="" coords="533,609,701,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ResourceGroups_1_1UpdateGroupQueryRequestPrivate.html" title="Private implementation for UpdateGroupQueryRequest. " alt="" coords="501,675,733,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ResourceGroups_1_1UpdateGroupRequestPrivate.html" title="Private implementation for UpdateGroupRequest. " alt="" coords="519,740,716,781"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,377,187,419"/>
+</map>

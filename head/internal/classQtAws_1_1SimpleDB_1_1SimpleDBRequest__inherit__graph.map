@@ -1,0 +1,13 @@
+<map id="QtAws::SimpleDB::SimpleDBRequest" name="QtAws::SimpleDB::SimpleDBRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1SimpleDB_1_1BatchDeleteAttributesRequest.html" title="Implements SimpleDB BatchDeleteAttributes requests. " alt="" coords="541,5,751,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SimpleDB_1_1BatchPutAttributesRequest.html" title="Implements SimpleDB BatchPutAttributes requests. " alt="" coords="551,71,741,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SimpleDB_1_1CreateDomainRequest.html" title="Implements SimpleDB CreateDomain requests. " alt="" coords="535,136,757,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SimpleDB_1_1DeleteAttributesRequest.html" title="Implements SimpleDB DeleteAttributes requests. " alt="" coords="531,201,761,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SimpleDB_1_1DeleteDomainRequest.html" title="Implements SimpleDB DeleteDomain requests. " alt="" coords="536,267,756,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SimpleDB_1_1DomainMetadataRequest.html" title="Implements SimpleDB DomainMetadata requests. " alt="" coords="528,332,764,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SimpleDB_1_1GetAttributesRequest.html" title="Implements SimpleDB GetAttributes requests. " alt="" coords="539,397,753,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SimpleDB_1_1ListDomainsRequest.html" title="Implements SimpleDB ListDomains requests. " alt="" coords="541,463,751,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SimpleDB_1_1PutAttributesRequest.html" title="Implements SimpleDB PutAttributes requests. " alt="" coords="539,528,753,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SimpleDB_1_1SelectRequest.html" title="Implements SimpleDB Select requests. " alt="" coords="535,594,757,621"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,300,187,341"/>
+</map>

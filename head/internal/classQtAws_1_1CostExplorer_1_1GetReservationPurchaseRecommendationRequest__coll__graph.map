@@ -1,0 +1,5 @@
+<map id="QtAws::CostExplorer::GetReservationPurchaseRecommendationRequest" name="QtAws::CostExplorer::GetReservationPurchaseRecommendationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CostExplorer_1_1CostExplorerRequest.html" title="Interface class for providing CostExplorer requests. " alt="" coords="67,109,222,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="182,5,363,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="246,109,427,151"/>
+</map>

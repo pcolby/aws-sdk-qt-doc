@@ -1,0 +1,13 @@
+<map id="QtAws::ApplicationAutoScaling::ApplicationAutoScalingResponsePrivate" name="QtAws::ApplicationAutoScaling::ApplicationAutoScalingResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScalingPolicyResponsePrivate.html" title="Private implementation for DeleteScalingPolicyResponse. " alt="" coords="515,5,762,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScheduledActionResponsePrivate.html" title="Private implementation for DeleteScheduledActionResponse. " alt="" coords="505,71,772,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeregisterScalableTargetResponsePrivate.html" title="Private implementation for DeregisterScalableTargetResponse. " alt="" coords="521,137,757,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalableTargetsResponsePrivate.html" title="Private implementation for DescribeScalableTargetsResponse. " alt="" coords="521,217,756,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingActivitiesResponsePrivate.html" title="Private implementation for DescribeScalingActivitiesResponse. " alt="" coords="519,297,758,353"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingPoliciesResponsePrivate.html" title="Private implementation for DescribeScalingPoliciesResponse. " alt="" coords="523,377,754,433"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScheduledActionsResponsePrivate.html" title="Private implementation for DescribeScheduledActionsResponse. " alt="" coords="515,457,762,513"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScalingPolicyResponsePrivate.html" title="Private implementation for PutScalingPolicyResponse. " alt="" coords="524,537,753,579"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScheduledActionResponsePrivate.html" title="Private implementation for PutScheduledActionResponse. " alt="" coords="515,603,763,644"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ApplicationAutoScaling_1_1RegisterScalableTargetResponsePrivate.html" title="Private implementation for RegisterScalableTargetResponse. " alt="" coords="526,669,751,725"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,344,187,385"/>
+</map>

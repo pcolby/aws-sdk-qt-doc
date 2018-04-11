@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatch::CloudWatchRequest" name="QtAws::CloudWatch::CloudWatchRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatch_1_1DeleteAlarmsRequest.html" title="Implements CloudWatch DeleteAlarms requests. " alt="" coords="467,5,618,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatch_1_1DeleteDashboardsRequest.html" title="Implements CloudWatch DeleteDashboards requests. " alt="" coords="453,71,632,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmHistoryRequest.html" title="Implements CloudWatch DescribeAlarmHistory requests. " alt="" coords="443,136,642,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsForMetricRequest.html" title="Implements CloudWatch DescribeAlarmsForMetric requests. " alt="" coords="433,201,652,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsRequest.html" title="Implements CloudWatch DescribeAlarms requests. " alt="" coords="461,267,625,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatch_1_1DisableAlarmActionsRequest.html" title="Implements CloudWatch DisableAlarmActions requests. " alt="" coords="446,332,639,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatch_1_1EnableAlarmActionsRequest.html" title="Implements CloudWatch EnableAlarmActions requests. " alt="" coords="448,397,637,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatch_1_1GetDashboardRequest.html" title="Implements CloudWatch GetDashboard requests. " alt="" coords="465,463,620,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatch_1_1GetMetricStatisticsRequest.html" title="Implements CloudWatch GetMetricStatistics requests. " alt="" coords="451,528,634,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatch_1_1ListDashboardsRequest.html" title="Implements CloudWatch ListDashboards requests. " alt="" coords="461,593,624,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatch_1_1ListMetricsRequest.html" title="Implements CloudWatch ListMetrics requests. " alt="" coords="467,659,618,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatch_1_1PutDashboardRequest.html" title="Implements CloudWatch PutDashboard requests. " alt="" coords="465,724,620,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatch_1_1PutMetricAlarmRequest.html" title="Implements CloudWatch PutMetricAlarm requests. " alt="" coords="462,789,623,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatch_1_1PutMetricDataRequest.html" title="Implements CloudWatch PutMetricData requests. " alt="" coords="465,855,620,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatch_1_1SetAlarmStateRequest.html" title="Implements CloudWatch SetAlarmState requests. " alt="" coords="465,920,621,961"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,463,187,504"/>
+</map>

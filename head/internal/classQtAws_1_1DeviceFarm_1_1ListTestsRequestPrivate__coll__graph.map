@@ -1,0 +1,5 @@
+<map id="QtAws::DeviceFarm::ListTestsRequestPrivate" name="QtAws::DeviceFarm::ListTestsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DeviceFarm_1_1DeviceFarmRequestPrivate.html" title="Private implementation for DeviceFarmRequest. " alt="" coords="5,109,188,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="149,5,330,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="213,109,394,151"/>
+</map>

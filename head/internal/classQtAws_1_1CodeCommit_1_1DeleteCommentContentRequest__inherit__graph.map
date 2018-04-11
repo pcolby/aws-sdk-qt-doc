@@ -1,0 +1,4 @@
+<map id="QtAws::CodeCommit::DeleteCommentContentRequest" name="QtAws::CodeCommit::DeleteCommentContentRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeCommit_1_1CodeCommitRequest.html" title="Interface class for providing CodeCommit requests. " alt="" coords="34,95,189,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="21,5,202,47"/>
+</map>

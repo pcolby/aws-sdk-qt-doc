@@ -1,0 +1,5 @@
+<map id="QtAws::CognitoIdentityProvider::AdminUpdateDeviceStatusRequestPrivate" name="QtAws::CognitoIdentityProvider::AdminUpdateDeviceStatusRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderRequestPrivate.html" title="Private implementation for CognitoIdentityProviderRequest. " alt="" coords="17,109,273,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="233,5,414,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="297,109,478,151"/>
+</map>

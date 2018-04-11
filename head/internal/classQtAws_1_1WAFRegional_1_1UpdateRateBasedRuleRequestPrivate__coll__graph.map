@@ -1,0 +1,5 @@
+<map id="QtAws::WAFRegional::UpdateRateBasedRuleRequestPrivate" name="QtAws::WAFRegional::UpdateRateBasedRuleRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalRequestPrivate.html" title="Private implementation for WAFRegionalRequest. " alt="" coords="11,109,213,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="173,5,355,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="237,109,419,151"/>
+</map>

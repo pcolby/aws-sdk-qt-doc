@@ -1,0 +1,4 @@
+<map id="QtAws::DynamoDB::BatchWriteItemResponsePrivate" name="QtAws::DynamoDB::BatchWriteItemResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DynamoDB_1_1DynamoDBResponsePrivate.html" title="Private implementation for DynamoDBResponse. " alt="" coords="5,95,279,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="51,5,233,47"/>
+</map>

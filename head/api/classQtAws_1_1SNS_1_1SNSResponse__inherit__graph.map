@@ -1,0 +1,33 @@
+<map id="QtAws::SNS::SNSResponse" name="QtAws::SNS::SNSResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1SNS_1_1AddPermissionResponse.html" title="Handles SNS AddPermission responses. " alt="" coords="617,5,812,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SNS_1_1CheckIfPhoneNumberIsOptedOutResponse.html" title="Handles SNS CheckIfPhoneNumberIsOptedOut responses. " alt="" coords="617,71,812,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SNS_1_1ConfirmSubscriptionResponse.html" title="Handles SNS ConfirmSubscription responses. " alt="" coords="603,136,827,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SNS_1_1CreatePlatformApplicationResponse.html" title="Handles SNS CreatePlatformApplication responses. " alt="" coords="617,201,812,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SNS_1_1CreatePlatformEndpointResponse.html" title="Handles SNS CreatePlatformEndpoint responses. " alt="" coords="617,267,812,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SNS_1_1CreateTopicResponse.html" title="Handles SNS CreateTopic responses. " alt="" coords="597,333,833,359"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SNS_1_1DeleteEndpointResponse.html" title="Handles SNS DeleteEndpoint responses. " alt="" coords="617,384,812,425"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SNS_1_1DeletePlatformApplicationResponse.html" title="Handles SNS DeletePlatformApplication responses. " alt="" coords="618,449,811,491"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SNS_1_1DeleteTopicResponse.html" title="Handles SNS DeleteTopic responses. " alt="" coords="597,515,832,542"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SNS_1_1GetEndpointAttributesResponse.html" title="Handles SNS GetEndpointAttributes responses. " alt="" coords="597,567,832,608"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SNS_1_1GetPlatformApplicationAttributesResponse.html" title="Handles SNS GetPlatformApplicationAttributes responses. " alt="" coords="595,632,835,673"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SNS_1_1GetSMSAttributesResponse.html" title="Handles SNS GetSMSAttributes responses. " alt="" coords="609,697,821,739"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SNS_1_1GetSubscriptionAttributesResponse.html" title="Handles SNS GetSubscriptionAttributes responses. " alt="" coords="615,763,814,804"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SNS_1_1GetTopicAttributesResponse.html" title="Handles SNS GetTopicAttributes responses. " alt="" coords="607,828,822,869"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SNS_1_1ListEndpointsByPlatformApplicationResponse.html" title="Handles SNS ListEndpointsByPlatformApplication responses. " alt="" coords="609,893,820,935"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SNS_1_1ListPhoneNumbersOptedOutResponse.html" title="Handles SNS ListPhoneNumbersOptedOut responses. " alt="" coords="606,959,823,1000"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SNS_1_1ListPlatformApplicationsResponse.html" title="Handles SNS ListPlatformApplications responses. " alt="" coords="627,1024,803,1065"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SNS_1_1ListSubscriptionsByTopicResponse.html" title="Handles SNS ListSubscriptionsByTopic responses. " alt="" coords="611,1089,818,1131"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SNS_1_1ListSubscriptionsResponse.html" title="Handles SNS ListSubscriptions responses. " alt="" coords="611,1155,818,1196"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SNS_1_1ListTopicsResponse.html" title="Handles SNS ListTopics responses. " alt="" coords="602,1221,827,1247"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SNS_1_1OptInPhoneNumberResponse.html" title="Handles SNS OptInPhoneNumber responses. " alt="" coords="604,1272,825,1313"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SNS_1_1PublishResponse.html" title="Handles SNS Publish responses. " alt="" coords="611,1338,819,1365"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SNS_1_1RemovePermissionResponse.html" title="Handles SNS RemovePermission responses. " alt="" coords="605,1389,825,1431"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SNS_1_1SetEndpointAttributesResponse.html" title="Handles SNS SetEndpointAttributes responses. " alt="" coords="598,1455,831,1496"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SNS_1_1SetPlatformApplicationAttributesResponse.html" title="Handles SNS SetPlatformApplicationAttributes responses. " alt="" coords="595,1520,834,1561"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SNS_1_1SetSMSAttributesResponse.html" title="Handles SNS SetSMSAttributes responses. " alt="" coords="609,1585,820,1627"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SNS_1_1SetSubscriptionAttributesResponse.html" title="Handles SNS SetSubscriptionAttributes responses. " alt="" coords="615,1651,814,1692"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SNS_1_1SetTopicAttributesResponse.html" title="Handles SNS SetTopicAttributes responses. " alt="" coords="607,1716,822,1757"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SNS_1_1SubscribeResponse.html" title="Handles SNS Subscribe responses. " alt="" coords="603,1782,826,1809"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1SNS_1_1UnsubscribeResponse.html" title="Handles SNS Unsubscribe responses. " alt="" coords="595,1833,834,1859"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,927,305,968"/>
+</map>

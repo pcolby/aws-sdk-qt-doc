@@ -1,0 +1,34 @@
+<map id="QtAws::ECS::ECSRequest" name="QtAws::ECS::ECSRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1ECS_1_1CreateClusterRequest.html" title="Implements ECS CreateCluster requests. " alt="" coords="483,5,670,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ECS_1_1CreateServiceRequest.html" title="Implements ECS CreateService requests. " alt="" coords="482,71,671,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ECS_1_1DeleteAttributesRequest.html" title="Implements ECS DeleteAttributes requests. " alt="" coords="477,136,677,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ECS_1_1DeleteClusterRequest.html" title="Implements ECS DeleteCluster requests. " alt="" coords="483,201,670,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ECS_1_1DeleteServiceRequest.html" title="Implements ECS DeleteService requests. " alt="" coords="483,267,671,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ECS_1_1DeregisterContainerInstanceRequest.html" title="Implements ECS DeregisterContainerInstance requests. " alt="" coords="465,332,688,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ECS_1_1DeregisterTaskDefinitionRequest.html" title="Implements ECS DeregisterTaskDefinition requests. " alt="" coords="479,397,674,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ECS_1_1DescribeClustersRequest.html" title="Implements ECS DescribeClusters requests. " alt="" coords="473,463,680,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ECS_1_1DescribeContainerInstancesRequest.html" title="Implements ECS DescribeContainerInstances requests. " alt="" coords="469,528,684,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ECS_1_1DescribeServicesRequest.html" title="Implements ECS DescribeServices requests. " alt="" coords="472,593,681,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ECS_1_1DescribeTaskDefinitionRequest.html" title="Implements ECS DescribeTaskDefinition requests. " alt="" coords="483,659,670,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ECS_1_1DescribeTasksRequest.html" title="Implements ECS DescribeTasks requests. " alt="" coords="479,724,674,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ECS_1_1DiscoverPollEndpointRequest.html" title="Implements ECS DiscoverPollEndpoint requests. " alt="" coords="487,789,667,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ECS_1_1ListAttributesRequest.html" title="Implements ECS ListAttributes requests. " alt="" coords="485,855,668,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ECS_1_1ListClustersRequest.html" title="Implements ECS ListClusters requests. " alt="" coords="489,920,665,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ECS_1_1ListContainerInstancesRequest.html" title="Implements ECS ListContainerInstances requests. " alt="" coords="485,985,668,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ECS_1_1ListServicesRequest.html" title="Implements ECS ListServices requests. " alt="" coords="487,1051,666,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ECS_1_1ListTaskDefinitionFamiliesRequest.html" title="Implements ECS ListTaskDefinitionFamilies requests. " alt="" coords="471,1116,682,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ECS_1_1ListTaskDefinitionsRequest.html" title="Implements ECS ListTaskDefinitions requests. " alt="" coords="467,1181,686,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ECS_1_1ListTasksRequest.html" title="Implements ECS ListTasks requests. " alt="" coords="471,1247,683,1274"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ECS_1_1PutAttributesRequest.html" title="Implements ECS PutAttributes requests. " alt="" coords="485,1299,668,1340"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ECS_1_1RegisterContainerInstanceRequest.html" title="Implements ECS RegisterContainerInstance requests. " alt="" coords="471,1364,682,1405"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1ECS_1_1RegisterTaskDefinitionRequest.html" title="Implements ECS RegisterTaskDefinition requests. " alt="" coords="485,1429,669,1471"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1ECS_1_1RunTaskRequest.html" title="Implements ECS RunTask requests. " alt="" coords="473,1495,681,1522"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1ECS_1_1StartTaskRequest.html" title="Implements ECS StartTask requests. " alt="" coords="471,1546,683,1573"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1ECS_1_1StopTaskRequest.html" title="Implements ECS StopTask requests. " alt="" coords="471,1597,682,1623"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1ECS_1_1SubmitContainerStateChangeRequest.html" title="Implements ECS SubmitContainerStateChange requests. " alt="" coords="475,1648,678,1689"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1ECS_1_1SubmitTaskStateChangeRequest.html" title="Implements ECS SubmitTaskStateChange requests. " alt="" coords="473,1713,680,1755"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1ECS_1_1UpdateContainerAgentRequest.html" title="Implements ECS UpdateContainerAgent requests. " alt="" coords="475,1779,679,1820"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1ECS_1_1UpdateContainerInstancesStateRequest.html" title="Implements ECS UpdateContainerInstancesState requests. " alt="" coords="475,1844,679,1885"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1ECS_1_1UpdateServiceRequest.html" title="Implements ECS UpdateService requests. " alt="" coords="481,1909,673,1951"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,985,187,1027"/>
+</map>

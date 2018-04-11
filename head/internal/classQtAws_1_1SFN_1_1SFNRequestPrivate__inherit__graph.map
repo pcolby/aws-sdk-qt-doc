@@ -1,0 +1,22 @@
+<map id="QtAws::SFN::SFNRequestPrivate" name="QtAws::SFN::SFNRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SFN_1_1CreateActivityRequestPrivate.html" title="Private implementation for CreateActivityRequest. " alt="" coords="531,5,719,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SFN_1_1CreateStateMachineRequestPrivate.html" title="Private implementation for CreateStateMachineRequest. " alt="" coords="513,71,737,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SFN_1_1DeleteActivityRequestPrivate.html" title="Private implementation for DeleteActivityRequest. " alt="" coords="531,136,718,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SFN_1_1DeleteStateMachineRequestPrivate.html" title="Private implementation for DeleteStateMachineRequest. " alt="" coords="513,201,736,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SFN_1_1DescribeActivityRequestPrivate.html" title="Private implementation for DescribeActivityRequest. " alt="" coords="524,267,725,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SFN_1_1DescribeExecutionRequestPrivate.html" title="Private implementation for DescribeExecutionRequest. " alt="" coords="517,332,732,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SFN_1_1DescribeStateMachineForExecutionRequestPrivate.html" title="Private implementation for DescribeStateMachineForExecutionRequest. " alt="" coords="505,397,744,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SFN_1_1DescribeStateMachineRequestPrivate.html" title="Private implementation for DescribeStateMachineRequest. " alt="" coords="531,463,719,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SFN_1_1GetActivityTaskRequestPrivate.html" title="Private implementation for GetActivityTaskRequest. " alt="" coords="525,528,724,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SFN_1_1GetExecutionHistoryRequestPrivate.html" title="Private implementation for GetExecutionHistoryRequest. " alt="" coords="533,593,717,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SFN_1_1ListActivitiesRequestPrivate.html" title="Private implementation for ListActivitiesRequest. " alt="" coords="535,659,715,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SFN_1_1ListExecutionsRequestPrivate.html" title="Private implementation for ListExecutionsRequest. " alt="" coords="529,724,720,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SFN_1_1ListStateMachinesRequestPrivate.html" title="Private implementation for ListStateMachinesRequest. " alt="" coords="518,789,731,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SFN_1_1SendTaskFailureRequestPrivate.html" title="Private implementation for SendTaskFailureRequest. " alt="" coords="523,855,726,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SFN_1_1SendTaskHeartbeatRequestPrivate.html" title="Private implementation for SendTaskHeartbeatRequest. " alt="" coords="514,920,735,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SFN_1_1SendTaskSuccessRequestPrivate.html" title="Private implementation for SendTaskSuccessRequest. " alt="" coords="517,985,732,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SFN_1_1StartExecutionRequestPrivate.html" title="Private implementation for StartExecutionRequest. " alt="" coords="529,1051,720,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SFN_1_1StopExecutionRequestPrivate.html" title="Private implementation for StopExecutionRequest. " alt="" coords="529,1116,720,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SFN_1_1UpdateStateMachineRequestPrivate.html" title="Private implementation for UpdateStateMachineRequest. " alt="" coords="511,1181,738,1223"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,593,187,635"/>
+</map>

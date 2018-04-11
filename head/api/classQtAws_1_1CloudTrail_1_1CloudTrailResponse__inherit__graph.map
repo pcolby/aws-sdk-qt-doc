@@ -1,0 +1,17 @@
+<map id="QtAws::CloudTrail::CloudTrailResponse" name="QtAws::CloudTrail::CloudTrailResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudTrail_1_1AddTagsResponse.html" title="Handles CloudTrail AddTags responses. " alt="" coords="568,5,705,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudTrail_1_1CreateTrailResponse.html" title="Handles CloudTrail CreateTrail responses. " alt="" coords="564,71,709,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudTrail_1_1DeleteTrailResponse.html" title="Handles CloudTrail DeleteTrail responses. " alt="" coords="565,136,709,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudTrail_1_1DescribeTrailsResponse.html" title="Handles CloudTrail DescribeTrails responses. " alt="" coords="554,201,719,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudTrail_1_1GetEventSelectorsResponse.html" title="Handles CloudTrail GetEventSelectors responses. " alt="" coords="541,267,732,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudTrail_1_1GetTrailStatusResponse.html" title="Handles CloudTrail GetTrailStatus responses. " alt="" coords="554,332,719,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudTrail_1_1ListPublicKeysResponse.html" title="Handles CloudTrail ListPublicKeys responses. " alt="" coords="553,397,721,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudTrail_1_1ListTagsResponse.html" title="Handles CloudTrail ListTags responses. " alt="" coords="568,463,705,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudTrail_1_1LookupEventsResponse.html" title="Handles CloudTrail LookupEvents responses. " alt="" coords="555,528,719,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudTrail_1_1PutEventSelectorsResponse.html" title="Handles CloudTrail PutEventSelectors responses. " alt="" coords="541,593,732,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudTrail_1_1RemoveTagsResponse.html" title="Handles CloudTrail RemoveTags responses. " alt="" coords="557,659,716,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudTrail_1_1StartLoggingResponse.html" title="Handles CloudTrail StartLogging responses. " alt="" coords="559,724,714,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudTrail_1_1StopLoggingResponse.html" title="Handles CloudTrail StopLogging responses. " alt="" coords="560,789,713,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudTrail_1_1UpdateTrailResponse.html" title="Handles CloudTrail UpdateTrail responses. " alt="" coords="563,855,711,896"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,431,305,472"/>
+</map>

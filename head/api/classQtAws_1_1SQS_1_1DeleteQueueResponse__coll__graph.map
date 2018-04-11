@@ -1,0 +1,4 @@
+<map id="QtAws::SQS::DeleteQueueResponse" name="QtAws::SQS::DeleteQueueResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SQS_1_1SQSResponse.html" title="Handles SQS SQS responses. " alt="" coords="29,169,223,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="35,80,217,121"/>
+</map>

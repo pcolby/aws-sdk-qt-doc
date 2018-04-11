@@ -1,0 +1,5 @@
+<map id="QtAws::WorkMail::CreateGroupRequestPrivate" name="QtAws::WorkMail::CreateGroupRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkMail_1_1WorkMailRequestPrivate.html" title="Private implementation for WorkMailRequest. " alt="" coords="15,109,203,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="163,5,345,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="227,109,409,151"/>
+</map>

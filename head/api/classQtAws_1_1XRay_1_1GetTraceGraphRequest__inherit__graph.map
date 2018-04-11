@@ -1,0 +1,4 @@
+<map id="QtAws::XRay::GetTraceGraphRequest" name="QtAws::XRay::GetTraceGraphRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1XRay_1_1XRayRequest.html" title="Interface class for providing XRay requests. " alt="" coords="9,95,202,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

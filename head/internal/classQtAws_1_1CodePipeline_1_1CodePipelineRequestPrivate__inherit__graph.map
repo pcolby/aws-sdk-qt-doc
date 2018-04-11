@@ -1,0 +1,30 @@
+<map id="QtAws::CodePipeline::CodePipelineRequestPrivate" name="QtAws::CodePipeline::CodePipelineRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CodePipeline_1_1AcknowledgeJobRequestPrivate.html" title="Private implementation for AcknowledgeJobRequest. " alt="" coords="486,5,705,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CodePipeline_1_1AcknowledgeThirdPartyJobRequestPrivate.html" title="Private implementation for AcknowledgeThirdPartyJobRequest. " alt="" coords="501,71,690,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CodePipeline_1_1CreateCustomActionTypeRequestPrivate.html" title="Private implementation for CreateCustomActionTypeRequest. " alt="" coords="480,151,711,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CodePipeline_1_1CreatePipelineRequestPrivate.html" title="Private implementation for CreatePipelineRequest. " alt="" coords="493,232,698,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CodePipeline_1_1DeleteCustomActionTypeRequestPrivate.html" title="Private implementation for DeleteCustomActionTypeRequest. " alt="" coords="481,298,710,354"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CodePipeline_1_1DeletePipelineRequestPrivate.html" title="Private implementation for DeletePipelineRequest. " alt="" coords="493,379,697,420"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CodePipeline_1_1DisableStageTransitionRequestPrivate.html" title="Private implementation for DisableStageTransitionRequest. " alt="" coords="488,445,703,501"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CodePipeline_1_1EnableStageTransitionRequestPrivate.html" title="Private implementation for EnableStageTransitionRequest. " alt="" coords="490,525,701,581"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CodePipeline_1_1GetJobDetailsRequestPrivate.html" title="Private implementation for GetJobDetailsRequest. " alt="" coords="494,605,697,647"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CodePipeline_1_1GetPipelineExecutionRequestPrivate.html" title="Private implementation for GetPipelineExecutionRequest. " alt="" coords="493,671,697,727"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CodePipeline_1_1GetPipelineRequestPrivate.html" title="Private implementation for GetPipelineRequest. " alt="" coords="502,752,689,793"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CodePipeline_1_1GetPipelineStateRequestPrivate.html" title="Private implementation for GetPipelineStateRequest. " alt="" coords="486,817,705,859"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CodePipeline_1_1GetThirdPartyJobDetailsRequestPrivate.html" title="Private implementation for GetThirdPartyJobDetailsRequest. " alt="" coords="484,883,707,939"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CodePipeline_1_1ListActionTypesRequestPrivate.html" title="Private implementation for ListActionTypesRequest. " alt="" coords="488,964,703,1005"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CodePipeline_1_1ListPipelineExecutionsRequestPrivate.html" title="Private implementation for ListPipelineExecutionsRequest. " alt="" coords="490,1030,701,1086"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CodePipeline_1_1ListPipelinesRequestPrivate.html" title="Private implementation for ListPipelinesRequest. " alt="" coords="498,1111,693,1152"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CodePipeline_1_1PollForJobsRequestPrivate.html" title="Private implementation for PollForJobsRequest. " alt="" coords="501,1176,690,1217"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CodePipeline_1_1PollForThirdPartyJobsRequestPrivate.html" title="Private implementation for PollForThirdPartyJobsRequest. " alt="" coords="491,1242,699,1298"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CodePipeline_1_1PutActionRevisionRequestPrivate.html" title="Private implementation for PutActionRevisionRequest. " alt="" coords="502,1322,689,1378"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CodePipeline_1_1PutApprovalResultRequestPrivate.html" title="Private implementation for PutApprovalResultRequest. " alt="" coords="501,1402,689,1458"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CodePipeline_1_1PutJobFailureResultRequestPrivate.html" title="Private implementation for PutJobFailureResultRequest. " alt="" coords="497,1482,694,1538"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CodePipeline_1_1PutJobSuccessResultRequestPrivate.html" title="Private implementation for PutJobSuccessResultRequest. " alt="" coords="491,1562,700,1618"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CodePipeline_1_1PutThirdPartyJobFailureResultRequestPrivate.html" title="Private implementation for PutThirdPartyJobFailureResultRequest. " alt="" coords="491,1642,699,1698"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CodePipeline_1_1PutThirdPartyJobSuccessResultRequestPrivate.html" title="Private implementation for PutThirdPartyJobSuccessResultRequest. " alt="" coords="485,1722,705,1778"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CodePipeline_1_1RetryStageExecutionRequestPrivate.html" title="Private implementation for RetryStageExecutionRequest. " alt="" coords="494,1802,697,1858"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CodePipeline_1_1StartPipelineExecutionRequestPrivate.html" title="Private implementation for StartPipelineExecutionRequest. " alt="" coords="490,1882,701,1938"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CodePipeline_1_1UpdatePipelineRequestPrivate.html" title="Private implementation for UpdatePipelineRequest. " alt="" coords="491,1963,699,2004"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,964,187,1005"/>
+</map>

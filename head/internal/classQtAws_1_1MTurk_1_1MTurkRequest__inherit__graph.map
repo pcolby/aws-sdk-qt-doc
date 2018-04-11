@@ -1,0 +1,42 @@
+<map id="QtAws::MTurk::MTurkRequest" name="QtAws::MTurk::MTurkRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MTurk_1_1AcceptQualificationRequestRequest.html" title="Implements MTurk AcceptQualificationRequest requests. " alt="" coords="493,5,721,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MTurk_1_1ApproveAssignmentRequest.html" title="Implements MTurk ApproveAssignment requests. " alt="" coords="491,71,723,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MTurk_1_1AssociateQualificationWithWorkerRequest.html" title="Implements MTurk AssociateQualificationWithWorker requests. " alt="" coords="484,136,729,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MTurk_1_1CreateAdditionalAssignmentsForHITRequest.html" title="Implements MTurk CreateAdditionalAssignmentsForHIT requests. " alt="" coords="501,201,712,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MTurk_1_1CreateHITRequest.html" title="Implements MTurk CreateHIT requests. " alt="" coords="494,267,719,294"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MTurk_1_1CreateHITTypeRequest.html" title="Implements MTurk CreateHITType requests. " alt="" coords="504,319,709,360"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MTurk_1_1CreateHITWithHITTypeRequest.html" title="Implements MTurk CreateHITWithHITType requests. " alt="" coords="505,384,708,425"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MTurk_1_1CreateQualificationTypeRequest.html" title="Implements MTurk CreateQualificationType requests. " alt="" coords="493,449,720,491"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MTurk_1_1CreateWorkerBlockRequest.html" title="Implements MTurk CreateWorkerBlock requests. " alt="" coords="509,515,705,556"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MTurk_1_1DeleteHITRequest.html" title="Implements MTurk DeleteHIT requests. " alt="" coords="495,581,719,607"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MTurk_1_1DeleteQualificationTypeRequest.html" title="Implements MTurk DeleteQualificationType requests. " alt="" coords="494,632,719,673"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MTurk_1_1DeleteWorkerBlockRequest.html" title="Implements MTurk DeleteWorkerBlock requests. " alt="" coords="509,697,704,739"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MTurk_1_1DisassociateQualificationFromWorkerRequest.html" title="Implements MTurk DisassociateQualificationFromWorker requests. " alt="" coords="499,763,714,804"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MTurk_1_1GetAccountBalanceRequest.html" title="Implements MTurk GetAccountBalance requests. " alt="" coords="515,828,699,869"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MTurk_1_1GetAssignmentRequest.html" title="Implements MTurk GetAssignment requests. " alt="" coords="504,893,709,935"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MTurk_1_1GetFileUploadURLRequest.html" title="Implements MTurk GetFileUploadURL requests. " alt="" coords="507,959,706,1000"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MTurk_1_1GetHITRequest.html" title="Implements MTurk GetHIT requests. " alt="" coords="503,1025,710,1051"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1MTurk_1_1GetQualificationScoreRequest.html" title="Implements MTurk GetQualificationScore requests. " alt="" coords="503,1076,711,1117"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1MTurk_1_1GetQualificationTypeRequest.html" title="Implements MTurk GetQualificationType requests. " alt="" coords="503,1141,711,1183"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1MTurk_1_1ListAssignmentsForHITRequest.html" title="Implements MTurk ListAssignmentsForHIT requests. " alt="" coords="501,1207,713,1248"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1MTurk_1_1ListBonusPaymentsRequest.html" title="Implements MTurk ListBonusPayments requests. " alt="" coords="491,1272,723,1313"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1MTurk_1_1ListHITsForQualificationTypeRequest.html" title="Implements MTurk ListHITsForQualificationType requests. " alt="" coords="515,1337,699,1379"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1MTurk_1_1ListHITsRequest.html" title="Implements MTurk ListHITs requests. " alt="" coords="499,1403,714,1430"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1MTurk_1_1ListQualificationRequestsRequest.html" title="Implements MTurk ListQualificationRequests requests. " alt="" coords="503,1455,711,1496"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1MTurk_1_1ListQualificationTypesRequest.html" title="Implements MTurk ListQualificationTypes requests. " alt="" coords="503,1520,711,1561"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1MTurk_1_1ListReviewableHITsRequest.html" title="Implements MTurk ListReviewableHITs requests. " alt="" coords="505,1585,709,1627"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1MTurk_1_1ListReviewPolicyResultsForHITRequest.html" title="Implements MTurk ListReviewPolicyResultsForHIT requests. " alt="" coords="510,1651,703,1692"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1MTurk_1_1ListWorkerBlocksRequest.html" title="Implements MTurk ListWorkerBlocks requests. " alt="" coords="517,1716,696,1757"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1MTurk_1_1ListWorkersWithQualificationTypeRequest.html" title="Implements MTurk ListWorkersWithQualificationType requests. " alt="" coords="507,1781,706,1823"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1MTurk_1_1NotifyWorkersRequest.html" title="Implements MTurk NotifyWorkers requests. " alt="" coords="507,1847,706,1888"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1MTurk_1_1RejectAssignmentRequest.html" title="Implements MTurk RejectAssignment requests. " alt="" coords="495,1912,718,1953"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1MTurk_1_1RejectQualificationRequestRequest.html" title="Implements MTurk RejectQualificationRequest requests. " alt="" coords="494,1977,719,2019"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1MTurk_1_1SendBonusRequest.html" title="Implements MTurk SendBonus requests. " alt="" coords="491,2043,722,2070"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1MTurk_1_1SendTestEventNotificationRequest.html" title="Implements MTurk SendTestEventNotification requests. " alt="" coords="504,2095,709,2136"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1MTurk_1_1UpdateExpirationForHITRequest.html" title="Implements MTurk UpdateExpirationForHIT requests. " alt="" coords="499,2160,714,2201"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1MTurk_1_1UpdateHITReviewStatusRequest.html" title="Implements MTurk UpdateHITReviewStatus requests. " alt="" coords="495,2225,718,2267"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1MTurk_1_1UpdateHITTypeOfHITRequest.html" title="Implements MTurk UpdateHITTypeOfHIT requests. " alt="" coords="503,2291,711,2332"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1MTurk_1_1UpdateNotificationSettingsRequest.html" title="Implements MTurk UpdateNotificationSettings requests. " alt="" coords="495,2356,718,2397"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1MTurk_1_1UpdateQualificationTypeRequest.html" title="Implements MTurk UpdateQualificationType requests. " alt="" coords="492,2421,721,2463"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1207,187,1248"/>
+</map>

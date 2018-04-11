@@ -1,0 +1,21 @@
+<map id="QtAws::CodeStar::CodeStarResponse" name="QtAws::CodeStar::CodeStarResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CodeStar_1_1AssociateTeamMemberResponse.html" title="Handles CodeStar AssociateTeamMember responses. " alt="" coords="603,5,793,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CodeStar_1_1CreateProjectResponse.html" title="Handles CodeStar CreateProject responses. " alt="" coords="591,71,805,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CodeStar_1_1CreateUserProfileResponse.html" title="Handles CodeStar CreateUserProfile responses. " alt="" coords="598,136,798,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CodeStar_1_1DeleteProjectResponse.html" title="Handles CodeStar DeleteProject responses. " alt="" coords="592,201,804,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CodeStar_1_1DeleteUserProfileResponse.html" title="Handles CodeStar DeleteUserProfile responses. " alt="" coords="599,267,797,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CodeStar_1_1DescribeProjectResponse.html" title="Handles CodeStar DescribeProject responses. " alt="" coords="605,332,791,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CodeStar_1_1DescribeUserProfileResponse.html" title="Handles CodeStar DescribeUserProfile responses. " alt="" coords="605,397,791,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CodeStar_1_1DisassociateTeamMemberResponse.html" title="Handles CodeStar DisassociateTeamMember responses. " alt="" coords="593,463,803,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CodeStar_1_1ListProjectsResponse.html" title="Handles CodeStar ListProjects responses. " alt="" coords="597,528,799,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CodeStar_1_1ListResourcesResponse.html" title="Handles CodeStar ListResources responses. " alt="" coords="589,593,807,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CodeStar_1_1ListTagsForProjectResponse.html" title="Handles CodeStar ListTagsForProject responses. " alt="" coords="607,659,789,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CodeStar_1_1ListTeamMembersResponse.html" title="Handles CodeStar ListTeamMembers responses. " alt="" coords="605,724,791,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CodeStar_1_1ListUserProfilesResponse.html" title="Handles CodeStar ListUserProfiles responses. " alt="" coords="607,789,789,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CodeStar_1_1TagProjectResponse.html" title="Handles CodeStar TagProject responses. " alt="" coords="600,855,796,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CodeStar_1_1UntagProjectResponse.html" title="Handles CodeStar UntagProject responses. " alt="" coords="593,920,803,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CodeStar_1_1UpdateProjectResponse.html" title="Handles CodeStar UpdateProject responses. " alt="" coords="590,985,806,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CodeStar_1_1UpdateTeamMemberResponse.html" title="Handles CodeStar UpdateTeamMember responses. " alt="" coords="594,1051,802,1092"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CodeStar_1_1UpdateUserProfileResponse.html" title="Handles CodeStar UpdateUserProfile responses. " alt="" coords="597,1116,799,1157"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,561,305,603"/>
+</map>

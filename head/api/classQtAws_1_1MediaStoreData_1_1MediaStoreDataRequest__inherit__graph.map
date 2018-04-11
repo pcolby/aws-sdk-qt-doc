@@ -1,0 +1,8 @@
+<map id="QtAws::MediaStoreData::MediaStoreDataRequest" name="QtAws::MediaStoreData::MediaStoreDataRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStoreData_1_1DeleteObjectRequest.html" title="Implements MediaStoreData DeleteObject requests. " alt="" coords="459,5,623,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStoreData_1_1DescribeObjectRequest.html" title="Implements MediaStoreData DescribeObject requests. " alt="" coords="456,71,625,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStoreData_1_1GetObjectRequest.html" title="Implements MediaStoreData GetObject requests. " alt="" coords="459,136,623,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStoreData_1_1ListItemsRequest.html" title="Implements MediaStoreData ListItems requests. " alt="" coords="459,201,623,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStoreData_1_1PutObjectRequest.html" title="Implements MediaStoreData PutObject requests. " alt="" coords="459,267,623,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,136,187,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CloudSearch::DescribeScalingParametersRequest" name="QtAws::CloudSearch::DescribeScalingParametersRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudSearch_1_1CloudSearchRequest.html" title="Interface class for providing CloudSearch requests. " alt="" coords="24,95,179,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="11,5,192,47"/>
+</map>

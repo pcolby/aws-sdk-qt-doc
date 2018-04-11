@@ -1,0 +1,6 @@
+<map id="QtAws::Pricing::PricingRequest" name="QtAws::Pricing::PricingRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Pricing_1_1DescribeServicesRequest.html" title="Implements Pricing DescribeServices requests. " alt="" coords="499,5,670,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Pricing_1_1GetAttributeValuesRequest.html" title="Implements Pricing GetAttributeValues requests. " alt="" coords="491,71,679,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Pricing_1_1GetProductsRequest.html" title="Implements Pricing GetProducts requests. " alt="" coords="489,136,680,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,71,187,112"/>
+</map>

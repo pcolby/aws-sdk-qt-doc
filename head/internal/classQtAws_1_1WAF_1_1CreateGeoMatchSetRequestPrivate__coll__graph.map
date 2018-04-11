@@ -1,0 +1,5 @@
+<map id="QtAws::WAF::CreateGeoMatchSetRequestPrivate" name="QtAws::WAF::CreateGeoMatchSetRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAF_1_1WAFRequestPrivate.html" title="Private implementation for WAFRequest. " alt="" coords="5,117,233,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="194,5,375,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="258,109,439,151"/>
+</map>

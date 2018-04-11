@@ -1,0 +1,4 @@
+<map id="QtAws::SimpleDB::DeleteDomainResponse" name="QtAws::SimpleDB::DeleteDomainResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SimpleDB_1_1SimpleDBResponse.html" title="Handles SimpleDB SimpleDB responses. " alt="" coords="5,169,260,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="42,80,223,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Batch::RegisterJobDefinitionResponse" name="QtAws::Batch::RegisterJobDefinitionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Batch_1_1BatchResponse.html" title="Handles Batch Batch responses. " alt="" coords="5,169,211,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="17,80,199,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::SNS::ListTopicsResponse" name="QtAws::SNS::ListTopicsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSResponse.html" title="Handles SNS SNS responses. " alt="" coords="21,169,215,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="27,80,209,121"/>
+</map>

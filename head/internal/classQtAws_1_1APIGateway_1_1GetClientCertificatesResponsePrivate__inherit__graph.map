@@ -1,0 +1,4 @@
+<map id="QtAws::APIGateway::GetClientCertificatesResponsePrivate" name="QtAws::APIGateway::GetClientCertificatesResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayResponsePrivate.html" title="Private implementation for APIGatewayResponse. " alt="" coords="9,95,205,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="16,5,197,47"/>
+</map>

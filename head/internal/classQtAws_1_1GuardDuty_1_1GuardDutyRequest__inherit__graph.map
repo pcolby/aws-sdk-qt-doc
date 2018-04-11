@@ -1,0 +1,40 @@
+<map id="QtAws::GuardDuty::GuardDutyRequest" name="QtAws::GuardDuty::GuardDutyRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1GuardDuty_1_1AcceptInvitationRequest.html" title="Implements GuardDuty AcceptInvitation requests. " alt="" coords="510,5,693,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1GuardDuty_1_1ArchiveFindingsRequest.html" title="Implements GuardDuty ArchiveFindings requests. " alt="" coords="509,71,694,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1GuardDuty_1_1CreateDetectorRequest.html" title="Implements GuardDuty CreateDetector requests. " alt="" coords="511,136,691,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1GuardDuty_1_1CreateIPSetRequest.html" title="Implements GuardDuty CreateIPSet requests. " alt="" coords="511,201,691,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1GuardDuty_1_1CreateMembersRequest.html" title="Implements GuardDuty CreateMembers requests. " alt="" coords="511,267,691,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1GuardDuty_1_1CreateSampleFindingsRequest.html" title="Implements GuardDuty CreateSampleFindings requests. " alt="" coords="511,332,691,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1GuardDuty_1_1CreateThreatIntelSetRequest.html" title="Implements GuardDuty CreateThreatIntelSet requests. " alt="" coords="511,397,691,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1GuardDuty_1_1DeclineInvitationsRequest.html" title="Implements GuardDuty DeclineInvitations requests. " alt="" coords="509,463,694,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1GuardDuty_1_1DeleteDetectorRequest.html" title="Implements GuardDuty DeleteDetector requests. " alt="" coords="512,528,691,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1GuardDuty_1_1DeleteInvitationsRequest.html" title="Implements GuardDuty DeleteInvitations requests. " alt="" coords="512,593,691,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1GuardDuty_1_1DeleteIPSetRequest.html" title="Implements GuardDuty DeleteIPSet requests. " alt="" coords="512,659,691,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1GuardDuty_1_1DeleteMembersRequest.html" title="Implements GuardDuty DeleteMembers requests. " alt="" coords="512,724,691,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1GuardDuty_1_1DeleteThreatIntelSetRequest.html" title="Implements GuardDuty DeleteThreatIntelSet requests. " alt="" coords="512,789,691,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1GuardDuty_1_1DisassociateFromMasterAccountRequest.html" title="Implements GuardDuty DisassociateFromMasterAccount requests. " alt="" coords="493,855,710,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1GuardDuty_1_1DisassociateMembersRequest.html" title="Implements GuardDuty DisassociateMembers requests. " alt="" coords="493,920,710,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1GuardDuty_1_1GetDetectorRequest.html" title="Implements GuardDuty GetDetector requests. " alt="" coords="495,985,707,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1GuardDuty_1_1GetFindingsRequest.html" title="Implements GuardDuty GetFindings requests. " alt="" coords="496,1051,707,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1GuardDuty_1_1GetFindingsStatisticsRequest.html" title="Implements GuardDuty GetFindingsStatistics requests. " alt="" coords="496,1116,707,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1GuardDuty_1_1GetInvitationsCountRequest.html" title="Implements GuardDuty GetInvitationsCount requests. " alt="" coords="490,1181,713,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1GuardDuty_1_1GetIPSetRequest.html" title="Implements GuardDuty GetIPSet requests. " alt="" coords="504,1247,699,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1GuardDuty_1_1GetMasterAccountRequest.html" title="Implements GuardDuty GetMasterAccount requests. " alt="" coords="500,1312,703,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1GuardDuty_1_1GetMembersRequest.html" title="Implements GuardDuty GetMembers requests. " alt="" coords="493,1377,709,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1GuardDuty_1_1GetThreatIntelSetRequest.html" title="Implements GuardDuty GetThreatIntelSet requests. " alt="" coords="502,1443,701,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1GuardDuty_1_1InviteMembersRequest.html" title="Implements GuardDuty InviteMembers requests. " alt="" coords="515,1508,688,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1GuardDuty_1_1ListDetectorsRequest.html" title="Implements GuardDuty ListDetectors requests. " alt="" coords="492,1573,711,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1GuardDuty_1_1ListFindingsRequest.html" title="Implements GuardDuty ListFindings requests. " alt="" coords="496,1639,707,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1GuardDuty_1_1ListInvitationsRequest.html" title="Implements GuardDuty ListInvitations requests. " alt="" coords="490,1704,713,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1GuardDuty_1_1ListIPSetsRequest.html" title="Implements GuardDuty ListIPSets requests. " alt="" coords="500,1769,703,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1GuardDuty_1_1ListMembersRequest.html" title="Implements GuardDuty ListMembers requests. " alt="" coords="493,1835,709,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1GuardDuty_1_1ListThreatIntelSetsRequest.html" title="Implements GuardDuty ListThreatIntelSets requests. " alt="" coords="502,1900,701,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1GuardDuty_1_1StartMonitoringMembersRequest.html" title="Implements GuardDuty StartMonitoringMembers requests. " alt="" coords="487,1965,716,2007"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1GuardDuty_1_1StopMonitoringMembersRequest.html" title="Implements GuardDuty StopMonitoringMembers requests. " alt="" coords="487,2031,715,2072"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1GuardDuty_1_1UnarchiveFindingsRequest.html" title="Implements GuardDuty UnarchiveFindings requests. " alt="" coords="501,2096,701,2137"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1GuardDuty_1_1UpdateDetectorRequest.html" title="Implements GuardDuty UpdateDetector requests. " alt="" coords="510,2161,693,2203"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1GuardDuty_1_1UpdateFindingsFeedbackRequest.html" title="Implements GuardDuty UpdateFindingsFeedback requests. " alt="" coords="510,2227,693,2268"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1GuardDuty_1_1UpdateIPSetRequest.html" title="Implements GuardDuty UpdateIPSet requests. " alt="" coords="510,2292,693,2333"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1GuardDuty_1_1UpdateThreatIntelSetRequest.html" title="Implements GuardDuty UpdateThreatIntelSet requests. " alt="" coords="510,2357,693,2399"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1181,187,1223"/>
+</map>

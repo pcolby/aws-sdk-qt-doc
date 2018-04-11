@@ -1,0 +1,4 @@
+<map id="QtAws::IAM::AttachGroupPolicyResponsePrivate" name="QtAws::IAM::AttachGroupPolicyResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1IAM_1_1IAMResponsePrivate.html" title="Private implementation for IAMResponse. " alt="" coords="5,95,232,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="28,5,209,47"/>
+</map>

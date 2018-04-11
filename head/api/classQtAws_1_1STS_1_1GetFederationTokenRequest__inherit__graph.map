@@ -1,0 +1,4 @@
+<map id="QtAws::STS::GetFederationTokenRequest" name="QtAws::STS::GetFederationTokenRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1STS_1_1STSRequest.html" title="Interface class for providing STS requests. " alt="" coords="9,95,188,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="8,5,189,47"/>
+</map>

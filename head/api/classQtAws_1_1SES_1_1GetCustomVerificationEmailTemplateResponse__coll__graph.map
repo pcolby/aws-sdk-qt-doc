@@ -1,0 +1,4 @@
+<map id="QtAws::SES::GetCustomVerificationEmailTemplateResponse" name="QtAws::SES::GetCustomVerificationEmailTemplateResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESResponse.html" title="Handles SES SES responses. " alt="" coords="29,169,219,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="33,80,215,121"/>
+</map>

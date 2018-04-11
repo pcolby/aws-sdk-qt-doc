@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScaling::DescribeAutoScalingGroupsResponsePrivate" name="QtAws::AutoScaling::DescribeAutoScalingGroupsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingResponsePrivate.html" title="Private implementation for AutoScalingResponse. " alt="" coords="5,95,205,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="15,5,196,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Glacier::ListPartsResponse" name="QtAws::Glacier::ListPartsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Glacier_1_1GlacierResponse.html" title="Handles Glacier Glacier responses. " alt="" coords="5,169,224,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="24,80,205,121"/>
+</map>

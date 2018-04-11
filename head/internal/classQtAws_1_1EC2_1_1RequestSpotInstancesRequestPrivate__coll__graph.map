@@ -1,0 +1,5 @@
+<map id="QtAws::EC2::RequestSpotInstancesRequestPrivate" name="QtAws::EC2::RequestSpotInstancesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2RequestPrivate.html" title="Private implementation for EC2Request. " alt="" coords="14,117,234,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="195,5,376,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="259,109,440,151"/>
+</map>

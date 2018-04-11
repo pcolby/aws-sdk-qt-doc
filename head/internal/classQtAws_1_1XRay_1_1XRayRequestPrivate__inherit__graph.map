@@ -1,0 +1,9 @@
+<map id="QtAws::XRay::XRayRequestPrivate" name="QtAws::XRay::XRayRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1XRay_1_1BatchGetTracesRequestPrivate.html" title="Private implementation for BatchGetTracesRequest. " alt="" coords="488,5,695,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1XRay_1_1GetServiceGraphRequestPrivate.html" title="Private implementation for GetServiceGraphRequest. " alt="" coords="486,71,697,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1XRay_1_1GetTraceGraphRequestPrivate.html" title="Private implementation for GetTraceGraphRequest. " alt="" coords="491,136,691,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1XRay_1_1GetTraceSummariesRequestPrivate.html" title="Private implementation for GetTraceSummariesRequest. " alt="" coords="476,201,707,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1XRay_1_1PutTelemetryRecordsRequestPrivate.html" title="Private implementation for PutTelemetryRecordsRequest. " alt="" coords="497,267,686,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1XRay_1_1PutTraceSegmentsRequestPrivate.html" title="Private implementation for PutTraceSegmentsRequest. " alt="" coords="480,332,703,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,169,187,211"/>
+</map>

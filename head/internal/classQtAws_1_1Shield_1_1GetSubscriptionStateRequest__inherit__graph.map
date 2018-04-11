@@ -1,0 +1,4 @@
+<map id="QtAws::Shield::GetSubscriptionStateRequest" name="QtAws::Shield::GetSubscriptionStateRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Shield_1_1ShieldRequest.html" title="Interface class for providing Shield requests. " alt="" coords="9,95,208,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

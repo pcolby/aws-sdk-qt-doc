@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticBeanstalk::CreateApplicationVersionResponse" name="QtAws::ElasticBeanstalk::CreateApplicationVersionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticBeanstalk_1_1ElasticBeanstalkResponse.html" title="Handles ElasticBeanstalk ElasticBeanstalk responses. " alt="" coords="30,169,217,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="33,80,214,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Pinpoint::DeleteEndpointResponse" name="QtAws::Pinpoint::DeleteEndpointResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Pinpoint_1_1PinpointResponse.html" title="Handles Pinpoint Pinpoint responses. " alt="" coords="27,169,199,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

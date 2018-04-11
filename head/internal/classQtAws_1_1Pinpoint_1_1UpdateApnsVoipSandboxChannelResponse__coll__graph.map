@@ -1,0 +1,7 @@
+<map id="QtAws::Pinpoint::UpdateApnsVoipSandboxChannelResponse" name="QtAws::Pinpoint::UpdateApnsVoipSandboxChannelResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Pinpoint_1_1PinpointResponse.html" title="Handles Pinpoint Pinpoint responses. " alt="" coords="417,185,589,227"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="276,81,457,123"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="211,185,392,227"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="69,81,251,123"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,185,187,227"/>
+</map>

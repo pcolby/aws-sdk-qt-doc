@@ -1,0 +1,4 @@
+<map id="QtAws::Comprehend::BatchDetectDominantLanguageRequest" name="QtAws::Comprehend::BatchDetectDominantLanguageRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Comprehend_1_1ComprehendRequest.html" title="Interface class for providing Comprehend requests. " alt="" coords="33,95,185,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

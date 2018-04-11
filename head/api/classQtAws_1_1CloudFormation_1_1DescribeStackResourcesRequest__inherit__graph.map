@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFormation::DescribeStackResourcesRequest" name="QtAws::CloudFormation::DescribeStackResourcesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationRequest.html" title="Interface class for providing CloudFormation requests. " alt="" coords="34,95,205,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="29,5,210,47"/>
+</map>

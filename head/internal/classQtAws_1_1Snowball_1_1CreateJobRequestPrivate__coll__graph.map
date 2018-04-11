@@ -1,0 +1,5 @@
+<map id="QtAws::Snowball::CreateJobRequestPrivate" name="QtAws::Snowball::CreateJobRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Snowball_1_1SnowballRequestPrivate.html" title="Private implementation for SnowballRequest. " alt="" coords="9,109,193,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="153,5,334,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="217,109,398,151"/>
+</map>

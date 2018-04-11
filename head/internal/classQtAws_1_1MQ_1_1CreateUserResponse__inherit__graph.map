@@ -1,0 +1,4 @@
+<map id="QtAws::MQ::CreateUserResponse" name="QtAws::MQ::CreateUserResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1MQ_1_1MQResponse.html" title="Handles MQ MQ responses. " alt="" coords="29,169,207,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="27,80,209,121"/>
+</map>

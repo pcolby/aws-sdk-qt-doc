@@ -1,0 +1,5 @@
+<map id="QtAws::MediaConvert::DescribeEndpointsRequest" name="QtAws::MediaConvert::DescribeEndpointsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MediaConvert_1_1MediaConvertRequest.html" title="Interface class for providing MediaConvert requests. " alt="" coords="20,109,180,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="140,5,321,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="204,109,385,151"/>
+</map>

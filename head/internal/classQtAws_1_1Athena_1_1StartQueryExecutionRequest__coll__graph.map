@@ -1,0 +1,5 @@
+<map id="QtAws::Athena::StartQueryExecutionRequest" name="QtAws::Athena::StartQueryExecutionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Athena_1_1AthenaRequest.html" title="Interface class for providing Athena requests. " alt="" coords="5,117,215,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="175,5,357,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="239,109,421,151"/>
+</map>

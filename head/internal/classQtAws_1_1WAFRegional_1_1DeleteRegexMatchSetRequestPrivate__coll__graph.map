@@ -1,0 +1,5 @@
+<map id="QtAws::WAFRegional::DeleteRegexMatchSetRequestPrivate" name="QtAws::WAFRegional::DeleteRegexMatchSetRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalRequestPrivate.html" title="Private implementation for WAFRegionalRequest. " alt="" coords="10,109,211,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="172,5,353,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="236,109,417,151"/>
+</map>

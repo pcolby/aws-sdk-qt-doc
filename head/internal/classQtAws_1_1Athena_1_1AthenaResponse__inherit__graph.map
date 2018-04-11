@@ -1,0 +1,14 @@
+<map id="QtAws::Athena::AthenaResponse" name="QtAws::Athena::AthenaResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Athena_1_1BatchGetNamedQueryResponse.html" title="Handles Athena BatchGetNamedQuery responses. " alt="" coords="629,5,845,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Athena_1_1BatchGetQueryExecutionResponse.html" title="Handles Athena BatchGetQueryExecution responses. " alt="" coords="632,71,841,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Athena_1_1CreateNamedQueryResponse.html" title="Handles Athena CreateNamedQuery responses. " alt="" coords="637,136,837,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Athena_1_1DeleteNamedQueryResponse.html" title="Handles Athena DeleteNamedQuery responses. " alt="" coords="637,201,836,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Athena_1_1GetNamedQueryResponse.html" title="Handles Athena GetNamedQuery responses. " alt="" coords="628,267,845,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Athena_1_1GetQueryExecutionResponse.html" title="Handles Athena GetQueryExecution responses. " alt="" coords="620,332,853,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Athena_1_1GetQueryResultsResponse.html" title="Handles Athena GetQueryResults responses. " alt="" coords="627,397,847,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Athena_1_1ListNamedQueriesResponse.html" title="Handles Athena ListNamedQueries responses. " alt="" coords="645,463,828,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Athena_1_1ListQueryExecutionsResponse.html" title="Handles Athena ListQueryExecutions responses. " alt="" coords="649,528,824,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Athena_1_1StartQueryExecutionResponse.html" title="Handles Athena StartQueryExecution responses. " alt="" coords="645,593,828,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Athena_1_1StopQueryExecutionResponse.html" title="Handles Athena StopQueryExecution responses. " alt="" coords="646,659,827,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,332,305,373"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="QtAws::ElasticTranscoder::ElasticTranscoderResponse" name="QtAws::ElasticTranscoder::ElasticTranscoderResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ElasticTranscoder_1_1CancelJobResponse.html" title="Handles ElasticTranscoder CancelJob responses. " alt="" coords="634,5,809,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ElasticTranscoder_1_1CreateJobResponse.html" title="Handles ElasticTranscoder CreateJob responses. " alt="" coords="634,71,809,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ElasticTranscoder_1_1CreatePipelineResponse.html" title="Handles ElasticTranscoder CreatePipeline responses. " alt="" coords="634,136,809,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ElasticTranscoder_1_1CreatePresetResponse.html" title="Handles ElasticTranscoder CreatePreset responses. " alt="" coords="634,201,809,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ElasticTranscoder_1_1DeletePipelineResponse.html" title="Handles ElasticTranscoder DeletePipeline responses. " alt="" coords="634,267,809,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ElasticTranscoder_1_1DeletePresetResponse.html" title="Handles ElasticTranscoder DeletePreset responses. " alt="" coords="634,332,809,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ElasticTranscoder_1_1ListJobsByPipelineResponse.html" title="Handles ElasticTranscoder ListJobsByPipeline responses. " alt="" coords="621,397,821,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ElasticTranscoder_1_1ListJobsByStatusResponse.html" title="Handles ElasticTranscoder ListJobsByStatus responses. " alt="" coords="625,463,817,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ElasticTranscoder_1_1ListPipelinesResponse.html" title="Handles ElasticTranscoder ListPipelines responses. " alt="" coords="634,528,809,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ElasticTranscoder_1_1ListPresetsResponse.html" title="Handles ElasticTranscoder ListPresets responses. " alt="" coords="634,593,809,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ElasticTranscoder_1_1ReadJobResponse.html" title="Handles ElasticTranscoder ReadJob responses. " alt="" coords="634,659,809,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ElasticTranscoder_1_1ReadPipelineResponse.html" title="Handles ElasticTranscoder ReadPipeline responses. " alt="" coords="634,724,809,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ElasticTranscoder_1_1ReadPresetResponse.html" title="Handles ElasticTranscoder ReadPreset responses. " alt="" coords="634,789,809,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ElasticTranscoder_1_1TestRoleResponse.html" title="Handles ElasticTranscoder TestRole responses. " alt="" coords="634,855,809,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineNotificationsResponse.html" title="Handles ElasticTranscoder UpdatePipelineNotifications responses. " alt="" coords="596,920,847,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineResponse.html" title="Handles ElasticTranscoder UpdatePipeline responses. " alt="" coords="633,985,810,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineStatusResponse.html" title="Handles ElasticTranscoder UpdatePipelineStatus responses. " alt="" coords="614,1051,829,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,528,305,569"/>
+</map>

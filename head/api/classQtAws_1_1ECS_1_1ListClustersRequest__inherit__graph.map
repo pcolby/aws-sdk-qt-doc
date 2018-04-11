@@ -1,0 +1,4 @@
+<map id="QtAws::ECS::ListClustersRequest" name="QtAws::ECS::ListClustersRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ECS_1_1ECSRequest.html" title="Interface class for providing ECS requests. " alt="" coords="5,95,188,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="6,5,187,47"/>
+</map>

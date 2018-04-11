@@ -1,0 +1,9 @@
+<map id="QtAws::Polly::PollyRequest" name="QtAws::Polly::PollyRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Polly_1_1DeleteLexiconRequest.html" title="Implements Polly DeleteLexicon requests. " alt="" coords="472,5,663,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Polly_1_1DescribeVoicesRequest.html" title="Implements Polly DescribeVoices requests. " alt="" coords="468,71,667,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Polly_1_1GetLexiconRequest.html" title="Implements Polly GetLexicon requests. " alt="" coords="481,136,654,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Polly_1_1ListLexiconsRequest.html" title="Implements Polly ListLexicons requests. " alt="" coords="477,201,657,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Polly_1_1PutLexiconRequest.html" title="Implements Polly PutLexicon requests. " alt="" coords="481,267,653,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Polly_1_1SynthesizeSpeechRequest.html" title="Implements Polly SynthesizeSpeech requests. " alt="" coords="481,332,653,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,169,187,211"/>
+</map>

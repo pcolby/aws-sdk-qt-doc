@@ -1,0 +1,4 @@
+<map id="QtAws::DataPipeline::ReportTaskRunnerHeartbeatRequest" name="QtAws::DataPipeline::ReportTaskRunnerHeartbeatRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DataPipeline_1_1DataPipelineRequest.html" title="Interface class for providing DataPipeline requests. " alt="" coords="27,95,181,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="13,5,195,47"/>
+</map>

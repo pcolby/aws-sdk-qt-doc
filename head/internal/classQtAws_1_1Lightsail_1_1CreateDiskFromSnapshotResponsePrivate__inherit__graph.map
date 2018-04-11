@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::CreateDiskFromSnapshotResponsePrivate" name="QtAws::Lightsail::CreateDiskFromSnapshotResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailResponsePrivate.html" title="Private implementation for LightsailResponse. " alt="" coords="35,95,210,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="32,5,213,47"/>
+</map>

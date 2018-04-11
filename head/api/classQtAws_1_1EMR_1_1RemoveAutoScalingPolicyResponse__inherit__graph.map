@@ -1,0 +1,4 @@
+<map id="QtAws::EMR::RemoveAutoScalingPolicyResponse" name="QtAws::EMR::RemoveAutoScalingPolicyResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EMR_1_1EMRResponse.html" title="Handles EMR EMR responses. " alt="" coords="20,169,217,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="28,80,209,121"/>
+</map>

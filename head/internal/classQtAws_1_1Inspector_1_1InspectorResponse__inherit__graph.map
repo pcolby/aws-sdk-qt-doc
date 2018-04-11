@@ -1,0 +1,36 @@
+<map id="QtAws::Inspector::InspectorResponse" name="QtAws::Inspector::InspectorResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Inspector_1_1AddAttributesToFindingsResponse.html" title="Handles Inspector AddAttributesToFindings responses. " alt="" coords="600,5,811,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTargetResponse.html" title="Handles Inspector CreateAssessmentTarget responses. " alt="" coords="610,71,801,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTemplateResponse.html" title="Handles Inspector CreateAssessmentTemplate responses. " alt="" coords="601,136,809,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Inspector_1_1CreateResourceGroupResponse.html" title="Handles Inspector CreateResourceGroup responses. " alt="" coords="619,201,791,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentRunResponse.html" title="Handles Inspector DeleteAssessmentRun responses. " alt="" coords="616,267,795,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTargetResponse.html" title="Handles Inspector DeleteAssessmentTarget responses. " alt="" coords="610,332,801,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTemplateResponse.html" title="Handles Inspector DeleteAssessmentTemplate responses. " alt="" coords="601,397,809,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentRunsResponse.html" title="Handles Inspector DescribeAssessmentRuns responses. " alt="" coords="613,463,798,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTargetsResponse.html" title="Handles Inspector DescribeAssessmentTargets responses. " alt="" coords="606,528,805,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTemplatesResponse.html" title="Handles Inspector DescribeAssessmentTemplates responses. " alt="" coords="598,593,813,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Inspector_1_1DescribeCrossAccountAccessRoleResponse.html" title="Handles Inspector DescribeCrossAccountAccessRole responses. " alt="" coords="588,659,823,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Inspector_1_1DescribeFindingsResponse.html" title="Handles Inspector DescribeFindings responses. " alt="" coords="613,724,797,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Inspector_1_1DescribeResourceGroupsResponse.html" title="Handles Inspector DescribeResourceGroups responses. " alt="" coords="613,789,797,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Inspector_1_1DescribeRulesPackagesResponse.html" title="Handles Inspector DescribeRulesPackages responses. " alt="" coords="613,855,797,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Inspector_1_1GetAssessmentReportResponse.html" title="Handles Inspector GetAssessmentReport responses. " alt="" coords="592,920,819,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Inspector_1_1GetTelemetryMetadataResponse.html" title="Handles Inspector GetTelemetryMetadata responses. " alt="" coords="600,985,811,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunAgentsResponse.html" title="Handles Inspector ListAssessmentRunAgents responses. " alt="" coords="592,1051,819,1092"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunsResponse.html" title="Handles Inspector ListAssessmentRuns responses. " alt="" coords="592,1116,819,1157"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Inspector_1_1ListAssessmentTargetsResponse.html" title="Handles Inspector ListAssessmentTargets responses. " alt="" coords="592,1181,819,1223"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Inspector_1_1ListAssessmentTemplatesResponse.html" title="Handles Inspector ListAssessmentTemplates responses. " alt="" coords="592,1247,819,1288"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Inspector_1_1ListEventSubscriptionsResponse.html" title="Handles Inspector ListEventSubscriptions responses. " alt="" coords="612,1312,799,1353"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Inspector_1_1ListFindingsResponse.html" title="Handles Inspector ListFindings responses. " alt="" coords="604,1377,807,1419"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Inspector_1_1ListRulesPackagesResponse.html" title="Handles Inspector ListRulesPackages responses. " alt="" coords="612,1443,799,1484"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Inspector_1_1ListTagsForResourceResponse.html" title="Handles Inspector ListTagsForResource responses. " alt="" coords="614,1508,797,1549"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Inspector_1_1PreviewAgentsResponse.html" title="Handles Inspector PreviewAgents responses. " alt="" coords="616,1573,795,1615"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Inspector_1_1RegisterCrossAccountAccessRoleResponse.html" title="Handles Inspector RegisterCrossAccountAccessRole responses. " alt="" coords="588,1639,823,1680"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Inspector_1_1RemoveAttributesFromFindingsResponse.html" title="Handles Inspector RemoveAttributesFromFindings responses. " alt="" coords="597,1704,813,1745"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Inspector_1_1SetTagsForResourceResponse.html" title="Handles Inspector SetTagsForResource responses. " alt="" coords="615,1769,796,1811"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Inspector_1_1StartAssessmentRunResponse.html" title="Handles Inspector StartAssessmentRun responses. " alt="" coords="589,1835,822,1876"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Inspector_1_1StopAssessmentRunResponse.html" title="Handles Inspector StopAssessmentRun responses. " alt="" coords="589,1900,821,1941"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Inspector_1_1SubscribeToEventResponse.html" title="Handles Inspector SubscribeToEvent responses. " alt="" coords="610,1965,801,2007"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1Inspector_1_1UnsubscribeFromEventResponse.html" title="Handles Inspector UnsubscribeFromEvent responses. " alt="" coords="603,2031,808,2072"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1Inspector_1_1UpdateAssessmentTargetResponse.html" title="Handles Inspector UpdateAssessmentTarget responses. " alt="" coords="610,2096,801,2137"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,1051,305,1092"/>
+</map>

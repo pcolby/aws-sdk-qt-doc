@@ -1,0 +1,4 @@
+<map id="QtAws::ECR::InitiateLayerUploadResponse" name="QtAws::ECR::InitiateLayerUploadResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ECR_1_1ECRResponse.html" title="Handles ECR ECR responses. " alt="" coords="5,169,200,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="12,80,193,121"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="QtAws::CognitoIdentity::CognitoIdentityResponse" name="QtAws::CognitoIdentity::CognitoIdentityResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoIdentity_1_1CreateIdentityPoolResponse.html" title="Handles CognitoIdentity CreateIdentityPool responses. " alt="" coords="599,5,797,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentitiesResponse.html" title="Handles CognitoIdentity DeleteIdentities responses. " alt="" coords="608,71,788,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentityPoolResponse.html" title="Handles CognitoIdentity DeleteIdentityPool responses. " alt="" coords="600,136,796,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityPoolResponse.html" title="Handles CognitoIdentity DescribeIdentityPool responses. " alt="" coords="593,201,803,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityResponse.html" title="Handles CognitoIdentity DescribeIdentity responses. " alt="" coords="606,267,790,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoIdentity_1_1GetCredentialsForIdentityResponse.html" title="Handles CognitoIdentity GetCredentialsForIdentity responses. " alt="" coords="579,332,817,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoIdentity_1_1GetIdentityPoolRolesResponse.html" title="Handles CognitoIdentity GetIdentityPoolRoles responses. " alt="" coords="591,397,805,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoIdentity_1_1GetIdResponse.html" title="Handles CognitoIdentity GetId responses. " alt="" coords="619,463,777,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenForDeveloperIdentityResponse.html" title="Handles CognitoIdentity GetOpenIdTokenForDeveloperIdentity responses. " alt="" coords="595,529,801,585"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenResponse.html" title="Handles CognitoIdentity GetOpenIdToken responses. " alt="" coords="604,609,792,651"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentitiesResponse.html" title="Handles CognitoIdentity ListIdentities responses. " alt="" coords="617,675,779,716"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentityPoolsResponse.html" title="Handles CognitoIdentity ListIdentityPools responses. " alt="" coords="605,740,791,781"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoIdentity_1_1LookupDeveloperIdentityResponse.html" title="Handles CognitoIdentity LookupDeveloperIdentity responses. " alt="" coords="581,805,815,847"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoIdentity_1_1MergeDeveloperIdentitiesResponse.html" title="Handles CognitoIdentity MergeDeveloperIdentities responses. " alt="" coords="579,871,817,912"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoIdentity_1_1SetIdentityPoolRolesResponse.html" title="Handles CognitoIdentity SetIdentityPoolRoles responses. " alt="" coords="592,936,804,977"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkDeveloperIdentityResponse.html" title="Handles CognitoIdentity UnlinkDeveloperIdentity responses. " alt="" coords="584,1001,812,1043"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkIdentityResponse.html" title="Handles CognitoIdentity UnlinkIdentity responses. " alt="" coords="613,1067,783,1108"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CognitoIdentity_1_1UpdateIdentityPoolResponse.html" title="Handles CognitoIdentity UpdateIdentityPool responses. " alt="" coords="598,1132,798,1173"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,573,305,615"/>
+</map>

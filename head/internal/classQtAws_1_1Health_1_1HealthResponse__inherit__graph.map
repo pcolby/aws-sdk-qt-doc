@@ -1,0 +1,9 @@
+<map id="QtAws::Health::HealthResponse" name="QtAws::Health::HealthResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Health_1_1DescribeAffectedEntitiesResponse.html" title="Handles Health DescribeAffectedEntities responses. " alt="" coords="615,5,832,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Health_1_1DescribeEntityAggregatesResponse.html" title="Handles Health DescribeEntityAggregates responses. " alt="" coords="622,71,825,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Health_1_1DescribeEventAggregatesResponse.html" title="Handles Health DescribeEventAggregates responses. " alt="" coords="622,136,825,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Health_1_1DescribeEventDetailsResponse.html" title="Handles Health DescribeEventDetails responses. " alt="" coords="622,201,825,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Health_1_1DescribeEventsResponse.html" title="Handles Health DescribeEvents responses. " alt="" coords="619,267,828,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Health_1_1DescribeEventTypesResponse.html" title="Handles Health DescribeEventTypes responses. " alt="" coords="622,332,825,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,169,305,211"/>
+</map>

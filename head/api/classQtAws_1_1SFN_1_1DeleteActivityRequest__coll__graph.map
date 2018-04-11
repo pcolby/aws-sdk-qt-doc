@@ -1,0 +1,4 @@
+<map id="QtAws::SFN::DeleteActivityRequest" name="QtAws::SFN::DeleteActivityRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SFN_1_1SFNRequest.html" title="Interface class for providing SFN requests. " alt="" coords="8,95,189,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="8,5,189,47"/>
+</map>

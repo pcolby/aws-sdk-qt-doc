@@ -1,0 +1,4 @@
+<map id="QtAws::SWF::CountOpenWorkflowExecutionsResponse" name="QtAws::SWF::CountOpenWorkflowExecutionsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SWF_1_1SWFResponse.html" title="Handles SWF SWF responses. " alt="" coords="21,169,219,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="29,80,211,121"/>
+</map>

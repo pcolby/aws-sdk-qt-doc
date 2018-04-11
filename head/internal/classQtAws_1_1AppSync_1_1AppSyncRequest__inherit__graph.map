@@ -1,0 +1,30 @@
+<map id="QtAws::AppSync::AppSyncRequest" name="QtAws::AppSync::AppSyncRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1AppSync_1_1CreateApiKeyRequest.html" title="Implements AppSync CreateApiKey requests. " alt="" coords="537,5,726,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1AppSync_1_1CreateDataSourceRequest.html" title="Implements AppSync CreateDataSource requests. " alt="" coords="532,71,731,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AppSync_1_1CreateGraphqlApiRequest.html" title="Implements AppSync CreateGraphqlApi requests. " alt="" coords="524,136,739,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AppSync_1_1CreateResolverRequest.html" title="Implements AppSync CreateResolver requests. " alt="" coords="520,201,743,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1AppSync_1_1CreateTypeRequest.html" title="Implements AppSync CreateType requests. " alt="" coords="532,267,731,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1AppSync_1_1DeleteApiKeyRequest.html" title="Implements AppSync DeleteApiKey requests. " alt="" coords="537,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1AppSync_1_1DeleteDataSourceRequest.html" title="Implements AppSync DeleteDataSource requests. " alt="" coords="533,397,730,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1AppSync_1_1DeleteGraphqlApiRequest.html" title="Implements AppSync DeleteGraphqlApi requests. " alt="" coords="524,463,739,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1AppSync_1_1DeleteResolverRequest.html" title="Implements AppSync DeleteResolver requests. " alt="" coords="521,528,742,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1AppSync_1_1DeleteTypeRequest.html" title="Implements AppSync DeleteType requests. " alt="" coords="532,593,731,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1AppSync_1_1GetDataSourceRequest.html" title="Implements AppSync GetDataSource requests. " alt="" coords="521,659,742,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1AppSync_1_1GetGraphqlApiRequest.html" title="Implements AppSync GetGraphqlApi requests. " alt="" coords="533,724,730,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1AppSync_1_1GetIntrospectionSchemaRequest.html" title="Implements AppSync GetIntrospectionSchema requests. " alt="" coords="518,789,745,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1AppSync_1_1GetResolverRequest.html" title="Implements AppSync GetResolver requests. " alt="" coords="529,855,733,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1AppSync_1_1GetSchemaCreationStatusRequest.html" title="Implements AppSync GetSchemaCreationStatus requests. " alt="" coords="531,920,731,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1AppSync_1_1GetTypeRequest.html" title="Implements AppSync GetType requests. " alt="" coords="516,986,747,1013"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1AppSync_1_1ListApiKeysRequest.html" title="Implements AppSync ListApiKeys requests. " alt="" coords="531,1037,732,1079"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1AppSync_1_1ListDataSourcesRequest.html" title="Implements AppSync ListDataSources requests. " alt="" coords="541,1103,721,1144"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1AppSync_1_1ListGraphqlApisRequest.html" title="Implements AppSync ListGraphqlApis requests. " alt="" coords="533,1168,730,1209"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1AppSync_1_1ListResolversRequest.html" title="Implements AppSync ListResolvers requests. " alt="" coords="526,1233,737,1275"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1AppSync_1_1ListTypesRequest.html" title="Implements AppSync ListTypes requests. " alt="" coords="537,1299,725,1340"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1AppSync_1_1StartSchemaCreationRequest.html" title="Implements AppSync StartSchemaCreation requests. " alt="" coords="528,1364,735,1405"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1AppSync_1_1UpdateApiKeyRequest.html" title="Implements AppSync UpdateApiKey requests. " alt="" coords="535,1429,727,1471"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1AppSync_1_1UpdateDataSourceRequest.html" title="Implements AppSync UpdateDataSource requests. " alt="" coords="531,1495,732,1536"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1AppSync_1_1UpdateGraphqlApiRequest.html" title="Implements AppSync UpdateGraphqlApi requests. " alt="" coords="522,1560,741,1601"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1AppSync_1_1UpdateResolverRequest.html" title="Implements AppSync UpdateResolver requests. " alt="" coords="519,1625,744,1667"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1AppSync_1_1UpdateTypeRequest.html" title="Implements AppSync UpdateType requests. " alt="" coords="530,1691,733,1732"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,855,187,896"/>
+</map>

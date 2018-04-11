@@ -1,0 +1,36 @@
+<map id="QtAws::Glacier::GlacierRequest" name="QtAws::Glacier::GlacierRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Glacier_1_1AbortMultipartUploadRequest.html" title="Implements Glacier AbortMultipartUpload requests. " alt="" coords="502,5,702,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Glacier_1_1AbortVaultLockRequest.html" title="Implements Glacier AbortVaultLock requests. " alt="" coords="512,71,692,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Glacier_1_1AddTagsToVaultRequest.html" title="Implements Glacier AddTagsToVault requests. " alt="" coords="509,136,695,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Glacier_1_1CompleteMultipartUploadRequest.html" title="Implements Glacier CompleteMultipartUpload requests. " alt="" coords="515,201,689,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Glacier_1_1CompleteVaultLockRequest.html" title="Implements Glacier CompleteVaultLock requests. " alt="" coords="515,267,689,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Glacier_1_1CreateVaultRequest.html" title="Implements Glacier CreateVault requests. " alt="" coords="508,332,696,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Glacier_1_1DeleteArchiveRequest.html" title="Implements Glacier DeleteArchive requests. " alt="" coords="501,397,703,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Glacier_1_1DeleteVaultAccessPolicyRequest.html" title="Implements Glacier DeleteVaultAccessPolicy requests. " alt="" coords="509,463,695,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Glacier_1_1DeleteVaultNotificationsRequest.html" title="Implements Glacier DeleteVaultNotifications requests. " alt="" coords="509,528,695,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Glacier_1_1DeleteVaultRequest.html" title="Implements Glacier DeleteVault requests. " alt="" coords="509,593,695,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Glacier_1_1DescribeJobRequest.html" title="Implements Glacier DescribeJob requests. " alt="" coords="517,659,687,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Glacier_1_1DescribeVaultRequest.html" title="Implements Glacier DescribeVault requests. " alt="" coords="517,724,687,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Glacier_1_1GetDataRetrievalPolicyRequest.html" title="Implements Glacier GetDataRetrievalPolicy requests. " alt="" coords="492,789,712,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Glacier_1_1GetJobOutputRequest.html" title="Implements Glacier GetJobOutput requests. " alt="" coords="502,855,702,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Glacier_1_1GetVaultAccessPolicyRequest.html" title="Implements Glacier GetVaultAccessPolicy requests. " alt="" coords="517,920,687,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Glacier_1_1GetVaultLockRequest.html" title="Implements Glacier GetVaultLock requests. " alt="" coords="517,985,687,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Glacier_1_1GetVaultNotificationsRequest.html" title="Implements Glacier GetVaultNotifications requests. " alt="" coords="517,1051,687,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Glacier_1_1InitiateJobRequest.html" title="Implements Glacier InitiateJob requests. " alt="" coords="523,1116,681,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Glacier_1_1InitiateMultipartUploadRequest.html" title="Implements Glacier InitiateMultipartUpload requests. " alt="" coords="521,1181,683,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Glacier_1_1InitiateVaultLockRequest.html" title="Implements Glacier InitiateVaultLock requests. " alt="" coords="523,1247,681,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Glacier_1_1ListJobsRequest.html" title="Implements Glacier ListJobs requests. " alt="" coords="518,1312,686,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Glacier_1_1ListMultipartUploadsRequest.html" title="Implements Glacier ListMultipartUploads requests. " alt="" coords="507,1377,697,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Glacier_1_1ListPartsRequest.html" title="Implements Glacier ListParts requests. " alt="" coords="517,1443,687,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Glacier_1_1ListProvisionedCapacityRequest.html" title="Implements Glacier ListProvisionedCapacity requests. " alt="" coords="498,1508,706,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Glacier_1_1ListTagsForVaultRequest.html" title="Implements Glacier ListTagsForVault requests. " alt="" coords="517,1573,687,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Glacier_1_1ListVaultsRequest.html" title="Implements Glacier ListVaults requests. " alt="" coords="513,1639,691,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Glacier_1_1PurchaseProvisionedCapacityRequest.html" title="Implements Glacier PurchaseProvisionedCapacity requests. " alt="" coords="507,1704,697,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Glacier_1_1RemoveTagsFromVaultRequest.html" title="Implements Glacier RemoveTagsFromVault requests. " alt="" coords="503,1769,701,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Glacier_1_1SetDataRetrievalPolicyRequest.html" title="Implements Glacier SetDataRetrievalPolicy requests. " alt="" coords="493,1835,711,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Glacier_1_1SetVaultAccessPolicyRequest.html" title="Implements Glacier SetVaultAccessPolicy requests. " alt="" coords="517,1900,687,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Glacier_1_1SetVaultNotificationsRequest.html" title="Implements Glacier SetVaultNotifications requests. " alt="" coords="517,1965,687,2007"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Glacier_1_1UploadArchiveRequest.html" title="Implements Glacier UploadArchive requests. " alt="" coords="500,2031,704,2072"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1Glacier_1_1UploadMultipartPartRequest.html" title="Implements Glacier UploadMultipartPart requests. " alt="" coords="497,2096,707,2137"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1051,187,1092"/>
+</map>

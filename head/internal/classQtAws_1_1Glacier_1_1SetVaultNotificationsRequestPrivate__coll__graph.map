@@ -1,0 +1,5 @@
+<map id="QtAws::Glacier::SetVaultNotificationsRequestPrivate" name="QtAws::Glacier::SetVaultNotificationsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Glacier_1_1GlacierRequestPrivate.html" title="Private implementation for GlacierRequest. " alt="" coords="5,109,215,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="175,5,357,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="239,109,421,151"/>
+</map>

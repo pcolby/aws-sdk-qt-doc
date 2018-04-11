@@ -1,0 +1,8 @@
+<map id="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIRequest" name="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetResourcesRequest.html" title="Implements ResourceGroupsTaggingAPI GetResources requests. " alt="" coords="549,5,764,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagKeysRequest.html" title="Implements ResourceGroupsTaggingAPI GetTagKeys requests. " alt="" coords="549,71,764,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagValuesRequest.html" title="Implements ResourceGroupsTaggingAPI GetTagValues requests. " alt="" coords="549,136,764,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1TagResourcesRequest.html" title="Implements ResourceGroupsTaggingAPI TagResources requests. " alt="" coords="549,201,764,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1UntagResourcesRequest.html" title="Implements ResourceGroupsTaggingAPI UntagResources requests. " alt="" coords="549,267,764,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,136,187,177"/>
+</map>

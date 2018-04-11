@@ -1,0 +1,4 @@
+<map id="QtAws::ECS::DeleteAttributesRequest" name="QtAws::ECS::DeleteAttributesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ECS_1_1ECSRequest.html" title="Interface class for providing ECS requests. " alt="" coords="14,95,197,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

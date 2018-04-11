@@ -1,0 +1,5 @@
+<map id="QtAws::RDS::CreateEventSubscriptionRequest" name="QtAws::RDS::CreateEventSubscriptionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequest.html" title="Interface class for providing RDS requests. " alt="" coords="39,117,224,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="185,5,366,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="249,109,430,151"/>
+</map>

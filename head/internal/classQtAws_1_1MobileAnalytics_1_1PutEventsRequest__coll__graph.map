@@ -1,0 +1,5 @@
+<map id="QtAws::MobileAnalytics::PutEventsRequest" name="QtAws::MobileAnalytics::PutEventsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MobileAnalytics_1_1MobileAnalyticsRequest.html" title="Interface class for providing MobileAnalytics requests. " alt="" coords="5,109,176,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="136,5,317,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="200,109,381,151"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="QtAws::CloudHSM::CloudHSMResponsePrivate" name="QtAws::CloudHSM::CloudHSMResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSM_1_1AddTagsToResourceResponsePrivate.html" title="Private implementation for AddTagsToResourceResponse. " alt="" coords="561,5,755,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSM_1_1CreateHapgResponsePrivate.html" title="Private implementation for CreateHapgResponse. " alt="" coords="552,71,764,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSM_1_1CreateHsmResponsePrivate.html" title="Private implementation for CreateHsmResponse. " alt="" coords="553,136,763,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSM_1_1CreateLunaClientResponsePrivate.html" title="Private implementation for CreateLunaClientResponse. " alt="" coords="553,201,763,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSM_1_1DeleteHapgResponsePrivate.html" title="Private implementation for DeleteHapgResponse. " alt="" coords="553,267,763,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSM_1_1DeleteHsmResponsePrivate.html" title="Private implementation for DeleteHsmResponse. " alt="" coords="554,332,762,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSM_1_1DeleteLunaClientResponsePrivate.html" title="Private implementation for DeleteLunaClientResponse. " alt="" coords="554,397,762,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSM_1_1DescribeHapgResponsePrivate.html" title="Private implementation for DescribeHapgResponse. " alt="" coords="561,463,755,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSM_1_1DescribeHsmResponsePrivate.html" title="Private implementation for DescribeHsmResponse. " alt="" coords="561,528,755,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSM_1_1DescribeLunaClientResponsePrivate.html" title="Private implementation for DescribeLunaClientResponse. " alt="" coords="561,593,755,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudHSM_1_1GetConfigResponsePrivate.html" title="Private implementation for GetConfigResponse. " alt="" coords="557,659,759,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudHSM_1_1ListAvailableZonesResponsePrivate.html" title="Private implementation for ListAvailableZonesResponse. " alt="" coords="550,724,766,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudHSM_1_1ListHapgsResponsePrivate.html" title="Private implementation for ListHapgsResponse. " alt="" coords="557,789,759,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudHSM_1_1ListHsmsResponsePrivate.html" title="Private implementation for ListHsmsResponse. " alt="" coords="559,855,757,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudHSM_1_1ListLunaClientsResponsePrivate.html" title="Private implementation for ListLunaClientsResponse. " alt="" coords="563,920,753,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudHSM_1_1ListTagsForResourceResponsePrivate.html" title="Private implementation for ListTagsForResourceResponse. " alt="" coords="559,985,757,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudHSM_1_1ModifyHapgResponsePrivate.html" title="Private implementation for ModifyHapgResponse. " alt="" coords="552,1051,764,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudHSM_1_1ModifyHsmResponsePrivate.html" title="Private implementation for ModifyHsmResponse. " alt="" coords="553,1116,763,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudHSM_1_1ModifyLunaClientResponsePrivate.html" title="Private implementation for ModifyLunaClientResponse. " alt="" coords="553,1181,763,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudHSM_1_1RemoveTagsFromResourceResponsePrivate.html" title="Private implementation for RemoveTagsFromResourceResponse. " alt="" coords="548,1247,768,1288"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,627,187,668"/>
+</map>

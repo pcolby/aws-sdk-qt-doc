@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScaling::CreateLaunchConfigurationResponse" name="QtAws::AutoScaling::CreateLaunchConfigurationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingResponse.html" title="Handles AutoScaling AutoScaling responses. " alt="" coords="20,169,179,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="9,80,190,121"/>
+</map>

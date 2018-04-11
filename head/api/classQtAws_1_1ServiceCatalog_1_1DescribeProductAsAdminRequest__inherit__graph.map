@@ -1,0 +1,4 @@
+<map id="QtAws::ServiceCatalog::DescribeProductAsAdminRequest" name="QtAws::ServiceCatalog::DescribeProductAsAdminRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServiceCatalog_1_1ServiceCatalogRequest.html" title="Interface class for providing ServiceCatalog requests. " alt="" coords="36,95,204,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="29,5,211,47"/>
+</map>

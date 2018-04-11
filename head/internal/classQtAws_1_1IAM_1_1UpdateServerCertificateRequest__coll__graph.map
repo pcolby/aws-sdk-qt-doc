@@ -1,0 +1,5 @@
+<map id="QtAws::IAM::UpdateServerCertificateRequest" name="QtAws::IAM::UpdateServerCertificateRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1IAM_1_1IAMRequest.html" title="Interface class for providing IAM requests. " alt="" coords="9,117,184,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="145,5,326,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="209,109,390,151"/>
+</map>

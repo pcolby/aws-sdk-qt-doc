@@ -1,0 +1,4 @@
+<map id="QtAws::Glacier::DeleteVaultAccessPolicyRequest" name="QtAws::Glacier::DeleteVaultAccessPolicyRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Glacier_1_1GlacierRequest.html" title="Interface class for providing Glacier requests. " alt="" coords="5,95,215,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="19,5,201,47"/>
+</map>

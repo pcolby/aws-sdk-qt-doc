@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::RetrieveTapeArchiveResponse" name="QtAws::StorageGateway::RetrieveTapeArchiveResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponse.html" title="Handles StorageGateway StorageGateway responses. " alt="" coords="17,169,204,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="20,80,201,121"/>
+</map>

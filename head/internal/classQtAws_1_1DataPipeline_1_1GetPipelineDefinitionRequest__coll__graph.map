@@ -1,0 +1,5 @@
+<map id="QtAws::DataPipeline::GetPipelineDefinitionRequest" name="QtAws::DataPipeline::GetPipelineDefinitionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DataPipeline_1_1DataPipelineRequest.html" title="Interface class for providing DataPipeline requests. " alt="" coords="29,109,183,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="143,5,325,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="207,109,389,151"/>
+</map>

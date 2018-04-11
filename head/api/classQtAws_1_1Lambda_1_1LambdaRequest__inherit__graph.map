@@ -1,0 +1,33 @@
+<map id="QtAws::Lambda::LambdaRequest" name="QtAws::Lambda::LambdaRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Lambda_1_1AddPermissionRequest.html" title="Implements Lambda AddPermission requests. " alt="" coords="515,5,727,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Lambda_1_1CreateAliasRequest.html" title="Implements Lambda CreateAlias requests. " alt="" coords="525,71,717,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Lambda_1_1CreateEventSourceMappingRequest.html" title="Implements Lambda CreateEventSourceMapping requests. " alt="" coords="522,136,719,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Lambda_1_1CreateFunctionRequest.html" title="Implements Lambda CreateFunction requests. " alt="" coords="514,201,727,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Lambda_1_1DeleteAliasRequest.html" title="Implements Lambda DeleteAlias requests. " alt="" coords="525,267,716,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Lambda_1_1DeleteEventSourceMappingRequest.html" title="Implements Lambda DeleteEventSourceMapping requests. " alt="" coords="523,332,719,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Lambda_1_1DeleteFunctionConcurrencyRequest.html" title="Implements Lambda DeleteFunctionConcurrency requests. " alt="" coords="515,397,727,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Lambda_1_1DeleteFunctionRequest.html" title="Implements Lambda DeleteFunction requests. " alt="" coords="515,463,727,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Lambda_1_1GetAccountSettingsRequest.html" title="Implements Lambda GetAccountSettings requests. " alt="" coords="524,528,717,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Lambda_1_1GetAliasRequest.html" title="Implements Lambda GetAlias requests. " alt="" coords="509,594,732,621"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Lambda_1_1GetEventSourceMappingRequest.html" title="Implements Lambda GetEventSourceMapping requests. " alt="" coords="511,645,731,687"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Lambda_1_1GetFunctionConfigurationRequest.html" title="Implements Lambda GetFunctionConfiguration requests. " alt="" coords="523,711,718,752"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Lambda_1_1GetFunctionRequest.html" title="Implements Lambda GetFunction requests. " alt="" coords="523,776,718,817"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Lambda_1_1GetPolicyRequest.html" title="Implements Lambda GetPolicy requests. " alt="" coords="530,841,711,883"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Lambda_1_1InvokeAsyncRequest.html" title="Implements Lambda InvokeAsync requests. " alt="" coords="521,907,721,948"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Lambda_1_1InvokeRequest.html" title="Implements Lambda Invoke requests. " alt="" coords="515,973,727,999"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Lambda_1_1ListAliasesRequest.html" title="Implements Lambda ListAliases requests. " alt="" coords="527,1024,715,1065"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Lambda_1_1ListEventSourceMappingsRequest.html" title="Implements Lambda ListEventSourceMappings requests. " alt="" coords="531,1089,710,1131"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Lambda_1_1ListFunctionsRequest.html" title="Implements Lambda ListFunctions requests. " alt="" coords="519,1155,722,1196"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Lambda_1_1ListTagsRequest.html" title="Implements Lambda ListTags requests. " alt="" coords="509,1221,732,1247"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Lambda_1_1ListVersionsByFunctionRequest.html" title="Implements Lambda ListVersionsByFunction requests. " alt="" coords="523,1272,719,1313"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Lambda_1_1PublishVersionRequest.html" title="Implements Lambda PublishVersion requests. " alt="" coords="515,1337,726,1379"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Lambda_1_1PutFunctionConcurrencyRequest.html" title="Implements Lambda PutFunctionConcurrency requests. " alt="" coords="523,1403,718,1444"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Lambda_1_1RemovePermissionRequest.html" title="Implements Lambda RemovePermission requests. " alt="" coords="501,1468,740,1509"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Lambda_1_1TagResourceRequest.html" title="Implements Lambda TagResource requests. " alt="" coords="519,1533,722,1575"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Lambda_1_1UntagResourceRequest.html" title="Implements Lambda UntagResource requests. " alt="" coords="513,1599,728,1640"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Lambda_1_1UpdateAliasRequest.html" title="Implements Lambda UpdateAlias requests. " alt="" coords="523,1664,718,1705"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Lambda_1_1UpdateEventSourceMappingRequest.html" title="Implements Lambda UpdateEventSourceMapping requests. " alt="" coords="521,1729,721,1771"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Lambda_1_1UpdateFunctionCodeRequest.html" title="Implements Lambda UpdateFunctionCode requests. " alt="" coords="513,1795,729,1836"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Lambda_1_1UpdateFunctionConfigurationRequest.html" title="Implements Lambda UpdateFunctionConfiguration requests. " alt="" coords="513,1860,729,1901"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,936,187,977"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::GetSampledRequestsRequest" name="QtAws::WAFRegional::GetSampledRequestsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalRequest.html" title="Interface class for providing WAFRegional requests. " alt="" coords="29,95,189,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

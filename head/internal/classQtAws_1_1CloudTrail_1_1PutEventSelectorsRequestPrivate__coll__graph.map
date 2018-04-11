@@ -1,0 +1,5 @@
+<map id="QtAws::CloudTrail::PutEventSelectorsRequestPrivate" name="QtAws::CloudTrail::PutEventSelectorsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudTrail_1_1CloudTrailRequestPrivate.html" title="Private implementation for CloudTrailRequest. " alt="" coords="31,109,201,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="161,5,343,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="225,109,407,151"/>
+</map>

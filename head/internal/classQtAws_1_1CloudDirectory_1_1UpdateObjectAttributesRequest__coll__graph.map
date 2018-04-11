@@ -1,0 +1,5 @@
+<map id="QtAws::CloudDirectory::UpdateObjectAttributesRequest" name="QtAws::CloudDirectory::UpdateObjectAttributesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudDirectory_1_1CloudDirectoryRequest.html" title="Interface class for providing CloudDirectory requests. " alt="" coords="29,109,196,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="157,5,338,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="221,109,402,151"/>
+</map>

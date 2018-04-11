@@ -1,0 +1,13 @@
+<map id="QtAws::SimpleDB::SimpleDBResponsePrivate" name="QtAws::SimpleDB::SimpleDBResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SimpleDB_1_1BatchDeleteAttributesResponsePrivate.html" title="Private implementation for BatchDeleteAttributesResponse. " alt="" coords="551,5,760,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SimpleDB_1_1BatchPutAttributesResponsePrivate.html" title="Private implementation for BatchPutAttributesResponse. " alt="" coords="560,71,751,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SimpleDB_1_1CreateDomainResponsePrivate.html" title="Private implementation for CreateDomainResponse. " alt="" coords="545,136,766,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SimpleDB_1_1DeleteAttributesResponsePrivate.html" title="Private implementation for DeleteAttributesResponse. " alt="" coords="540,201,771,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SimpleDB_1_1DeleteDomainResponsePrivate.html" title="Private implementation for DeleteDomainResponse. " alt="" coords="545,267,765,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SimpleDB_1_1DomainMetadataResponsePrivate.html" title="Private implementation for DomainMetadataResponse. " alt="" coords="537,332,773,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SimpleDB_1_1GetAttributesResponsePrivate.html" title="Private implementation for GetAttributesResponse. " alt="" coords="548,397,763,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SimpleDB_1_1ListDomainsResponsePrivate.html" title="Private implementation for ListDomainsResponse. " alt="" coords="550,463,761,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SimpleDB_1_1PutAttributesResponsePrivate.html" title="Private implementation for PutAttributesResponse. " alt="" coords="549,528,762,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SimpleDB_1_1SelectResponsePrivate.html" title="Private implementation for SelectResponse. " alt="" coords="539,593,772,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,300,187,341"/>
+</map>

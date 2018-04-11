@@ -1,0 +1,4 @@
+<map id="QtAws::WorkDocs::RemoveResourcePermissionRequest" name="QtAws::WorkDocs::RemoveResourcePermissionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkDocs_1_1WorkDocsRequest.html" title="Interface class for providing WorkDocs requests. " alt="" coords="27,95,229,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="37,5,219,47"/>
+</map>

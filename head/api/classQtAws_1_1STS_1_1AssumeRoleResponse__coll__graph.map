@@ -1,0 +1,4 @@
+<map id="QtAws::STS::AssumeRoleResponse" name="QtAws::STS::AssumeRoleResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1STS_1_1STSResponse.html" title="Handles STS STS responses. " alt="" coords="30,169,219,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="34,80,215,121"/>
+</map>

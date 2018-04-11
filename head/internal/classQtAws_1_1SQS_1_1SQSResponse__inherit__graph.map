@@ -1,0 +1,23 @@
+<map id="QtAws::SQS::SQSResponse" name="QtAws::SQS::SQSResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1SQS_1_1AddPermissionResponse.html" title="Handles SQS AddPermission responses. " alt="" coords="621,5,816,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityBatchResponse.html" title="Handles SQS ChangeMessageVisibilityBatch responses. " alt="" coords="617,71,821,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityResponse.html" title="Handles SQS ChangeMessageVisibility responses. " alt="" coords="617,136,821,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SQS_1_1CreateQueueResponse.html" title="Handles SQS CreateQueue responses. " alt="" coords="597,202,840,229"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SQS_1_1DeleteMessageBatchResponse.html" title="Handles SQS DeleteMessageBatch responses. " alt="" coords="620,253,817,295"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SQS_1_1DeleteMessageResponse.html" title="Handles SQS DeleteMessage responses. " alt="" coords="620,319,817,360"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SQS_1_1DeleteQueueResponse.html" title="Handles SQS DeleteQueue responses. " alt="" coords="598,385,839,411"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SQS_1_1GetQueueAttributesResponse.html" title="Handles SQS GetQueueAttributes responses. " alt="" coords="608,436,829,477"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SQS_1_1GetQueueUrlResponse.html" title="Handles SQS GetQueueUrl responses. " alt="" coords="598,502,839,529"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SQS_1_1ListDeadLetterSourceQueuesResponse.html" title="Handles SQS ListDeadLetterSourceQueues responses. " alt="" coords="623,553,814,595"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SQS_1_1ListQueuesResponse.html" title="Handles SQS ListQueues responses. " alt="" coords="603,619,834,646"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SQS_1_1ListQueueTagsResponse.html" title="Handles SQS ListQueueTags responses. " alt="" coords="621,671,816,712"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SQS_1_1PurgeQueueResponse.html" title="Handles SQS PurgeQueue responses. " alt="" coords="600,737,837,763"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SQS_1_1ReceiveMessageResponse.html" title="Handles SQS ReceiveMessage responses. " alt="" coords="615,788,822,829"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SQS_1_1RemovePermissionResponse.html" title="Handles SQS RemovePermission responses. " alt="" coords="609,853,829,895"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SQS_1_1SendMessageBatchResponse.html" title="Handles SQS SendMessageBatch responses. " alt="" coords="607,919,830,960"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SQS_1_1SendMessageResponse.html" title="Handles SQS SendMessage responses. " alt="" coords="595,985,843,1011"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SQS_1_1SetQueueAttributesResponse.html" title="Handles SQS SetQueueAttributes responses. " alt="" coords="609,1036,829,1077"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SQS_1_1TagQueueResponse.html" title="Handles SQS TagQueue responses. " alt="" coords="606,1102,831,1129"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SQS_1_1UntagQueueResponse.html" title="Handles SQS UntagQueue responses. " alt="" coords="599,1153,838,1179"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,583,305,624"/>
+</map>

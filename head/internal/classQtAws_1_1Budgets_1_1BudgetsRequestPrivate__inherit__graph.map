@@ -1,0 +1,16 @@
+<map id="QtAws::Budgets::BudgetsRequestPrivate" name="QtAws::Budgets::BudgetsRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Budgets_1_1CreateBudgetRequestPrivate.html" title="Private implementation for CreateBudgetRequest. " alt="" coords="519,5,726,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Budgets_1_1CreateNotificationRequestPrivate.html" title="Private implementation for CreateNotificationRequest. " alt="" coords="507,71,738,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Budgets_1_1CreateSubscriberRequestPrivate.html" title="Private implementation for CreateSubscriberRequest. " alt="" coords="509,136,736,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Budgets_1_1DeleteBudgetRequestPrivate.html" title="Private implementation for DeleteBudgetRequest. " alt="" coords="520,201,725,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Budgets_1_1DeleteNotificationRequestPrivate.html" title="Private implementation for DeleteNotificationRequest. " alt="" coords="507,267,738,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Budgets_1_1DeleteSubscriberRequestPrivate.html" title="Private implementation for DeleteSubscriberRequest. " alt="" coords="509,332,736,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Budgets_1_1DescribeBudgetRequestPrivate.html" title="Private implementation for DescribeBudgetRequest. " alt="" coords="533,397,712,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Budgets_1_1DescribeBudgetsRequestPrivate.html" title="Private implementation for DescribeBudgetsRequest. " alt="" coords="533,463,712,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Budgets_1_1DescribeNotificationsForBudgetRequestPrivate.html" title="Private implementation for DescribeNotificationsForBudgetRequest. " alt="" coords="521,529,725,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Budgets_1_1DescribeSubscribersForNotificationRequestPrivate.html" title="Private implementation for DescribeSubscribersForNotificationRequest. " alt="" coords="510,609,735,665"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Budgets_1_1UpdateBudgetRequestPrivate.html" title="Private implementation for UpdateBudgetRequest. " alt="" coords="518,689,727,731"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Budgets_1_1UpdateNotificationRequestPrivate.html" title="Private implementation for UpdateNotificationRequest. " alt="" coords="505,755,740,796"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Budgets_1_1UpdateSubscriberRequestPrivate.html" title="Private implementation for UpdateSubscriberRequest. " alt="" coords="507,820,738,861"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,397,187,439"/>
+</map>

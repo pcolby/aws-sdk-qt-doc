@@ -1,0 +1,7 @@
+<map id="QtAws::DynamoDBStreams::DynamoDBStreamsResponsePrivate" name="QtAws::DynamoDBStreams::DynamoDBStreamsResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1DynamoDBStreams_1_1DescribeStreamResponsePrivate.html" title="Private implementation for DescribeStreamResponse. " alt="" coords="531,5,755,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DynamoDBStreams_1_1GetRecordsResponsePrivate.html" title="Private implementation for GetRecordsResponse. " alt="" coords="543,71,743,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DynamoDBStreams_1_1GetShardIteratorResponsePrivate.html" title="Private implementation for GetShardIteratorResponse. " alt="" coords="529,136,756,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DynamoDBStreams_1_1ListStreamsResponsePrivate.html" title="Private implementation for ListStreamsResponse. " alt="" coords="543,201,743,243"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,104,187,145"/>
+</map>

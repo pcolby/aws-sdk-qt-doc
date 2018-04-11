@@ -1,0 +1,20 @@
+<map id="QtAws::ElasticTranscoder::ElasticTranscoderResponsePrivate" name="QtAws::ElasticTranscoder::ElasticTranscoderResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ElasticTranscoder_1_1CancelJobResponsePrivate.html" title="Private implementation for CancelJobResponse. " alt="" coords="547,5,739,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ElasticTranscoder_1_1CreateJobResponsePrivate.html" title="Private implementation for CreateJobResponse. " alt="" coords="547,71,738,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ElasticTranscoder_1_1CreatePipelineResponsePrivate.html" title="Private implementation for CreatePipelineResponse. " alt="" coords="535,136,750,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ElasticTranscoder_1_1CreatePresetResponsePrivate.html" title="Private implementation for CreatePresetResponse. " alt="" coords="539,201,746,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ElasticTranscoder_1_1DeletePipelineResponsePrivate.html" title="Private implementation for DeletePipelineResponse. " alt="" coords="535,267,750,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ElasticTranscoder_1_1DeletePresetResponsePrivate.html" title="Private implementation for DeletePresetResponse. " alt="" coords="539,332,746,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ElasticTranscoder_1_1ListJobsByPipelineResponsePrivate.html" title="Private implementation for ListJobsByPipelineResponse. " alt="" coords="522,397,763,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ElasticTranscoder_1_1ListJobsByStatusResponsePrivate.html" title="Private implementation for ListJobsByStatusResponse. " alt="" coords="526,463,759,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ElasticTranscoder_1_1ListPipelinesResponsePrivate.html" title="Private implementation for ListPipelinesResponse. " alt="" coords="541,528,745,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ElasticTranscoder_1_1ListPresetsResponsePrivate.html" title="Private implementation for ListPresetsResponse. " alt="" coords="545,593,741,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ElasticTranscoder_1_1ReadJobResponsePrivate.html" title="Private implementation for ReadJobResponse. " alt="" coords="551,659,734,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ElasticTranscoder_1_1ReadPipelineResponsePrivate.html" title="Private implementation for ReadPipelineResponse. " alt="" coords="539,724,746,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ElasticTranscoder_1_1ReadPresetResponsePrivate.html" title="Private implementation for ReadPresetResponse. " alt="" coords="543,789,742,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ElasticTranscoder_1_1TestRoleResponsePrivate.html" title="Private implementation for TestRoleResponse. " alt="" coords="551,855,734,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineNotificationsResponsePrivate.html" title="Private implementation for UpdatePipelineNotificationsResponse. " alt="" coords="517,921,768,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineResponsePrivate.html" title="Private implementation for UpdatePipelineResponse. " alt="" coords="533,1001,752,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ElasticTranscoder_1_1UpdatePipelineStatusResponsePrivate.html" title="Private implementation for UpdatePipelineStatusResponse. " alt="" coords="535,1067,750,1123"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,528,187,569"/>
+</map>

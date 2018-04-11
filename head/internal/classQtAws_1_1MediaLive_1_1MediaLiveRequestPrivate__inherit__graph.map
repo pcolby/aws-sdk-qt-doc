@@ -1,0 +1,20 @@
+<map id="QtAws::MediaLive::MediaLiveRequestPrivate" name="QtAws::MediaLive::MediaLiveRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaLive_1_1CreateChannelRequestPrivate.html" title="Private implementation for CreateChannelRequest. " alt="" coords="503,5,679,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaLive_1_1CreateInputRequestPrivate.html" title="Private implementation for CreateInputRequest. " alt="" coords="503,71,679,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaLive_1_1CreateInputSecurityGroupRequestPrivate.html" title="Private implementation for CreateInputSecurityGroupRequest. " alt="" coords="479,136,703,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaLive_1_1DeleteChannelRequestPrivate.html" title="Private implementation for DeleteChannelRequest. " alt="" coords="503,201,678,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaLive_1_1DeleteInputRequestPrivate.html" title="Private implementation for DeleteInputRequest. " alt="" coords="503,267,678,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaLive_1_1DeleteInputSecurityGroupRequestPrivate.html" title="Private implementation for DeleteInputSecurityGroupRequest. " alt="" coords="479,332,703,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaLive_1_1DescribeChannelRequestPrivate.html" title="Private implementation for DescribeChannelRequest. " alt="" coords="496,397,685,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaLive_1_1DescribeInputRequestPrivate.html" title="Private implementation for DescribeInputRequest. " alt="" coords="496,463,685,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaLive_1_1DescribeInputSecurityGroupRequestPrivate.html" title="Private implementation for DescribeInputSecurityGroupRequest. " alt="" coords="479,528,703,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaLive_1_1ListChannelsRequestPrivate.html" title="Private implementation for ListChannelsRequest. " alt="" coords="484,593,697,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaLive_1_1ListInputSecurityGroupsRequestPrivate.html" title="Private implementation for ListInputSecurityGroupsRequest. " alt="" coords="489,659,692,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MediaLive_1_1ListInputsRequestPrivate.html" title="Private implementation for ListInputsRequest. " alt="" coords="493,724,688,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MediaLive_1_1StartChannelRequestPrivate.html" title="Private implementation for StartChannelRequest. " alt="" coords="484,789,697,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MediaLive_1_1StopChannelRequestPrivate.html" title="Private implementation for StopChannelRequest. " alt="" coords="485,855,697,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MediaLive_1_1UpdateChannelRequestPrivate.html" title="Private implementation for UpdateChannelRequest. " alt="" coords="501,920,680,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MediaLive_1_1UpdateInputRequestPrivate.html" title="Private implementation for UpdateInputRequest. " alt="" coords="501,985,680,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MediaLive_1_1UpdateInputSecurityGroupRequestPrivate.html" title="Private implementation for UpdateInputSecurityGroupRequest. " alt="" coords="479,1051,703,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,528,187,569"/>
+</map>

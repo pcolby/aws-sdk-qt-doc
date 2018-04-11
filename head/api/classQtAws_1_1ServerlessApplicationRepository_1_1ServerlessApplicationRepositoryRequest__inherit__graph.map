@@ -1,0 +1,13 @@
+<map id="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryRequest" name="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationRequest.html" title="Implements ServerlessApplicationRepository CreateApplication requests. " alt="" coords="503,5,748,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationVersionRequest.html" title="Implements ServerlessApplicationRepository CreateApplicationVersion requests. " alt="" coords="505,71,745,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateCloudFormationChangeSetRequest.html" title="Implements ServerlessApplicationRepository CreateCloudFormationChangeSet requests. " alt="" coords="513,151,737,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ServerlessApplicationRepository_1_1DeleteApplicationRequest.html" title="Implements ServerlessApplicationRepository DeleteApplication requests. " alt="" coords="503,232,747,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationPolicyRequest.html" title="Implements ServerlessApplicationRepository GetApplicationPolicy requests. " alt="" coords="518,298,733,354"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationRequest.html" title="Implements ServerlessApplicationRepository GetApplication requests. " alt="" coords="512,379,739,420"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationsRequest.html" title="Implements ServerlessApplicationRepository ListApplications requests. " alt="" coords="508,444,743,485"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationVersionsRequest.html" title="Implements ServerlessApplicationRepository ListApplicationVersions requests. " alt="" coords="511,510,740,566"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ServerlessApplicationRepository_1_1PutApplicationPolicyRequest.html" title="Implements ServerlessApplicationRepository PutApplicationPolicy requests. " alt="" coords="519,590,732,646"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ServerlessApplicationRepository_1_1UpdateApplicationRequest.html" title="Implements ServerlessApplicationRepository UpdateApplication requests. " alt="" coords="501,671,749,712"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,343,187,384"/>
+</map>

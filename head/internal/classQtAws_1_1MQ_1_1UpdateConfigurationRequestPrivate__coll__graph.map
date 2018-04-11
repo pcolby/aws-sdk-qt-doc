@@ -1,0 +1,5 @@
+<map id="QtAws::MQ::UpdateConfigurationRequestPrivate" name="QtAws::MQ::UpdateConfigurationRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1MQ_1_1MQRequestPrivate.html" title="Private implementation for MQRequest. " alt="" coords="9,117,220,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="180,5,361,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="244,109,425,151"/>
+</map>

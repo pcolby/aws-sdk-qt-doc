@@ -1,0 +1,4 @@
+<map id="QtAws::CodeStar::ListProjectsRequest" name="QtAws::CodeStar::ListProjectsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeStar_1_1CodeStarRequest.html" title="Interface class for providing CodeStar requests. " alt="" coords="13,95,201,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="16,5,197,47"/>
+</map>

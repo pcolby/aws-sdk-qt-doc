@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::DescribeScheduledInstanceAvailabilityRequestPrivate" name="QtAws::EC2::DescribeScheduledInstanceAvailabilityRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2RequestPrivate.html" title="Private implementation for EC2Request. " alt="" coords="8,95,228,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="27,5,209,47"/>
+</map>

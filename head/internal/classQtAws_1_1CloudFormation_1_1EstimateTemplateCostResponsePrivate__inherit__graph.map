@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFormation::EstimateTemplateCostResponsePrivate" name="QtAws::CloudFormation::EstimateTemplateCostResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationResponsePrivate.html" title="Private implementation for CloudFormationResponse. " alt="" coords="5,95,228,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="26,5,207,47"/>
+</map>

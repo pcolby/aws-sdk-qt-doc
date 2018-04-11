@@ -1,0 +1,4 @@
+<map id="QtAws::GameLift::DescribeVpcPeeringAuthorizationsResponse" name="QtAws::GameLift::DescribeVpcPeeringAuthorizationsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftResponse.html" title="Handles GameLift GameLift responses. " alt="" coords="29,169,213,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="30,80,211,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Greengrass::UpdateGroupCertificateConfigurationResponse" name="QtAws::Greengrass::UpdateGroupCertificateConfigurationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassResponse.html" title="Handles Greengrass Greengrass responses. " alt="" coords="49,169,197,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="33,80,214,121"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="QtAws::CloudWatchLogs::CloudWatchLogsResponsePrivate" name="QtAws::CloudWatchLogs::CloudWatchLogsResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatchLogs_1_1AssociateKmsKeyResponsePrivate.html" title="Private implementation for AssociateKmsKeyResponse. " alt="" coords="515,5,754,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatchLogs_1_1CancelExportTaskResponsePrivate.html" title="Private implementation for CancelExportTaskResponse. " alt="" coords="515,71,754,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatchLogs_1_1CreateExportTaskResponsePrivate.html" title="Private implementation for CreateExportTaskResponse. " alt="" coords="517,136,753,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatchLogs_1_1CreateLogGroupResponsePrivate.html" title="Private implementation for CreateLogGroupResponse. " alt="" coords="522,201,747,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatchLogs_1_1CreateLogStreamResponsePrivate.html" title="Private implementation for CreateLogStreamResponse. " alt="" coords="519,267,751,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteDestinationResponsePrivate.html" title="Private implementation for DeleteDestinationResponse. " alt="" coords="538,333,731,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteLogGroupResponsePrivate.html" title="Private implementation for DeleteLogGroupResponse. " alt="" coords="523,413,747,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteLogStreamResponsePrivate.html" title="Private implementation for DeleteLogStreamResponse. " alt="" coords="519,479,750,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteMetricFilterResponsePrivate.html" title="Private implementation for DeleteMetricFilterResponse. " alt="" coords="539,545,731,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteResourcePolicyResponsePrivate.html" title="Private implementation for DeleteResourcePolicyResponse. " alt="" coords="525,625,744,681"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteRetentionPolicyResponsePrivate.html" title="Private implementation for DeleteRetentionPolicyResponse. " alt="" coords="525,705,744,761"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteSubscriptionFilterResponsePrivate.html" title="Private implementation for DeleteSubscriptionFilterResponse. " alt="" coords="521,785,749,841"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeDestinationsResponsePrivate.html" title="Private implementation for DescribeDestinationsResponse. " alt="" coords="527,865,742,921"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeExportTasksResponsePrivate.html" title="Private implementation for DescribeExportTasksResponse. " alt="" coords="527,945,742,1001"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeLogGroupsResponsePrivate.html" title="Private implementation for DescribeLogGroupsResponse. " alt="" coords="533,1025,737,1081"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeLogStreamsResponsePrivate.html" title="Private implementation for DescribeLogStreamsResponse. " alt="" coords="529,1105,740,1161"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeMetricFiltersResponsePrivate.html" title="Private implementation for DescribeMetricFiltersResponse. " alt="" coords="528,1185,741,1241"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeResourcePoliciesResponsePrivate.html" title="Private implementation for DescribeResourcePoliciesResponse. " alt="" coords="513,1265,756,1321"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeSubscriptionFiltersResponsePrivate.html" title="Private implementation for DescribeSubscriptionFiltersResponse. " alt="" coords="539,1345,730,1401"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudWatchLogs_1_1DisassociateKmsKeyResponsePrivate.html" title="Private implementation for DisassociateKmsKeyResponse. " alt="" coords="527,1425,742,1481"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudWatchLogs_1_1FilterLogEventsResponsePrivate.html" title="Private implementation for FilterLogEventsResponse. " alt="" coords="524,1505,745,1547"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudWatchLogs_1_1GetLogEventsResponsePrivate.html" title="Private implementation for GetLogEventsResponse. " alt="" coords="528,1571,741,1612"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudWatchLogs_1_1ListTagsLogGroupResponsePrivate.html" title="Private implementation for ListTagsLogGroupResponse. " alt="" coords="517,1636,753,1677"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudWatchLogs_1_1PutDestinationPolicyResponsePrivate.html" title="Private implementation for PutDestinationPolicyResponse. " alt="" coords="529,1702,740,1758"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudWatchLogs_1_1PutDestinationResponsePrivate.html" title="Private implementation for PutDestinationResponse. " alt="" coords="527,1783,743,1824"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudWatchLogs_1_1PutLogEventsResponsePrivate.html" title="Private implementation for PutLogEventsResponse. " alt="" coords="529,1848,741,1889"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudWatchLogs_1_1PutMetricFilterResponsePrivate.html" title="Private implementation for PutMetricFilterResponse. " alt="" coords="527,1913,742,1955"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudWatchLogs_1_1PutResourcePolicyResponsePrivate.html" title="Private implementation for PutResourcePolicyResponse. " alt="" coords="534,1979,735,2035"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1CloudWatchLogs_1_1PutRetentionPolicyResponsePrivate.html" title="Private implementation for PutRetentionPolicyResponse. " alt="" coords="534,2059,735,2115"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1CloudWatchLogs_1_1PutSubscriptionFilterResponsePrivate.html" title="Private implementation for PutSubscriptionFilterResponse. " alt="" coords="529,2139,740,2195"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1CloudWatchLogs_1_1TagLogGroupResponsePrivate.html" title="Private implementation for TagLogGroupResponse. " alt="" coords="531,2220,739,2261"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1CloudWatchLogs_1_1TestMetricFilterResponsePrivate.html" title="Private implementation for TestMetricFilterResponse. " alt="" coords="524,2285,745,2327"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1CloudWatchLogs_1_1UntagLogGroupResponsePrivate.html" title="Private implementation for UntagLogGroupResponse. " alt="" coords="524,2351,745,2392"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,1192,187,1233"/>
+</map>

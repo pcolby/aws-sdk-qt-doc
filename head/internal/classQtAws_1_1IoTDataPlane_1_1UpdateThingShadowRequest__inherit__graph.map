@@ -1,0 +1,4 @@
+<map id="QtAws::IoTDataPlane::UpdateThingShadowRequest" name="QtAws::IoTDataPlane::UpdateThingShadowRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoTDataPlane_1_1IoTDataPlaneRequest.html" title="Interface class for providing IoTDataPlane requests. " alt="" coords="26,95,185,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

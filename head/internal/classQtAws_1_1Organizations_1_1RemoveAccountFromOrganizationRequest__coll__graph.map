@@ -1,0 +1,5 @@
+<map id="QtAws::Organizations::RemoveAccountFromOrganizationRequest" name="QtAws::Organizations::RemoveAccountFromOrganizationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Organizations_1_1OrganizationsRequest.html" title="Interface class for providing Organizations requests. " alt="" coords="41,109,200,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="161,5,342,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="225,109,406,151"/>
+</map>

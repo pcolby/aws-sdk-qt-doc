@@ -1,0 +1,4 @@
+<map id="QtAws::CloudTrail::GetEventSelectorsResponsePrivate" name="QtAws::CloudTrail::GetEventSelectorsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudTrail_1_1CloudTrailResponsePrivate.html" title="Private implementation for CloudTrailResponse. " alt="" coords="31,95,212,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="31,5,212,47"/>
+</map>

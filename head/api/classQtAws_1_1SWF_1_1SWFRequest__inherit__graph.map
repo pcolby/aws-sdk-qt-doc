@@ -1,0 +1,34 @@
+<map id="QtAws::SWF::SWFRequest" name="QtAws::SWF::SWFRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1SWF_1_1CountClosedWorkflowExecutionsRequest.html" title="Implements SWF CountClosedWorkflowExecutions requests. " alt="" coords="471,5,710,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SWF_1_1CountOpenWorkflowExecutionsRequest.html" title="Implements SWF CountOpenWorkflowExecutions requests. " alt="" coords="476,71,705,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SWF_1_1CountPendingActivityTasksRequest.html" title="Implements SWF CountPendingActivityTasks requests. " alt="" coords="495,136,686,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SWF_1_1CountPendingDecisionTasksRequest.html" title="Implements SWF CountPendingDecisionTasks requests. " alt="" coords="495,201,686,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SWF_1_1DeprecateActivityTypeRequest.html" title="Implements SWF DeprecateActivityType requests. " alt="" coords="485,267,697,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SWF_1_1DeprecateDomainRequest.html" title="Implements SWF DeprecateDomain requests. " alt="" coords="484,332,697,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SWF_1_1DeprecateWorkflowTypeRequest.html" title="Implements SWF DeprecateWorkflowType requests. " alt="" coords="479,397,702,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SWF_1_1DescribeActivityTypeRequest.html" title="Implements SWF DescribeActivityType requests. " alt="" coords="489,463,693,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SWF_1_1DescribeDomainRequest.html" title="Implements SWF DescribeDomain requests. " alt="" coords="488,528,693,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SWF_1_1DescribeWorkflowExecutionRequest.html" title="Implements SWF DescribeWorkflowExecution requests. " alt="" coords="483,593,698,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SWF_1_1DescribeWorkflowTypeRequest.html" title="Implements SWF DescribeWorkflowType requests. " alt="" coords="483,659,698,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SWF_1_1GetWorkflowExecutionHistoryRequest.html" title="Implements SWF GetWorkflowExecutionHistory requests. " alt="" coords="469,724,712,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SWF_1_1ListActivityTypesRequest.html" title="Implements SWF ListActivityTypes requests. " alt="" coords="504,789,677,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SWF_1_1ListClosedWorkflowExecutionsRequest.html" title="Implements SWF ListClosedWorkflowExecutions requests. " alt="" coords="478,855,703,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SWF_1_1ListDomainsRequest.html" title="Implements SWF ListDomains requests. " alt="" coords="475,921,706,947"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SWF_1_1ListOpenWorkflowExecutionsRequest.html" title="Implements SWF ListOpenWorkflowExecutions requests. " alt="" coords="483,972,698,1013"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SWF_1_1ListWorkflowTypesRequest.html" title="Implements SWF ListWorkflowTypes requests. " alt="" coords="499,1037,683,1079"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SWF_1_1PollForActivityTaskRequest.html" title="Implements SWF PollForActivityTask requests. " alt="" coords="494,1103,687,1144"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SWF_1_1PollForDecisionTaskRequest.html" title="Implements SWF PollForDecisionTask requests. " alt="" coords="491,1168,691,1209"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SWF_1_1RecordActivityTaskHeartbeatRequest.html" title="Implements SWF RecordActivityTaskHeartbeat requests. " alt="" coords="493,1233,688,1275"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SWF_1_1RegisterActivityTypeRequest.html" title="Implements SWF RegisterActivityType requests. " alt="" coords="490,1299,691,1340"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SWF_1_1RegisterDomainRequest.html" title="Implements SWF RegisterDomain requests. " alt="" coords="489,1364,692,1405"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SWF_1_1RegisterWorkflowTypeRequest.html" title="Implements SWF RegisterWorkflowType requests. " alt="" coords="485,1429,697,1471"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SWF_1_1RequestCancelWorkflowExecutionRequest.html" title="Implements SWF RequestCancelWorkflowExecution requests. " alt="" coords="491,1495,690,1536"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SWF_1_1RespondActivityTaskCanceledRequest.html" title="Implements SWF RespondActivityTaskCanceled requests. " alt="" coords="489,1560,693,1601"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SWF_1_1RespondActivityTaskCompletedRequest.html" title="Implements SWF RespondActivityTaskCompleted requests. " alt="" coords="489,1625,693,1667"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SWF_1_1RespondActivityTaskFailedRequest.html" title="Implements SWF RespondActivityTaskFailed requests. " alt="" coords="489,1691,693,1732"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SWF_1_1RespondDecisionTaskCompletedRequest.html" title="Implements SWF RespondDecisionTaskCompleted requests. " alt="" coords="485,1756,696,1797"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SWF_1_1SignalWorkflowExecutionRequest.html" title="Implements SWF SignalWorkflowExecution requests. " alt="" coords="491,1821,690,1863"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SWF_1_1StartWorkflowExecutionRequest.html" title="Implements SWF StartWorkflowExecution requests. " alt="" coords="495,1887,686,1928"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1SWF_1_1TerminateWorkflowExecutionRequest.html" title="Implements SWF TerminateWorkflowExecution requests. " alt="" coords="480,1952,701,1993"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,972,187,1013"/>
+</map>

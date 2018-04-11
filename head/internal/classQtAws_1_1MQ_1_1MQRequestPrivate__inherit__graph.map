@@ -1,0 +1,20 @@
+<map id="QtAws::MQ::MQRequestPrivate" name="QtAws::MQ::MQRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MQ_1_1CreateBrokerRequestPrivate.html" title="Private implementation for CreateBrokerRequest. " alt="" coords="495,5,720,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MQ_1_1CreateConfigurationRequestPrivate.html" title="Private implementation for CreateConfigurationRequest. " alt="" coords="500,71,715,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MQ_1_1CreateUserRequestPrivate.html" title="Private implementation for CreateUserRequest. " alt="" coords="500,136,715,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MQ_1_1DeleteBrokerRequestPrivate.html" title="Private implementation for DeleteBrokerRequest. " alt="" coords="495,201,719,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MQ_1_1DeleteUserRequestPrivate.html" title="Private implementation for DeleteUserRequest. " alt="" coords="500,267,715,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MQ_1_1DescribeBrokerRequestPrivate.html" title="Private implementation for DescribeBrokerRequest. " alt="" coords="513,332,702,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MQ_1_1DescribeConfigurationRequestPrivate.html" title="Private implementation for DescribeConfigurationRequest. " alt="" coords="493,397,721,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MQ_1_1DescribeConfigurationRevisionRequestPrivate.html" title="Private implementation for DescribeConfigurationRevisionRequest. " alt="" coords="493,463,721,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MQ_1_1DescribeUserRequestPrivate.html" title="Private implementation for DescribeUserRequest. " alt="" coords="493,528,721,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MQ_1_1ListBrokersRequestPrivate.html" title="Private implementation for ListBrokersRequest. " alt="" coords="500,593,715,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MQ_1_1ListConfigurationRevisionsRequestPrivate.html" title="Private implementation for ListConfigurationRevisionsRequest. " alt="" coords="509,659,706,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MQ_1_1ListConfigurationsRequestPrivate.html" title="Private implementation for ListConfigurationsRequest. " alt="" coords="505,724,709,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MQ_1_1ListUsersRequestPrivate.html" title="Private implementation for ListUsersRequest. " alt="" coords="505,789,709,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MQ_1_1RebootBrokerRequestPrivate.html" title="Private implementation for RebootBrokerRequest. " alt="" coords="493,855,721,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MQ_1_1UpdateBrokerRequestPrivate.html" title="Private implementation for UpdateBrokerRequest. " alt="" coords="493,920,721,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MQ_1_1UpdateConfigurationRequestPrivate.html" title="Private implementation for UpdateConfigurationRequest. " alt="" coords="498,985,717,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MQ_1_1UpdateUserRequestPrivate.html" title="Private implementation for UpdateUserRequest. " alt="" coords="498,1051,717,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,528,187,569"/>
+</map>

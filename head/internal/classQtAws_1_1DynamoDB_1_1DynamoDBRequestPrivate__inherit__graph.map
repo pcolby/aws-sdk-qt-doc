@@ -1,0 +1,34 @@
+<map id="QtAws::DynamoDB::DynamoDBRequestPrivate" name="QtAws::DynamoDB::DynamoDBRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1DynamoDB_1_1BatchGetItemRequestPrivate.html" title="Private implementation for BatchGetItemRequest. " alt="" coords="572,5,773,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DynamoDB_1_1BatchWriteItemRequestPrivate.html" title="Private implementation for BatchWriteItemRequest. " alt="" coords="567,71,778,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DynamoDB_1_1CreateBackupRequestPrivate.html" title="Private implementation for CreateBackupRequest. " alt="" coords="558,136,787,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DynamoDB_1_1CreateGlobalTableRequestPrivate.html" title="Private implementation for CreateGlobalTableRequest. " alt="" coords="561,201,784,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DynamoDB_1_1CreateTableRequestPrivate.html" title="Private implementation for CreateTableRequest. " alt="" coords="564,267,781,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DynamoDB_1_1DeleteBackupRequestPrivate.html" title="Private implementation for DeleteBackupRequest. " alt="" coords="559,332,787,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DynamoDB_1_1DeleteItemRequestPrivate.html" title="Private implementation for DeleteItemRequest. " alt="" coords="567,397,778,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DynamoDB_1_1DeleteTableRequestPrivate.html" title="Private implementation for DeleteTableRequest. " alt="" coords="565,463,781,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DynamoDB_1_1DescribeBackupRequestPrivate.html" title="Private implementation for DescribeBackupRequest. " alt="" coords="573,528,772,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DynamoDB_1_1DescribeContinuousBackupsRequestPrivate.html" title="Private implementation for DescribeContinuousBackupsRequest. " alt="" coords="558,593,787,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DynamoDB_1_1DescribeGlobalTableRequestPrivate.html" title="Private implementation for DescribeGlobalTableRequest. " alt="" coords="573,659,772,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DynamoDB_1_1DescribeLimitsRequestPrivate.html" title="Private implementation for DescribeLimitsRequest. " alt="" coords="573,724,772,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DynamoDB_1_1DescribeTableRequestPrivate.html" title="Private implementation for DescribeTableRequest. " alt="" coords="573,789,772,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DynamoDB_1_1DescribeTimeToLiveRequestPrivate.html" title="Private implementation for DescribeTimeToLiveRequest. " alt="" coords="573,855,772,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DynamoDB_1_1GetItemRequestPrivate.html" title="Private implementation for GetItemRequest. " alt="" coords="576,920,769,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DynamoDB_1_1ListBackupsRequestPrivate.html" title="Private implementation for ListBackupsRequest. " alt="" coords="563,985,782,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DynamoDB_1_1ListGlobalTablesRequestPrivate.html" title="Private implementation for ListGlobalTablesRequest. " alt="" coords="571,1051,775,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DynamoDB_1_1ListTablesRequestPrivate.html" title="Private implementation for ListTablesRequest. " alt="" coords="569,1116,776,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DynamoDB_1_1ListTagsOfResourceRequestPrivate.html" title="Private implementation for ListTagsOfResourceRequest. " alt="" coords="575,1181,771,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DynamoDB_1_1PutItemRequestPrivate.html" title="Private implementation for PutItemRequest. " alt="" coords="577,1247,769,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DynamoDB_1_1QueryRequestPrivate.html" title="Private implementation for QueryRequest. " alt="" coords="557,1312,788,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1DynamoDB_1_1RestoreTableFromBackupRequestPrivate.html" title="Private implementation for RestoreTableFromBackupRequest. " alt="" coords="563,1377,782,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1DynamoDB_1_1RestoreTableToPointInTimeRequestPrivate.html" title="Private implementation for RestoreTableToPointInTimeRequest. " alt="" coords="558,1443,787,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1DynamoDB_1_1ScanRequestPrivate.html" title="Private implementation for ScanRequest. " alt="" coords="560,1508,785,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1DynamoDB_1_1TagResourceRequestPrivate.html" title="Private implementation for TagResourceRequest. " alt="" coords="561,1573,785,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1DynamoDB_1_1UntagResourceRequestPrivate.html" title="Private implementation for UntagResourceRequest. " alt="" coords="554,1639,791,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1DynamoDB_1_1UpdateContinuousBackupsRequestPrivate.html" title="Private implementation for UpdateContinuousBackupsRequest. " alt="" coords="545,1704,800,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1DynamoDB_1_1UpdateGlobalTableRequestPrivate.html" title="Private implementation for UpdateGlobalTableRequest. " alt="" coords="560,1769,785,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1DynamoDB_1_1UpdateItemRequestPrivate.html" title="Private implementation for UpdateItemRequest. " alt="" coords="565,1835,780,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1DynamoDB_1_1UpdateTableRequestPrivate.html" title="Private implementation for UpdateTableRequest. " alt="" coords="563,1900,783,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1DynamoDB_1_1UpdateTimeToLiveRequestPrivate.html" title="Private implementation for UpdateTimeToLiveRequest. " alt="" coords="564,1965,781,2007"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,985,187,1027"/>
+</map>

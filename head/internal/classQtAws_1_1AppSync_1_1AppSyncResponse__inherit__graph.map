@@ -1,0 +1,30 @@
+<map id="QtAws::AppSync::AppSyncResponse" name="QtAws::AppSync::AppSyncResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1AppSync_1_1CreateApiKeyResponse.html" title="Handles AppSync CreateApiKey responses. " alt="" coords="669,5,859,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AppSync_1_1CreateDataSourceResponse.html" title="Handles AppSync CreateDataSource responses. " alt="" coords="665,71,863,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AppSync_1_1CreateGraphqlApiResponse.html" title="Handles AppSync CreateGraphqlApi responses. " alt="" coords="657,136,871,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1AppSync_1_1CreateResolverResponse.html" title="Handles AppSync CreateResolver responses. " alt="" coords="653,201,875,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1AppSync_1_1CreateTypeResponse.html" title="Handles AppSync CreateType responses. " alt="" coords="665,267,863,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1AppSync_1_1DeleteApiKeyResponse.html" title="Handles AppSync DeleteApiKey responses. " alt="" coords="670,332,858,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1AppSync_1_1DeleteDataSourceResponse.html" title="Handles AppSync DeleteDataSource responses. " alt="" coords="665,397,863,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1AppSync_1_1DeleteGraphqlApiResponse.html" title="Handles AppSync DeleteGraphqlApi responses. " alt="" coords="657,463,871,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1AppSync_1_1DeleteResolverResponse.html" title="Handles AppSync DeleteResolver responses. " alt="" coords="653,528,875,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1AppSync_1_1DeleteTypeResponse.html" title="Handles AppSync DeleteType responses. " alt="" coords="665,593,863,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1AppSync_1_1GetDataSourceResponse.html" title="Handles AppSync GetDataSource responses. " alt="" coords="653,659,875,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1AppSync_1_1GetGraphqlApiResponse.html" title="Handles AppSync GetGraphqlApi responses. " alt="" coords="665,724,863,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1AppSync_1_1GetIntrospectionSchemaResponse.html" title="Handles AppSync GetIntrospectionSchema responses. " alt="" coords="651,789,877,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1AppSync_1_1GetResolverResponse.html" title="Handles AppSync GetResolver responses. " alt="" coords="662,855,866,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1AppSync_1_1GetSchemaCreationStatusResponse.html" title="Handles AppSync GetSchemaCreationStatus responses. " alt="" coords="664,920,864,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1AppSync_1_1GetTypeResponse.html" title="Handles AppSync GetType responses. " alt="" coords="644,986,884,1013"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1AppSync_1_1ListApiKeysResponse.html" title="Handles AppSync ListApiKeys responses. " alt="" coords="663,1037,865,1079"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1AppSync_1_1ListDataSourcesResponse.html" title="Handles AppSync ListDataSources responses. " alt="" coords="674,1103,854,1144"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1AppSync_1_1ListGraphqlApisResponse.html" title="Handles AppSync ListGraphqlApis responses. " alt="" coords="665,1168,863,1209"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1AppSync_1_1ListResolversResponse.html" title="Handles AppSync ListResolvers responses. " alt="" coords="659,1233,869,1275"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1AppSync_1_1ListTypesResponse.html" title="Handles AppSync ListTypes responses. " alt="" coords="670,1299,858,1340"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1AppSync_1_1StartSchemaCreationResponse.html" title="Handles AppSync StartSchemaCreation responses. " alt="" coords="661,1364,867,1405"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1AppSync_1_1UpdateApiKeyResponse.html" title="Handles AppSync UpdateApiKey responses. " alt="" coords="668,1429,860,1471"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1AppSync_1_1UpdateDataSourceResponse.html" title="Handles AppSync UpdateDataSource responses. " alt="" coords="663,1495,865,1536"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1AppSync_1_1UpdateGraphqlApiResponse.html" title="Handles AppSync UpdateGraphqlApi responses. " alt="" coords="655,1560,873,1601"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1AppSync_1_1UpdateResolverResponse.html" title="Handles AppSync UpdateResolver responses. " alt="" coords="651,1625,877,1667"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1AppSync_1_1UpdateTypeResponse.html" title="Handles AppSync UpdateType responses. " alt="" coords="663,1691,865,1732"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,855,305,896"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="QtAws::Organizations::OrganizationsRequest" name="QtAws::Organizations::OrganizationsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Organizations_1_1AcceptHandshakeRequest.html" title="Implements Organizations AcceptHandshake requests. " alt="" coords="479,5,666,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Organizations_1_1AttachPolicyRequest.html" title="Implements Organizations AttachPolicy requests. " alt="" coords="496,71,649,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Organizations_1_1CancelHandshakeRequest.html" title="Implements Organizations CancelHandshake requests. " alt="" coords="479,136,666,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Organizations_1_1CreateAccountRequest.html" title="Implements Organizations CreateAccount requests. " alt="" coords="489,201,656,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Organizations_1_1CreateOrganizationalUnitRequest.html" title="Implements Organizations CreateOrganizationalUnit requests. " alt="" coords="460,267,685,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Organizations_1_1CreateOrganizationRequest.html" title="Implements Organizations CreateOrganization requests. " alt="" coords="477,332,668,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Organizations_1_1CreatePolicyRequest.html" title="Implements Organizations CreatePolicy requests. " alt="" coords="495,397,650,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Organizations_1_1DeclineHandshakeRequest.html" title="Implements Organizations DeclineHandshake requests. " alt="" coords="478,463,667,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Organizations_1_1DeleteOrganizationalUnitRequest.html" title="Implements Organizations DeleteOrganizationalUnit requests. " alt="" coords="461,528,685,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Organizations_1_1DeletePolicyRequest.html" title="Implements Organizations DeletePolicy requests. " alt="" coords="496,593,649,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Organizations_1_1DescribeAccountRequest.html" title="Implements Organizations DescribeAccount requests. " alt="" coords="483,659,662,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Organizations_1_1DescribeCreateAccountStatusRequest.html" title="Implements Organizations DescribeCreateAccountStatus requests. " alt="" coords="469,725,676,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Organizations_1_1DescribeHandshakeRequest.html" title="Implements Organizations DescribeHandshake requests. " alt="" coords="474,805,671,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Organizations_1_1DescribeOrganizationalUnitRequest.html" title="Implements Organizations DescribeOrganizationalUnit requests. " alt="" coords="478,871,667,927"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Organizations_1_1DescribePolicyRequest.html" title="Implements Organizations DescribePolicy requests. " alt="" coords="489,952,656,993"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Organizations_1_1DetachPolicyRequest.html" title="Implements Organizations DetachPolicy requests. " alt="" coords="494,1017,651,1059"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Organizations_1_1DisableAWSServiceAccessRequest.html" title="Implements Organizations DisableAWSServiceAccess requests. " alt="" coords="451,1083,694,1124"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Organizations_1_1DisablePolicyTypeRequest.html" title="Implements Organizations DisablePolicyType requests. " alt="" coords="479,1148,667,1189"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Organizations_1_1EnableAllFeaturesRequest.html" title="Implements Organizations EnableAllFeatures requests. " alt="" coords="480,1213,665,1255"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Organizations_1_1EnableAWSServiceAccessRequest.html" title="Implements Organizations EnableAWSServiceAccess requests. " alt="" coords="453,1279,692,1320"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Organizations_1_1EnablePolicyTypeRequest.html" title="Implements Organizations EnablePolicyType requests. " alt="" coords="481,1344,665,1385"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Organizations_1_1InviteAccountToOrganizationRequest.html" title="Implements Organizations InviteAccountToOrganization requests. " alt="" coords="473,1410,672,1466"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Organizations_1_1ListAccountsForParentRequest.html" title="Implements Organizations ListAccountsForParent requests. " alt="" coords="467,1491,679,1532"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Organizations_1_1ListAccountsRequest.html" title="Implements Organizations ListAccounts requests. " alt="" coords="495,1556,650,1597"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Organizations_1_1ListAWSServiceAccessForOrganizationRequest.html" title="Implements Organizations ListAWSServiceAccessForOrganization requests. " alt="" coords="441,1622,704,1678"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Organizations_1_1ListChildrenRequest.html" title="Implements Organizations ListChildren requests. " alt="" coords="497,1703,648,1744"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Organizations_1_1ListCreateAccountStatusRequest.html" title="Implements Organizations ListCreateAccountStatus requests. " alt="" coords="460,1768,685,1809"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Organizations_1_1ListHandshakesForAccountRequest.html" title="Implements Organizations ListHandshakesForAccount requests. " alt="" coords="453,1833,693,1875"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Organizations_1_1ListHandshakesForOrganizationRequest.html" title="Implements Organizations ListHandshakesForOrganization requests. " alt="" coords="465,1899,681,1955"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Organizations_1_1ListOrganizationalUnitsForParentRequest.html" title="Implements Organizations ListOrganizationalUnitsForParent requests. " alt="" coords="481,1979,665,2035"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Organizations_1_1ListParentsRequest.html" title="Implements Organizations ListParents requests. " alt="" coords="497,2060,648,2101"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Organizations_1_1ListPoliciesForTargetRequest.html" title="Implements Organizations ListPoliciesForTarget requests. " alt="" coords="471,2125,674,2167"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1Organizations_1_1ListPoliciesRequest.html" title="Implements Organizations ListPolicies requests. " alt="" coords="497,2191,648,2232"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1Organizations_1_1ListRootsRequest.html" title="Implements Organizations ListRoots requests. " alt="" coords="497,2256,648,2297"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1Organizations_1_1ListTargetsForPolicyRequest.html" title="Implements Organizations ListTargetsForPolicy requests. " alt="" coords="473,2321,672,2363"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1Organizations_1_1MoveAccountRequest.html" title="Implements Organizations MoveAccount requests. " alt="" coords="493,2387,652,2428"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1Organizations_1_1RemoveAccountFromOrganizationRequest.html" title="Implements Organizations RemoveAccountFromOrganization requests. " alt="" coords="457,2453,688,2509"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1Organizations_1_1UpdateOrganizationalUnitRequest.html" title="Implements Organizations UpdateOrganizationalUnit requests. " alt="" coords="459,2533,687,2575"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1Organizations_1_1UpdatePolicyRequest.html" title="Implements Organizations UpdatePolicy requests. " alt="" coords="494,2599,651,2640"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1279,187,1320"/>
+</map>

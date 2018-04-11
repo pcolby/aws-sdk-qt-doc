@@ -1,0 +1,4 @@
+<map id="QtAws::IoTDataPlane::UpdateThingShadowResponse" name="QtAws::IoTDataPlane::UpdateThingShadowResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoTDataPlane_1_1IoTDataPlaneResponse.html" title="Handles IoTDataPlane IoTDataPlane responses. " alt="" coords="26,169,195,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="20,80,201,121"/>
+</map>

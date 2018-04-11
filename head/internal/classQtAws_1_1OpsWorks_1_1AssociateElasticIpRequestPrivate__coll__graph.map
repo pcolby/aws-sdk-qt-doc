@@ -1,0 +1,5 @@
+<map id="QtAws::OpsWorks::AssociateElasticIpRequestPrivate" name="QtAws::OpsWorks::AssociateElasticIpRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksRequestPrivate.html" title="Private implementation for OpsWorksRequest. " alt="" coords="5,109,208,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="168,5,349,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="232,109,413,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticsearchService::DeleteElasticsearchDomainResponse" name="QtAws::ElasticsearchService::DeleteElasticsearchDomainResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticsearchService_1_1ElasticsearchServiceResponse.html" title="Handles ElasticsearchService ElasticsearchService responses. " alt="" coords="25,169,237,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="40,80,221,121"/>
+</map>

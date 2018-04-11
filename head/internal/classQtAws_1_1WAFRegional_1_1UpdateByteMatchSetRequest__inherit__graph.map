@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::UpdateByteMatchSetRequest" name="QtAws::WAFRegional::UpdateByteMatchSetRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalRequest.html" title="Interface class for providing WAFRegional requests. " alt="" coords="27,95,187,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="17,5,198,47"/>
+</map>

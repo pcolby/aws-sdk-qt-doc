@@ -1,0 +1,4 @@
+<map id="QtAws::CloudSearch::DeleteAnalysisSchemeRequest" name="QtAws::CloudSearch::DeleteAnalysisSchemeRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudSearch_1_1CloudSearchRequest.html" title="Interface class for providing CloudSearch requests. " alt="" coords="35,95,190,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="22,5,203,47"/>
+</map>

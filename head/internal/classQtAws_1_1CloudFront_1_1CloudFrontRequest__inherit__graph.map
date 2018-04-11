@@ -1,0 +1,31 @@
+<map id="QtAws::CloudFront::CloudFrontRequest" name="QtAws::CloudFront::CloudFrontRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudFront_1_1CreateCloudFrontOriginAccessIdentityRequest.html" title="Implements CloudFront CreateCloudFrontOriginAccessIdentity requests. " alt="" coords="438,5,641,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudFront_1_1CreateDistributionRequest.html" title="Implements CloudFront CreateDistribution requests. " alt="" coords="451,86,627,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudFront_1_1CreateDistributionWithTagsRequest.html" title="Implements CloudFront CreateDistributionWithTags requests. " alt="" coords="448,152,631,208"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudFront_1_1CreateInvalidationRequest.html" title="Implements CloudFront CreateInvalidation requests. " alt="" coords="451,233,627,274"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudFront_1_1CreateStreamingDistributionRequest.html" title="Implements CloudFront CreateStreamingDistribution requests. " alt="" coords="446,299,633,355"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudFront_1_1CreateStreamingDistributionWithTagsRequest.html" title="Implements CloudFront CreateStreamingDistributionWithTags requests. " alt="" coords="446,379,633,435"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudFront_1_1DeleteCloudFrontOriginAccessIdentityRequest.html" title="Implements CloudFront DeleteCloudFrontOriginAccessIdentity requests. " alt="" coords="438,459,641,515"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudFront_1_1DeleteDistributionRequest.html" title="Implements CloudFront DeleteDistribution requests. " alt="" coords="452,539,627,581"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudFront_1_1DeleteServiceLinkedRoleRequest.html" title="Implements CloudFront DeleteServiceLinkedRole requests. " alt="" coords="430,605,649,646"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudFront_1_1DeleteStreamingDistributionRequest.html" title="Implements CloudFront DeleteStreamingDistribution requests. " alt="" coords="447,671,632,727"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudFront_1_1GetCloudFrontOriginAccessIdentityConfigRequest.html" title="Implements CloudFront GetCloudFrontOriginAccessIdentityConfig requests. " alt="" coords="425,751,653,807"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudFront_1_1GetCloudFrontOriginAccessIdentityRequest.html" title="Implements CloudFront GetCloudFrontOriginAccessIdentity requests. " alt="" coords="425,831,653,887"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudFront_1_1GetDistributionConfigRequest.html" title="Implements CloudFront GetDistributionConfig requests. " alt="" coords="441,911,637,953"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudFront_1_1GetDistributionRequest.html" title="Implements CloudFront GetDistribution requests. " alt="" coords="460,977,619,1018"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudFront_1_1GetInvalidationRequest.html" title="Implements CloudFront GetInvalidation requests. " alt="" coords="460,1042,619,1083"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudFront_1_1GetStreamingDistributionConfigRequest.html" title="Implements CloudFront GetStreamingDistributionConfig requests. " alt="" coords="436,1108,643,1164"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudFront_1_1GetStreamingDistributionRequest.html" title="Implements CloudFront GetStreamingDistribution requests. " alt="" coords="431,1189,648,1230"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudFront_1_1ListCloudFrontOriginAccessIdentitiesRequest.html" title="Implements CloudFront ListCloudFrontOriginAccessIdentities requests. " alt="" coords="447,1255,632,1311"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudFront_1_1ListDistributionsByWebACLIdRequest.html" title="Implements CloudFront ListDistributionsByWebACLId requests. " alt="" coords="441,1335,637,1391"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudFront_1_1ListDistributionsRequest.html" title="Implements CloudFront ListDistributions requests. " alt="" coords="457,1415,622,1457"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudFront_1_1ListInvalidationsRequest.html" title="Implements CloudFront ListInvalidations requests. " alt="" coords="457,1481,622,1522"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudFront_1_1ListStreamingDistributionsRequest.html" title="Implements CloudFront ListStreamingDistributions requests. " alt="" coords="452,1547,627,1603"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudFront_1_1ListTagsForResourceRequest.html" title="Implements CloudFront ListTagsForResource requests. " alt="" coords="441,1627,637,1669"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudFront_1_1TagResourceRequest.html" title="Implements CloudFront TagResource requests. " alt="" coords="465,1693,614,1734"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudFront_1_1UntagResourceRequest.html" title="Implements CloudFront UntagResource requests. " alt="" coords="458,1758,621,1799"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudFront_1_1UpdateCloudFrontOriginAccessIdentityRequest.html" title="Implements CloudFront UpdateCloudFrontOriginAccessIdentity requests. " alt="" coords="436,1824,643,1880"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudFront_1_1UpdateDistributionRequest.html" title="Implements CloudFront UpdateDistribution requests. " alt="" coords="450,1905,629,1946"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudFront_1_1UpdateStreamingDistributionRequest.html" title="Implements CloudFront UpdateStreamingDistribution requests. " alt="" coords="445,1971,634,2027"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1010,187,1051"/>
+</map>

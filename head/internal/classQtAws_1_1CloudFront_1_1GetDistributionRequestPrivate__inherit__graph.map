@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFront::GetDistributionRequestPrivate" name="QtAws::CloudFront::GetDistributionRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFront_1_1CloudFrontRequestPrivate.html" title="Private implementation for CloudFrontRequest. " alt="" coords="17,95,193,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="14,5,195,47"/>
+</map>

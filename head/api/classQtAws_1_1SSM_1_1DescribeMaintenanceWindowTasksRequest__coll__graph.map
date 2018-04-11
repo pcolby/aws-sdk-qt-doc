@@ -1,0 +1,4 @@
+<map id="QtAws::SSM::DescribeMaintenanceWindowTasksRequest" name="QtAws::SSM::DescribeMaintenanceWindowTasksRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SSM_1_1SSMRequest.html" title="Interface class for providing SSM requests. " alt="" coords="29,95,215,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,213,47"/>
+</map>

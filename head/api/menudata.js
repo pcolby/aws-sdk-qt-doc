@@ -57,6 +57,13 @@ var menudata={children:[
 {text:"x",url:"functions_func_x.html#index_x"},
 {text:"~",url:"functions_func_0x7e.html#index_0x7e"}]},
 {text:"Typedefs",url:"functions_type.html"},
-{text:"Enumerations",url:"functions_enum.html"}]}]},
+{text:"Enumerations",url:"functions_enum.html",children:[
+{text:"a",url:"functions_enum.html#index_a"},
+{text:"c",url:"functions_enum.html#index_c"},
+{text:"e",url:"functions_enum.html#index_e"},
+{text:"m",url:"functions_enum.html#index_m"},
+{text:"p",url:"functions_enum.html#index_p"},
+{text:"r",url:"functions_enum.html#index_r"},
+{text:"t",url:"functions_enum.html#index_t"}]}]}]},
 {text:"Files",url:"files.html",children:[
 {text:"File List",url:"files.html"}]}]}

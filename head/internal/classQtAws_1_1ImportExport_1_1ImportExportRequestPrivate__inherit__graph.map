@@ -1,0 +1,9 @@
+<map id="QtAws::ImportExport::ImportExportRequestPrivate" name="QtAws::ImportExport::ImportExportRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ImportExport_1_1CancelJobRequestPrivate.html" title="Private implementation for CancelJobRequest. " alt="" coords="497,5,680,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ImportExport_1_1CreateJobRequestPrivate.html" title="Private implementation for CreateJobRequest. " alt="" coords="499,71,679,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ImportExport_1_1GetShippingLabelRequestPrivate.html" title="Private implementation for GetShippingLabelRequest. " alt="" coords="477,136,700,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ImportExport_1_1GetStatusRequestPrivate.html" title="Private implementation for GetStatusRequest. " alt="" coords="499,201,678,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ImportExport_1_1ListJobsRequestPrivate.html" title="Private implementation for ListJobsRequest. " alt="" coords="504,267,673,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ImportExport_1_1UpdateJobRequestPrivate.html" title="Private implementation for UpdateJobRequest. " alt="" coords="497,332,680,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,169,187,211"/>
+</map>

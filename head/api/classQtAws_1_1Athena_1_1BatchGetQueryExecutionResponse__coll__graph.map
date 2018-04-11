@@ -1,0 +1,4 @@
+<map id="QtAws::Athena::BatchGetQueryExecutionResponse" name="QtAws::Athena::BatchGetQueryExecutionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Athena_1_1AthenaResponse.html" title="Handles Athena Athena responses. " alt="" coords="5,169,224,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="24,80,205,121"/>
+</map>

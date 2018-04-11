@@ -1,0 +1,30 @@
+<map id="QtAws::CodePipeline::CodePipelineRequest" name="QtAws::CodePipeline::CodePipelineRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CodePipeline_1_1AcknowledgeJobRequest.html" title="Implements CodePipeline AcknowledgeJob requests. " alt="" coords="465,5,643,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CodePipeline_1_1AcknowledgeThirdPartyJobRequest.html" title="Implements CodePipeline AcknowledgeThirdPartyJob requests. " alt="" coords="459,71,649,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CodePipeline_1_1CreateCustomActionTypeRequest.html" title="Implements CodePipeline CreateCustomActionType requests. " alt="" coords="439,152,669,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CodePipeline_1_1CreatePipelineRequest.html" title="Implements CodePipeline CreatePipeline requests. " alt="" coords="472,217,636,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CodePipeline_1_1DeleteCustomActionTypeRequest.html" title="Implements CodePipeline DeleteCustomActionType requests. " alt="" coords="439,283,669,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CodePipeline_1_1DeletePipelineRequest.html" title="Implements CodePipeline DeletePipeline requests. " alt="" coords="473,348,635,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CodePipeline_1_1DisableStageTransitionRequest.html" title="Implements CodePipeline DisableStageTransition requests. " alt="" coords="447,413,661,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CodePipeline_1_1EnableStageTransitionRequest.html" title="Implements CodePipeline EnableStageTransition requests. " alt="" coords="449,479,659,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CodePipeline_1_1GetJobDetailsRequest.html" title="Implements CodePipeline GetJobDetails requests. " alt="" coords="473,544,635,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CodePipeline_1_1GetPipelineExecutionRequest.html" title="Implements CodePipeline GetPipelineExecution requests. " alt="" coords="452,609,656,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CodePipeline_1_1GetPipelineRequest.html" title="Implements CodePipeline GetPipeline requests. " alt="" coords="481,675,627,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CodePipeline_1_1GetPipelineStateRequest.html" title="Implements CodePipeline GetPipelineState requests. " alt="" coords="465,740,643,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CodePipeline_1_1GetThirdPartyJobDetailsRequest.html" title="Implements CodePipeline GetThirdPartyJobDetails requests. " alt="" coords="443,805,665,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CodePipeline_1_1ListActionTypesRequest.html" title="Implements CodePipeline ListActionTypes requests. " alt="" coords="467,871,641,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CodePipeline_1_1ListPipelineExecutionsRequest.html" title="Implements CodePipeline ListPipelineExecutions requests. " alt="" coords="449,936,659,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CodePipeline_1_1ListPipelinesRequest.html" title="Implements CodePipeline ListPipelines requests. " alt="" coords="477,1001,631,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CodePipeline_1_1PollForJobsRequest.html" title="Implements CodePipeline PollForJobs requests. " alt="" coords="480,1067,628,1108"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CodePipeline_1_1PollForThirdPartyJobsRequest.html" title="Implements CodePipeline PollForThirdPartyJobs requests. " alt="" coords="450,1132,658,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CodePipeline_1_1PutActionRevisionRequest.html" title="Implements CodePipeline PutActionRevision requests. " alt="" coords="461,1197,647,1239"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CodePipeline_1_1PutApprovalResultRequest.html" title="Implements CodePipeline PutApprovalResult requests. " alt="" coords="460,1263,648,1304"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CodePipeline_1_1PutJobFailureResultRequest.html" title="Implements CodePipeline PutJobFailureResult requests. " alt="" coords="455,1328,653,1369"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CodePipeline_1_1PutJobSuccessResultRequest.html" title="Implements CodePipeline PutJobSuccessResult requests. " alt="" coords="449,1393,659,1435"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CodePipeline_1_1PutThirdPartyJobFailureResultRequest.html" title="Implements CodePipeline PutThirdPartyJobFailureResult requests. " alt="" coords="450,1459,658,1515"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CodePipeline_1_1PutThirdPartyJobSuccessResultRequest.html" title="Implements CodePipeline PutThirdPartyJobSuccessResult requests. " alt="" coords="444,1539,664,1595"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CodePipeline_1_1RetryStageExecutionRequest.html" title="Implements CodePipeline RetryStageExecution requests. " alt="" coords="453,1620,655,1661"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CodePipeline_1_1StartPipelineExecutionRequest.html" title="Implements CodePipeline StartPipelineExecution requests. " alt="" coords="449,1685,659,1727"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CodePipeline_1_1UpdatePipelineRequest.html" title="Implements CodePipeline UpdatePipeline requests. " alt="" coords="471,1751,637,1792"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,871,187,912"/>
+</map>

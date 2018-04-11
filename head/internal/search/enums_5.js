@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['region',['Region',['../classAwsRegion.html#aacff2316d6b458313e7315540f5cf39d',1,'AwsRegion']]]
+  ['region',['Region',['../classQtAws_1_1Core_1_1AwsRegion.html#a762dc5c30a7ec5db0c2310133b72f315',1,'QtAws::Core::AwsRegion']]]
 ];

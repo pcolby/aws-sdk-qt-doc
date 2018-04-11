@@ -1,0 +1,5 @@
+<map id="QtAws::Rekognition::StartFaceDetectionRequestPrivate" name="QtAws::Rekognition::StartFaceDetectionRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionRequestPrivate.html" title="Private implementation for RekognitionRequest. " alt="" coords="7,109,196,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="156,5,337,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="220,109,401,151"/>
+</map>

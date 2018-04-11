@@ -1,0 +1,27 @@
+<map id="QtAws::Route53Domains::Route53DomainsRequest" name="QtAws::Route53Domains::Route53DomainsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Route53Domains_1_1CheckDomainAvailabilityRequest.html" title="Implements Route53Domains CheckDomainAvailability requests. " alt="" coords="472,5,697,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Route53Domains_1_1CheckDomainTransferabilityRequest.html" title="Implements Route53Domains CheckDomainTransferability requests. " alt="" coords="487,71,682,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Route53Domains_1_1DeleteTagsForDomainRequest.html" title="Implements Route53Domains DeleteTagsForDomain requests. " alt="" coords="479,152,690,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Route53Domains_1_1DisableDomainAutoRenewRequest.html" title="Implements Route53Domains DisableDomainAutoRenew requests. " alt="" coords="467,217,703,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Route53Domains_1_1DisableDomainTransferLockRequest.html" title="Implements Route53Domains DisableDomainTransferLock requests. " alt="" coords="487,283,682,339"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Route53Domains_1_1EnableDomainAutoRenewRequest.html" title="Implements Route53Domains EnableDomainAutoRenew requests. " alt="" coords="469,364,701,405"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Route53Domains_1_1EnableDomainTransferLockRequest.html" title="Implements Route53Domains EnableDomainTransferLock requests. " alt="" coords="465,429,705,471"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Route53Domains_1_1GetContactReachabilityStatusRequest.html" title="Implements Route53Domains GetContactReachabilityStatus requests. " alt="" coords="481,495,688,551"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Route53Domains_1_1GetDomainDetailRequest.html" title="Implements Route53Domains GetDomainDetail requests. " alt="" coords="495,576,674,617"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Route53Domains_1_1GetDomainSuggestionsRequest.html" title="Implements Route53Domains GetDomainSuggestions requests. " alt="" coords="476,641,693,683"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Route53Domains_1_1GetOperationDetailRequest.html" title="Implements Route53Domains GetOperationDetail requests. " alt="" coords="489,707,680,748"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Route53Domains_1_1ListDomainsRequest.html" title="Implements Route53Domains ListDomains requests. " alt="" coords="499,772,670,813"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Route53Domains_1_1ListOperationsRequest.html" title="Implements Route53Domains ListOperations requests. " alt="" coords="499,837,670,879"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Route53Domains_1_1ListTagsForDomainRequest.html" title="Implements Route53Domains ListTagsForDomain requests. " alt="" coords="488,903,681,944"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Route53Domains_1_1RegisterDomainRequest.html" title="Implements Route53Domains RegisterDomain requests. " alt="" coords="498,968,671,1009"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Route53Domains_1_1RenewDomainRequest.html" title="Implements Route53Domains RenewDomain requests. " alt="" coords="499,1033,670,1075"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Route53Domains_1_1ResendContactReachabilityEmailRequest.html" title="Implements Route53Domains ResendContactReachabilityEmail requests. " alt="" coords="488,1099,681,1155"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Route53Domains_1_1RetrieveDomainAuthCodeRequest.html" title="Implements Route53Domains RetrieveDomainAuthCode requests. " alt="" coords="469,1180,700,1221"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Route53Domains_1_1TransferDomainRequest.html" title="Implements Route53Domains TransferDomain requests. " alt="" coords="499,1245,671,1287"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactPrivacyRequest.html" title="Implements Route53Domains UpdateDomainContactPrivacy requests. " alt="" coords="481,1311,688,1367"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactRequest.html" title="Implements Route53Domains UpdateDomainContact requests. " alt="" coords="479,1392,691,1433"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainNameserversRequest.html" title="Implements Route53Domains UpdateDomainNameservers requests. " alt="" coords="463,1457,707,1499"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Route53Domains_1_1UpdateTagsForDomainRequest.html" title="Implements Route53Domains UpdateTagsForDomain requests. " alt="" coords="477,1523,692,1564"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Route53Domains_1_1ViewBillingRequest.html" title="Implements Route53Domains ViewBilling requests. " alt="" coords="499,1588,670,1629"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,805,187,847"/>
+</map>

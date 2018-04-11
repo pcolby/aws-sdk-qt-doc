@@ -1,0 +1,4 @@
+<map id="QtAws::APIGateway::GetBasePathMappingsRequest" name="QtAws::APIGateway::GetBasePathMappingsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1APIGateway_1_1APIGatewayRequest.html" title="Interface class for providing APIGateway requests. " alt="" coords="32,95,184,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="17,5,199,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::IoTDataPlane::GetThingShadowRequestPrivate" name="QtAws::IoTDataPlane::GetThingShadowRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoTDataPlane_1_1IoTDataPlaneRequestPrivate.html" title="Private implementation for IoTDataPlaneRequest. " alt="" coords="15,95,215,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="25,5,206,47"/>
+</map>

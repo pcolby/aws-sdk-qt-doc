@@ -1,0 +1,20 @@
+<map id="QtAws::MediaLive::MediaLiveResponsePrivate" name="QtAws::MediaLive::MediaLiveResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaLive_1_1CreateChannelResponsePrivate.html" title="Private implementation for CreateChannelResponse. " alt="" coords="508,5,684,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaLive_1_1CreateInputResponsePrivate.html" title="Private implementation for CreateInputResponse. " alt="" coords="508,71,684,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaLive_1_1CreateInputSecurityGroupResponsePrivate.html" title="Private implementation for CreateInputSecurityGroupResponse. " alt="" coords="479,136,713,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaLive_1_1DeleteChannelResponsePrivate.html" title="Private implementation for DeleteChannelResponse. " alt="" coords="509,201,683,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaLive_1_1DeleteInputResponsePrivate.html" title="Private implementation for DeleteInputResponse. " alt="" coords="509,267,683,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaLive_1_1DeleteInputSecurityGroupResponsePrivate.html" title="Private implementation for DeleteInputSecurityGroupResponse. " alt="" coords="479,332,713,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaLive_1_1DescribeChannelResponsePrivate.html" title="Private implementation for DescribeChannelResponse. " alt="" coords="501,397,691,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaLive_1_1DescribeInputResponsePrivate.html" title="Private implementation for DescribeInputResponse. " alt="" coords="501,463,691,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaLive_1_1DescribeInputSecurityGroupResponsePrivate.html" title="Private implementation for DescribeInputSecurityGroupResponse. " alt="" coords="479,528,713,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaLive_1_1ListChannelsResponsePrivate.html" title="Private implementation for ListChannelsResponse. " alt="" coords="489,593,703,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaLive_1_1ListInputSecurityGroupsResponsePrivate.html" title="Private implementation for ListInputSecurityGroupsResponse. " alt="" coords="490,659,702,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MediaLive_1_1ListInputsResponsePrivate.html" title="Private implementation for ListInputsResponse. " alt="" coords="499,724,693,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MediaLive_1_1StartChannelResponsePrivate.html" title="Private implementation for StartChannelResponse. " alt="" coords="489,789,703,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MediaLive_1_1StopChannelResponsePrivate.html" title="Private implementation for StopChannelResponse. " alt="" coords="490,855,702,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MediaLive_1_1UpdateChannelResponsePrivate.html" title="Private implementation for UpdateChannelResponse. " alt="" coords="507,920,685,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MediaLive_1_1UpdateInputResponsePrivate.html" title="Private implementation for UpdateInputResponse. " alt="" coords="507,985,685,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MediaLive_1_1UpdateInputSecurityGroupResponsePrivate.html" title="Private implementation for UpdateInputSecurityGroupResponse. " alt="" coords="479,1051,713,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,528,187,569"/>
+</map>

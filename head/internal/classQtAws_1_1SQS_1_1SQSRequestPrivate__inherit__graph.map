@@ -1,0 +1,23 @@
+<map id="QtAws::SQS::SQSRequestPrivate" name="QtAws::SQS::SQSRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SQS_1_1AddPermissionRequestPrivate.html" title="Private implementation for AddPermissionRequest. " alt="" coords="529,5,723,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityBatchRequestPrivate.html" title="Private implementation for ChangeMessageVisibilityBatchRequest. " alt="" coords="524,71,728,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityRequestPrivate.html" title="Private implementation for ChangeMessageVisibilityRequest. " alt="" coords="524,136,728,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SQS_1_1CreateQueueRequestPrivate.html" title="Private implementation for CreateQueueRequest. " alt="" coords="510,201,742,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SQS_1_1DeleteMessageBatchRequestPrivate.html" title="Private implementation for DeleteMessageBatchRequest. " alt="" coords="527,267,725,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SQS_1_1DeleteMessageRequestPrivate.html" title="Private implementation for DeleteMessageRequest. " alt="" coords="527,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SQS_1_1DeleteQueueRequestPrivate.html" title="Private implementation for DeleteQueueRequest. " alt="" coords="511,397,741,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SQS_1_1GetQueueAttributesRequestPrivate.html" title="Private implementation for GetQueueAttributesRequest. " alt="" coords="515,463,737,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SQS_1_1GetQueueUrlRequestPrivate.html" title="Private implementation for GetQueueUrlRequest. " alt="" coords="511,528,741,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SQS_1_1ListDeadLetterSourceQueuesRequestPrivate.html" title="Private implementation for ListDeadLetterSourceQueuesRequest. " alt="" coords="527,593,725,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SQS_1_1ListQueuesRequestPrivate.html" title="Private implementation for ListQueuesRequest. " alt="" coords="515,659,737,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SQS_1_1ListQueueTagsRequestPrivate.html" title="Private implementation for ListQueueTagsRequest. " alt="" coords="529,724,723,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SQS_1_1PurgeQueueRequestPrivate.html" title="Private implementation for PurgeQueueRequest. " alt="" coords="513,789,739,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SQS_1_1ReceiveMessageRequestPrivate.html" title="Private implementation for ReceiveMessageRequest. " alt="" coords="523,855,729,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SQS_1_1RemovePermissionRequestPrivate.html" title="Private implementation for RemovePermissionRequest. " alt="" coords="516,920,736,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SQS_1_1SendMessageBatchRequestPrivate.html" title="Private implementation for SendMessageBatchRequest. " alt="" coords="515,985,737,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SQS_1_1SendMessageRequestPrivate.html" title="Private implementation for SendMessageRequest. " alt="" coords="507,1051,745,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SQS_1_1SetQueueAttributesRequestPrivate.html" title="Private implementation for SetQueueAttributesRequest. " alt="" coords="516,1116,736,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SQS_1_1TagQueueRequestPrivate.html" title="Private implementation for TagQueueRequest. " alt="" coords="519,1181,733,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SQS_1_1UntagQueueRequestPrivate.html" title="Private implementation for UntagQueueRequest. " alt="" coords="512,1247,740,1288"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,627,187,668"/>
+</map>

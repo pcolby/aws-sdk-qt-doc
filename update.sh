@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BUILDDIR=~/tmp/build/libqtaws-qmake-gcc-qt591
+BUILDDIR=~/tmp/build/aws-sdk-qt-qmake-gcc-qt591
 
 rm -rf head
 mkdir head

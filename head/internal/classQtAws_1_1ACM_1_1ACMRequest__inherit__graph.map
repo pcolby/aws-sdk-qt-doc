@@ -1,0 +1,14 @@
+<map id="QtAws::ACM::ACMRequest" name="QtAws::ACM::ACMRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1ACM_1_1AddTagsToCertificateRequest.html" title="Implements ACM AddTagsToCertificate requests. " alt="" coords="471,5,705,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ACM_1_1DeleteCertificateRequest.html" title="Implements ACM DeleteCertificate requests. " alt="" coords="485,71,691,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ACM_1_1DescribeCertificateRequest.html" title="Implements ACM DescribeCertificate requests. " alt="" coords="478,136,698,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ACM_1_1GetCertificateRequest.html" title="Implements ACM GetCertificate requests. " alt="" coords="493,201,683,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ACM_1_1ImportCertificateRequest.html" title="Implements ACM ImportCertificate requests. " alt="" coords="485,267,691,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ACM_1_1ListCertificatesRequest.html" title="Implements ACM ListCertificates requests. " alt="" coords="490,332,686,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ACM_1_1ListTagsForCertificateRequest.html" title="Implements ACM ListTagsForCertificate requests. " alt="" coords="469,397,707,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ACM_1_1RemoveTagsFromCertificateRequest.html" title="Implements ACM RemoveTagsFromCertificate requests. " alt="" coords="480,463,696,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ACM_1_1RequestCertificateRequest.html" title="Implements ACM RequestCertificate requests. " alt="" coords="479,528,697,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ACM_1_1ResendValidationEmailRequest.html" title="Implements ACM ResendValidationEmail requests. " alt="" coords="483,593,693,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ACM_1_1UpdateCertificateOptionsRequest.html" title="Implements ACM UpdateCertificateOptions requests. " alt="" coords="483,659,693,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,332,187,373"/>
+</map>

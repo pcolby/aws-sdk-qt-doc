@@ -1,0 +1,5 @@
+<map id="QtAws::KinesisVideoArchivedMedia::KinesisVideoArchivedMediaRequest" name="QtAws::KinesisVideoArchivedMedia::KinesisVideoArchivedMediaRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisVideoArchivedMedia_1_1GetMediaForFragmentListRequest.html" title="Implements KinesisVideoArchivedMedia GetMediaForFragmentList requests. " alt="" coords="509,5,775,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideoArchivedMedia_1_1ListFragmentsRequest.html" title="Implements KinesisVideoArchivedMedia ListFragments requests. " alt="" coords="543,71,741,112"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,39,187,80"/>
+</map>

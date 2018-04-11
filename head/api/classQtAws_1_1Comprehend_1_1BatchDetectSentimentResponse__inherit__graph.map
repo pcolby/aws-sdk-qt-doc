@@ -1,0 +1,4 @@
+<map id="QtAws::Comprehend::BatchDetectSentimentResponse" name="QtAws::Comprehend::BatchDetectSentimentResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Comprehend_1_1ComprehendResponse.html" title="Handles Comprehend Comprehend responses. " alt="" coords="35,169,189,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="21,80,203,121"/>
+</map>

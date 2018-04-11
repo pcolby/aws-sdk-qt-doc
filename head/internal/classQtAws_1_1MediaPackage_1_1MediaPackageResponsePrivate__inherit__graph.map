@@ -1,0 +1,14 @@
+<map id="QtAws::MediaPackage::MediaPackageResponsePrivate" name="QtAws::MediaPackage::MediaPackageResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaPackage_1_1CreateChannelResponsePrivate.html" title="Private implementation for CreateChannelResponse. " alt="" coords="505,5,723,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaPackage_1_1CreateOriginEndpointResponsePrivate.html" title="Private implementation for CreateOriginEndpointResponse. " alt="" coords="507,71,721,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaPackage_1_1DeleteChannelResponsePrivate.html" title="Private implementation for DeleteChannelResponse. " alt="" coords="506,152,722,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaPackage_1_1DeleteOriginEndpointResponsePrivate.html" title="Private implementation for DeleteOriginEndpointResponse. " alt="" coords="508,218,720,274"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaPackage_1_1DescribeChannelResponsePrivate.html" title="Private implementation for DescribeChannelResponse. " alt="" coords="499,299,729,340"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaPackage_1_1DescribeOriginEndpointResponsePrivate.html" title="Private implementation for DescribeOriginEndpointResponse. " alt="" coords="501,365,727,421"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaPackage_1_1ListChannelsResponsePrivate.html" title="Private implementation for ListChannelsResponse. " alt="" coords="511,445,717,487"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaPackage_1_1ListOriginEndpointsResponsePrivate.html" title="Private implementation for ListOriginEndpointsResponse. " alt="" coords="513,511,715,567"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaPackage_1_1RotateChannelCredentialsResponsePrivate.html" title="Private implementation for RotateChannelCredentialsResponse. " alt="" coords="523,591,705,647"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaPackage_1_1UpdateChannelResponsePrivate.html" title="Private implementation for UpdateChannelResponse. " alt="" coords="504,672,724,713"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaPackage_1_1UpdateOriginEndpointResponsePrivate.html" title="Private implementation for UpdateOriginEndpointResponse. " alt="" coords="506,738,722,794"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,372,187,413"/>
+</map>

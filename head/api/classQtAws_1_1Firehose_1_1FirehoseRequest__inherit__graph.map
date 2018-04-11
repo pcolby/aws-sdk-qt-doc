@@ -1,0 +1,10 @@
+<map id="QtAws::Firehose::FirehoseRequest" name="QtAws::Firehose::FirehoseRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Firehose_1_1CreateDeliveryStreamRequest.html" title="Implements Firehose CreateDeliveryStream requests. " alt="" coords="472,5,687,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Firehose_1_1DeleteDeliveryStreamRequest.html" title="Implements Firehose DeleteDeliveryStream requests. " alt="" coords="472,71,687,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Firehose_1_1DescribeDeliveryStreamRequest.html" title="Implements Firehose DescribeDeliveryStream requests. " alt="" coords="489,136,669,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Firehose_1_1ListDeliveryStreamsRequest.html" title="Implements Firehose ListDeliveryStreams requests. " alt="" coords="481,201,678,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Firehose_1_1PutRecordBatchRequest.html" title="Implements Firehose PutRecordBatch requests. " alt="" coords="484,267,675,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Firehose_1_1PutRecordRequest.html" title="Implements Firehose PutRecord requests. " alt="" coords="484,332,675,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Firehose_1_1UpdateDestinationRequest.html" title="Implements Firehose UpdateDestination requests. " alt="" coords="461,397,697,439"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,201,187,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoIdentityProvider::DescribeRiskConfigurationResponsePrivate" name="QtAws::CognitoIdentityProvider::DescribeRiskConfigurationResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderResponsePrivate.html" title="Private implementation for CognitoIdentityProviderResponse. " alt="" coords="5,95,272,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="48,5,229,47"/>
+</map>

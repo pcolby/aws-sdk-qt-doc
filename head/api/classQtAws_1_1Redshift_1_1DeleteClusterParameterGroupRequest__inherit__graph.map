@@ -1,0 +1,4 @@
+<map id="QtAws::Redshift::DeleteClusterParameterGroupRequest" name="QtAws::Redshift::DeleteClusterParameterGroupRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Redshift_1_1RedshiftRequest.html" title="Interface class for providing Redshift requests. " alt="" coords="21,95,197,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

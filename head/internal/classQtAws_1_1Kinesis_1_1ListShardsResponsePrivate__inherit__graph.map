@@ -1,0 +1,4 @@
+<map id="QtAws::Kinesis::ListShardsResponsePrivate" name="QtAws::Kinesis::ListShardsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Kinesis_1_1KinesisResponsePrivate.html" title="Private implementation for KinesisResponse. " alt="" coords="5,95,228,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="26,5,207,47"/>
+</map>

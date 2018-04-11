@@ -1,0 +1,4 @@
+<map id="QtAws::Shield::DescribeSubscriptionResponse" name="QtAws::Shield::DescribeSubscriptionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Shield_1_1ShieldResponse.html" title="Handles Shield Shield responses. " alt="" coords="20,169,229,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="34,80,215,121"/>
+</map>

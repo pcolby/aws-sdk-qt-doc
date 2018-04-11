@@ -1,0 +1,30 @@
+<map id="QtAws::AppSync::AppSyncResponsePrivate" name="QtAws::AppSync::AppSyncResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1AppSync_1_1CreateApiKeyResponsePrivate.html" title="Private implementation for CreateApiKeyResponse. " alt="" coords="551,5,740,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1AppSync_1_1CreateDataSourceResponsePrivate.html" title="Private implementation for CreateDataSourceResponse. " alt="" coords="546,71,745,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AppSync_1_1CreateGraphqlApiResponsePrivate.html" title="Private implementation for CreateGraphqlApiResponse. " alt="" coords="538,136,753,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AppSync_1_1CreateResolverResponsePrivate.html" title="Private implementation for CreateResolverResponse. " alt="" coords="534,201,757,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1AppSync_1_1CreateTypeResponsePrivate.html" title="Private implementation for CreateTypeResponse. " alt="" coords="546,267,745,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1AppSync_1_1DeleteApiKeyResponsePrivate.html" title="Private implementation for DeleteApiKeyResponse. " alt="" coords="551,332,739,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1AppSync_1_1DeleteDataSourceResponsePrivate.html" title="Private implementation for DeleteDataSourceResponse. " alt="" coords="547,397,744,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1AppSync_1_1DeleteGraphqlApiResponsePrivate.html" title="Private implementation for DeleteGraphqlApiResponse. " alt="" coords="538,463,753,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1AppSync_1_1DeleteResolverResponsePrivate.html" title="Private implementation for DeleteResolverResponse. " alt="" coords="535,528,756,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1AppSync_1_1DeleteTypeResponsePrivate.html" title="Private implementation for DeleteTypeResponse. " alt="" coords="546,593,745,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1AppSync_1_1GetDataSourceResponsePrivate.html" title="Private implementation for GetDataSourceResponse. " alt="" coords="535,659,756,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1AppSync_1_1GetGraphqlApiResponsePrivate.html" title="Private implementation for GetGraphqlApiResponse. " alt="" coords="547,724,744,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1AppSync_1_1GetIntrospectionSchemaResponsePrivate.html" title="Private implementation for GetIntrospectionSchemaResponse. " alt="" coords="532,789,759,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1AppSync_1_1GetResolverResponsePrivate.html" title="Private implementation for GetResolverResponse. " alt="" coords="543,855,747,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1AppSync_1_1GetSchemaCreationStatusResponsePrivate.html" title="Private implementation for GetSchemaCreationStatusResponse. " alt="" coords="541,920,750,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1AppSync_1_1GetTypeResponsePrivate.html" title="Private implementation for GetTypeResponse. " alt="" coords="525,985,765,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1AppSync_1_1ListApiKeysResponsePrivate.html" title="Private implementation for ListApiKeysResponse. " alt="" coords="545,1051,746,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1AppSync_1_1ListDataSourcesResponsePrivate.html" title="Private implementation for ListDataSourcesResponse. " alt="" coords="555,1116,735,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1AppSync_1_1ListGraphqlApisResponsePrivate.html" title="Private implementation for ListGraphqlApisResponse. " alt="" coords="547,1181,744,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1AppSync_1_1ListResolversResponsePrivate.html" title="Private implementation for ListResolversResponse. " alt="" coords="540,1247,751,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1AppSync_1_1ListTypesResponsePrivate.html" title="Private implementation for ListTypesResponse. " alt="" coords="551,1312,739,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1AppSync_1_1StartSchemaCreationResponsePrivate.html" title="Private implementation for StartSchemaCreationResponse. " alt="" coords="542,1377,749,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1AppSync_1_1UpdateApiKeyResponsePrivate.html" title="Private implementation for UpdateApiKeyResponse. " alt="" coords="549,1443,741,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1AppSync_1_1UpdateDataSourceResponsePrivate.html" title="Private implementation for UpdateDataSourceResponse. " alt="" coords="545,1508,746,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1AppSync_1_1UpdateGraphqlApiResponsePrivate.html" title="Private implementation for UpdateGraphqlApiResponse. " alt="" coords="536,1573,755,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1AppSync_1_1UpdateResolverResponsePrivate.html" title="Private implementation for UpdateResolverResponse. " alt="" coords="533,1639,758,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1AppSync_1_1UpdateTypeResponsePrivate.html" title="Private implementation for UpdateTypeResponse. " alt="" coords="544,1704,747,1745"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,855,187,896"/>
+</map>

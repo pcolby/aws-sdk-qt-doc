@@ -1,0 +1,13 @@
+<map id="QtAws::CloudHSMV2::CloudHSMV2ResponsePrivate" name="QtAws::CloudHSMV2::CloudHSMV2ResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSMV2_1_1CreateClusterResponsePrivate.html" title="Private implementation for CreateClusterResponse. " alt="" coords="497,5,699,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSMV2_1_1CreateHsmResponsePrivate.html" title="Private implementation for CreateHsmResponse. " alt="" coords="503,71,693,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSMV2_1_1DeleteClusterResponsePrivate.html" title="Private implementation for DeleteClusterResponse. " alt="" coords="497,136,699,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSMV2_1_1DeleteHsmResponsePrivate.html" title="Private implementation for DeleteHsmResponse. " alt="" coords="504,201,692,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSMV2_1_1DescribeBackupsResponsePrivate.html" title="Private implementation for DescribeBackupsResponse. " alt="" coords="485,267,711,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSMV2_1_1DescribeClustersResponsePrivate.html" title="Private implementation for DescribeClustersResponse. " alt="" coords="487,332,709,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSMV2_1_1InitializeClusterResponsePrivate.html" title="Private implementation for InitializeClusterResponse. " alt="" coords="492,397,704,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSMV2_1_1ListTagsResponsePrivate.html" title="Private implementation for ListTagsResponse. " alt="" coords="512,463,684,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSMV2_1_1TagResourceResponsePrivate.html" title="Private implementation for TagResourceResponse. " alt="" coords="498,528,698,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSMV2_1_1UntagResourceResponsePrivate.html" title="Private implementation for UntagResourceResponse. " alt="" coords="491,593,705,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,300,187,341"/>
+</map>

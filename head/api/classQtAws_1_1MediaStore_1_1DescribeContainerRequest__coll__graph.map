@@ -1,0 +1,4 @@
+<map id="QtAws::MediaStore::DescribeContainerRequest" name="QtAws::MediaStore::DescribeContainerRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MediaStore_1_1MediaStoreRequest.html" title="Interface class for providing MediaStore requests. " alt="" coords="24,95,168,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

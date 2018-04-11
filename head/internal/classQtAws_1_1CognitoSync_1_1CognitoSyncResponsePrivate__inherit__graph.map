@@ -1,0 +1,20 @@
+<map id="QtAws::CognitoSync::CognitoSyncResponsePrivate" name="QtAws::CognitoSync::CognitoSyncResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CognitoSync_1_1BulkPublishResponsePrivate.html" title="Private implementation for BulkPublishResponse. " alt="" coords="508,5,707,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoSync_1_1DeleteDatasetResponsePrivate.html" title="Private implementation for DeleteDatasetResponse. " alt="" coords="500,71,715,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoSync_1_1DescribeDatasetResponsePrivate.html" title="Private implementation for DescribeDatasetResponse. " alt="" coords="493,136,721,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityPoolUsageResponsePrivate.html" title="Private implementation for DescribeIdentityPoolUsageResponse. " alt="" coords="513,202,702,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityUsageResponsePrivate.html" title="Private implementation for DescribeIdentityUsageResponse. " alt="" coords="496,282,719,338"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoSync_1_1GetBulkPublishDetailsResponsePrivate.html" title="Private implementation for GetBulkPublishDetailsResponse. " alt="" coords="497,362,717,418"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoSync_1_1GetCognitoEventsResponsePrivate.html" title="Private implementation for GetCognitoEventsResponse. " alt="" coords="509,442,705,498"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoSync_1_1GetIdentityPoolConfigurationResponsePrivate.html" title="Private implementation for GetIdentityPoolConfigurationResponse. " alt="" coords="509,522,706,578"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoSync_1_1ListDatasetsResponsePrivate.html" title="Private implementation for ListDatasetsResponse. " alt="" coords="505,603,709,644"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoSync_1_1ListIdentityPoolUsageResponsePrivate.html" title="Private implementation for ListIdentityPoolUsageResponse. " alt="" coords="499,669,716,725"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoSync_1_1ListRecordsResponsePrivate.html" title="Private implementation for ListRecordsResponse. " alt="" coords="507,749,707,791"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoSync_1_1RegisterDeviceResponsePrivate.html" title="Private implementation for RegisterDeviceResponse. " alt="" coords="497,815,717,856"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoSync_1_1SetCognitoEventsResponsePrivate.html" title="Private implementation for SetCognitoEventsResponse. " alt="" coords="510,881,705,937"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoSync_1_1SetIdentityPoolConfigurationResponsePrivate.html" title="Private implementation for SetIdentityPoolConfigurationResponse. " alt="" coords="509,961,705,1017"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoSync_1_1SubscribeToDatasetResponsePrivate.html" title="Private implementation for SubscribeToDatasetResponse. " alt="" coords="503,1041,711,1097"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoSync_1_1UnsubscribeFromDatasetResponsePrivate.html" title="Private implementation for UnsubscribeFromDatasetResponse. " alt="" coords="488,1121,727,1177"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoSync_1_1UpdateRecordsResponsePrivate.html" title="Private implementation for UpdateRecordsResponse. " alt="" coords="497,1201,718,1243"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,603,187,644"/>
+</map>

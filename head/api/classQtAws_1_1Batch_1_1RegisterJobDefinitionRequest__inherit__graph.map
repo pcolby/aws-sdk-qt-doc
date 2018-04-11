@@ -1,0 +1,4 @@
+<map id="QtAws::Batch::RegisterJobDefinitionRequest" name="QtAws::Batch::RegisterJobDefinitionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Batch_1_1BatchRequest.html" title="Interface class for providing Batch requests. " alt="" coords="5,95,200,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="12,5,193,47"/>
+</map>

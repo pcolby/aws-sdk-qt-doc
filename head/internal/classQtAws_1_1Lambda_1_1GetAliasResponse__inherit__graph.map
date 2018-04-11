@@ -1,0 +1,4 @@
+<map id="QtAws::Lambda::GetAliasResponse" name="QtAws::Lambda::GetAliasResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lambda_1_1LambdaResponse.html" title="Handles Lambda Lambda responses. " alt="" coords="7,169,237,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="31,80,213,121"/>
+</map>

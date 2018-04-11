@@ -1,0 +1,34 @@
+<map id="QtAws::ECS::ECSRequestPrivate" name="QtAws::ECS::ECSRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ECS_1_1CreateClusterRequestPrivate.html" title="Private implementation for CreateClusterRequest. " alt="" coords="525,5,711,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ECS_1_1CreateServiceRequestPrivate.html" title="Private implementation for CreateServiceRequest. " alt="" coords="523,71,713,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ECS_1_1DeleteAttributesRequestPrivate.html" title="Private implementation for DeleteAttributesRequest. " alt="" coords="518,136,718,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ECS_1_1DeleteClusterRequestPrivate.html" title="Private implementation for DeleteClusterRequest. " alt="" coords="525,201,711,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ECS_1_1DeleteServiceRequestPrivate.html" title="Private implementation for DeleteServiceRequest. " alt="" coords="524,267,712,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ECS_1_1DeregisterContainerInstanceRequestPrivate.html" title="Private implementation for DeregisterContainerInstanceRequest. " alt="" coords="507,332,729,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ECS_1_1DeregisterTaskDefinitionRequestPrivate.html" title="Private implementation for DeregisterTaskDefinitionRequest. " alt="" coords="521,397,715,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ECS_1_1DescribeClustersRequestPrivate.html" title="Private implementation for DescribeClustersRequest. " alt="" coords="515,463,721,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ECS_1_1DescribeContainerInstancesRequestPrivate.html" title="Private implementation for DescribeContainerInstancesRequest. " alt="" coords="511,528,725,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ECS_1_1DescribeServicesRequestPrivate.html" title="Private implementation for DescribeServicesRequest. " alt="" coords="513,593,723,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ECS_1_1DescribeTaskDefinitionRequestPrivate.html" title="Private implementation for DescribeTaskDefinitionRequest. " alt="" coords="525,659,711,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ECS_1_1DescribeTasksRequestPrivate.html" title="Private implementation for DescribeTasksRequest. " alt="" coords="521,724,715,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ECS_1_1DiscoverPollEndpointRequestPrivate.html" title="Private implementation for DiscoverPollEndpointRequest. " alt="" coords="528,789,708,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ECS_1_1ListAttributesRequestPrivate.html" title="Private implementation for ListAttributesRequest. " alt="" coords="527,855,709,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ECS_1_1ListClustersRequestPrivate.html" title="Private implementation for ListClustersRequest. " alt="" coords="530,920,706,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ECS_1_1ListContainerInstancesRequestPrivate.html" title="Private implementation for ListContainerInstancesRequest. " alt="" coords="527,985,709,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ECS_1_1ListServicesRequestPrivate.html" title="Private implementation for ListServicesRequest. " alt="" coords="529,1051,707,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ECS_1_1ListTaskDefinitionFamiliesRequestPrivate.html" title="Private implementation for ListTaskDefinitionFamiliesRequest. " alt="" coords="513,1116,723,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ECS_1_1ListTaskDefinitionsRequestPrivate.html" title="Private implementation for ListTaskDefinitionsRequest. " alt="" coords="509,1181,727,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ECS_1_1ListTasksRequestPrivate.html" title="Private implementation for ListTasksRequest. " alt="" coords="512,1247,724,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ECS_1_1PutAttributesRequestPrivate.html" title="Private implementation for PutAttributesRequest. " alt="" coords="527,1312,709,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ECS_1_1RegisterContainerInstanceRequestPrivate.html" title="Private implementation for RegisterContainerInstanceRequest. " alt="" coords="513,1377,723,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1ECS_1_1RegisterTaskDefinitionRequestPrivate.html" title="Private implementation for RegisterTaskDefinitionRequest. " alt="" coords="526,1443,710,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1ECS_1_1RunTaskRequestPrivate.html" title="Private implementation for RunTaskRequest. " alt="" coords="514,1508,722,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1ECS_1_1StartTaskRequestPrivate.html" title="Private implementation for StartTaskRequest. " alt="" coords="512,1573,724,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1ECS_1_1StopTaskRequestPrivate.html" title="Private implementation for StopTaskRequest. " alt="" coords="513,1639,723,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1ECS_1_1SubmitContainerStateChangeRequestPrivate.html" title="Private implementation for SubmitContainerStateChangeRequest. " alt="" coords="517,1704,719,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1ECS_1_1SubmitTaskStateChangeRequestPrivate.html" title="Private implementation for SubmitTaskStateChangeRequest. " alt="" coords="515,1769,721,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1ECS_1_1UpdateContainerAgentRequestPrivate.html" title="Private implementation for UpdateContainerAgentRequest. " alt="" coords="516,1835,720,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1ECS_1_1UpdateContainerInstancesStateRequestPrivate.html" title="Private implementation for UpdateContainerInstancesStateRequest. " alt="" coords="516,1900,720,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1ECS_1_1UpdateServiceRequestPrivate.html" title="Private implementation for UpdateServiceRequest. " alt="" coords="522,1965,714,2007"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,985,187,1027"/>
+</map>

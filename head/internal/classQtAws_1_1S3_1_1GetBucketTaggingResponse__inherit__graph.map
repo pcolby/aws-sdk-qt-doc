@@ -1,0 +1,4 @@
+<map id="QtAws::S3::GetBucketTaggingResponse" name="QtAws::S3::GetBucketTaggingResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3Response.html" title="Handles S3 S3 responses. " alt="" coords="22,169,191,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="16,80,197,121"/>
+</map>

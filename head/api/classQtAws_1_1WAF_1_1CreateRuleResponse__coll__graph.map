@@ -1,0 +1,4 @@
+<map id="QtAws::WAF::CreateRuleResponse" name="QtAws::WAF::CreateRuleResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAF_1_1WAFResponse.html" title="Handles WAF WAF responses. " alt="" coords="23,169,221,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="31,80,213,121"/>
+</map>

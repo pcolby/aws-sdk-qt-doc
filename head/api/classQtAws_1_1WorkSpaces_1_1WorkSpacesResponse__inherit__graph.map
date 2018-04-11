@@ -1,0 +1,17 @@
+<map id="QtAws::WorkSpaces::WorkSpacesResponse" name="QtAws::WorkSpaces::WorkSpacesResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1WorkSpaces_1_1CreateTagsResponse.html" title="Handles WorkSpaces CreateTags responses. " alt="" coords="604,5,757,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1WorkSpaces_1_1CreateWorkspacesResponse.html" title="Handles WorkSpaces CreateWorkspaces responses. " alt="" coords="584,71,777,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1WorkSpaces_1_1DeleteTagsResponse.html" title="Handles WorkSpaces DeleteTags responses. " alt="" coords="604,136,757,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1WorkSpaces_1_1DescribeTagsResponse.html" title="Handles WorkSpaces DescribeTags responses. " alt="" coords="599,201,762,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1WorkSpaces_1_1DescribeWorkspaceBundlesResponse.html" title="Handles WorkSpaces DescribeWorkspaceBundles responses. " alt="" coords="557,267,804,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1WorkSpaces_1_1DescribeWorkspaceDirectoriesResponse.html" title="Handles WorkSpaces DescribeWorkspaceDirectories responses. " alt="" coords="579,333,782,389"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1WorkSpaces_1_1DescribeWorkspacesConnectionStatusResponse.html" title="Handles WorkSpaces DescribeWorkspacesConnectionStatus responses. " alt="" coords="574,413,787,469"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1WorkSpaces_1_1DescribeWorkspacesResponse.html" title="Handles WorkSpaces DescribeWorkspaces responses. " alt="" coords="577,493,784,535"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1WorkSpaces_1_1ModifyWorkspacePropertiesResponse.html" title="Handles WorkSpaces ModifyWorkspaceProperties responses. " alt="" coords="558,559,803,600"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1WorkSpaces_1_1RebootWorkspacesResponse.html" title="Handles WorkSpaces RebootWorkspaces responses. " alt="" coords="583,624,779,665"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1WorkSpaces_1_1RebuildWorkspacesResponse.html" title="Handles WorkSpaces RebuildWorkspaces responses. " alt="" coords="581,689,780,731"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1WorkSpaces_1_1StartWorkspacesResponse.html" title="Handles WorkSpaces StartWorkspaces responses. " alt="" coords="589,755,772,796"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1WorkSpaces_1_1StopWorkspacesResponse.html" title="Handles WorkSpaces StopWorkspaces responses. " alt="" coords="590,820,771,861"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1WorkSpaces_1_1TerminateWorkspacesResponse.html" title="Handles WorkSpaces TerminateWorkspaces responses. " alt="" coords="575,885,787,927"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,457,305,499"/>
+</map>

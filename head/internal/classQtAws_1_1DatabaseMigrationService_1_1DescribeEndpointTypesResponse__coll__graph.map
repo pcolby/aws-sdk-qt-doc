@@ -1,0 +1,7 @@
+<map id="QtAws::DatabaseMigrationService::DescribeEndpointTypesResponse" name="QtAws::DatabaseMigrationService::DescribeEndpointTypesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1DatabaseMigrationService_1_1DatabaseMigrationServiceResponse.html" title="Handles DatabaseMigrationService DatabaseMigrationService responses. " alt="" coords="416,185,643,241"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="276,81,457,123"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="211,193,392,234"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="69,81,251,123"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,193,187,234"/>
+</map>

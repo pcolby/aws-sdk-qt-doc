@@ -1,0 +1,4 @@
+<map id="QtAws::SQS::SendMessageBatchResponse" name="QtAws::SQS::SendMessageBatchResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SQS_1_1SQSResponse.html" title="Handles SQS SQS responses. " alt="" coords="20,169,213,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

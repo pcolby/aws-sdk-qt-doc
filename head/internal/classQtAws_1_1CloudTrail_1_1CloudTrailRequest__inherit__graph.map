@@ -1,0 +1,17 @@
+<map id="QtAws::CloudTrail::CloudTrailRequest" name="QtAws::CloudTrail::CloudTrailRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudTrail_1_1AddTagsRequest.html" title="Implements CloudTrail AddTags requests. " alt="" coords="442,5,579,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudTrail_1_1CreateTrailRequest.html" title="Implements CloudTrail CreateTrail requests. " alt="" coords="442,71,579,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudTrail_1_1DeleteTrailRequest.html" title="Implements CloudTrail DeleteTrail requests. " alt="" coords="442,136,579,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudTrail_1_1DescribeTrailsRequest.html" title="Implements CloudTrail DescribeTrails requests. " alt="" coords="433,201,588,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudTrail_1_1GetEventSelectorsRequest.html" title="Implements CloudTrail GetEventSelectors requests. " alt="" coords="420,267,601,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudTrail_1_1GetTrailStatusRequest.html" title="Implements CloudTrail GetTrailStatus requests. " alt="" coords="433,332,588,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudTrail_1_1ListPublicKeysRequest.html" title="Implements CloudTrail ListPublicKeys requests. " alt="" coords="431,397,590,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudTrail_1_1ListTagsRequest.html" title="Implements CloudTrail ListTags requests. " alt="" coords="442,463,579,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudTrail_1_1LookupEventsRequest.html" title="Implements CloudTrail LookupEvents requests. " alt="" coords="433,528,588,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudTrail_1_1PutEventSelectorsRequest.html" title="Implements CloudTrail PutEventSelectors requests. " alt="" coords="421,593,601,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudTrail_1_1RemoveTagsRequest.html" title="Implements CloudTrail RemoveTags requests. " alt="" coords="436,659,585,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudTrail_1_1StartLoggingRequest.html" title="Implements CloudTrail StartLogging requests. " alt="" coords="439,724,583,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudTrail_1_1StopLoggingRequest.html" title="Implements CloudTrail StopLogging requests. " alt="" coords="439,789,582,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudTrail_1_1UpdateTrailRequest.html" title="Implements CloudTrail UpdateTrail requests. " alt="" coords="441,855,580,896"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,431,187,472"/>
+</map>

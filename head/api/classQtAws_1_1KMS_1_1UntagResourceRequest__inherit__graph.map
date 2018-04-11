@@ -1,0 +1,4 @@
+<map id="QtAws::KMS::UntagResourceRequest" name="QtAws::KMS::UntagResourceRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1KMS_1_1KMSRequest.html" title="Interface class for providing KMS requests. " alt="" coords="12,95,197,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

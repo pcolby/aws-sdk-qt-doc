@@ -1,0 +1,4 @@
+<map id="QtAws::Health::DescribeEventsRequest" name="QtAws::Health::DescribeEventsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Health_1_1HealthRequest.html" title="Interface class for providing Health requests. " alt="" coords="9,95,211,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="19,5,201,47"/>
+</map>

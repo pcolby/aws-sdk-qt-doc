@@ -1,0 +1,20 @@
+<map id="QtAws::KinesisAnalytics::KinesisAnalyticsRequestPrivate" name="QtAws::KinesisAnalytics::KinesisAnalyticsRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisAnalytics_1_1AddApplicationCloudWatchLoggingOptionRequestPrivate.html" title="Private implementation for AddApplicationCloudWatchLoggingOptionRequest. " alt="" coords="500,5,735,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisAnalytics_1_1AddApplicationInputProcessingConfigurationRequestPrivate.html" title="Private implementation for AddApplicationInputProcessingConfigurationRequest. " alt="" coords="512,85,723,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KinesisAnalytics_1_1AddApplicationInputRequestPrivate.html" title="Private implementation for AddApplicationInputRequest. " alt="" coords="520,165,715,221"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KinesisAnalytics_1_1AddApplicationOutputRequestPrivate.html" title="Private implementation for AddApplicationOutputRequest. " alt="" coords="515,245,720,301"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KinesisAnalytics_1_1AddApplicationReferenceDataSourceRequestPrivate.html" title="Private implementation for AddApplicationReferenceDataSourceRequest. " alt="" coords="515,325,720,381"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KinesisAnalytics_1_1CreateApplicationRequestPrivate.html" title="Private implementation for CreateApplicationRequest. " alt="" coords="506,406,729,447"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KinesisAnalytics_1_1DeleteApplicationCloudWatchLoggingOptionRequestPrivate.html" title="Private implementation for DeleteApplicationCloudWatchLoggingOptionRequest. " alt="" coords="515,472,719,528"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KinesisAnalytics_1_1DeleteApplicationInputProcessingConfigurationRequestPrivate.html" title="Private implementation for DeleteApplicationInputProcessingConfigurationRequest. " alt="" coords="504,552,731,608"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KinesisAnalytics_1_1DeleteApplicationOutputRequestPrivate.html" title="Private implementation for DeleteApplicationOutputRequest. " alt="" coords="507,632,727,688"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KinesisAnalytics_1_1DeleteApplicationReferenceDataSourceRequestPrivate.html" title="Private implementation for DeleteApplicationReferenceDataSourceRequest. " alt="" coords="521,712,713,768"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1KinesisAnalytics_1_1DeleteApplicationRequestPrivate.html" title="Private implementation for DeleteApplicationRequest. " alt="" coords="506,793,729,834"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1KinesisAnalytics_1_1DescribeApplicationRequestPrivate.html" title="Private implementation for DescribeApplicationRequest. " alt="" coords="520,859,715,915"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1KinesisAnalytics_1_1DiscoverInputSchemaRequestPrivate.html" title="Private implementation for DiscoverInputSchemaRequest. " alt="" coords="513,939,721,995"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1KinesisAnalytics_1_1ListApplicationsRequestPrivate.html" title="Private implementation for ListApplicationsRequest. " alt="" coords="511,1019,723,1061"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1KinesisAnalytics_1_1StartApplicationRequestPrivate.html" title="Private implementation for StartApplicationRequest. " alt="" coords="511,1085,723,1126"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1KinesisAnalytics_1_1StopApplicationRequestPrivate.html" title="Private implementation for StopApplicationRequest. " alt="" coords="512,1150,723,1191"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1KinesisAnalytics_1_1UpdateApplicationRequestPrivate.html" title="Private implementation for UpdateApplicationRequest. " alt="" coords="504,1215,731,1257"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,639,187,681"/>
+</map>

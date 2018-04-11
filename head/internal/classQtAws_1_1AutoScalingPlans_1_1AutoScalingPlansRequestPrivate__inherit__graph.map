@@ -1,0 +1,7 @@
+<map id="QtAws::AutoScalingPlans::AutoScalingPlansRequestPrivate" name="QtAws::AutoScalingPlans::AutoScalingPlansRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1AutoScalingPlans_1_1CreateScalingPlanRequestPrivate.html" title="Private implementation for CreateScalingPlanRequest. " alt="" coords="505,5,733,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1AutoScalingPlans_1_1DeleteScalingPlanRequestPrivate.html" title="Private implementation for DeleteScalingPlanRequest. " alt="" coords="506,71,733,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AutoScalingPlans_1_1DescribeScalingPlanResourcesRequestPrivate.html" title="Private implementation for DescribeScalingPlanResourcesRequest. " alt="" coords="512,137,727,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AutoScalingPlans_1_1DescribeScalingPlansRequestPrivate.html" title="Private implementation for DescribeScalingPlansRequest. " alt="" coords="516,217,723,273"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,108,187,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CloudWatchLogs::PutSubscriptionFilterRequest" name="QtAws::CloudWatchLogs::PutSubscriptionFilterRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatchLogs_1_1CloudWatchLogsRequest.html" title="Interface class for providing CloudWatchLogs requests. " alt="" coords="16,95,195,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

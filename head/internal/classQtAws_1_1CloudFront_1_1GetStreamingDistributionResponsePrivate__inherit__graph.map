@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFront::GetStreamingDistributionResponsePrivate" name="QtAws::CloudFront::GetStreamingDistributionResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFront_1_1CloudFrontResponsePrivate.html" title="Private implementation for CloudFrontResponse. " alt="" coords="25,95,212,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="28,5,209,47"/>
+</map>

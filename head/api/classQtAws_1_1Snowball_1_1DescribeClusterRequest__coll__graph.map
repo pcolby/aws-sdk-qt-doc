@@ -1,0 +1,4 @@
+<map id="QtAws::Snowball::DescribeClusterRequest" name="QtAws::Snowball::DescribeClusterRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Snowball_1_1SnowballRequest.html" title="Interface class for providing Snowball requests. " alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="7,5,188,47"/>
+</map>

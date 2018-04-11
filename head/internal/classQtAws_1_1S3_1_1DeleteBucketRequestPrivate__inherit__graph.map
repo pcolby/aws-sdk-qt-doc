@@ -1,0 +1,4 @@
+<map id="QtAws::S3::DeleteBucketRequestPrivate" name="QtAws::S3::DeleteBucketRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3RequestPrivate.html" title="Private implementation for S3Request. " alt="" coords="17,95,217,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="26,5,207,47"/>
+</map>

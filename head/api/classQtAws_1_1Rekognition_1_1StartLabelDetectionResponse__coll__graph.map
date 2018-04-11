@@ -1,0 +1,4 @@
+<map id="QtAws::Rekognition::StartLabelDetectionResponse" name="QtAws::Rekognition::StartLabelDetectionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionResponse.html" title="Handles Rekognition Rekognition responses. " alt="" coords="28,169,187,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="17,80,198,121"/>
+</map>

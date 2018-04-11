@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::DeleteKeyPairRequest" name="QtAws::Lightsail::DeleteKeyPairRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailRequest.html" title="Interface class for providing Lightsail requests. " alt="" coords="9,95,183,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::ModifyVpcPeeringConnectionOptionsResponse" name="QtAws::EC2::ModifyVpcPeeringConnectionOptionsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Response.html" title="Handles EC2 EC2 responses. " alt="" coords="16,169,205,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="20,80,201,121"/>
+</map>

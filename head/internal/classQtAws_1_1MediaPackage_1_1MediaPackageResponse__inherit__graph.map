@@ -1,0 +1,14 @@
+<map id="QtAws::MediaPackage::MediaPackageResponse" name="QtAws::MediaPackage::MediaPackageResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaPackage_1_1CreateChannelResponse.html" title="Handles MediaPackage CreateChannel responses. " alt="" coords="601,5,777,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaPackage_1_1CreateOriginEndpointResponse.html" title="Handles MediaPackage CreateOriginEndpoint responses. " alt="" coords="583,71,796,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaPackage_1_1DeleteChannelResponse.html" title="Handles MediaPackage DeleteChannel responses. " alt="" coords="602,136,777,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaPackage_1_1DeleteOriginEndpointResponse.html" title="Handles MediaPackage DeleteOriginEndpoint responses. " alt="" coords="583,201,795,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaPackage_1_1DescribeChannelResponse.html" title="Handles MediaPackage DescribeChannel responses. " alt="" coords="595,267,784,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaPackage_1_1DescribeOriginEndpointResponse.html" title="Handles MediaPackage DescribeOriginEndpoint responses. " alt="" coords="576,332,803,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaPackage_1_1ListChannelsResponse.html" title="Handles MediaPackage ListChannels responses. " alt="" coords="607,397,772,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaPackage_1_1ListOriginEndpointsResponse.html" title="Handles MediaPackage ListOriginEndpoints responses. " alt="" coords="588,463,791,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaPackage_1_1RotateChannelCredentialsResponse.html" title="Handles MediaPackage RotateChannelCredentials responses. " alt="" coords="598,529,781,585"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaPackage_1_1UpdateChannelResponse.html" title="Handles MediaPackage UpdateChannel responses. " alt="" coords="600,609,779,651"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MediaPackage_1_1UpdateOriginEndpointResponse.html" title="Handles MediaPackage UpdateOriginEndpoint responses. " alt="" coords="581,675,797,716"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,332,305,373"/>
+</map>

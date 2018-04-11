@@ -1,0 +1,4 @@
+<map id="QtAws::Route53Domains::UpdateTagsForDomainResponse" name="QtAws::Route53Domains::UpdateTagsForDomainResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsResponse.html" title="Handles Route53Domains Route53Domains responses. " alt="" coords="22,169,213,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="27,80,208,121"/>
+</map>

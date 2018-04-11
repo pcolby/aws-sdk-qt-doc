@@ -1,0 +1,5 @@
+<map id="QtAws::MarketplaceCommerceAnalytics::MarketplaceCommerceAnalyticsRequest" name="QtAws::MarketplaceCommerceAnalytics::MarketplaceCommerceAnalyticsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MarketplaceCommerceAnalytics_1_1GenerateDataSetRequest.html" title="Implements MarketplaceCommerceAnalytics GenerateDataSet requests. " alt="" coords="501,5,736,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MarketplaceCommerceAnalytics_1_1StartSupportDataExportRequest.html" title="Implements MarketplaceCommerceAnalytics StartSupportDataExport requests. " alt="" coords="507,71,730,127"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,43,187,84"/>
+</map>

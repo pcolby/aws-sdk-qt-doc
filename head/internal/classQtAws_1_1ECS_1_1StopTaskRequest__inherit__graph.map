@@ -1,0 +1,4 @@
+<map id="QtAws::ECS::StopTaskRequest" name="QtAws::ECS::StopTaskRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ECS_1_1ECSRequest.html" title="Interface class for providing ECS requests. " alt="" coords="19,95,202,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="20,5,201,47"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="QtAws::DAX::DAXRequest" name="QtAws::DAX::DAXRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1DAX_1_1CreateClusterRequest.html" title="Implements DAX CreateCluster requests. " alt="" coords="489,5,675,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DAX_1_1CreateParameterGroupRequest.html" title="Implements DAX CreateParameterGroup requests. " alt="" coords="479,71,685,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DAX_1_1CreateSubnetGroupRequest.html" title="Implements DAX CreateSubnetGroup requests. " alt="" coords="489,136,675,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DAX_1_1DecreaseReplicationFactorRequest.html" title="Implements DAX DecreaseReplicationFactor requests. " alt="" coords="469,201,695,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DAX_1_1DeleteClusterRequest.html" title="Implements DAX DeleteCluster requests. " alt="" coords="489,267,675,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DAX_1_1DeleteParameterGroupRequest.html" title="Implements DAX DeleteParameterGroup requests. " alt="" coords="480,332,684,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DAX_1_1DeleteSubnetGroupRequest.html" title="Implements DAX DeleteSubnetGroup requests. " alt="" coords="489,397,675,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DAX_1_1DescribeClustersRequest.html" title="Implements DAX DescribeClusters requests. " alt="" coords="479,463,685,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DAX_1_1DescribeDefaultParametersRequest.html" title="Implements DAX DescribeDefaultParameters requests. " alt="" coords="482,528,682,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DAX_1_1DescribeEventsRequest.html" title="Implements DAX DescribeEvents requests. " alt="" coords="483,593,681,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DAX_1_1DescribeParameterGroupsRequest.html" title="Implements DAX DescribeParameterGroups requests. " alt="" coords="473,659,691,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DAX_1_1DescribeParametersRequest.html" title="Implements DAX DescribeParameters requests. " alt="" coords="469,724,695,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DAX_1_1DescribeSubnetGroupsRequest.html" title="Implements DAX DescribeSubnetGroups requests. " alt="" coords="483,789,681,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DAX_1_1IncreaseReplicationFactorRequest.html" title="Implements DAX IncreaseReplicationFactor requests. " alt="" coords="471,855,693,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DAX_1_1ListTagsRequest.html" title="Implements DAX ListTags requests. " alt="" coords="479,921,685,947"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DAX_1_1RebootNodeRequest.html" title="Implements DAX RebootNode requests. " alt="" coords="468,971,696,998"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DAX_1_1TagResourceRequest.html" title="Implements DAX TagResource requests. " alt="" coords="465,1022,699,1049"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DAX_1_1UntagResourceRequest.html" title="Implements DAX UntagResource requests. " alt="" coords="483,1073,681,1115"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DAX_1_1UpdateClusterRequest.html" title="Implements DAX UpdateCluster requests. " alt="" coords="487,1139,677,1180"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DAX_1_1UpdateParameterGroupRequest.html" title="Implements DAX UpdateParameterGroup requests. " alt="" coords="478,1204,686,1245"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DAX_1_1UpdateSubnetGroupRequest.html" title="Implements DAX UpdateSubnetGroup requests. " alt="" coords="487,1269,677,1311"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,659,187,700"/>
+</map>

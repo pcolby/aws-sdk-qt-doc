@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::AttachLoadBalancerTlsCertificateResponsePrivate" name="QtAws::Lightsail::AttachLoadBalancerTlsCertificateResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailResponsePrivate.html" title="Private implementation for LightsailResponse. " alt="" coords="37,95,212,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="34,5,215,47"/>
+</map>

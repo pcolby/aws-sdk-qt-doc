@@ -1,0 +1,4 @@
+<map id="QtAws::DatabaseMigrationService::ModifyEventSubscriptionRequest" name="QtAws::DatabaseMigrationService::ModifyEventSubscriptionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DatabaseMigrationService_1_1DatabaseMigrationServiceRequest.html" title="Interface class for providing DatabaseMigrationService requests. " alt="" coords="5,95,232,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="28,5,209,47"/>
+</map>

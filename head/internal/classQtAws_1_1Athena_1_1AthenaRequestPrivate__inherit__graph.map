@@ -1,0 +1,14 @@
+<map id="QtAws::Athena::AthenaRequestPrivate" name="QtAws::Athena::AthenaRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Athena_1_1BatchGetNamedQueryRequestPrivate.html" title="Private implementation for BatchGetNamedQueryRequest. " alt="" coords="501,5,717,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Athena_1_1BatchGetQueryExecutionRequestPrivate.html" title="Private implementation for BatchGetQueryExecutionRequest. " alt="" coords="504,71,713,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Athena_1_1CreateNamedQueryRequestPrivate.html" title="Private implementation for CreateNamedQueryRequest. " alt="" coords="509,136,709,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Athena_1_1DeleteNamedQueryRequestPrivate.html" title="Private implementation for DeleteNamedQueryRequest. " alt="" coords="509,201,708,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Athena_1_1GetNamedQueryRequestPrivate.html" title="Private implementation for GetNamedQueryRequest. " alt="" coords="500,267,717,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Athena_1_1GetQueryExecutionRequestPrivate.html" title="Private implementation for GetQueryExecutionRequest. " alt="" coords="492,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Athena_1_1GetQueryResultsRequestPrivate.html" title="Private implementation for GetQueryResultsRequest. " alt="" coords="499,397,719,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Athena_1_1ListNamedQueriesRequestPrivate.html" title="Private implementation for ListNamedQueriesRequest. " alt="" coords="517,463,700,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Athena_1_1ListQueryExecutionsRequestPrivate.html" title="Private implementation for ListQueryExecutionsRequest. " alt="" coords="520,528,697,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Athena_1_1StartQueryExecutionRequestPrivate.html" title="Private implementation for StartQueryExecutionRequest. " alt="" coords="517,593,700,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Athena_1_1StopQueryExecutionRequestPrivate.html" title="Private implementation for StopQueryExecutionRequest. " alt="" coords="518,659,699,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,332,187,373"/>
+</map>

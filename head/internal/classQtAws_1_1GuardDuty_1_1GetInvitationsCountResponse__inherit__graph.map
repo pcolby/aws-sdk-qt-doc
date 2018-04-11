@@ -1,0 +1,4 @@
+<map id="QtAws::GuardDuty::GetInvitationsCountResponse" name="QtAws::GuardDuty::GetInvitationsCountResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1GuardDuty_1_1GuardDutyResponse.html" title="Handles GuardDuty GuardDuty responses. " alt="" coords="15,169,219,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::SES::CreateTemplateRequest" name="QtAws::SES::CreateTemplateRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESRequest.html" title="Interface class for providing SES requests. " alt="" coords="14,95,195,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

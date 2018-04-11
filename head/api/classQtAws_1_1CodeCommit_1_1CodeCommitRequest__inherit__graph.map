@@ -1,0 +1,39 @@
+<map id="QtAws::CodeCommit::CodeCommitRequest" name="QtAws::CodeCommit::CodeCommitRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CodeCommit_1_1BatchGetRepositoriesRequest.html" title="Implements CodeCommit BatchGetRepositories requests. " alt="" coords="461,5,660,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CodeCommit_1_1CreateBranchRequest.html" title="Implements CodeCommit CreateBranch requests. " alt="" coords="483,71,638,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CodeCommit_1_1CreatePullRequestRequest.html" title="Implements CodeCommit CreatePullRequest requests. " alt="" coords="470,136,651,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CodeCommit_1_1CreateRepositoryRequest.html" title="Implements CodeCommit CreateRepository requests. " alt="" coords="474,201,647,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CodeCommit_1_1DeleteBranchRequest.html" title="Implements CodeCommit DeleteBranch requests. " alt="" coords="483,267,638,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CodeCommit_1_1DeleteCommentContentRequest.html" title="Implements CodeCommit DeleteCommentContent requests. " alt="" coords="455,332,667,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CodeCommit_1_1DeleteRepositoryRequest.html" title="Implements CodeCommit DeleteRepository requests. " alt="" coords="475,397,647,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CodeCommit_1_1DescribePullRequestEventsRequest.html" title="Implements CodeCommit DescribePullRequestEvents requests. " alt="" coords="443,463,678,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CodeCommit_1_1GetBlobRequest.html" title="Implements CodeCommit GetBlob requests. " alt="" coords="483,528,638,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CodeCommit_1_1GetBranchRequest.html" title="Implements CodeCommit GetBranch requests. " alt="" coords="483,593,638,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CodeCommit_1_1GetCommentRequest.html" title="Implements CodeCommit GetComment requests. " alt="" coords="483,659,638,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CodeCommit_1_1GetCommentsForComparedCommitRequest.html" title="Implements CodeCommit GetCommentsForComparedCommit requests. " alt="" coords="445,725,677,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CodeCommit_1_1GetCommentsForPullRequestRequest.html" title="Implements CodeCommit GetCommentsForPullRequest requests. " alt="" coords="437,805,684,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CodeCommit_1_1GetCommitRequest.html" title="Implements CodeCommit GetCommit requests. " alt="" coords="483,871,638,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CodeCommit_1_1GetDifferencesRequest.html" title="Implements CodeCommit GetDifferences requests. " alt="" coords="481,936,640,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CodeCommit_1_1GetMergeConflictsRequest.html" title="Implements CodeCommit GetMergeConflicts requests. " alt="" coords="471,1001,651,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CodeCommit_1_1GetPullRequestRequest.html" title="Implements CodeCommit GetPullRequest requests. " alt="" coords="479,1067,642,1108"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CodeCommit_1_1GetRepositoryRequest.html" title="Implements CodeCommit GetRepository requests. " alt="" coords="483,1132,638,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CodeCommit_1_1GetRepositoryTriggersRequest.html" title="Implements CodeCommit GetRepositoryTriggers requests. " alt="" coords="459,1197,662,1239"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CodeCommit_1_1ListBranchesRequest.html" title="Implements CodeCommit ListBranches requests. " alt="" coords="483,1263,638,1304"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CodeCommit_1_1ListPullRequestsRequest.html" title="Implements CodeCommit ListPullRequests requests. " alt="" coords="475,1328,646,1369"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CodeCommit_1_1ListRepositoriesRequest.html" title="Implements CodeCommit ListRepositories requests. " alt="" coords="478,1393,643,1435"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CodeCommit_1_1MergePullRequestByFastForwardRequest.html" title="Implements CodeCommit MergePullRequestByFastForward requests. " alt="" coords="451,1459,670,1515"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CodeCommit_1_1PostCommentForComparedCommitRequest.html" title="Implements CodeCommit PostCommentForComparedCommit requests. " alt="" coords="445,1539,676,1595"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CodeCommit_1_1PostCommentForPullRequestRequest.html" title="Implements CodeCommit PostCommentForPullRequest requests. " alt="" coords="438,1620,683,1661"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CodeCommit_1_1PostCommentReplyRequest.html" title="Implements CodeCommit PostCommentReply requests. " alt="" coords="466,1685,655,1727"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CodeCommit_1_1PutFileRequest.html" title="Implements CodeCommit PutFile requests. " alt="" coords="483,1751,638,1792"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CodeCommit_1_1PutRepositoryTriggersRequest.html" title="Implements CodeCommit PutRepositoryTriggers requests. " alt="" coords="460,1816,661,1857"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1CodeCommit_1_1TestRepositoryTriggersRequest.html" title="Implements CodeCommit TestRepositoryTriggers requests. " alt="" coords="457,1881,664,1923"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1CodeCommit_1_1UpdateCommentRequest.html" title="Implements CodeCommit UpdateComment requests. " alt="" coords="475,1947,646,1988"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1CodeCommit_1_1UpdateDefaultBranchRequest.html" title="Implements CodeCommit UpdateDefaultBranch requests. " alt="" coords="463,2012,659,2053"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1CodeCommit_1_1UpdatePullRequestDescriptionRequest.html" title="Implements CodeCommit UpdatePullRequestDescription requests. " alt="" coords="460,2078,661,2134"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1CodeCommit_1_1UpdatePullRequestStatusRequest.html" title="Implements CodeCommit UpdatePullRequestStatus requests. " alt="" coords="449,2159,672,2200"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1CodeCommit_1_1UpdatePullRequestTitleRequest.html" title="Implements CodeCommit UpdatePullRequestTitle requests. " alt="" coords="456,2224,665,2265"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1CodeCommit_1_1UpdateRepositoryDescriptionRequest.html" title="Implements CodeCommit UpdateRepositoryDescription requests. " alt="" coords="464,2290,657,2346"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1CodeCommit_1_1UpdateRepositoryNameRequest.html" title="Implements CodeCommit UpdateRepositoryName requests. " alt="" coords="455,2371,666,2412"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1165,187,1207"/>
+</map>

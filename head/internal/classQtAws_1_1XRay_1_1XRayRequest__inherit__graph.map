@@ -1,0 +1,9 @@
+<map id="QtAws::XRay::XRayRequest" name="QtAws::XRay::XRayRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1XRay_1_1BatchGetTracesRequest.html" title="Implements XRay BatchGetTraces requests. " alt="" coords="488,5,695,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1XRay_1_1GetServiceGraphRequest.html" title="Implements XRay GetServiceGraph requests. " alt="" coords="486,71,697,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1XRay_1_1GetTraceGraphRequest.html" title="Implements XRay GetTraceGraph requests. " alt="" coords="491,136,691,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1XRay_1_1GetTraceSummariesRequest.html" title="Implements XRay GetTraceSummaries requests. " alt="" coords="476,201,707,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1XRay_1_1PutTelemetryRecordsRequest.html" title="Implements XRay PutTelemetryRecords requests. " alt="" coords="497,267,686,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1XRay_1_1PutTraceSegmentsRequest.html" title="Implements XRay PutTraceSegments requests. " alt="" coords="480,332,703,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,169,187,211"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Route53::ListTrafficPoliciesRequestPrivate" name="QtAws::Route53::ListTrafficPoliciesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53_1_1Route53RequestPrivate.html" title="Private implementation for Route53Request. " alt="" coords="5,95,231,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="27,5,209,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Rekognition::ListCollectionsRequest" name="QtAws::Rekognition::ListCollectionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionRequest.html" title="Interface class for providing Rekognition requests. " alt="" coords="22,95,170,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

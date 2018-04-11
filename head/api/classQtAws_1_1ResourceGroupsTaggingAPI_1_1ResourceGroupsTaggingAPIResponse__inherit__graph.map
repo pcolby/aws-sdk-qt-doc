@@ -1,0 +1,8 @@
+<map id="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIResponse" name="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetResourcesResponse.html" title="Handles ResourceGroupsTaggingAPI GetResources responses. " alt="" coords="679,5,893,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagKeysResponse.html" title="Handles ResourceGroupsTaggingAPI GetTagKeys responses. " alt="" coords="679,71,893,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagValuesResponse.html" title="Handles ResourceGroupsTaggingAPI GetTagValues responses. " alt="" coords="679,136,893,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1TagResourcesResponse.html" title="Handles ResourceGroupsTaggingAPI TagResources responses. " alt="" coords="679,201,893,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1UntagResourcesResponse.html" title="Handles ResourceGroupsTaggingAPI UntagResources responses. " alt="" coords="679,267,893,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,136,305,177"/>
+</map>

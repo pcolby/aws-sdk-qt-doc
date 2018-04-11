@@ -1,0 +1,24 @@
+<map id="QtAws::DAX::DAXResponse" name="QtAws::DAX::DAXResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1DAX_1_1CreateClusterResponse.html" title="Handles DAX CreateCluster responses. " alt="" coords="623,5,809,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DAX_1_1CreateParameterGroupResponse.html" title="Handles DAX CreateParameterGroup responses. " alt="" coords="613,71,819,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DAX_1_1CreateSubnetGroupResponse.html" title="Handles DAX CreateSubnetGroup responses. " alt="" coords="623,136,809,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DAX_1_1DecreaseReplicationFactorResponse.html" title="Handles DAX DecreaseReplicationFactor responses. " alt="" coords="603,201,829,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DAX_1_1DeleteClusterResponse.html" title="Handles DAX DeleteCluster responses. " alt="" coords="623,267,809,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DAX_1_1DeleteParameterGroupResponse.html" title="Handles DAX DeleteParameterGroup responses. " alt="" coords="614,332,818,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DAX_1_1DeleteSubnetGroupResponse.html" title="Handles DAX DeleteSubnetGroup responses. " alt="" coords="623,397,809,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DAX_1_1DescribeClustersResponse.html" title="Handles DAX DescribeClusters responses. " alt="" coords="613,463,819,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DAX_1_1DescribeDefaultParametersResponse.html" title="Handles DAX DescribeDefaultParameters responses. " alt="" coords="616,528,816,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DAX_1_1DescribeEventsResponse.html" title="Handles DAX DescribeEvents responses. " alt="" coords="617,593,815,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DAX_1_1DescribeParameterGroupsResponse.html" title="Handles DAX DescribeParameterGroups responses. " alt="" coords="607,659,825,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DAX_1_1DescribeParametersResponse.html" title="Handles DAX DescribeParameters responses. " alt="" coords="603,724,829,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DAX_1_1DescribeSubnetGroupsResponse.html" title="Handles DAX DescribeSubnetGroups responses. " alt="" coords="617,789,815,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DAX_1_1IncreaseReplicationFactorResponse.html" title="Handles DAX IncreaseReplicationFactor responses. " alt="" coords="605,855,827,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DAX_1_1ListTagsResponse.html" title="Handles DAX ListTags responses. " alt="" coords="609,921,823,947"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DAX_1_1RebootNodeResponse.html" title="Handles DAX RebootNode responses. " alt="" coords="597,971,835,998"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DAX_1_1TagResourceResponse.html" title="Handles DAX TagResource responses. " alt="" coords="595,1022,837,1049"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DAX_1_1UntagResourceResponse.html" title="Handles DAX UntagResource responses. " alt="" coords="617,1073,815,1115"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DAX_1_1UpdateClusterResponse.html" title="Handles DAX UpdateCluster responses. " alt="" coords="621,1139,811,1180"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DAX_1_1UpdateParameterGroupResponse.html" title="Handles DAX UpdateParameterGroup responses. " alt="" coords="612,1204,820,1245"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1DAX_1_1UpdateSubnetGroupResponse.html" title="Handles DAX UpdateSubnetGroup responses. " alt="" coords="621,1269,811,1311"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,659,305,700"/>
+</map>

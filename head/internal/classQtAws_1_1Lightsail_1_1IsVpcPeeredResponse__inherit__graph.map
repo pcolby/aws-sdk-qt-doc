@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::IsVpcPeeredResponse" name="QtAws::Lightsail::IsVpcPeeredResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailResponse.html" title="Handles Lightsail Lightsail responses. " alt="" coords="19,169,193,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="15,80,197,121"/>
+</map>

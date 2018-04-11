@@ -1,0 +1,6 @@
+<map id="QtAws::CloudSearchDomain::CloudSearchDomainResponse" name="QtAws::CloudSearchDomain::CloudSearchDomainResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudSearchDomain_1_1SearchResponse.html" title="Handles CloudSearchDomain Search responses. " alt="" coords="614,5,805,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudSearchDomain_1_1SuggestResponse.html" title="Handles CloudSearchDomain Suggest responses. " alt="" coords="614,71,805,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudSearchDomain_1_1UploadDocumentsResponse.html" title="Handles CloudSearchDomain UploadDocuments responses. " alt="" coords="611,136,808,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,71,305,112"/>
+</map>

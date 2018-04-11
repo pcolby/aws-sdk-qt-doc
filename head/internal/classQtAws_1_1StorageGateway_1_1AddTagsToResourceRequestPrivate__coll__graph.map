@@ -1,0 +1,5 @@
+<map id="QtAws::StorageGateway::AddTagsToResourceRequestPrivate" name="QtAws::StorageGateway::AddTagsToResourceRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayRequestPrivate.html" title="Private implementation for StorageGatewayRequest. " alt="" coords="18,109,235,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="196,5,377,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="260,109,441,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::CognitoIdentityProvider::AdminRemoveUserFromGroupRequestPrivate" name="QtAws::CognitoIdentityProvider::AdminRemoveUserFromGroupRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentityProvider_1_1CognitoIdentityProviderRequestPrivate.html" title="Private implementation for CognitoIdentityProviderRequest. " alt="" coords="27,109,283,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="243,5,424,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="307,109,488,151"/>
+</map>

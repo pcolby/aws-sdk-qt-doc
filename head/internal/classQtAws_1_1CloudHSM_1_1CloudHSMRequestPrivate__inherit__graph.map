@@ -1,0 +1,23 @@
+<map id="QtAws::CloudHSM::CloudHSMRequestPrivate" name="QtAws::CloudHSM::CloudHSMRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSM_1_1AddTagsToResourceRequestPrivate.html" title="Private implementation for AddTagsToResourceRequest. " alt="" coords="550,5,745,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSM_1_1CreateHapgRequestPrivate.html" title="Private implementation for CreateHapgRequest. " alt="" coords="541,71,753,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSM_1_1CreateHsmRequestPrivate.html" title="Private implementation for CreateHsmRequest. " alt="" coords="543,136,752,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSM_1_1CreateLunaClientRequestPrivate.html" title="Private implementation for CreateLunaClientRequest. " alt="" coords="543,201,752,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSM_1_1DeleteHapgRequestPrivate.html" title="Private implementation for DeleteHapgRequest. " alt="" coords="542,267,753,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSM_1_1DeleteHsmRequestPrivate.html" title="Private implementation for DeleteHsmRequest. " alt="" coords="543,332,751,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSM_1_1DeleteLunaClientRequestPrivate.html" title="Private implementation for DeleteLunaClientRequest. " alt="" coords="543,397,751,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSM_1_1DescribeHapgRequestPrivate.html" title="Private implementation for DescribeHapgRequest. " alt="" coords="550,463,745,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSM_1_1DescribeHsmRequestPrivate.html" title="Private implementation for DescribeHsmRequest. " alt="" coords="550,528,745,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSM_1_1DescribeLunaClientRequestPrivate.html" title="Private implementation for DescribeLunaClientRequest. " alt="" coords="550,593,745,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudHSM_1_1GetConfigRequestPrivate.html" title="Private implementation for GetConfigRequest. " alt="" coords="547,659,748,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudHSM_1_1ListAvailableZonesRequestPrivate.html" title="Private implementation for ListAvailableZonesRequest. " alt="" coords="539,724,755,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudHSM_1_1ListHapgsRequestPrivate.html" title="Private implementation for ListHapgsRequest. " alt="" coords="547,789,748,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudHSM_1_1ListHsmsRequestPrivate.html" title="Private implementation for ListHsmsRequest. " alt="" coords="548,855,747,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudHSM_1_1ListLunaClientsRequestPrivate.html" title="Private implementation for ListLunaClientsRequest. " alt="" coords="552,920,743,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudHSM_1_1ListTagsForResourceRequestPrivate.html" title="Private implementation for ListTagsForResourceRequest. " alt="" coords="551,985,743,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudHSM_1_1ModifyHapgRequestPrivate.html" title="Private implementation for ModifyHapgRequest. " alt="" coords="541,1051,753,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudHSM_1_1ModifyHsmRequestPrivate.html" title="Private implementation for ModifyHsmRequest. " alt="" coords="543,1116,752,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudHSM_1_1ModifyLunaClientRequestPrivate.html" title="Private implementation for ModifyLunaClientRequest. " alt="" coords="543,1181,752,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudHSM_1_1RemoveTagsFromResourceRequestPrivate.html" title="Private implementation for RemoveTagsFromResourceRequest. " alt="" coords="537,1247,757,1288"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,627,187,668"/>
+</map>

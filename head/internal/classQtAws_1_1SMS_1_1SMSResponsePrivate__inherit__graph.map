@@ -1,0 +1,14 @@
+<map id="QtAws::SMS::SMSResponsePrivate" name="QtAws::SMS::SMSResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SMS_1_1CreateReplicationJobResponsePrivate.html" title="Private implementation for CreateReplicationJobResponse. " alt="" coords="529,5,740,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SMS_1_1DeleteReplicationJobResponsePrivate.html" title="Private implementation for DeleteReplicationJobResponse. " alt="" coords="529,71,740,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SMS_1_1DeleteServerCatalogResponsePrivate.html" title="Private implementation for DeleteServerCatalogResponse. " alt="" coords="543,136,726,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SMS_1_1DisassociateConnectorResponsePrivate.html" title="Private implementation for DisassociateConnectorResponse. " alt="" coords="543,201,726,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SMS_1_1GetConnectorsResponsePrivate.html" title="Private implementation for GetConnectorsResponse. " alt="" coords="537,267,732,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SMS_1_1GetReplicationJobsResponsePrivate.html" title="Private implementation for GetReplicationJobsResponse. " alt="" coords="538,332,731,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SMS_1_1GetReplicationRunsResponsePrivate.html" title="Private implementation for GetReplicationRunsResponse. " alt="" coords="538,397,731,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SMS_1_1GetServersResponsePrivate.html" title="Private implementation for GetServersResponse. " alt="" coords="519,463,751,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SMS_1_1ImportServerCatalogResponsePrivate.html" title="Private implementation for ImportServerCatalogResponse. " alt="" coords="543,528,726,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SMS_1_1StartOnDemandReplicationRunResponsePrivate.html" title="Private implementation for StartOnDemandReplicationRunResponse. " alt="" coords="529,593,740,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SMS_1_1UpdateReplicationJobResponsePrivate.html" title="Private implementation for UpdateReplicationJobResponse. " alt="" coords="527,659,742,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,332,187,373"/>
+</map>

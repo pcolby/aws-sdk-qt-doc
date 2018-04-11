@@ -1,0 +1,20 @@
+<map id="QtAws::CognitoSync::CognitoSyncResponse" name="QtAws::CognitoSync::CognitoSyncResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoSync_1_1BulkPublishResponse.html" title="Handles CognitoSync BulkPublish responses. " alt="" coords="605,5,764,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoSync_1_1DeleteDatasetResponse.html" title="Handles CognitoSync DeleteDataset responses. " alt="" coords="598,71,771,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoSync_1_1DescribeDatasetResponse.html" title="Handles CognitoSync DescribeDataset responses. " alt="" coords="591,136,778,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityPoolUsageResponse.html" title="Handles CognitoSync DescribeIdentityPoolUsage responses. " alt="" coords="590,202,779,258"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoSync_1_1DescribeIdentityUsageResponse.html" title="Handles CognitoSync DescribeIdentityUsage responses. " alt="" coords="573,283,796,324"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoSync_1_1GetBulkPublishDetailsResponse.html" title="Handles CognitoSync GetBulkPublishDetails responses. " alt="" coords="575,348,795,389"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoSync_1_1GetCognitoEventsResponse.html" title="Handles CognitoSync GetCognitoEvents responses. " alt="" coords="587,413,783,455"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoSync_1_1GetIdentityPoolConfigurationResponse.html" title="Handles CognitoSync GetIdentityPoolConfiguration responses. " alt="" coords="586,479,783,535"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoSync_1_1ListDatasetsResponse.html" title="Handles CognitoSync ListDatasets responses. " alt="" coords="603,560,766,601"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoSync_1_1ListIdentityPoolUsageResponse.html" title="Handles CognitoSync ListIdentityPoolUsage responses. " alt="" coords="576,625,793,667"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoSync_1_1ListRecordsResponse.html" title="Handles CognitoSync ListRecords responses. " alt="" coords="605,691,764,732"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoSync_1_1RegisterDeviceResponse.html" title="Handles CognitoSync RegisterDevice responses. " alt="" coords="595,756,774,797"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoSync_1_1SetCognitoEventsResponse.html" title="Handles CognitoSync SetCognitoEvents responses. " alt="" coords="587,821,782,863"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoSync_1_1SetIdentityPoolConfigurationResponse.html" title="Handles CognitoSync SetIdentityPoolConfiguration responses. " alt="" coords="587,887,783,943"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoSync_1_1SubscribeToDatasetResponse.html" title="Handles CognitoSync SubscribeToDataset responses. " alt="" coords="581,968,789,1009"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoSync_1_1UnsubscribeFromDatasetResponse.html" title="Handles CognitoSync UnsubscribeFromDataset responses. " alt="" coords="565,1033,804,1075"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CognitoSync_1_1UpdateRecordsResponse.html" title="Handles CognitoSync UpdateRecords responses. " alt="" coords="595,1099,775,1140"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,560,305,601"/>
+</map>

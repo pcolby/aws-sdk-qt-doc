@@ -1,0 +1,4 @@
+<map id="QtAws::S3::ListObjectVersionsResponse" name="QtAws::S3::ListObjectVersionsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3Response.html" title="Handles S3 S3 responses. " alt="" coords="23,169,192,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="17,80,198,121"/>
+</map>

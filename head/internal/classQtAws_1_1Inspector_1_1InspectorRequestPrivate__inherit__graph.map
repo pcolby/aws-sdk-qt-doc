@@ -1,0 +1,35 @@
+<map id="QtAws::Inspector::InspectorRequestPrivate" name="QtAws::Inspector::InspectorRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Inspector_1_1AddAttributesToFindingsRequestPrivate.html" title="Private implementation for AddAttributesToFindingsRequest. " alt="" coords="497,5,708,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTargetRequestPrivate.html" title="Private implementation for CreateAssessmentTargetRequest. " alt="" coords="491,71,714,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTemplateRequestPrivate.html" title="Private implementation for CreateAssessmentTemplateRequest. " alt="" coords="483,136,722,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Inspector_1_1CreateResourceGroupRequestPrivate.html" title="Private implementation for CreateResourceGroupRequest. " alt="" coords="501,201,704,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentRunRequestPrivate.html" title="Private implementation for DeleteAssessmentRunRequest. " alt="" coords="498,267,707,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTargetRequestPrivate.html" title="Private implementation for DeleteAssessmentTargetRequest. " alt="" coords="491,332,714,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTemplateRequestPrivate.html" title="Private implementation for DeleteAssessmentTemplateRequest. " alt="" coords="483,397,722,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentRunsRequestPrivate.html" title="Private implementation for DescribeAssessmentRunsRequest. " alt="" coords="495,463,711,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTargetsRequestPrivate.html" title="Private implementation for DescribeAssessmentTargetsRequest. " alt="" coords="488,528,717,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTemplatesRequestPrivate.html" title="Private implementation for DescribeAssessmentTemplatesRequest. " alt="" coords="479,593,726,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Inspector_1_1DescribeFindingsRequestPrivate.html" title="Private implementation for DescribeFindingsRequest. " alt="" coords="511,659,695,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Inspector_1_1DescribeResourceGroupsRequestPrivate.html" title="Private implementation for DescribeResourceGroupsRequest. " alt="" coords="497,724,708,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Inspector_1_1DescribeRulesPackagesRequestPrivate.html" title="Private implementation for DescribeRulesPackagesRequest. " alt="" coords="501,789,705,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Inspector_1_1GetAssessmentReportRequestPrivate.html" title="Private implementation for GetAssessmentReportRequest. " alt="" coords="489,855,716,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Inspector_1_1GetTelemetryMetadataRequestPrivate.html" title="Private implementation for GetTelemetryMetadataRequest. " alt="" coords="497,920,708,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunAgentsRequestPrivate.html" title="Private implementation for ListAssessmentRunAgentsRequest. " alt="" coords="489,985,716,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunsRequestPrivate.html" title="Private implementation for ListAssessmentRunsRequest. " alt="" coords="489,1051,716,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Inspector_1_1ListAssessmentTargetsRequestPrivate.html" title="Private implementation for ListAssessmentTargetsRequest. " alt="" coords="489,1116,716,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Inspector_1_1ListAssessmentTemplatesRequestPrivate.html" title="Private implementation for ListAssessmentTemplatesRequest. " alt="" coords="489,1181,716,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Inspector_1_1ListEventSubscriptionsRequestPrivate.html" title="Private implementation for ListEventSubscriptionsRequest. " alt="" coords="507,1247,698,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Inspector_1_1ListFindingsRequestPrivate.html" title="Private implementation for ListFindingsRequest. " alt="" coords="501,1312,704,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Inspector_1_1ListRulesPackagesRequestPrivate.html" title="Private implementation for ListRulesPackagesRequest. " alt="" coords="509,1377,696,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Inspector_1_1ListTagsForResourceRequestPrivate.html" title="Private implementation for ListTagsForResourceRequest. " alt="" coords="509,1443,696,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Inspector_1_1PreviewAgentsRequestPrivate.html" title="Private implementation for PreviewAgentsRequest. " alt="" coords="513,1508,692,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Inspector_1_1RegisterCrossAccountAccessRoleRequestPrivate.html" title="Private implementation for RegisterCrossAccountAccessRoleRequest. " alt="" coords="469,1573,736,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Inspector_1_1RemoveAttributesFromFindingsRequestPrivate.html" title="Private implementation for RemoveAttributesFromFindingsRequest. " alt="" coords="499,1639,706,1695"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Inspector_1_1SetTagsForResourceRequestPrivate.html" title="Private implementation for SetTagsForResourceRequest. " alt="" coords="509,1720,696,1761"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Inspector_1_1StartAssessmentRunRequestPrivate.html" title="Private implementation for StartAssessmentRunRequest. " alt="" coords="486,1785,719,1827"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Inspector_1_1StopAssessmentRunRequestPrivate.html" title="Private implementation for StopAssessmentRunRequest. " alt="" coords="487,1851,719,1892"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Inspector_1_1SubscribeToEventRequestPrivate.html" title="Private implementation for SubscribeToEventRequest. " alt="" coords="507,1916,698,1957"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Inspector_1_1UnsubscribeFromEventRequestPrivate.html" title="Private implementation for UnsubscribeFromEventRequest. " alt="" coords="500,1981,705,2023"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Inspector_1_1UpdateAssessmentTargetRequestPrivate.html" title="Private implementation for UpdateAssessmentTargetRequest. " alt="" coords="491,2047,714,2088"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,1019,187,1060"/>
+</map>

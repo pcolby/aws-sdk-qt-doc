@@ -1,0 +1,14 @@
+<map id="QtAws::ACM::ACMRequestPrivate" name="QtAws::ACM::ACMRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ACM_1_1AddTagsToCertificateRequestPrivate.html" title="Private implementation for AddTagsToCertificateRequest. " alt="" coords="512,5,747,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ACM_1_1DeleteCertificateRequestPrivate.html" title="Private implementation for DeleteCertificateRequest. " alt="" coords="526,71,733,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ACM_1_1DescribeCertificateRequestPrivate.html" title="Private implementation for DescribeCertificateRequest. " alt="" coords="519,136,739,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ACM_1_1GetCertificateRequestPrivate.html" title="Private implementation for GetCertificateRequest. " alt="" coords="535,201,724,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ACM_1_1ImportCertificateRequestPrivate.html" title="Private implementation for ImportCertificateRequest. " alt="" coords="527,267,732,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ACM_1_1ListCertificatesRequestPrivate.html" title="Private implementation for ListCertificatesRequest. " alt="" coords="531,332,727,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ACM_1_1ListTagsForCertificateRequestPrivate.html" title="Private implementation for ListTagsForCertificateRequest. " alt="" coords="511,397,748,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ACM_1_1RemoveTagsFromCertificateRequestPrivate.html" title="Private implementation for RemoveTagsFromCertificateRequest. " alt="" coords="521,463,737,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ACM_1_1RequestCertificateRequestPrivate.html" title="Private implementation for RequestCertificateRequest. " alt="" coords="521,528,738,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ACM_1_1ResendValidationEmailRequestPrivate.html" title="Private implementation for ResendValidationEmailRequest. " alt="" coords="524,593,735,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ACM_1_1UpdateCertificateOptionsRequestPrivate.html" title="Private implementation for UpdateCertificateOptionsRequest. " alt="" coords="524,659,735,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,332,187,373"/>
+</map>

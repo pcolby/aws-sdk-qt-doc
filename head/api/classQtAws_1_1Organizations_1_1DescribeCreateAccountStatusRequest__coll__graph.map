@@ -1,0 +1,4 @@
+<map id="QtAws::Organizations::DescribeCreateAccountStatusRequest" name="QtAws::Organizations::DescribeCreateAccountStatusRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Organizations_1_1OrganizationsRequest.html" title="Interface class for providing Organizations requests. " alt="" coords="29,95,188,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="18,5,199,47"/>
+</map>

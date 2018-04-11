@@ -1,0 +1,35 @@
+<map id="QtAws::Inspector::InspectorRequest" name="QtAws::Inspector::InspectorRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Inspector_1_1AddAttributesToFindingsRequest.html" title="Implements Inspector AddAttributesToFindings requests. " alt="" coords="481,5,691,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTargetRequest.html" title="Implements Inspector CreateAssessmentTarget requests. " alt="" coords="495,71,677,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Inspector_1_1CreateAssessmentTemplateRequest.html" title="Implements Inspector CreateAssessmentTemplate requests. " alt="" coords="487,136,685,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Inspector_1_1CreateResourceGroupRequest.html" title="Implements Inspector CreateResourceGroup requests. " alt="" coords="501,201,671,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentRunRequest.html" title="Implements Inspector DeleteAssessmentRun requests. " alt="" coords="501,267,671,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTargetRequest.html" title="Implements Inspector DeleteAssessmentTarget requests. " alt="" coords="495,332,677,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Inspector_1_1DeleteAssessmentTemplateRequest.html" title="Implements Inspector DeleteAssessmentTemplate requests. " alt="" coords="487,397,685,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentRunsRequest.html" title="Implements Inspector DescribeAssessmentRuns requests. " alt="" coords="494,463,678,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTargetsRequest.html" title="Implements Inspector DescribeAssessmentTargets requests. " alt="" coords="492,528,680,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Inspector_1_1DescribeAssessmentTemplatesRequest.html" title="Implements Inspector DescribeAssessmentTemplates requests. " alt="" coords="483,593,689,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Inspector_1_1DescribeFindingsRequest.html" title="Implements Inspector DescribeFindings requests. " alt="" coords="494,659,678,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Inspector_1_1DescribeResourceGroupsRequest.html" title="Implements Inspector DescribeResourceGroups requests. " alt="" coords="494,724,678,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Inspector_1_1DescribeRulesPackagesRequest.html" title="Implements Inspector DescribeRulesPackages requests. " alt="" coords="494,789,678,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Inspector_1_1GetAssessmentReportRequest.html" title="Implements Inspector GetAssessmentReport requests. " alt="" coords="473,855,699,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Inspector_1_1GetTelemetryMetadataRequest.html" title="Implements Inspector GetTelemetryMetadata requests. " alt="" coords="481,920,691,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunAgentsRequest.html" title="Implements Inspector ListAssessmentRunAgents requests. " alt="" coords="473,985,699,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Inspector_1_1ListAssessmentRunsRequest.html" title="Implements Inspector ListAssessmentRuns requests. " alt="" coords="473,1051,699,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Inspector_1_1ListAssessmentTargetsRequest.html" title="Implements Inspector ListAssessmentTargets requests. " alt="" coords="473,1116,699,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Inspector_1_1ListAssessmentTemplatesRequest.html" title="Implements Inspector ListAssessmentTemplates requests. " alt="" coords="473,1181,699,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Inspector_1_1ListEventSubscriptionsRequest.html" title="Implements Inspector ListEventSubscriptions requests. " alt="" coords="493,1247,679,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Inspector_1_1ListFindingsRequest.html" title="Implements Inspector ListFindings requests. " alt="" coords="485,1312,687,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Inspector_1_1ListRulesPackagesRequest.html" title="Implements Inspector ListRulesPackages requests. " alt="" coords="493,1377,679,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Inspector_1_1ListTagsForResourceRequest.html" title="Implements Inspector ListTagsForResource requests. " alt="" coords="495,1443,677,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Inspector_1_1PreviewAgentsRequest.html" title="Implements Inspector PreviewAgents requests. " alt="" coords="497,1508,675,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Inspector_1_1RegisterCrossAccountAccessRoleRequest.html" title="Implements Inspector RegisterCrossAccountAccessRole requests. " alt="" coords="473,1573,699,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Inspector_1_1RemoveAttributesFromFindingsRequest.html" title="Implements Inspector RemoveAttributesFromFindings requests. " alt="" coords="483,1639,689,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Inspector_1_1SetTagsForResourceRequest.html" title="Implements Inspector SetTagsForResource requests. " alt="" coords="495,1704,677,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Inspector_1_1StartAssessmentRunRequest.html" title="Implements Inspector StartAssessmentRun requests. " alt="" coords="469,1769,703,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Inspector_1_1StopAssessmentRunRequest.html" title="Implements Inspector StopAssessmentRun requests. " alt="" coords="470,1835,702,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Inspector_1_1SubscribeToEventRequest.html" title="Implements Inspector SubscribeToEvent requests. " alt="" coords="491,1900,681,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Inspector_1_1UnsubscribeFromEventRequest.html" title="Implements Inspector UnsubscribeFromEvent requests. " alt="" coords="483,1965,689,2007"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Inspector_1_1UpdateAssessmentTargetRequest.html" title="Implements Inspector UpdateAssessmentTarget requests. " alt="" coords="495,2031,677,2072"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1019,187,1060"/>
+</map>

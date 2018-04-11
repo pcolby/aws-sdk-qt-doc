@@ -1,0 +1,4 @@
+<map id="QtAws::DirectoryService::RemoveIpRoutesResponse" name="QtAws::DirectoryService::RemoveIpRoutesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1DirectoryService_1_1DirectoryServiceResponse.html" title="Handles DirectoryService DirectoryService responses. " alt="" coords="7,169,194,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="10,80,191,121"/>
+</map>

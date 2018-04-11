@@ -1,0 +1,9 @@
+<map id="QtAws::CostExplorer::CostExplorerRequest" name="QtAws::CostExplorer::CostExplorerRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CostExplorer_1_1GetCostAndUsageRequest.html" title="Implements CostExplorer GetCostAndUsage requests. " alt="" coords="482,5,671,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CostExplorer_1_1GetDimensionValuesRequest.html" title="Implements CostExplorer GetDimensionValues requests. " alt="" coords="475,71,678,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CostExplorer_1_1GetReservationCoverageRequest.html" title="Implements CostExplorer GetReservationCoverage requests. " alt="" coords="463,136,690,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CostExplorer_1_1GetReservationPurchaseRecommendationRequest.html" title="Implements CostExplorer GetReservationPurchaseRecommendation requests. " alt="" coords="437,202,716,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CostExplorer_1_1GetReservationUtilizationRequest.html" title="Implements CostExplorer GetReservationUtilization requests. " alt="" coords="487,282,666,338"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CostExplorer_1_1GetTagsRequest.html" title="Implements CostExplorer GetTags requests. " alt="" coords="503,363,650,404"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,173,187,215"/>
+</map>

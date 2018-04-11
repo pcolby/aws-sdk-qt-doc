@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::CreateRateBasedRuleRequest" name="QtAws::WAFRegional::CreateRateBasedRuleRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalRequest.html" title="Interface class for providing WAFRegional requests. " alt="" coords="31,95,191,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="20,5,201,47"/>
+</map>

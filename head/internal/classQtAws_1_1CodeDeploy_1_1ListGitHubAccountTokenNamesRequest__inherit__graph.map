@@ -1,0 +1,4 @@
+<map id="QtAws::CodeDeploy::ListGitHubAccountTokenNamesRequest" name="QtAws::CodeDeploy::ListGitHubAccountTokenNamesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeDeploy_1_1CodeDeployRequest.html" title="Interface class for providing CodeDeploy requests. " alt="" coords="35,95,186,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="20,5,201,47"/>
+</map>

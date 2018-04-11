@@ -1,0 +1,5 @@
+<map id="QtAws::SimpleDB::DomainMetadataRequestPrivate" name="QtAws::SimpleDB::DomainMetadataRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SimpleDB_1_1SimpleDBRequestPrivate.html" title="Private implementation for SimpleDBRequest. " alt="" coords="5,109,251,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="211,5,392,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="275,109,456,151"/>
+</map>

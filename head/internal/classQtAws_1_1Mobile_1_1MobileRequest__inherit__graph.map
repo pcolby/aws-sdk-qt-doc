@@ -1,0 +1,12 @@
+<map id="QtAws::Mobile::MobileRequest" name="QtAws::Mobile::MobileRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Mobile_1_1CreateProjectRequest.html" title="Implements Mobile CreateProject requests. " alt="" coords="492,5,688,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Mobile_1_1DeleteProjectRequest.html" title="Implements Mobile DeleteProject requests. " alt="" coords="493,71,687,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Mobile_1_1DescribeBundleRequest.html" title="Implements Mobile DescribeBundle requests. " alt="" coords="486,136,694,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Mobile_1_1DescribeProjectRequest.html" title="Implements Mobile DescribeProject requests. " alt="" coords="485,201,695,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Mobile_1_1ExportBundleRequest.html" title="Implements Mobile ExportBundle requests. " alt="" coords="493,267,687,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Mobile_1_1ExportProjectRequest.html" title="Implements Mobile ExportProject requests. " alt="" coords="493,332,687,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Mobile_1_1ListBundlesRequest.html" title="Implements Mobile ListBundles requests. " alt="" coords="498,397,682,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Mobile_1_1ListProjectsRequest.html" title="Implements Mobile ListProjects requests. " alt="" coords="497,463,683,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Mobile_1_1UpdateProjectRequest.html" title="Implements Mobile UpdateProject requests. " alt="" coords="491,528,689,569"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,267,187,308"/>
+</map>

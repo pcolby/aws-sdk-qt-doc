@@ -1,0 +1,5 @@
+<map id="QtAws::DataPipeline::SetTaskStatusRequest" name="QtAws::DataPipeline::SetTaskStatusRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DataPipeline_1_1DataPipelineRequest.html" title="Interface class for providing DataPipeline requests. " alt="" coords="12,109,165,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="126,5,307,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="190,109,371,151"/>
+</map>

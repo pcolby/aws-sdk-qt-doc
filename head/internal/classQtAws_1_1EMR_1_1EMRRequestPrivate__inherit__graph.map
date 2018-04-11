@@ -1,0 +1,30 @@
+<map id="QtAws::EMR::EMRRequestPrivate" name="QtAws::EMR::EMRRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1EMR_1_1AddInstanceFleetRequestPrivate.html" title="Private implementation for AddInstanceFleetRequest. " alt="" coords="523,5,733,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1EMR_1_1AddInstanceGroupsRequestPrivate.html" title="Private implementation for AddInstanceGroupsRequest. " alt="" coords="517,71,739,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1EMR_1_1AddJobFlowStepsRequestPrivate.html" title="Private implementation for AddJobFlowStepsRequest. " alt="" coords="521,136,735,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1EMR_1_1AddTagsRequestPrivate.html" title="Private implementation for AddTagsRequest. " alt="" coords="523,201,733,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1EMR_1_1CancelStepsRequestPrivate.html" title="Private implementation for CancelStepsRequest. " alt="" coords="512,267,744,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1EMR_1_1CreateSecurityConfigurationRequestPrivate.html" title="Private implementation for CreateSecurityConfigurationRequest. " alt="" coords="531,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1EMR_1_1DeleteSecurityConfigurationRequestPrivate.html" title="Private implementation for DeleteSecurityConfigurationRequest. " alt="" coords="531,397,725,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1EMR_1_1DescribeClusterRequestPrivate.html" title="Private implementation for DescribeClusterRequest. " alt="" coords="527,463,729,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1EMR_1_1DescribeJobFlowsRequestPrivate.html" title="Private implementation for DescribeJobFlowsRequest. " alt="" coords="520,528,736,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1EMR_1_1DescribeSecurityConfigurationRequestPrivate.html" title="Private implementation for DescribeSecurityConfigurationRequest. " alt="" coords="524,593,732,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1EMR_1_1DescribeStepRequestPrivate.html" title="Private implementation for DescribeStepRequest. " alt="" coords="535,659,721,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1EMR_1_1ListBootstrapActionsRequestPrivate.html" title="Private implementation for ListBootstrapActionsRequest. " alt="" coords="535,724,721,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1EMR_1_1ListClustersRequestPrivate.html" title="Private implementation for ListClustersRequest. " alt="" coords="539,789,717,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1EMR_1_1ListInstanceFleetsRequestPrivate.html" title="Private implementation for ListInstanceFleetsRequest. " alt="" coords="539,855,717,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1EMR_1_1ListInstanceGroupsRequestPrivate.html" title="Private implementation for ListInstanceGroupsRequest. " alt="" coords="539,920,717,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1EMR_1_1ListInstancesRequestPrivate.html" title="Private implementation for ListInstancesRequest. " alt="" coords="535,985,721,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1EMR_1_1ListSecurityConfigurationsRequestPrivate.html" title="Private implementation for ListSecurityConfigurationsRequest. " alt="" coords="530,1051,726,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1EMR_1_1ListStepsRequestPrivate.html" title="Private implementation for ListStepsRequest. " alt="" coords="522,1116,734,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1EMR_1_1ModifyInstanceFleetRequestPrivate.html" title="Private implementation for ModifyInstanceFleetRequest. " alt="" coords="529,1181,727,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1EMR_1_1ModifyInstanceGroupsRequestPrivate.html" title="Private implementation for ModifyInstanceGroupsRequest. " alt="" coords="529,1247,727,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1EMR_1_1PutAutoScalingPolicyRequestPrivate.html" title="Private implementation for PutAutoScalingPolicyRequest. " alt="" coords="529,1312,727,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1EMR_1_1RemoveAutoScalingPolicyRequestPrivate.html" title="Private implementation for RemoveAutoScalingPolicyRequest. " alt="" coords="515,1377,741,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1EMR_1_1RemoveTagsRequestPrivate.html" title="Private implementation for RemoveTagsRequest. " alt="" coords="511,1443,745,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1EMR_1_1RunJobFlowRequestPrivate.html" title="Private implementation for RunJobFlowRequest. " alt="" coords="513,1508,743,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1EMR_1_1SetTerminationProtectionRequestPrivate.html" title="Private implementation for SetTerminationProtectionRequest. " alt="" coords="530,1573,726,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1EMR_1_1SetVisibleToAllUsersRequestPrivate.html" title="Private implementation for SetVisibleToAllUsersRequest. " alt="" coords="537,1639,719,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1EMR_1_1TerminateJobFlowsRequestPrivate.html" title="Private implementation for TerminateJobFlowsRequest. " alt="" coords="535,1704,721,1745"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,855,187,896"/>
+</map>

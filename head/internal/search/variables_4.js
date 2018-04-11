@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fullname',['fullName',['../structAwsEndpointPrivate_1_1ServiceInfo.html#a575f8760af1345b49fd5958d2ba88f14',1,'AwsEndpointPrivate::ServiceInfo']]]
+  ['fullname',['fullName',['../structQtAws_1_1Core_1_1AwsEndpointPrivate_1_1ServiceInfo.html#aae56592710380212d81d6b128b1ad025',1,'QtAws::Core::AwsEndpointPrivate::ServiceInfo']]]
 ];

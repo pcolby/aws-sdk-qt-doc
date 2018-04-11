@@ -1,0 +1,19 @@
+<map id="QtAws::SqsOld::SqsRequest" name="QtAws::SqsOld::SqsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1SqsOld_1_1SqsAddPermissionRequest.html" title="Implements SQS AddPermission requests. " alt="" coords="441,5,673,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SqsOld_1_1SqsChangeMessageVisibilityBatchRequest.html" title="Implements SQS ChangeMessageVisibilityBatch requests. " alt="" coords="454,71,661,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SqsOld_1_1SqsChangeMessageVisibilityRequest.html" title="Implements SQS ChangeMessageVisibility requests. " alt="" coords="463,136,652,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SqsOld_1_1SqsCreateQueueRequest.html" title="Implements SQS CreateQueue requests. " alt="" coords="466,201,649,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SqsOld_1_1SqsDeleteMessageBatchRequest.html" title="Implements SQS DeleteMessageBatch requests. " alt="" coords="466,267,649,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SqsOld_1_1SqsDeleteMessageRequest.html" title="Implements SQS DeleteMessage requests. " alt="" coords="466,332,649,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SqsOld_1_1SqsDeleteQueueRequest.html" title="Implements SQS DeleteQueue requests. " alt="" coords="466,397,649,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SqsOld_1_1SqsGetQueueAttributesRequest.html" title="Implements SQS GetQueueAttributes requests. " alt="" coords="456,463,659,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SqsOld_1_1SqsGetQueueUrlRequest.html" title="Implements SQS GetQueueUrl requests. " alt="" coords="456,528,659,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SqsOld_1_1SqsListDeadLetterSourceQueuesRequest.html" title="Implements SQS ListDeadLetterSourceQueues requests. " alt="" coords="459,593,655,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SqsOld_1_1SqsListQueuesRequest.html" title="Implements SQS ListQueues requests. " alt="" coords="452,659,663,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SqsOld_1_1SqsPurgeQueueRequest.html" title="Implements SQS PurgeQueue requests. " alt="" coords="449,724,665,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SqsOld_1_1SqsReceiveMessageRequest.html" title="Implements SQS ReceiveMessage requests. " alt="" coords="461,789,653,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SqsOld_1_1SqsRemovePermissionRequest.html" title="Implements SQS RemovePermission requests. " alt="" coords="461,855,654,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SqsOld_1_1SqsSendMessageBatchRequest.html" title="Implements SQS SendMessageBatch requests. " alt="" coords="444,920,671,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SqsOld_1_1SqsSendMessageRequest.html" title="Implements SQS SendMessage requests. " alt="" coords="444,985,671,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SqsOld_1_1SqsSetQueueAttributesRequest.html" title="Implements SQS SetQueueAttributes requests. " alt="" coords="456,1051,659,1092"/>
+</map>

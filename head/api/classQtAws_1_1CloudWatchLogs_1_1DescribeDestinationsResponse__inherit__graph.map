@@ -1,0 +1,4 @@
+<map id="QtAws::CloudWatchLogs::DescribeDestinationsResponse" name="QtAws::CloudWatchLogs::DescribeDestinationsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatchLogs_1_1CloudWatchLogsResponse.html" title="Handles CloudWatchLogs CloudWatchLogs responses. " alt="" coords="18,169,207,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

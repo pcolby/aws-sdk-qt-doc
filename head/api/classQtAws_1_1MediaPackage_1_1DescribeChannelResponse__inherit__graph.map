@@ -1,0 +1,4 @@
+<map id="QtAws::MediaPackage::DescribeChannelResponse" name="QtAws::MediaPackage::DescribeChannelResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1MediaPackage_1_1MediaPackageResponse.html" title="Handles MediaPackage MediaPackage responses. " alt="" coords="13,169,187,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="9,80,191,121"/>
+</map>

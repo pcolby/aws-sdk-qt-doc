@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatch::CloudWatchRequestPrivate" name="QtAws::CloudWatch::CloudWatchRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatch_1_1DeleteAlarmsRequestPrivate.html" title="Private implementation for DeleteAlarmsRequest. " alt="" coords="487,5,677,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatch_1_1DeleteDashboardsRequestPrivate.html" title="Private implementation for DeleteDashboardsRequest. " alt="" coords="472,71,692,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmHistoryRequestPrivate.html" title="Private implementation for DescribeAlarmHistoryRequest. " alt="" coords="483,137,681,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsForMetricRequestPrivate.html" title="Private implementation for DescribeAlarmsForMetricRequest. " alt="" coords="473,217,691,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsRequestPrivate.html" title="Private implementation for DescribeAlarmsRequest. " alt="" coords="479,297,685,339"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatch_1_1DisableAlarmActionsRequestPrivate.html" title="Private implementation for DisableAlarmActionsRequest. " alt="" coords="485,363,679,419"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatch_1_1EnableAlarmActionsRequestPrivate.html" title="Private implementation for EnableAlarmActionsRequest. " alt="" coords="467,444,697,485"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatch_1_1GetDashboardRequestPrivate.html" title="Private implementation for GetDashboardRequest. " alt="" coords="484,509,680,551"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatch_1_1GetMetricStatisticsRequestPrivate.html" title="Private implementation for GetMetricStatisticsRequest. " alt="" coords="491,575,673,631"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatch_1_1ListDashboardsRequestPrivate.html" title="Private implementation for ListDashboardsRequest. " alt="" coords="481,656,683,697"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatch_1_1ListMetricsRequestPrivate.html" title="Private implementation for ListMetricsRequest. " alt="" coords="494,721,670,763"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatch_1_1PutDashboardRequestPrivate.html" title="Private implementation for PutDashboardRequest. " alt="" coords="485,787,679,828"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatch_1_1PutMetricAlarmRequestPrivate.html" title="Private implementation for PutMetricAlarmRequest. " alt="" coords="481,852,683,893"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatch_1_1PutMetricDataRequestPrivate.html" title="Private implementation for PutMetricDataRequest. " alt="" coords="484,917,680,959"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatch_1_1SetAlarmStateRequestPrivate.html" title="Private implementation for SetAlarmStateRequest. " alt="" coords="483,983,681,1024"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,509,187,551"/>
+</map>

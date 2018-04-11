@@ -1,0 +1,6 @@
+<map id="QtAws::CostandUsageReportService::CostandUsageReportServiceRequestPrivate" name="QtAws::CostandUsageReportService::CostandUsageReportServiceRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CostandUsageReportService_1_1DeleteReportDefinitionRequestPrivate.html" title="Private implementation for DeleteReportDefinitionRequest. " alt="" coords="542,5,749,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CostandUsageReportService_1_1DescribeReportDefinitionsRequestPrivate.html" title="Private implementation for DescribeReportDefinitionsRequest. " alt="" coords="532,85,759,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CostandUsageReportService_1_1PutReportDefinitionRequestPrivate.html" title="Private implementation for PutReportDefinitionRequest. " alt="" coords="527,165,764,221"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,93,187,134"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::OpsWorks::AttachElasticLoadBalancerRequest" name="QtAws::OpsWorks::AttachElasticLoadBalancerRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksRequest.html" title="Interface class for providing OpsWorks requests. " alt="" coords="13,95,216,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="24,5,205,47"/>
+</map>

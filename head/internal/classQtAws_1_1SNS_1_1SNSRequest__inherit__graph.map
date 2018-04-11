@@ -1,0 +1,33 @@
+<map id="QtAws::SNS::SNSRequest" name="QtAws::SNS::SNSRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1SNS_1_1AddPermissionRequest.html" title="Implements SNS AddPermission requests. " alt="" coords="488,5,683,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SNS_1_1CheckIfPhoneNumberIsOptedOutRequest.html" title="Implements SNS CheckIfPhoneNumberIsOptedOut requests. " alt="" coords="491,71,680,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SNS_1_1ConfirmSubscriptionRequest.html" title="Implements SNS ConfirmSubscription requests. " alt="" coords="473,136,697,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SNS_1_1CreatePlatformApplicationRequest.html" title="Implements SNS CreatePlatformApplication requests. " alt="" coords="488,201,683,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SNS_1_1CreatePlatformEndpointRequest.html" title="Implements SNS CreatePlatformEndpoint requests. " alt="" coords="488,267,683,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SNS_1_1CreateTopicRequest.html" title="Implements SNS CreateTopic requests. " alt="" coords="472,333,699,359"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SNS_1_1DeleteEndpointRequest.html" title="Implements SNS DeleteEndpoint requests. " alt="" coords="488,384,683,425"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SNS_1_1DeletePlatformApplicationRequest.html" title="Implements SNS DeletePlatformApplication requests. " alt="" coords="489,449,682,491"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SNS_1_1DeleteTopicRequest.html" title="Implements SNS DeleteTopic requests. " alt="" coords="473,515,698,542"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SNS_1_1GetEndpointAttributesRequest.html" title="Implements SNS GetEndpointAttributes requests. " alt="" coords="468,567,703,608"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SNS_1_1GetPlatformApplicationAttributesRequest.html" title="Implements SNS GetPlatformApplicationAttributes requests. " alt="" coords="465,632,705,673"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SNS_1_1GetSMSAttributesRequest.html" title="Implements SNS GetSMSAttributes requests. " alt="" coords="479,697,691,739"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SNS_1_1GetSubscriptionAttributesRequest.html" title="Implements SNS GetSubscriptionAttributes requests. " alt="" coords="486,763,685,804"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SNS_1_1GetTopicAttributesRequest.html" title="Implements SNS GetTopicAttributes requests. " alt="" coords="478,828,693,869"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SNS_1_1ListEndpointsByPlatformApplicationRequest.html" title="Implements SNS ListEndpointsByPlatformApplication requests. " alt="" coords="485,893,685,935"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SNS_1_1ListPhoneNumbersOptedOutRequest.html" title="Implements SNS ListPhoneNumbersOptedOut requests. " alt="" coords="477,959,694,1000"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SNS_1_1ListPlatformApplicationsRequest.html" title="Implements SNS ListPlatformApplications requests. " alt="" coords="497,1024,673,1065"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SNS_1_1ListSubscriptionsByTopicRequest.html" title="Implements SNS ListSubscriptionsByTopic requests. " alt="" coords="482,1089,689,1131"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SNS_1_1ListSubscriptionsRequest.html" title="Implements SNS ListSubscriptions requests. " alt="" coords="482,1155,689,1196"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SNS_1_1ListTopicsRequest.html" title="Implements SNS ListTopics requests. " alt="" coords="478,1221,693,1247"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SNS_1_1OptInPhoneNumberRequest.html" title="Implements SNS OptInPhoneNumber requests. " alt="" coords="475,1272,696,1313"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SNS_1_1PublishRequest.html" title="Implements SNS Publish requests. " alt="" coords="486,1338,685,1365"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SNS_1_1RemovePermissionRequest.html" title="Implements SNS RemovePermission requests. " alt="" coords="475,1389,695,1431"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SNS_1_1SetEndpointAttributesRequest.html" title="Implements SNS SetEndpointAttributes requests. " alt="" coords="469,1455,702,1496"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SNS_1_1SetPlatformApplicationAttributesRequest.html" title="Implements SNS SetPlatformApplicationAttributes requests. " alt="" coords="466,1520,705,1561"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SNS_1_1SetSMSAttributesRequest.html" title="Implements SNS SetSMSAttributes requests. " alt="" coords="480,1585,691,1627"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SNS_1_1SetSubscriptionAttributesRequest.html" title="Implements SNS SetSubscriptionAttributes requests. " alt="" coords="486,1651,685,1692"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SNS_1_1SetTopicAttributesRequest.html" title="Implements SNS SetTopicAttributes requests. " alt="" coords="478,1716,693,1757"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SNS_1_1SubscribeRequest.html" title="Implements SNS Subscribe requests. " alt="" coords="479,1782,692,1809"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SNS_1_1UnsubscribeRequest.html" title="Implements SNS Unsubscribe requests. " alt="" coords="471,1833,699,1859"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,927,187,968"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::Rekognition::GetCelebrityRecognitionRequestPrivate" name="QtAws::Rekognition::GetCelebrityRecognitionRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionRequestPrivate.html" title="Private implementation for RekognitionRequest. " alt="" coords="21,109,211,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="171,5,352,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="235,109,416,151"/>
+</map>

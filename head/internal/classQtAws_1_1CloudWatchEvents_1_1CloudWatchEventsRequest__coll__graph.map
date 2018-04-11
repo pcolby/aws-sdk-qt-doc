@@ -1,0 +1,4 @@
+<map id="QtAws::CloudWatchEvents::CloudWatchEventsRequest" name="QtAws::CloudWatchEvents::CloudWatchEventsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="157,5,339,47"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="221,109,403,151"/>
+</map>

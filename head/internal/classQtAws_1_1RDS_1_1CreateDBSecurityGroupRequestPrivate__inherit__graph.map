@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::CreateDBSecurityGroupRequestPrivate" name="QtAws::RDS::CreateDBSecurityGroupRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequestPrivate.html" title="Private implementation for RDSRequest. " alt="" coords="5,95,232,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="28,5,209,47"/>
+</map>

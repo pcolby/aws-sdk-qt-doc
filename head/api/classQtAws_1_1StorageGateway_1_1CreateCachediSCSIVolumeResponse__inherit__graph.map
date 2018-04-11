@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::CreateCachediSCSIVolumeResponse" name="QtAws::StorageGateway::CreateCachediSCSIVolumeResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponse.html" title="Handles StorageGateway StorageGateway responses. " alt="" coords="38,169,225,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="41,80,222,121"/>
+</map>

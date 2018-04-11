@@ -1,0 +1,4 @@
+<map id="QtAws::Pinpoint::GetExportJobsResponse" name="QtAws::Pinpoint::GetExportJobsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Pinpoint_1_1PinpointResponse.html" title="Handles Pinpoint Pinpoint responses. " alt="" coords="11,169,183,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="7,80,188,121"/>
+</map>

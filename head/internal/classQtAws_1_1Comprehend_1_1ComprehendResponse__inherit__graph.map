@@ -1,0 +1,14 @@
+<map id="QtAws::Comprehend::ComprehendResponse" name="QtAws::Comprehend::ComprehendResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Comprehend_1_1BatchDetectDominantLanguageResponse.html" title="Handles Comprehend BatchDetectDominantLanguage responses. " alt="" coords="569,5,775,61"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Comprehend_1_1BatchDetectEntitiesResponse.html" title="Handles Comprehend BatchDetectEntities responses. " alt="" coords="573,86,771,127"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Comprehend_1_1BatchDetectKeyPhrasesResponse.html" title="Handles Comprehend BatchDetectKeyPhrases responses. " alt="" coords="559,151,785,193"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Comprehend_1_1BatchDetectSentimentResponse.html" title="Handles Comprehend BatchDetectSentiment responses. " alt="" coords="565,217,779,258"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Comprehend_1_1DescribeTopicsDetectionJobResponse.html" title="Handles Comprehend DescribeTopicsDetectionJob responses. " alt="" coords="577,283,767,339"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Comprehend_1_1DetectDominantLanguageResponse.html" title="Handles Comprehend DetectDominantLanguage responses. " alt="" coords="556,363,788,405"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Comprehend_1_1DetectEntitiesResponse.html" title="Handles Comprehend DetectEntities responses. " alt="" coords="590,429,754,470"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Comprehend_1_1DetectKeyPhrasesResponse.html" title="Handles Comprehend DetectKeyPhrases responses. " alt="" coords="577,494,767,535"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Comprehend_1_1DetectSentimentResponse.html" title="Handles Comprehend DetectSentiment responses. " alt="" coords="583,559,761,601"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Comprehend_1_1ListTopicsDetectionJobsResponse.html" title="Handles Comprehend ListTopicsDetectionJobs responses. " alt="" coords="559,625,785,666"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Comprehend_1_1StartTopicsDetectionJobResponse.html" title="Handles Comprehend StartTopicsDetectionJob responses. " alt="" coords="559,690,785,731"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,363,305,405"/>
+</map>

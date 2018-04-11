@@ -1,0 +1,14 @@
+<map id="QtAws::Comprehend::ComprehendRequestPrivate" name="QtAws::Comprehend::ComprehendRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Comprehend_1_1BatchDetectDominantLanguageRequestPrivate.html" title="Private implementation for BatchDetectDominantLanguageRequest. " alt="" coords="477,5,684,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Comprehend_1_1BatchDetectEntitiesRequestPrivate.html" title="Private implementation for BatchDetectEntitiesRequest. " alt="" coords="487,85,675,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Comprehend_1_1BatchDetectKeyPhrasesRequestPrivate.html" title="Private implementation for BatchDetectKeyPhrasesRequest. " alt="" coords="473,165,688,221"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Comprehend_1_1BatchDetectSentimentRequestPrivate.html" title="Private implementation for BatchDetectSentimentRequest. " alt="" coords="479,245,682,301"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Comprehend_1_1DescribeTopicsDetectionJobRequestPrivate.html" title="Private implementation for DescribeTopicsDetectionJobRequest. " alt="" coords="485,325,676,381"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Comprehend_1_1DetectDominantLanguageRequestPrivate.html" title="Private implementation for DetectDominantLanguageRequest. " alt="" coords="469,405,692,461"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Comprehend_1_1DetectEntitiesRequestPrivate.html" title="Private implementation for DetectEntitiesRequest. " alt="" coords="483,486,678,527"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Comprehend_1_1DetectKeyPhrasesRequestPrivate.html" title="Private implementation for DetectKeyPhrasesRequest. " alt="" coords="469,551,692,593"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Comprehend_1_1DetectSentimentRequestPrivate.html" title="Private implementation for DetectSentimentRequest. " alt="" coords="475,617,686,658"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Comprehend_1_1ListTopicsDetectionJobsRequestPrivate.html" title="Private implementation for ListTopicsDetectionJobsRequest. " alt="" coords="473,683,688,739"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Comprehend_1_1StartTopicsDetectionJobRequestPrivate.html" title="Private implementation for StartTopicsDetectionJobRequest. " alt="" coords="473,763,688,819"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,413,187,454"/>
+</map>

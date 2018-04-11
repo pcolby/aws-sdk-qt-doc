@@ -1,0 +1,4 @@
+<map id="QtAws::SageMaker::UpdateNotebookInstanceLifecycleConfigRequestPrivate" name="QtAws::SageMaker::UpdateNotebookInstanceLifecycleConfigRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerRequestPrivate.html" title="Private implementation for SageMakerRequest. " alt="" coords="9,95,220,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="24,5,205,47"/>
+</map>

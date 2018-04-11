@@ -1,0 +1,5 @@
+<map id="QtAws::Route53Domains::UpdateDomainNameserversRequest" name="QtAws::Route53Domains::UpdateDomainNameserversRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsRequest.html" title="Interface class for providing Route53Domains requests. " alt="" coords="37,109,217,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="178,5,359,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="242,109,423,151"/>
+</map>

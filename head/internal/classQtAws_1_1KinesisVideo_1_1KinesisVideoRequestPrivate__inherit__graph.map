@@ -1,0 +1,13 @@
+<map id="QtAws::KinesisVideo::KinesisVideoRequestPrivate" name="QtAws::KinesisVideo::KinesisVideoRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisVideo_1_1CreateStreamRequestPrivate.html" title="Private implementation for CreateStreamRequest. " alt="" coords="488,5,689,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideo_1_1DeleteStreamRequestPrivate.html" title="Private implementation for DeleteStreamRequest. " alt="" coords="489,71,689,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KinesisVideo_1_1DescribeStreamRequestPrivate.html" title="Private implementation for DescribeStreamRequest. " alt="" coords="481,136,696,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KinesisVideo_1_1GetDataEndpointRequestPrivate.html" title="Private implementation for GetDataEndpointRequest. " alt="" coords="479,201,699,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KinesisVideo_1_1ListStreamsRequestPrivate.html" title="Private implementation for ListStreamsRequest. " alt="" coords="493,267,684,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KinesisVideo_1_1ListTagsForStreamRequestPrivate.html" title="Private implementation for ListTagsForStreamRequest. " alt="" coords="493,333,684,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KinesisVideo_1_1TagStreamRequestPrivate.html" title="Private implementation for TagStreamRequest. " alt="" coords="497,413,681,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KinesisVideo_1_1UntagStreamRequestPrivate.html" title="Private implementation for UntagStreamRequest. " alt="" coords="490,479,687,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KinesisVideo_1_1UpdateDataRetentionRequestPrivate.html" title="Private implementation for UpdateDataRetentionRequest. " alt="" coords="486,545,691,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KinesisVideo_1_1UpdateStreamRequestPrivate.html" title="Private implementation for UpdateStreamRequest. " alt="" coords="487,625,691,667"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,304,187,345"/>
+</map>

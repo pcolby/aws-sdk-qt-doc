@@ -1,0 +1,8 @@
+<map id="QtAws::MediaStoreData::MediaStoreDataResponsePrivate" name="QtAws::MediaStoreData::MediaStoreDataResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStoreData_1_1DeleteObjectResponsePrivate.html" title="Private implementation for DeleteObjectResponse. " alt="" coords="513,5,720,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStoreData_1_1DescribeObjectResponsePrivate.html" title="Private implementation for DescribeObjectResponse. " alt="" coords="507,71,727,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStoreData_1_1GetObjectResponsePrivate.html" title="Private implementation for GetObjectResponse. " alt="" coords="522,136,711,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStoreData_1_1ListItemsResponsePrivate.html" title="Private implementation for ListItemsResponse. " alt="" coords="525,201,709,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStoreData_1_1PutObjectResponsePrivate.html" title="Private implementation for PutObjectResponse. " alt="" coords="523,267,711,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,136,187,177"/>
+</map>

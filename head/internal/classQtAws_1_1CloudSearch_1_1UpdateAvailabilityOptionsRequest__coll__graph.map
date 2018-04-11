@@ -1,0 +1,5 @@
+<map id="QtAws::CloudSearch::UpdateAvailabilityOptionsRequest" name="QtAws::CloudSearch::UpdateAvailabilityOptionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudSearch_1_1CloudSearchRequest.html" title="Interface class for providing CloudSearch requests. " alt="" coords="18,109,173,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="133,5,314,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="197,109,378,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::MQ::CreateBrokerRequest" name="QtAws::MQ::CreateBrokerRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MQ_1_1MQRequest.html" title="Interface class for providing MQ requests. " alt="" coords="33,95,203,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="27,5,209,47"/>
+</map>

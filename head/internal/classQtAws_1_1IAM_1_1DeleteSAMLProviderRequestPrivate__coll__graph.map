@@ -1,0 +1,5 @@
+<map id="QtAws::IAM::DeleteSAMLProviderRequestPrivate" name="QtAws::IAM::DeleteSAMLProviderRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1IAM_1_1IAMRequestPrivate.html" title="Private implementation for IAMRequest. " alt="" coords="9,117,225,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="185,5,367,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="249,109,431,151"/>
+</map>

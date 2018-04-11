@@ -1,0 +1,6 @@
+<map id="QtAws::Pricing::PricingResponsePrivate" name="QtAws::Pricing::PricingResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Pricing_1_1DescribeServicesResponsePrivate.html" title="Private implementation for DescribeServicesResponse. " alt="" coords="509,5,682,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Pricing_1_1GetAttributeValuesResponsePrivate.html" title="Private implementation for GetAttributeValuesResponse. " alt="" coords="501,71,689,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Pricing_1_1GetProductsResponsePrivate.html" title="Private implementation for GetProductsResponse. " alt="" coords="500,136,691,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,71,187,112"/>
+</map>

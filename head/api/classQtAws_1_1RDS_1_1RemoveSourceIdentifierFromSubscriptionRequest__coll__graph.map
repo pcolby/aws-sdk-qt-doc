@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::RemoveSourceIdentifierFromSubscriptionRequest" name="QtAws::RDS::RemoveSourceIdentifierFromSubscriptionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequest.html" title="Interface class for providing RDS requests. " alt="" coords="24,95,209,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="26,5,207,47"/>
+</map>

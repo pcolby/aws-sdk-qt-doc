@@ -1,0 +1,4 @@
+<map id="QtAws::MarketplaceEntitlementService::GetEntitlementsRequest" name="QtAws::MarketplaceEntitlementService::GetEntitlementsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MarketplaceEntitlementService_1_1MarketplaceEntitlementServiceRequest.html" title="Interface class for providing MarketplaceEntitlementService requests. " alt="" coords="5,95,260,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="42,5,223,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Glue::UpdateJobRequest" name="QtAws::Glue::UpdateJobRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Glue_1_1GlueRequest.html" title="Interface class for providing Glue requests. " alt="" coords="23,95,205,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="23,5,205,47"/>
+</map>

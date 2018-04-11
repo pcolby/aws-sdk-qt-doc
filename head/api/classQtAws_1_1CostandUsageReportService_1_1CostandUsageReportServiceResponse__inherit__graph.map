@@ -1,0 +1,6 @@
+<map id="QtAws::CostandUsageReportService::CostandUsageReportServiceResponse" name="QtAws::CostandUsageReportService::CostandUsageReportServiceResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CostandUsageReportService_1_1DeleteReportDefinitionResponse.html" title="Handles CostandUsageReportService DeleteReportDefinition responses. " alt="" coords="665,5,872,61"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CostandUsageReportService_1_1DescribeReportDefinitionsResponse.html" title="Handles CostandUsageReportService DescribeReportDefinitions responses. " alt="" coords="655,85,882,141"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CostandUsageReportService_1_1PutReportDefinitionResponse.html" title="Handles CostandUsageReportService PutReportDefinition responses. " alt="" coords="645,166,892,207"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,93,305,134"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="QtAws::ECR::ECRResponse" name="QtAws::ECR::ECRResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ECR_1_1BatchCheckLayerAvailabilityResponse.html" title="Handles ECR BatchCheckLayerAvailability responses. " alt="" coords="607,5,817,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ECR_1_1BatchDeleteImageResponse.html" title="Handles ECR BatchDeleteImage responses. " alt="" coords="605,71,819,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ECR_1_1BatchGetImageResponse.html" title="Handles ECR BatchGetImage responses. " alt="" coords="613,136,811,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ECR_1_1CompleteLayerUploadResponse.html" title="Handles ECR CompleteLayerUpload responses. " alt="" coords="615,201,809,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ECR_1_1CreateRepositoryResponse.html" title="Handles ECR CreateRepository responses. " alt="" coords="607,267,817,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ECR_1_1DeleteLifecyclePolicyResponse.html" title="Handles ECR DeleteLifecyclePolicy responses. " alt="" coords="613,332,811,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ECR_1_1DeleteRepositoryPolicyResponse.html" title="Handles ECR DeleteRepositoryPolicy responses. " alt="" coords="608,397,816,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ECR_1_1DeleteRepositoryResponse.html" title="Handles ECR DeleteRepository responses. " alt="" coords="608,463,816,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ECR_1_1DescribeImagesResponse.html" title="Handles ECR DescribeImages responses. " alt="" coords="611,528,813,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ECR_1_1DescribeRepositoriesResponse.html" title="Handles ECR DescribeRepositories responses. " alt="" coords="596,593,828,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ECR_1_1GetAuthorizationTokenResponse.html" title="Handles ECR GetAuthorizationToken responses. " alt="" coords="610,659,814,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ECR_1_1GetDownloadUrlForLayerResponse.html" title="Handles ECR GetDownloadUrlForLayer responses. " alt="" coords="611,724,813,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ECR_1_1GetLifecyclePolicyPreviewResponse.html" title="Handles ECR GetLifecyclePolicyPreview responses. " alt="" coords="622,789,802,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ECR_1_1GetLifecyclePolicyResponse.html" title="Handles ECR GetLifecyclePolicy responses. " alt="" coords="622,855,802,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ECR_1_1GetRepositoryPolicyResponse.html" title="Handles ECR GetRepositoryPolicy responses. " alt="" coords="617,920,807,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ECR_1_1InitiateLayerUploadResponse.html" title="Handles ECR InitiateLayerUpload responses. " alt="" coords="623,985,801,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ECR_1_1ListImagesResponse.html" title="Handles ECR ListImages responses. " alt="" coords="597,1051,827,1078"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ECR_1_1PutImageResponse.html" title="Handles ECR PutImage responses. " alt="" coords="601,1102,823,1129"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ECR_1_1PutLifecyclePolicyResponse.html" title="Handles ECR PutLifecyclePolicy responses. " alt="" coords="623,1153,801,1195"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ECR_1_1SetRepositoryPolicyResponse.html" title="Handles ECR SetRepositoryPolicy responses. " alt="" coords="617,1219,807,1260"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ECR_1_1StartLifecyclePolicyPreviewResponse.html" title="Handles ECR StartLifecyclePolicyPreview responses. " alt="" coords="619,1284,805,1325"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1ECR_1_1UploadLayerPartResponse.html" title="Handles ECR UploadLayerPart responses. " alt="" coords="610,1349,814,1391"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,692,305,733"/>
+</map>

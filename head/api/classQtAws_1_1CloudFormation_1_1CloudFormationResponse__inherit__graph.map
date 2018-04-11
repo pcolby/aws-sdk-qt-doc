@@ -1,0 +1,44 @@
+<map id="QtAws::CloudFormation::CloudFormationResponse" name="QtAws::CloudFormation::CloudFormationResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudFormation_1_1CancelUpdateStackResponse.html" title="Handles CloudFormation CancelUpdateStack responses. " alt="" coords="599,5,805,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudFormation_1_1ContinueUpdateRollbackResponse.html" title="Handles CloudFormation ContinueUpdateRollback responses. " alt="" coords="585,71,819,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudFormation_1_1CreateChangeSetResponse.html" title="Handles CloudFormation CreateChangeSet responses. " alt="" coords="605,136,799,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudFormation_1_1CreateStackInstancesResponse.html" title="Handles CloudFormation CreateStackInstances responses. " alt="" coords="593,201,811,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudFormation_1_1CreateStackResponse.html" title="Handles CloudFormation CreateStack responses. " alt="" coords="621,267,783,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudFormation_1_1CreateStackSetResponse.html" title="Handles CloudFormation CreateStackSet responses. " alt="" coords="611,332,793,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudFormation_1_1DeleteChangeSetResponse.html" title="Handles CloudFormation DeleteChangeSet responses. " alt="" coords="606,397,798,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudFormation_1_1DeleteStackInstancesResponse.html" title="Handles CloudFormation DeleteStackInstances responses. " alt="" coords="593,463,811,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudFormation_1_1DeleteStackResponse.html" title="Handles CloudFormation DeleteStack responses. " alt="" coords="621,528,783,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudFormation_1_1DeleteStackSetResponse.html" title="Handles CloudFormation DeleteStackSet responses. " alt="" coords="611,593,793,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudFormation_1_1DescribeAccountLimitsResponse.html" title="Handles CloudFormation DescribeAccountLimits responses. " alt="" coords="590,659,814,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudFormation_1_1DescribeChangeSetResponse.html" title="Handles CloudFormation DescribeChangeSet responses. " alt="" coords="599,724,805,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudFormation_1_1DescribeStackEventsResponse.html" title="Handles CloudFormation DescribeStackEvents responses. " alt="" coords="594,789,810,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudFormation_1_1DescribeStackInstanceResponse.html" title="Handles CloudFormation DescribeStackInstance responses. " alt="" coords="589,855,815,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudFormation_1_1DescribeStackResourceResponse.html" title="Handles CloudFormation DescribeStackResource responses. " alt="" coords="587,920,817,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudFormation_1_1DescribeStackResourcesResponse.html" title="Handles CloudFormation DescribeStackResources responses. " alt="" coords="583,985,821,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudFormation_1_1DescribeStackSetOperationResponse.html" title="Handles CloudFormation DescribeStackSetOperation responses. " alt="" coords="606,1051,798,1107"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudFormation_1_1DescribeStackSetResponse.html" title="Handles CloudFormation DescribeStackSet responses. " alt="" coords="605,1132,799,1173"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudFormation_1_1DescribeStacksResponse.html" title="Handles CloudFormation DescribeStacks responses. " alt="" coords="611,1197,793,1239"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudFormation_1_1EstimateTemplateCostResponse.html" title="Handles CloudFormation EstimateTemplateCost responses. " alt="" coords="591,1263,813,1304"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudFormation_1_1ExecuteChangeSetResponse.html" title="Handles CloudFormation ExecuteChangeSet responses. " alt="" coords="601,1328,803,1369"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudFormation_1_1GetStackPolicyResponse.html" title="Handles CloudFormation GetStackPolicy responses. " alt="" coords="612,1393,792,1435"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudFormation_1_1GetTemplateResponse.html" title="Handles CloudFormation GetTemplate responses. " alt="" coords="620,1459,784,1500"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudFormation_1_1GetTemplateSummaryResponse.html" title="Handles CloudFormation GetTemplateSummary responses. " alt="" coords="592,1524,812,1565"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudFormation_1_1ListChangeSetsResponse.html" title="Handles CloudFormation ListChangeSets responses. " alt="" coords="611,1589,793,1631"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudFormation_1_1ListExportsResponse.html" title="Handles CloudFormation ListExports responses. " alt="" coords="621,1655,783,1696"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudFormation_1_1ListImportsResponse.html" title="Handles CloudFormation ListImports responses. " alt="" coords="621,1720,783,1761"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1CloudFormation_1_1ListStackInstancesResponse.html" title="Handles CloudFormation ListStackInstances responses. " alt="" coords="601,1785,803,1827"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1CloudFormation_1_1ListStackResourcesResponse.html" title="Handles CloudFormation ListStackResources responses. " alt="" coords="599,1851,805,1892"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1CloudFormation_1_1ListStackSetOperationResultsResponse.html" title="Handles CloudFormation ListStackSetOperationResults responses. " alt="" coords="599,1917,805,1973"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1CloudFormation_1_1ListStackSetOperationsResponse.html" title="Handles CloudFormation ListStackSetOperations responses. " alt="" coords="589,1997,815,2039"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1CloudFormation_1_1ListStackSetsResponse.html" title="Handles CloudFormation ListStackSets responses. " alt="" coords="617,2063,787,2104"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1CloudFormation_1_1ListStacksResponse.html" title="Handles CloudFormation ListStacks responses. " alt="" coords="621,2128,783,2169"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1CloudFormation_1_1SetStackPolicyResponse.html" title="Handles CloudFormation SetStackPolicy responses. " alt="" coords="613,2193,791,2235"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1CloudFormation_1_1SignalResourceResponse.html" title="Handles CloudFormation SignalResource responses. " alt="" coords="611,2259,793,2300"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1CloudFormation_1_1StopStackSetOperationResponse.html" title="Handles CloudFormation StopStackSetOperation responses. " alt="" coords="589,2324,815,2365"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1CloudFormation_1_1UpdateStackInstancesResponse.html" title="Handles CloudFormation UpdateStackInstances responses. " alt="" coords="591,2389,813,2431"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1CloudFormation_1_1UpdateStackResponse.html" title="Handles CloudFormation UpdateStack responses. " alt="" coords="619,2455,785,2496"/>
+<area shape="rect" id="node42" href="$classQtAws_1_1CloudFormation_1_1UpdateStackSetResponse.html" title="Handles CloudFormation UpdateStackSet responses. " alt="" coords="609,2520,795,2561"/>
+<area shape="rect" id="node43" href="$classQtAws_1_1CloudFormation_1_1UpdateTerminationProtectionResponse.html" title="Handles CloudFormation UpdateTerminationProtection responses. " alt="" coords="603,2586,801,2642"/>
+<area shape="rect" id="node44" href="$classQtAws_1_1CloudFormation_1_1ValidateTemplateResponse.html" title="Handles CloudFormation ValidateTemplate responses. " alt="" coords="607,2667,797,2708"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,1328,305,1369"/>
+</map>

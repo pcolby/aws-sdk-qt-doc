@@ -1,0 +1,9 @@
+<map id="QtAws::Health::HealthResponsePrivate" name="QtAws::Health::HealthResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Health_1_1DescribeAffectedEntitiesResponsePrivate.html" title="Private implementation for DescribeAffectedEntitiesResponse. " alt="" coords="496,5,713,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Health_1_1DescribeEntityAggregatesResponsePrivate.html" title="Private implementation for DescribeEntityAggregatesResponse. " alt="" coords="503,71,706,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Health_1_1DescribeEventAggregatesResponsePrivate.html" title="Private implementation for DescribeEventAggregatesResponse. " alt="" coords="503,136,706,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Health_1_1DescribeEventDetailsResponsePrivate.html" title="Private implementation for DescribeEventDetailsResponse. " alt="" coords="503,201,706,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Health_1_1DescribeEventsResponsePrivate.html" title="Private implementation for DescribeEventsResponse. " alt="" coords="500,267,709,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Health_1_1DescribeEventTypesResponsePrivate.html" title="Private implementation for DescribeEventTypesResponse. " alt="" coords="503,332,706,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,169,187,211"/>
+</map>

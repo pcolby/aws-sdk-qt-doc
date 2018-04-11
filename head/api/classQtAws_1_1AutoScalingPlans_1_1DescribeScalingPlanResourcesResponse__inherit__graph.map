@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScalingPlans::DescribeScalingPlanResourcesResponse" name="QtAws::AutoScalingPlans::DescribeScalingPlanResourcesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScalingPlans_1_1AutoScalingPlansResponse.html" title="Handles AutoScalingPlans AutoScalingPlans responses. " alt="" coords="17,169,209,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

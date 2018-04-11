@@ -1,0 +1,43 @@
+<map id="QtAws::DirectoryService::DirectoryServiceRequest" name="QtAws::DirectoryService::DirectoryServiceRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1DirectoryService_1_1AddIpRoutesRequest.html" title="Implements DirectoryService AddIpRoutes requests. " alt="" coords="497,5,663,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DirectoryService_1_1AddTagsToResourceRequest.html" title="Implements DirectoryService AddTagsToResource requests. " alt="" coords="479,71,681,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DirectoryService_1_1CancelSchemaExtensionRequest.html" title="Implements DirectoryService CancelSchemaExtension requests. " alt="" coords="467,136,693,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DirectoryService_1_1ConnectDirectoryRequest.html" title="Implements DirectoryService ConnectDirectory requests. " alt="" coords="489,201,671,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DirectoryService_1_1CreateAliasRequest.html" title="Implements DirectoryService CreateAlias requests. " alt="" coords="497,267,663,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DirectoryService_1_1CreateComputerRequest.html" title="Implements DirectoryService CreateComputer requests. " alt="" coords="493,332,667,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DirectoryService_1_1CreateConditionalForwarderRequest.html" title="Implements DirectoryService CreateConditionalForwarder requests. " alt="" coords="484,398,676,454"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DirectoryService_1_1CreateDirectoryRequest.html" title="Implements DirectoryService CreateDirectory requests. " alt="" coords="495,479,665,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DirectoryService_1_1CreateMicrosoftADRequest.html" title="Implements DirectoryService CreateMicrosoftAD requests. " alt="" coords="485,544,675,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DirectoryService_1_1CreateSnapshotRequest.html" title="Implements DirectoryService CreateSnapshot requests. " alt="" coords="493,609,667,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DirectoryService_1_1CreateTrustRequest.html" title="Implements DirectoryService CreateTrust requests. " alt="" coords="497,675,663,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DirectoryService_1_1DeleteConditionalForwarderRequest.html" title="Implements DirectoryService DeleteConditionalForwarder requests. " alt="" coords="485,741,675,797"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DirectoryService_1_1DeleteDirectoryRequest.html" title="Implements DirectoryService DeleteDirectory requests. " alt="" coords="495,821,665,863"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DirectoryService_1_1DeleteSnapshotRequest.html" title="Implements DirectoryService DeleteSnapshot requests. " alt="" coords="494,887,666,928"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DirectoryService_1_1DeleteTrustRequest.html" title="Implements DirectoryService DeleteTrust requests. " alt="" coords="497,952,663,993"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DirectoryService_1_1DeregisterEventTopicRequest.html" title="Implements DirectoryService DeregisterEventTopic requests. " alt="" coords="477,1017,683,1059"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DirectoryService_1_1DescribeConditionalForwardersRequest.html" title="Implements DirectoryService DescribeConditionalForwarders requests. " alt="" coords="474,1083,686,1139"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DirectoryService_1_1DescribeDirectoriesRequest.html" title="Implements DirectoryService DescribeDirectories requests. " alt="" coords="483,1164,677,1205"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DirectoryService_1_1DescribeDomainControllersRequest.html" title="Implements DirectoryService DescribeDomainControllers requests. " alt="" coords="461,1229,699,1271"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DirectoryService_1_1DescribeEventTopicsRequest.html" title="Implements DirectoryService DescribeEventTopics requests. " alt="" coords="478,1295,682,1336"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DirectoryService_1_1DescribeSnapshotsRequest.html" title="Implements DirectoryService DescribeSnapshots requests. " alt="" coords="483,1360,677,1401"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1DirectoryService_1_1DescribeTrustsRequest.html" title="Implements DirectoryService DescribeTrusts requests. " alt="" coords="496,1425,664,1467"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1DirectoryService_1_1DisableRadiusRequest.html" title="Implements DirectoryService DisableRadius requests. " alt="" coords="497,1491,663,1532"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1DirectoryService_1_1DisableSsoRequest.html" title="Implements DirectoryService DisableSso requests. " alt="" coords="497,1556,663,1597"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1DirectoryService_1_1EnableRadiusRequest.html" title="Implements DirectoryService EnableRadius requests. " alt="" coords="497,1621,663,1663"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1DirectoryService_1_1EnableSsoRequest.html" title="Implements DirectoryService EnableSso requests. " alt="" coords="497,1687,663,1728"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1DirectoryService_1_1GetDirectoryLimitsRequest.html" title="Implements DirectoryService GetDirectoryLimits requests. " alt="" coords="486,1752,674,1793"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1DirectoryService_1_1GetSnapshotLimitsRequest.html" title="Implements DirectoryService GetSnapshotLimits requests. " alt="" coords="485,1817,675,1859"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1DirectoryService_1_1ListIpRoutesRequest.html" title="Implements DirectoryService ListIpRoutes requests. " alt="" coords="497,1883,663,1924"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1DirectoryService_1_1ListSchemaExtensionsRequest.html" title="Implements DirectoryService ListSchemaExtensions requests. " alt="" coords="473,1948,687,1989"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1DirectoryService_1_1ListTagsForResourceRequest.html" title="Implements DirectoryService ListTagsForResource requests. " alt="" coords="478,2013,682,2055"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1DirectoryService_1_1RegisterEventTopicRequest.html" title="Implements DirectoryService RegisterEventTopic requests. " alt="" coords="483,2079,677,2120"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1DirectoryService_1_1RemoveIpRoutesRequest.html" title="Implements DirectoryService RemoveIpRoutes requests. " alt="" coords="489,2144,671,2185"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1DirectoryService_1_1RemoveTagsFromResourceRequest.html" title="Implements DirectoryService RemoveTagsFromResource requests. " alt="" coords="459,2209,701,2251"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1DirectoryService_1_1RestoreFromSnapshotRequest.html" title="Implements DirectoryService RestoreFromSnapshot requests. " alt="" coords="475,2275,685,2316"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1DirectoryService_1_1StartSchemaExtensionRequest.html" title="Implements DirectoryService StartSchemaExtension requests. " alt="" coords="473,2340,687,2381"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1DirectoryService_1_1UpdateConditionalForwarderRequest.html" title="Implements DirectoryService UpdateConditionalForwarder requests. " alt="" coords="483,2406,677,2462"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1DirectoryService_1_1UpdateNumberOfDomainControllersRequest.html" title="Implements DirectoryService UpdateNumberOfDomainControllers requests. " alt="" coords="460,2486,700,2542"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1DirectoryService_1_1UpdateRadiusRequest.html" title="Implements DirectoryService UpdateRadius requests. " alt="" coords="497,2567,663,2608"/>
+<area shape="rect" id="node42" href="$classQtAws_1_1DirectoryService_1_1VerifyTrustRequest.html" title="Implements DirectoryService VerifyTrust requests. " alt="" coords="497,2632,663,2673"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1328,187,1369"/>
+</map>

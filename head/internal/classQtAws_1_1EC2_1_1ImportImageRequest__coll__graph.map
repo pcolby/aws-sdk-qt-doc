@@ -1,0 +1,5 @@
+<map id="QtAws::EC2::ImportImageRequest" name="QtAws::EC2::ImportImageRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Request.html" title="Interface class for providing EC2 requests. " alt="" coords="29,117,208,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="168,5,349,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="232,109,413,151"/>
+</map>

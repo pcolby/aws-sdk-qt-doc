@@ -1,0 +1,13 @@
+<map id="QtAws::KinesisVideo::KinesisVideoRequest" name="QtAws::KinesisVideo::KinesisVideoRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisVideo_1_1CreateStreamRequest.html" title="Implements KinesisVideo CreateStream requests. " alt="" coords="460,5,620,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideo_1_1DeleteStreamRequest.html" title="Implements KinesisVideo DeleteStream requests. " alt="" coords="461,71,619,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KinesisVideo_1_1DescribeStreamRequest.html" title="Implements KinesisVideo DescribeStream requests. " alt="" coords="453,136,627,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KinesisVideo_1_1GetDataEndpointRequest.html" title="Implements KinesisVideo GetDataEndpoint requests. " alt="" coords="451,201,629,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KinesisVideo_1_1ListStreamsRequest.html" title="Implements KinesisVideo ListStreams requests. " alt="" coords="465,267,615,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KinesisVideo_1_1ListTagsForStreamRequest.html" title="Implements KinesisVideo ListTagsForStream requests. " alt="" coords="445,332,635,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KinesisVideo_1_1TagStreamRequest.html" title="Implements KinesisVideo TagStream requests. " alt="" coords="467,397,613,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KinesisVideo_1_1UntagStreamRequest.html" title="Implements KinesisVideo UntagStream requests. " alt="" coords="462,463,618,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KinesisVideo_1_1UpdateDataRetentionRequest.html" title="Implements KinesisVideo UpdateDataRetention requests. " alt="" coords="437,528,643,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KinesisVideo_1_1UpdateStreamRequest.html" title="Implements KinesisVideo UpdateStream requests. " alt="" coords="459,593,621,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,300,187,341"/>
+</map>

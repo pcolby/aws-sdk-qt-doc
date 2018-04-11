@@ -1,0 +1,7 @@
+<map id="QtAws::IoTJobsDataPlane::IoTJobsDataPlaneRequest" name="QtAws::IoTJobsDataPlane::IoTJobsDataPlaneRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1IoTJobsDataPlane_1_1DescribeJobExecutionRequest.html" title="Implements IoTJobsDataPlane DescribeJobExecution requests. " alt="" coords="481,5,691,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1IoTJobsDataPlane_1_1GetPendingJobExecutionsRequest.html" title="Implements IoTJobsDataPlane GetPendingJobExecutions requests. " alt="" coords="469,71,703,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1IoTJobsDataPlane_1_1StartNextPendingJobExecutionRequest.html" title="Implements IoTJobsDataPlane StartNextPendingJobExecution requests. " alt="" coords="480,137,692,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1IoTJobsDataPlane_1_1UpdateJobExecutionRequest.html" title="Implements IoTJobsDataPlane UpdateJobExecution requests. " alt="" coords="486,217,686,259"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,108,187,149"/>
+</map>

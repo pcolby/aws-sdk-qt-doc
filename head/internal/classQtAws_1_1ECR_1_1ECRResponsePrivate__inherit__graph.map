@@ -1,0 +1,25 @@
+<map id="QtAws::ECR::ECRResponsePrivate" name="QtAws::ECR::ECRResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ECR_1_1BatchCheckLayerAvailabilityResponsePrivate.html" title="Private implementation for BatchCheckLayerAvailabilityResponse. " alt="" coords="529,5,740,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ECR_1_1BatchDeleteImageResponsePrivate.html" title="Private implementation for BatchDeleteImageResponse. " alt="" coords="527,71,742,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ECR_1_1BatchGetImageResponsePrivate.html" title="Private implementation for BatchGetImageResponse. " alt="" coords="535,136,734,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ECR_1_1CompleteLayerUploadResponsePrivate.html" title="Private implementation for CompleteLayerUploadResponse. " alt="" coords="537,201,732,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ECR_1_1CreateRepositoryResponsePrivate.html" title="Private implementation for CreateRepositoryResponse. " alt="" coords="530,267,739,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ECR_1_1DeleteLifecyclePolicyResponsePrivate.html" title="Private implementation for DeleteLifecyclePolicyResponse. " alt="" coords="536,332,733,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ECR_1_1DeleteRepositoryPolicyResponsePrivate.html" title="Private implementation for DeleteRepositoryPolicyResponse. " alt="" coords="531,397,739,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ECR_1_1DeleteRepositoryResponsePrivate.html" title="Private implementation for DeleteRepositoryResponse. " alt="" coords="531,463,739,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ECR_1_1DescribeImagesResponsePrivate.html" title="Private implementation for DescribeImagesResponse. " alt="" coords="533,528,736,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ECR_1_1DescribeRepositoriesResponsePrivate.html" title="Private implementation for DescribeRepositoriesResponse. " alt="" coords="519,593,751,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ECR_1_1GetAuthorizationTokenResponsePrivate.html" title="Private implementation for GetAuthorizationTokenResponse. " alt="" coords="533,659,737,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ECR_1_1GetDownloadUrlForLayerResponsePrivate.html" title="Private implementation for GetDownloadUrlForLayerResponse. " alt="" coords="533,724,736,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ECR_1_1GetLifecyclePolicyPreviewResponsePrivate.html" title="Private implementation for GetLifecyclePolicyPreviewResponse. " alt="" coords="532,789,737,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ECR_1_1GetLifecyclePolicyResponsePrivate.html" title="Private implementation for GetLifecyclePolicyResponse. " alt="" coords="545,855,725,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ECR_1_1GetRepositoryPolicyResponsePrivate.html" title="Private implementation for GetRepositoryPolicyResponse. " alt="" coords="539,920,730,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ECR_1_1InitiateLayerUploadResponsePrivate.html" title="Private implementation for InitiateLayerUploadResponse. " alt="" coords="545,985,724,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ECR_1_1ListImagesResponsePrivate.html" title="Private implementation for ListImagesResponse. " alt="" coords="519,1051,750,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ECR_1_1PutImageResponsePrivate.html" title="Private implementation for PutImageResponse. " alt="" coords="523,1116,746,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ECR_1_1PutLifecyclePolicyResponsePrivate.html" title="Private implementation for PutLifecyclePolicyResponse. " alt="" coords="545,1181,724,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ECR_1_1SetRepositoryPolicyResponsePrivate.html" title="Private implementation for SetRepositoryPolicyResponse. " alt="" coords="539,1247,730,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ECR_1_1StartLifecyclePolicyPreviewResponsePrivate.html" title="Private implementation for StartLifecyclePolicyPreviewResponse. " alt="" coords="532,1312,737,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ECR_1_1UploadLayerPartResponsePrivate.html" title="Private implementation for UploadLayerPartResponse. " alt="" coords="533,1377,737,1419"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,692,187,733"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::CloudHSMV2::DeleteHsmRequestPrivate" name="QtAws::CloudHSMV2::DeleteHsmRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudHSMV2_1_1CloudHSMV2RequestPrivate.html" title="Private implementation for CloudHSMV2Request. " alt="" coords="5,109,197,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="157,5,339,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="221,109,403,151"/>
+</map>

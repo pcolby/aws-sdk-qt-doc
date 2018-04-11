@@ -1,0 +1,4 @@
+<map id="QtAws::DatabaseMigrationService::DescribeReplicationTaskAssessmentResultsResponsePrivate" name="QtAws::DatabaseMigrationService::DescribeReplicationTaskAssessmentResultsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DatabaseMigrationService_1_1DatabaseMigrationServiceResponsePrivate.html" title="Private implementation for DatabaseMigrationServiceResponse. " alt="" coords="27,95,253,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="49,5,231,47"/>
+</map>

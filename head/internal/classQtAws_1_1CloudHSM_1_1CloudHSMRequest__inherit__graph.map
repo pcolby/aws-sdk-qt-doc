@@ -1,0 +1,23 @@
+<map id="QtAws::CloudHSM::CloudHSMRequest" name="QtAws::CloudHSM::CloudHSMRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSM_1_1AddTagsToResourceRequest.html" title="Implements CloudHSM AddTagsToResource requests. " alt="" coords="550,5,745,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSM_1_1CreateHapgRequest.html" title="Implements CloudHSM CreateHapg requests. " alt="" coords="541,71,753,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSM_1_1CreateHsmRequest.html" title="Implements CloudHSM CreateHsm requests. " alt="" coords="543,136,752,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSM_1_1CreateLunaClientRequest.html" title="Implements CloudHSM CreateLunaClient requests. " alt="" coords="543,201,752,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSM_1_1DeleteHapgRequest.html" title="Implements CloudHSM DeleteHapg requests. " alt="" coords="542,267,753,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSM_1_1DeleteHsmRequest.html" title="Implements CloudHSM DeleteHsm requests. " alt="" coords="543,332,751,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSM_1_1DeleteLunaClientRequest.html" title="Implements CloudHSM DeleteLunaClient requests. " alt="" coords="543,397,751,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSM_1_1DescribeHapgRequest.html" title="Implements CloudHSM DescribeHapg requests. " alt="" coords="550,463,745,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSM_1_1DescribeHsmRequest.html" title="Implements CloudHSM DescribeHsm requests. " alt="" coords="550,528,745,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSM_1_1DescribeLunaClientRequest.html" title="Implements CloudHSM DescribeLunaClient requests. " alt="" coords="550,593,745,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudHSM_1_1GetConfigRequest.html" title="Implements CloudHSM GetConfig requests. " alt="" coords="547,659,748,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudHSM_1_1ListAvailableZonesRequest.html" title="Implements CloudHSM ListAvailableZones requests. " alt="" coords="539,724,755,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudHSM_1_1ListHapgsRequest.html" title="Implements CloudHSM ListHapgs requests. " alt="" coords="547,789,748,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudHSM_1_1ListHsmsRequest.html" title="Implements CloudHSM ListHsms requests. " alt="" coords="548,855,747,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudHSM_1_1ListLunaClientsRequest.html" title="Implements CloudHSM ListLunaClients requests. " alt="" coords="552,920,743,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudHSM_1_1ListTagsForResourceRequest.html" title="Implements CloudHSM ListTagsForResource requests. " alt="" coords="551,985,743,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudHSM_1_1ModifyHapgRequest.html" title="Implements CloudHSM ModifyHapg requests. " alt="" coords="541,1051,753,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudHSM_1_1ModifyHsmRequest.html" title="Implements CloudHSM ModifyHsm requests. " alt="" coords="543,1116,752,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudHSM_1_1ModifyLunaClientRequest.html" title="Implements CloudHSM ModifyLunaClient requests. " alt="" coords="543,1181,752,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudHSM_1_1RemoveTagsFromResourceRequest.html" title="Implements CloudHSM RemoveTagsFromResource requests. " alt="" coords="537,1247,757,1288"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,627,187,668"/>
+</map>

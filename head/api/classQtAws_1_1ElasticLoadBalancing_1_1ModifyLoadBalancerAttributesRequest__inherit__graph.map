@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticLoadBalancing::ModifyLoadBalancerAttributesRequest" name="QtAws::ElasticLoadBalancing::ModifyLoadBalancerAttributesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticLoadBalancing_1_1ElasticLoadBalancingRequest.html" title="Interface class for providing ElasticLoadBalancing requests. " alt="" coords="30,95,234,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="41,5,223,47"/>
+</map>

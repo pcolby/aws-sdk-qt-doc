@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['operation',['operation',['../classAwsAbstractRequestPrivate.html#ae68307306aa9c0b0aa1fca9fcf3405ba',1,'AwsAbstractRequestPrivate']]]
+  ['operation',['operation',['../classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html#a29231199a82234a1f48ab95857f8ee03',1,'QtAws::Core::AwsAbstractRequestPrivate']]]
 ];

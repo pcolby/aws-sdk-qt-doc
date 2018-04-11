@@ -1,0 +1,5 @@
+<map id="QtAws::OpsWorks::CreateInstanceRequestPrivate" name="QtAws::OpsWorks::CreateInstanceRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksRequestPrivate.html" title="Private implementation for OpsWorksRequest. " alt="" coords="19,109,221,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="181,5,363,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="245,109,427,151"/>
+</map>

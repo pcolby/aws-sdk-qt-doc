@@ -1,0 +1,36 @@
+<map id="QtAws::Rekognition::RekognitionRequest" name="QtAws::Rekognition::RekognitionRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Rekognition_1_1CompareFacesRequest.html" title="Implements Rekognition CompareFaces requests. " alt="" coords="463,5,631,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Rekognition_1_1CreateCollectionRequest.html" title="Implements Rekognition CreateCollection requests. " alt="" coords="459,71,635,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Rekognition_1_1CreateStreamProcessorRequest.html" title="Implements Rekognition CreateStreamProcessor requests. " alt="" coords="437,136,656,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Rekognition_1_1DeleteCollectionRequest.html" title="Implements Rekognition DeleteCollection requests. " alt="" coords="459,201,634,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Rekognition_1_1DeleteFacesRequest.html" title="Implements Rekognition DeleteFaces requests. " alt="" coords="470,267,623,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Rekognition_1_1DeleteStreamProcessorRequest.html" title="Implements Rekognition DeleteStreamProcessor requests. " alt="" coords="437,332,656,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Rekognition_1_1DescribeStreamProcessorRequest.html" title="Implements Rekognition DescribeStreamProcessor requests. " alt="" coords="431,397,663,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Rekognition_1_1DetectFacesRequest.html" title="Implements Rekognition DetectFaces requests. " alt="" coords="469,463,624,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Rekognition_1_1DetectLabelsRequest.html" title="Implements Rekognition DetectLabels requests. " alt="" coords="469,528,625,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Rekognition_1_1DetectModerationLabelsRequest.html" title="Implements Rekognition DetectModerationLabels requests. " alt="" coords="437,593,657,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Rekognition_1_1DetectTextRequest.html" title="Implements Rekognition DetectText requests. " alt="" coords="475,659,619,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Rekognition_1_1GetCelebrityInfoRequest.html" title="Implements Rekognition GetCelebrityInfo requests. " alt="" coords="459,724,634,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Rekognition_1_1GetCelebrityRecognitionRequest.html" title="Implements Rekognition GetCelebrityRecognition requests. " alt="" coords="436,789,657,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Rekognition_1_1GetContentModerationRequest.html" title="Implements Rekognition GetContentModeration requests. " alt="" coords="441,855,652,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Rekognition_1_1GetFaceDetectionRequest.html" title="Implements Rekognition GetFaceDetection requests. " alt="" coords="454,920,639,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Rekognition_1_1GetFaceSearchRequest.html" title="Implements Rekognition GetFaceSearch requests. " alt="" coords="461,985,632,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Rekognition_1_1GetLabelDetectionRequest.html" title="Implements Rekognition GetLabelDetection requests. " alt="" coords="453,1051,640,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Rekognition_1_1GetPersonTrackingRequest.html" title="Implements Rekognition GetPersonTracking requests. " alt="" coords="451,1116,642,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Rekognition_1_1IndexFacesRequest.html" title="Implements Rekognition IndexFaces requests. " alt="" coords="473,1181,620,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Rekognition_1_1ListCollectionsRequest.html" title="Implements Rekognition ListCollections requests. " alt="" coords="464,1247,629,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Rekognition_1_1ListFacesRequest.html" title="Implements Rekognition ListFaces requests. " alt="" coords="477,1312,616,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Rekognition_1_1ListStreamProcessorsRequest.html" title="Implements Rekognition ListStreamProcessors requests. " alt="" coords="443,1377,651,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Rekognition_1_1RecognizeCelebritiesRequest.html" title="Implements Rekognition RecognizeCelebrities requests. " alt="" coords="445,1443,648,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Rekognition_1_1SearchFacesByImageRequest.html" title="Implements Rekognition SearchFacesByImage requests. " alt="" coords="443,1508,651,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Rekognition_1_1SearchFacesRequest.html" title="Implements Rekognition SearchFaces requests. " alt="" coords="469,1573,625,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Rekognition_1_1StartCelebrityRecognitionRequest.html" title="Implements Rekognition StartCelebrityRecognition requests. " alt="" coords="457,1639,636,1695"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Rekognition_1_1StartContentModerationRequest.html" title="Implements Rekognition StartContentModeration requests. " alt="" coords="438,1720,655,1761"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Rekognition_1_1StartFaceDetectionRequest.html" title="Implements Rekognition StartFaceDetection requests. " alt="" coords="451,1785,643,1827"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Rekognition_1_1StartFaceSearchRequest.html" title="Implements Rekognition StartFaceSearch requests. " alt="" coords="458,1851,635,1892"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Rekognition_1_1StartLabelDetectionRequest.html" title="Implements Rekognition StartLabelDetection requests. " alt="" coords="449,1916,644,1957"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Rekognition_1_1StartPersonTrackingRequest.html" title="Implements Rekognition StartPersonTracking requests. " alt="" coords="447,1981,646,2023"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Rekognition_1_1StartStreamProcessorRequest.html" title="Implements Rekognition StartStreamProcessor requests. " alt="" coords="443,2047,651,2088"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1Rekognition_1_1StopStreamProcessorRequest.html" title="Implements Rekognition StopStreamProcessor requests. " alt="" coords="443,2112,650,2153"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1051,187,1092"/>
+</map>

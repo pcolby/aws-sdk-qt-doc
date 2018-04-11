@@ -1,0 +1,5 @@
+<map id="QtAws::MachineLearning::DeleteBatchPredictionRequest" name="QtAws::MachineLearning::DeleteBatchPredictionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MachineLearning_1_1MachineLearningRequest.html" title="Interface class for providing MachineLearning requests. " alt="" coords="21,109,199,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="159,5,341,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="223,109,405,151"/>
+</map>

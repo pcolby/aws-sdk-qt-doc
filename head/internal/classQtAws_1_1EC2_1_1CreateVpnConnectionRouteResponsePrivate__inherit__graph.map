@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::CreateVpnConnectionRouteResponsePrivate" name="QtAws::EC2::CreateVpnConnectionRouteResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2ResponsePrivate.html" title="Private implementation for EC2Response. " alt="" coords="6,95,237,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="31,5,212,47"/>
+</map>

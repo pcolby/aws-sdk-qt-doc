@@ -1,0 +1,4 @@
+<map id="QtAws::S3::PutBucketLifecycleRequestPrivate" name="QtAws::S3::PutBucketLifecycleRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3RequestPrivate.html" title="Private implementation for S3Request. " alt="" coords="9,95,209,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="18,5,199,47"/>
+</map>

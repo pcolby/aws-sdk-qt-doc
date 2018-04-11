@@ -1,0 +1,5 @@
+<map id="QtAws::CloudHSMV2::CreateHsmRequest" name="QtAws::CloudHSMV2::CreateHsmRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudHSMV2_1_1CloudHSMV2Request.html" title="Interface class for providing CloudHSMV2 requests. " alt="" coords="5,109,164,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="125,5,306,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="189,109,370,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::DescribeEventsRequest" name="QtAws::RDS::DescribeEventsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequest.html" title="Interface class for providing RDS requests. " alt="" coords="13,95,198,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

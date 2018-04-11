@@ -1,0 +1,4 @@
+<map id="QtAws::SFN::SendTaskSuccessRequest" name="QtAws::SFN::SendTaskSuccessRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SFN_1_1SFNRequest.html" title="Interface class for providing SFN requests. " alt="" coords="22,95,203,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="22,5,203,47"/>
+</map>

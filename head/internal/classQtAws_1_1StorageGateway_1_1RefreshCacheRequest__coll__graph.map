@@ -1,0 +1,5 @@
+<map id="QtAws::StorageGateway::RefreshCacheRequest" name="QtAws::StorageGateway::RefreshCacheRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayRequest.html" title="Interface class for providing StorageGateway requests. " alt="" coords="5,109,181,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="141,5,323,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="205,109,387,151"/>
+</map>

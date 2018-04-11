@@ -1,0 +1,37 @@
+<map id="QtAws::SageMaker::SageMakerResponsePrivate" name="QtAws::SageMaker::SageMakerResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SageMaker_1_1AddTagsResponsePrivate.html" title="Private implementation for AddTagsResponse. " alt="" coords="509,5,705,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SageMaker_1_1CreateEndpointConfigResponsePrivate.html" title="Private implementation for CreateEndpointConfigResponse. " alt="" coords="502,71,713,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SageMaker_1_1CreateEndpointResponsePrivate.html" title="Private implementation for CreateEndpointResponse. " alt="" coords="516,136,699,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SageMaker_1_1CreateModelResponsePrivate.html" title="Private implementation for CreateModelResponse. " alt="" coords="516,201,699,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SageMaker_1_1CreateNotebookInstanceLifecycleConfigResponsePrivate.html" title="Private implementation for CreateNotebookInstanceLifecycleConfigResponse. " alt="" coords="498,267,717,323"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SageMaker_1_1CreateNotebookInstanceResponsePrivate.html" title="Private implementation for CreateNotebookInstanceResponse. " alt="" coords="493,348,721,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SageMaker_1_1CreatePresignedNotebookInstanceUrlResponsePrivate.html" title="Private implementation for CreatePresignedNotebookInstanceUrlResponse. " alt="" coords="506,414,709,470"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SageMaker_1_1CreateTrainingJobResponsePrivate.html" title="Private implementation for CreateTrainingJobResponse. " alt="" coords="513,495,702,536"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SageMaker_1_1DeleteEndpointConfigResponsePrivate.html" title="Private implementation for DeleteEndpointConfigResponse. " alt="" coords="502,560,713,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SageMaker_1_1DeleteEndpointResponsePrivate.html" title="Private implementation for DeleteEndpointResponse. " alt="" coords="516,625,699,667"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SageMaker_1_1DeleteModelResponsePrivate.html" title="Private implementation for DeleteModelResponse. " alt="" coords="516,691,699,732"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SageMaker_1_1DeleteNotebookInstanceLifecycleConfigResponsePrivate.html" title="Private implementation for DeleteNotebookInstanceLifecycleConfigResponse. " alt="" coords="498,757,717,813"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SageMaker_1_1DeleteNotebookInstanceResponsePrivate.html" title="Private implementation for DeleteNotebookInstanceResponse. " alt="" coords="493,837,721,879"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SageMaker_1_1DeleteTagsResponsePrivate.html" title="Private implementation for DeleteTagsResponse. " alt="" coords="516,903,699,944"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SageMaker_1_1DescribeEndpointConfigResponsePrivate.html" title="Private implementation for DescribeEndpointConfigResponse. " alt="" coords="502,968,713,1009"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SageMaker_1_1DescribeEndpointResponsePrivate.html" title="Private implementation for DescribeEndpointResponse. " alt="" coords="509,1033,705,1075"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SageMaker_1_1DescribeModelResponsePrivate.html" title="Private implementation for DescribeModelResponse. " alt="" coords="509,1099,705,1140"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SageMaker_1_1DescribeNotebookInstanceLifecycleConfigResponsePrivate.html" title="Private implementation for DescribeNotebookInstanceLifecycleConfigResponse. " alt="" coords="498,1165,717,1221"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SageMaker_1_1DescribeNotebookInstanceResponsePrivate.html" title="Private implementation for DescribeNotebookInstanceResponse. " alt="" coords="493,1245,721,1287"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SageMaker_1_1DescribeTrainingJobResponsePrivate.html" title="Private implementation for DescribeTrainingJobResponse. " alt="" coords="509,1311,705,1352"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SageMaker_1_1ListEndpointConfigsResponsePrivate.html" title="Private implementation for ListEndpointConfigsResponse. " alt="" coords="499,1376,715,1417"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SageMaker_1_1ListEndpointsResponsePrivate.html" title="Private implementation for ListEndpointsResponse. " alt="" coords="496,1441,719,1483"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SageMaker_1_1ListModelsResponsePrivate.html" title="Private implementation for ListModelsResponse. " alt="" coords="504,1507,711,1548"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SageMaker_1_1ListNotebookInstanceLifecycleConfigsResponsePrivate.html" title="Private implementation for ListNotebookInstanceLifecycleConfigsResponse. " alt="" coords="493,1573,721,1629"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SageMaker_1_1ListNotebookInstancesResponsePrivate.html" title="Private implementation for ListNotebookInstancesResponse. " alt="" coords="497,1653,718,1695"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SageMaker_1_1ListTagsResponsePrivate.html" title="Private implementation for ListTagsResponse. " alt="" coords="510,1719,705,1760"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SageMaker_1_1ListTrainingJobsResponsePrivate.html" title="Private implementation for ListTrainingJobsResponse. " alt="" coords="502,1784,713,1825"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SageMaker_1_1StartNotebookInstanceResponsePrivate.html" title="Private implementation for StartNotebookInstanceResponse. " alt="" coords="493,1849,721,1891"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SageMaker_1_1StopNotebookInstanceResponsePrivate.html" title="Private implementation for StopNotebookInstanceResponse. " alt="" coords="494,1915,721,1956"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SageMaker_1_1StopTrainingJobResponsePrivate.html" title="Private implementation for StopTrainingJobResponse. " alt="" coords="499,1980,716,2021"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1SageMaker_1_1UpdateEndpointResponsePrivate.html" title="Private implementation for UpdateEndpointResponse. " alt="" coords="514,2045,701,2087"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1SageMaker_1_1UpdateEndpointWeightsAndCapacitiesResponsePrivate.html" title="Private implementation for UpdateEndpointWeightsAndCapacitiesResponse. " alt="" coords="504,2111,711,2167"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1SageMaker_1_1UpdateNotebookInstanceLifecycleConfigResponsePrivate.html" title="Private implementation for UpdateNotebookInstanceLifecycleConfigResponse. " alt="" coords="498,2191,717,2247"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1SageMaker_1_1UpdateNotebookInstanceResponsePrivate.html" title="Private implementation for UpdateNotebookInstanceResponse. " alt="" coords="493,2272,721,2313"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,1136,187,1177"/>
+</map>

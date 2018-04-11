@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFront::ListDistributionsRequest" name="QtAws::CloudFront::ListDistributionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFront_1_1CloudFrontRequest.html" title="Interface class for providing CloudFront requests. " alt="" coords="25,95,167,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

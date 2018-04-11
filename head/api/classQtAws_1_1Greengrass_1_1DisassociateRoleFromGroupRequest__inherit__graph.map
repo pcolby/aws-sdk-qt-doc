@@ -1,0 +1,4 @@
+<map id="QtAws::Greengrass::DisassociateRoleFromGroupRequest" name="QtAws::Greengrass::DisassociateRoleFromGroupRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassRequest.html" title="Interface class for providing Greengrass requests. " alt="" coords="52,95,197,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="34,5,215,47"/>
+</map>

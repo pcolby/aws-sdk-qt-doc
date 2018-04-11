@@ -1,0 +1,4 @@
+<map id="QtAws::ServiceCatalog::CreatePortfolioShareRequest" name="QtAws::ServiceCatalog::CreatePortfolioShareRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServiceCatalog_1_1ServiceCatalogRequest.html" title="Interface class for providing ServiceCatalog requests. " alt="" coords="21,95,189,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,196,47"/>
+</map>

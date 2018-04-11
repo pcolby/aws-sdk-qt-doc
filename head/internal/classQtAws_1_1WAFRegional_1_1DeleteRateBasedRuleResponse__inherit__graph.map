@@ -1,0 +1,4 @@
+<map id="QtAws::WAFRegional::DeleteRateBasedRuleResponse" name="QtAws::WAFRegional::DeleteRateBasedRuleResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAFRegional_1_1WAFRegionalResponse.html" title="Handles WAFRegional WAFRegional responses. " alt="" coords="29,169,200,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="24,80,205,121"/>
+</map>

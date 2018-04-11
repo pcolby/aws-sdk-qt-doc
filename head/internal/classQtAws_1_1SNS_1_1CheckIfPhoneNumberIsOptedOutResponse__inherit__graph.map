@@ -1,0 +1,4 @@
+<map id="QtAws::SNS::CheckIfPhoneNumberIsOptedOutResponse" name="QtAws::SNS::CheckIfPhoneNumberIsOptedOutResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSResponse.html" title="Handles SNS SNS responses. " alt="" coords="6,169,199,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="12,80,193,121"/>
+</map>

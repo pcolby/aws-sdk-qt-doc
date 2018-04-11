@@ -1,0 +1,13 @@
+<map id="QtAws::ApplicationAutoScaling::ApplicationAutoScalingRequestPrivate" name="QtAws::ApplicationAutoScaling::ApplicationAutoScalingRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScalingPolicyRequestPrivate.html" title="Private implementation for DeleteScalingPolicyRequest. " alt="" coords="547,5,784,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeleteScheduledActionRequestPrivate.html" title="Private implementation for DeleteScheduledActionRequest. " alt="" coords="537,71,793,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ApplicationAutoScaling_1_1DeregisterScalableTargetRequestPrivate.html" title="Private implementation for DeregisterScalableTargetRequest. " alt="" coords="552,137,779,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalableTargetsRequestPrivate.html" title="Private implementation for DescribeScalableTargetsRequest. " alt="" coords="553,217,778,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingActivitiesRequestPrivate.html" title="Private implementation for DescribeScalingActivitiesRequest. " alt="" coords="551,297,779,353"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScalingPoliciesRequestPrivate.html" title="Private implementation for DescribeScalingPoliciesRequest. " alt="" coords="555,377,775,433"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ApplicationAutoScaling_1_1DescribeScheduledActionsRequestPrivate.html" title="Private implementation for DescribeScheduledActionsRequest. " alt="" coords="547,457,783,513"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScalingPolicyRequestPrivate.html" title="Private implementation for PutScalingPolicyRequest. " alt="" coords="556,537,775,579"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ApplicationAutoScaling_1_1PutScheduledActionRequestPrivate.html" title="Private implementation for PutScheduledActionRequest. " alt="" coords="546,603,785,644"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ApplicationAutoScaling_1_1RegisterScalableTargetRequestPrivate.html" title="Private implementation for RegisterScalableTargetRequest. " alt="" coords="537,668,793,709"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,344,187,385"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::Inspector::CreateResourceGroupRequest" name="QtAws::Inspector::CreateResourceGroupRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Inspector_1_1InspectorRequest.html" title="Interface class for providing Inspector requests. " alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="152,5,333,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="216,109,397,151"/>
+</map>

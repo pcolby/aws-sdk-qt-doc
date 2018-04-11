@@ -1,0 +1,4 @@
+<map id="QtAws::OpsWorks::CloneStackRequest" name="QtAws::OpsWorks::CloneStackRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksRequest.html" title="Interface class for providing OpsWorks requests. " alt="" coords="8,95,211,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="19,5,200,47"/>
+</map>

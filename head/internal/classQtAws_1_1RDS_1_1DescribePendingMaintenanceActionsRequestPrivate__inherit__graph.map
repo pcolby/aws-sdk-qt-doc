@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::DescribePendingMaintenanceActionsRequestPrivate" name="QtAws::RDS::DescribePendingMaintenanceActionsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequestPrivate.html" title="Private implementation for RDSRequest. " alt="" coords="7,95,234,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="30,5,211,47"/>
+</map>

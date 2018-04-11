@@ -1,0 +1,5 @@
+<map id="QtAws::ConfigService::DescribeConfigurationRecordersRequest" name="QtAws::ConfigService::DescribeConfigurationRecordersRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ConfigService_1_1ConfigServiceRequest.html" title="Interface class for providing ConfigService requests. " alt="" coords="34,109,195,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="156,5,337,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="220,109,401,151"/>
+</map>

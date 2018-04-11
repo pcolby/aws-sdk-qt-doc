@@ -1,0 +1,4 @@
+<map id="QtAws::CloudFormation::DescribeStackSetRequestPrivate" name="QtAws::CloudFormation::DescribeStackSetRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationRequestPrivate.html" title="Private implementation for CloudFormationRequest. " alt="" coords="13,95,225,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="28,5,209,47"/>
+</map>

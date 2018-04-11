@@ -1,0 +1,5 @@
+<map id="QtAws::SES::SendCustomVerificationEmailRequestPrivate" name="QtAws::SES::SendCustomVerificationEmailRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESRequestPrivate.html" title="Private implementation for SESRequest. " alt="" coords="17,117,240,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="201,5,382,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="265,109,446,151"/>
+</map>

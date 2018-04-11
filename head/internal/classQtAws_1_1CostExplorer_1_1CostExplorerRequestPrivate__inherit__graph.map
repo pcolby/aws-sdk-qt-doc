@@ -1,0 +1,9 @@
+<map id="QtAws::CostExplorer::CostExplorerRequestPrivate" name="QtAws::CostExplorer::CostExplorerRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CostExplorer_1_1GetCostAndUsageRequestPrivate.html" title="Private implementation for GetCostAndUsageRequest. " alt="" coords="503,5,733,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CostExplorer_1_1GetDimensionValuesRequestPrivate.html" title="Private implementation for GetDimensionValuesRequest. " alt="" coords="517,71,719,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CostExplorer_1_1GetReservationCoverageRequestPrivate.html" title="Private implementation for GetReservationCoverageRequest. " alt="" coords="505,151,731,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CostExplorer_1_1GetReservationPurchaseRecommendationRequestPrivate.html" title="Private implementation for GetReservationPurchaseRecommendationRequest. " alt="" coords="479,231,757,287"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CostExplorer_1_1GetReservationUtilizationRequestPrivate.html" title="Private implementation for GetReservationUtilizationRequest. " alt="" coords="529,311,707,367"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CostExplorer_1_1GetTagsRequestPrivate.html" title="Private implementation for GetTagsRequest. " alt="" coords="533,392,703,433"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,199,187,240"/>
+</map>

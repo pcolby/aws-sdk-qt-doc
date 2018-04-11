@@ -1,0 +1,18 @@
+<map id="QtAws::OpsWorksCM::OpsWorksCMRequestPrivate" name="QtAws::OpsWorksCM::OpsWorksCMRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1OpsWorksCM_1_1AssociateNodeRequestPrivate.html" title="Private implementation for AssociateNodeRequest. " alt="" coords="490,5,691,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1OpsWorksCM_1_1CreateBackupRequestPrivate.html" title="Private implementation for CreateBackupRequest. " alt="" coords="493,71,688,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1OpsWorksCM_1_1CreateServerRequestPrivate.html" title="Private implementation for CreateServerRequest. " alt="" coords="496,136,685,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1OpsWorksCM_1_1DeleteBackupRequestPrivate.html" title="Private implementation for DeleteBackupRequest. " alt="" coords="493,201,688,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1OpsWorksCM_1_1DeleteServerRequestPrivate.html" title="Private implementation for DeleteServerRequest. " alt="" coords="497,267,685,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1OpsWorksCM_1_1DescribeAccountAttributesRequestPrivate.html" title="Private implementation for DescribeAccountAttributesRequest. " alt="" coords="477,333,704,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1OpsWorksCM_1_1DescribeBackupsRequestPrivate.html" title="Private implementation for DescribeBackupsRequest. " alt="" coords="483,413,698,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1OpsWorksCM_1_1DescribeEventsRequestPrivate.html" title="Private implementation for DescribeEventsRequest. " alt="" coords="488,479,693,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1OpsWorksCM_1_1DescribeNodeAssociationStatusRequestPrivate.html" title="Private implementation for DescribeNodeAssociationStatusRequest. " alt="" coords="485,545,696,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1OpsWorksCM_1_1DescribeServersRequestPrivate.html" title="Private implementation for DescribeServersRequest. " alt="" coords="486,625,695,667"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1OpsWorksCM_1_1DisassociateNodeRequestPrivate.html" title="Private implementation for DisassociateNodeRequest. " alt="" coords="481,691,700,732"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1OpsWorksCM_1_1RestoreServerRequestPrivate.html" title="Private implementation for RestoreServerRequest. " alt="" coords="493,756,689,797"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1OpsWorksCM_1_1StartMaintenanceRequestPrivate.html" title="Private implementation for StartMaintenanceRequest. " alt="" coords="483,821,698,863"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1OpsWorksCM_1_1UpdateServerEngineAttributesRequestPrivate.html" title="Private implementation for UpdateServerEngineAttributesRequest. " alt="" coords="491,887,690,943"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1OpsWorksCM_1_1UpdateServerRequestPrivate.html" title="Private implementation for UpdateServerRequest. " alt="" coords="495,968,687,1009"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,479,187,520"/>
+</map>

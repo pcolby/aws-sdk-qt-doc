@@ -1,0 +1,5 @@
+<map id="QtAws::Lambda::DeleteFunctionRequest" name="QtAws::Lambda::DeleteFunctionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lambda_1_1LambdaRequest.html" title="Interface class for providing Lambda requests. " alt="" coords="5,117,224,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="184,5,365,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="248,109,429,151"/>
+</map>

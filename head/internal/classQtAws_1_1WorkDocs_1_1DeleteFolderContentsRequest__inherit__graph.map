@@ -1,0 +1,4 @@
+<map id="QtAws::WorkDocs::DeleteFolderContentsRequest" name="QtAws::WorkDocs::DeleteFolderContentsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkDocs_1_1WorkDocsRequest.html" title="Interface class for providing WorkDocs requests. " alt="" coords="11,95,214,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="22,5,203,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::AlexaForBusiness::AssociateDeviceWithRoomRequestPrivate" name="QtAws::AlexaForBusiness::AssociateDeviceWithRoomRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1AlexaForBusiness_1_1AlexaForBusinessRequestPrivate.html" title="Private implementation for AlexaForBusinessRequest. " alt="" coords="12,109,239,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="199,5,380,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="263,109,444,151"/>
+</map>

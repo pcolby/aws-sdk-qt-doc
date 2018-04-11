@@ -1,0 +1,4 @@
+<map id="QtAws::ServiceCatalog::UpdateProvisionedProductRequest" name="QtAws::ServiceCatalog::UpdateProvisionedProductRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServiceCatalog_1_1ServiceCatalogRequest.html" title="Interface class for providing ServiceCatalog requests. " alt="" coords="39,95,207,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="32,5,213,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::AttachLoadBalancerTlsCertificateResponse" name="QtAws::Lightsail::AttachLoadBalancerTlsCertificateResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailResponse.html" title="Handles Lightsail Lightsail responses. " alt="" coords="37,169,212,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="34,80,215,121"/>
+</map>

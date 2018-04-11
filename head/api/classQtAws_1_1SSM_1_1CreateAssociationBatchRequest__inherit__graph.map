@@ -1,0 +1,4 @@
+<map id="QtAws::SSM::CreateAssociationBatchRequest" name="QtAws::SSM::CreateAssociationBatchRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SSM_1_1SSMRequest.html" title="Interface class for providing SSM requests. " alt="" coords="20,95,205,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="22,5,203,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::ServerlessApplicationRepository::ListApplicationsResponse" name="QtAws::ServerlessApplicationRepository::ListApplicationsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ServerlessApplicationRepositoryResponse.html" title="Handles ServerlessApplicationRepository ServerlessApplicationRepository responses. " alt="" coords="18,169,237,225"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="37,80,218,121"/>
+</map>

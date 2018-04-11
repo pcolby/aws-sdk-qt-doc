@@ -1,0 +1,5 @@
+<map id="QtAws::KinesisAnalytics::DescribeApplicationRequest" name="QtAws::KinesisAnalytics::DescribeApplicationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1KinesisAnalytics_1_1KinesisAnalyticsRequest.html" title="Interface class for providing KinesisAnalytics requests. " alt="" coords="15,109,191,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="151,5,332,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="215,109,396,151"/>
+</map>

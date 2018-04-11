@@ -1,0 +1,36 @@
+<map id="QtAws::Rekognition::RekognitionResponsePrivate" name="QtAws::Rekognition::RekognitionResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Rekognition_1_1CompareFacesResponsePrivate.html" title="Private implementation for CompareFacesResponse. " alt="" coords="493,5,712,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Rekognition_1_1CreateCollectionResponsePrivate.html" title="Private implementation for CreateCollectionResponse. " alt="" coords="509,71,696,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Rekognition_1_1CreateStreamProcessorResponsePrivate.html" title="Private implementation for CreateStreamProcessorResponse. " alt="" coords="488,151,717,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Rekognition_1_1DeleteCollectionResponsePrivate.html" title="Private implementation for DeleteCollectionResponse. " alt="" coords="510,231,695,287"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Rekognition_1_1DeleteFacesResponsePrivate.html" title="Private implementation for DeleteFacesResponse. " alt="" coords="501,312,705,353"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Rekognition_1_1DeleteStreamProcessorResponsePrivate.html" title="Private implementation for DeleteStreamProcessorResponse. " alt="" coords="489,378,717,434"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Rekognition_1_1DescribeStreamProcessorResponsePrivate.html" title="Private implementation for DescribeStreamProcessorResponse. " alt="" coords="481,458,724,514"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Rekognition_1_1DetectFacesResponsePrivate.html" title="Private implementation for DetectFacesResponse. " alt="" coords="500,539,705,580"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Rekognition_1_1DetectLabelsResponsePrivate.html" title="Private implementation for DetectLabelsResponse. " alt="" coords="499,604,706,645"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Rekognition_1_1DetectModerationLabelsResponsePrivate.html" title="Private implementation for DetectModerationLabelsResponse. " alt="" coords="487,670,718,726"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Rekognition_1_1DetectTextResponsePrivate.html" title="Private implementation for DetectTextResponse. " alt="" coords="505,751,700,792"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Rekognition_1_1GetCelebrityInfoResponsePrivate.html" title="Private implementation for GetCelebrityInfoResponse. " alt="" coords="511,817,695,873"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Rekognition_1_1GetCelebrityRecognitionResponsePrivate.html" title="Private implementation for GetCelebrityRecognitionResponse. " alt="" coords="487,897,718,953"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Rekognition_1_1GetContentModerationResponsePrivate.html" title="Private implementation for GetContentModerationResponse. " alt="" coords="493,977,713,1033"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Rekognition_1_1GetFaceDetectionResponsePrivate.html" title="Private implementation for GetFaceDetectionResponse. " alt="" coords="505,1057,700,1113"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Rekognition_1_1GetFaceSearchResponsePrivate.html" title="Private implementation for GetFaceSearchResponse. " alt="" coords="492,1137,713,1179"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Rekognition_1_1GetLabelDetectionResponsePrivate.html" title="Private implementation for GetLabelDetectionResponse. " alt="" coords="504,1203,701,1259"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Rekognition_1_1GetPersonTrackingResponsePrivate.html" title="Private implementation for GetPersonTrackingResponse. " alt="" coords="502,1283,703,1339"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Rekognition_1_1IndexFacesResponsePrivate.html" title="Private implementation for IndexFacesResponse. " alt="" coords="503,1364,702,1405"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Rekognition_1_1ListCollectionsResponsePrivate.html" title="Private implementation for ListCollectionsResponse. " alt="" coords="495,1429,711,1471"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Rekognition_1_1ListFacesResponsePrivate.html" title="Private implementation for ListFacesResponse. " alt="" coords="509,1495,696,1536"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Rekognition_1_1ListStreamProcessorsResponsePrivate.html" title="Private implementation for ListStreamProcessorsResponse. " alt="" coords="493,1561,712,1617"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Rekognition_1_1RecognizeCelebritiesResponsePrivate.html" title="Private implementation for RecognizeCelebritiesResponse. " alt="" coords="496,1641,709,1697"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Rekognition_1_1SearchFacesByImageResponsePrivate.html" title="Private implementation for SearchFacesByImageResponse. " alt="" coords="493,1721,712,1777"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Rekognition_1_1SearchFacesResponsePrivate.html" title="Private implementation for SearchFacesResponse. " alt="" coords="499,1801,706,1843"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Rekognition_1_1StartCelebrityRecognitionResponsePrivate.html" title="Private implementation for StartCelebrityRecognitionResponse. " alt="" coords="513,1867,692,1923"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Rekognition_1_1StartContentModerationResponsePrivate.html" title="Private implementation for StartContentModerationResponse. " alt="" coords="489,1947,716,2003"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Rekognition_1_1StartFaceDetectionResponsePrivate.html" title="Private implementation for StartFaceDetectionResponse. " alt="" coords="501,2027,704,2083"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Rekognition_1_1StartFaceSearchResponsePrivate.html" title="Private implementation for StartFaceSearchResponse. " alt="" coords="489,2108,717,2149"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Rekognition_1_1StartLabelDetectionResponsePrivate.html" title="Private implementation for StartLabelDetectionResponse. " alt="" coords="501,2174,705,2230"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1Rekognition_1_1StartPersonTrackingResponsePrivate.html" title="Private implementation for StartPersonTrackingResponse. " alt="" coords="499,2254,707,2310"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1Rekognition_1_1StartStreamProcessorResponsePrivate.html" title="Private implementation for StartStreamProcessorResponse. " alt="" coords="493,2334,712,2390"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1Rekognition_1_1StopStreamProcessorResponsePrivate.html" title="Private implementation for StopStreamProcessorResponse. " alt="" coords="494,2414,711,2470"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,1211,187,1252"/>
+</map>

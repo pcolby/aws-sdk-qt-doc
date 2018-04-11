@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::RestoreDBClusterToPointInTimeResponse" name="QtAws::RDS::RestoreDBClusterToPointInTimeResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSResponse.html" title="Handles RDS RDS responses. " alt="" coords="15,169,210,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

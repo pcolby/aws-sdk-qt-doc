@@ -1,0 +1,34 @@
+<map id="QtAws::SWF::SWFRequestPrivate" name="QtAws::SWF::SWFRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SWF_1_1CountClosedWorkflowExecutionsRequestPrivate.html" title="Private implementation for CountClosedWorkflowExecutionsRequest. " alt="" coords="513,5,751,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SWF_1_1CountOpenWorkflowExecutionsRequestPrivate.html" title="Private implementation for CountOpenWorkflowExecutionsRequest. " alt="" coords="517,71,747,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SWF_1_1CountPendingActivityTasksRequestPrivate.html" title="Private implementation for CountPendingActivityTasksRequest. " alt="" coords="536,136,728,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SWF_1_1CountPendingDecisionTasksRequestPrivate.html" title="Private implementation for CountPendingDecisionTasksRequest. " alt="" coords="533,201,731,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SWF_1_1DeprecateActivityTypeRequestPrivate.html" title="Private implementation for DeprecateActivityTypeRequest. " alt="" coords="526,267,738,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SWF_1_1DeprecateDomainRequestPrivate.html" title="Private implementation for DeprecateDomainRequest. " alt="" coords="525,332,739,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SWF_1_1DeprecateWorkflowTypeRequestPrivate.html" title="Private implementation for DeprecateWorkflowTypeRequest. " alt="" coords="521,397,743,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SWF_1_1DescribeActivityTypeRequestPrivate.html" title="Private implementation for DescribeActivityTypeRequest. " alt="" coords="530,463,734,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SWF_1_1DescribeDomainRequestPrivate.html" title="Private implementation for DescribeDomainRequest. " alt="" coords="529,528,735,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SWF_1_1DescribeWorkflowExecutionRequestPrivate.html" title="Private implementation for DescribeWorkflowExecutionRequest. " alt="" coords="525,593,739,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SWF_1_1DescribeWorkflowTypeRequestPrivate.html" title="Private implementation for DescribeWorkflowTypeRequest. " alt="" coords="525,659,739,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SWF_1_1GetWorkflowExecutionHistoryRequestPrivate.html" title="Private implementation for GetWorkflowExecutionHistoryRequest. " alt="" coords="511,724,753,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SWF_1_1ListActivityTypesRequestPrivate.html" title="Private implementation for ListActivityTypesRequest. " alt="" coords="545,789,719,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SWF_1_1ListClosedWorkflowExecutionsRequestPrivate.html" title="Private implementation for ListClosedWorkflowExecutionsRequest. " alt="" coords="519,855,745,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SWF_1_1ListDomainsRequestPrivate.html" title="Private implementation for ListDomainsRequest. " alt="" coords="517,920,747,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SWF_1_1ListOpenWorkflowExecutionsRequestPrivate.html" title="Private implementation for ListOpenWorkflowExecutionsRequest. " alt="" coords="525,985,739,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SWF_1_1ListWorkflowTypesRequestPrivate.html" title="Private implementation for ListWorkflowTypesRequest. " alt="" coords="540,1051,724,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SWF_1_1PollForActivityTaskRequestPrivate.html" title="Private implementation for PollForActivityTaskRequest. " alt="" coords="535,1116,729,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SWF_1_1PollForDecisionTaskRequestPrivate.html" title="Private implementation for PollForDecisionTaskRequest. " alt="" coords="532,1181,732,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SWF_1_1RecordActivityTaskHeartbeatRequestPrivate.html" title="Private implementation for RecordActivityTaskHeartbeatRequest. " alt="" coords="533,1247,731,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1SWF_1_1RegisterActivityTypeRequestPrivate.html" title="Private implementation for RegisterActivityTypeRequest. " alt="" coords="531,1312,733,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1SWF_1_1RegisterDomainRequestPrivate.html" title="Private implementation for RegisterDomainRequest. " alt="" coords="531,1377,733,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1SWF_1_1RegisterWorkflowTypeRequestPrivate.html" title="Private implementation for RegisterWorkflowTypeRequest. " alt="" coords="526,1443,738,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1SWF_1_1RequestCancelWorkflowExecutionRequestPrivate.html" title="Private implementation for RequestCancelWorkflowExecutionRequest. " alt="" coords="519,1508,745,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1SWF_1_1RespondActivityTaskCanceledRequestPrivate.html" title="Private implementation for RespondActivityTaskCanceledRequest. " alt="" coords="530,1573,734,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1SWF_1_1RespondActivityTaskCompletedRequestPrivate.html" title="Private implementation for RespondActivityTaskCompletedRequest. " alt="" coords="530,1639,734,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1SWF_1_1RespondActivityTaskFailedRequestPrivate.html" title="Private implementation for RespondActivityTaskFailedRequest. " alt="" coords="530,1704,734,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1SWF_1_1RespondDecisionTaskCompletedRequestPrivate.html" title="Private implementation for RespondDecisionTaskCompletedRequest. " alt="" coords="527,1769,737,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1SWF_1_1SignalWorkflowExecutionRequestPrivate.html" title="Private implementation for SignalWorkflowExecutionRequest. " alt="" coords="533,1835,731,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1SWF_1_1StartWorkflowExecutionRequestPrivate.html" title="Private implementation for StartWorkflowExecutionRequest. " alt="" coords="537,1900,727,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1SWF_1_1TerminateWorkflowExecutionRequestPrivate.html" title="Private implementation for TerminateWorkflowExecutionRequest. " alt="" coords="521,1965,743,2007"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,985,187,1027"/>
+</map>

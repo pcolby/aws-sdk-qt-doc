@@ -1,0 +1,4 @@
+<map id="QtAws::ElastiCache::DescribeCacheClustersRequest" name="QtAws::ElastiCache::DescribeCacheClustersRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElastiCache_1_1ElastiCacheRequest.html" title="Interface class for providing ElastiCache requests. " alt="" coords="39,95,190,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="24,5,205,47"/>
+</map>

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['message',['message',['../classSqsErrorPrivate.html#a34aed834629101bfc33d0b0ed5464082',1,'SqsErrorPrivate']]],
-  ['mutex',['mutex',['../classAwsEndpointPrivate.html#a0d033c2430576d80008adcb459ab043d',1,'AwsEndpointPrivate']]]
+  ['message',['message',['../classQtAws_1_1SqsOld_1_1SqsErrorPrivate.html#a7143726bca622222751f4efaae33f0cc',1,'QtAws::SqsOld::SqsErrorPrivate']]],
+  ['mutex',['mutex',['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#aaf7bd673ccacaf8f52c5dbe7d0aae015',1,'QtAws::Core::AwsEndpointPrivate']]]
 ];

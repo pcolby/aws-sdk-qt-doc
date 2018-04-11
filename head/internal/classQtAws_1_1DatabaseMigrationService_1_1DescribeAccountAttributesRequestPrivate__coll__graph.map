@@ -1,0 +1,5 @@
+<map id="QtAws::DatabaseMigrationService::DescribeAccountAttributesRequestPrivate" name="QtAws::DatabaseMigrationService::DescribeAccountAttributesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DatabaseMigrationService_1_1DatabaseMigrationServiceRequestPrivate.html" title="Private implementation for DatabaseMigrationServiceRequest. " alt="" coords="7,109,234,165"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="194,5,375,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="258,117,439,158"/>
+</map>

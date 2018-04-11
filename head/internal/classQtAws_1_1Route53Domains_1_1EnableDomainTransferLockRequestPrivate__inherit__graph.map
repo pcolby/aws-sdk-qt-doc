@@ -1,0 +1,4 @@
+<map id="QtAws::Route53Domains::EnableDomainTransferLockRequestPrivate" name="QtAws::Route53Domains::EnableDomainTransferLockRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsRequestPrivate.html" title="Private implementation for Route53DomainsRequest. " alt="" coords="15,95,236,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="35,5,216,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Shield::ListProtectionsRequest" name="QtAws::Shield::ListProtectionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Shield_1_1ShieldRequest.html" title="Interface class for providing Shield requests. " alt="" coords="7,95,205,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,197,47"/>
+</map>

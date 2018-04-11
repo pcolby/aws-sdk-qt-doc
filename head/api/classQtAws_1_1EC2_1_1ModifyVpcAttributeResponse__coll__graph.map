@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::ModifyVpcAttributeResponse" name="QtAws::EC2::ModifyVpcAttributeResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Response.html" title="Handles EC2 EC2 responses. " alt="" coords="18,169,207,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQtAws_1_1SqsOld_1_1SqsRequestPrivate.html" title="Private implementation for SqsRequest. " alt="" coords="240,544,433,585"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1SqsOld_1_1SqsAddPermissionRequestPrivate.html" title="Private implementation for SqsAddPermissionRequest. " alt="" coords="481,5,713,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SqsOld_1_1SqsChangeMessageVisibilityBatchRequestPrivate.html" title="Private implementation for SqsChangeMessageVisibilityBatchRequest. " alt="" coords="494,71,701,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SqsOld_1_1SqsChangeMessageVisibilityRequestPrivate.html" title="Private implementation for SqsChangeMessageVisibilityRequest. " alt="" coords="490,152,705,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SqsOld_1_1SqsCreateQueueRequestPrivate.html" title="Private implementation for SqsCreateQueueRequest. " alt="" coords="506,217,689,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SqsOld_1_1SqsDeleteMessageBatchRequestPrivate.html" title="Private implementation for SqsDeleteMessageBatchRequest. " alt="" coords="498,283,697,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SqsOld_1_1SqsDeleteMessageRequestPrivate.html" title="Private implementation for SqsDeleteMessageRequest. " alt="" coords="506,348,689,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SqsOld_1_1SqsDeleteQueueRequestPrivate.html" title="Private implementation for SqsDeleteQueueRequest. " alt="" coords="506,413,689,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SqsOld_1_1SqsGetQueueAttributesRequestPrivate.html" title="Private implementation for SqsGetQueueAttributesRequest. " alt="" coords="496,479,699,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SqsOld_1_1SqsGetQueueUrlRequestPrivate.html" title="Private implementation for SqsGetQueueUrlRequest. " alt="" coords="496,544,699,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SqsOld_1_1SqsListDeadLetterSourceQueuesRequestPrivate.html" title="Private implementation for SqsListDeadLetterSourceQueuesRequest. " alt="" coords="482,609,713,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SqsOld_1_1SqsListQueuesRequestPrivate.html" title="Private implementation for SqsListQueuesRequest. " alt="" coords="492,675,703,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SqsOld_1_1SqsPurgeQueueRequestPrivate.html" title="Private implementation for SqsPurgeQueueRequest. " alt="" coords="489,740,705,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SqsOld_1_1SqsReceiveMessageRequestPrivate.html" title="Private implementation for SqsReceiveMessageRequest. " alt="" coords="501,805,693,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SqsOld_1_1SqsRemovePermissionRequestPrivate.html" title="Private implementation for SqsRemovePermissionRequest. " alt="" coords="501,871,694,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SqsOld_1_1SqsSendMessageBatchRequestPrivate.html" title="Private implementation for SqsSendMessageBatchRequest. " alt="" coords="484,936,711,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SqsOld_1_1SqsSendMessageRequestPrivate.html" title="Private implementation for SqsSendMessageRequest. " alt="" coords="484,1001,711,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SqsOld_1_1SqsSetQueueAttributesRequestPrivate.html" title="Private implementation for SqsSetQueueAttributesRequest. " alt="" coords="496,1067,699,1108"/>
+</map>

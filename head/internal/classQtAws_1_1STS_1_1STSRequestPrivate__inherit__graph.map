@@ -1,0 +1,10 @@
+<map id="QtAws::STS::STSRequestPrivate" name="QtAws::STS::STSRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1STS_1_1AssumeRoleRequestPrivate.html" title="Private implementation for AssumeRoleRequest. " alt="" coords="503,5,731,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1STS_1_1AssumeRoleWithSAMLRequestPrivate.html" title="Private implementation for AssumeRoleWithSAMLRequest. " alt="" coords="513,71,720,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1STS_1_1AssumeRoleWithWebIdentityRequestPrivate.html" title="Private implementation for AssumeRoleWithWebIdentityRequest. " alt="" coords="513,136,720,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1STS_1_1DecodeAuthorizationMessageRequestPrivate.html" title="Private implementation for DecodeAuthorizationMessageRequest. " alt="" coords="504,201,729,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1STS_1_1GetCallerIdentityRequestPrivate.html" title="Private implementation for GetCallerIdentityRequest. " alt="" coords="515,267,718,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1STS_1_1GetFederationTokenRequestPrivate.html" title="Private implementation for GetFederationTokenRequest. " alt="" coords="523,332,710,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1STS_1_1GetSessionTokenRequestPrivate.html" title="Private implementation for GetSessionTokenRequest. " alt="" coords="513,397,721,439"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,201,187,243"/>
+</map>

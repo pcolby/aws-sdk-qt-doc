@@ -1,0 +1,27 @@
+<map id="QtAws::CloudSearch::CloudSearchResponse" name="QtAws::CloudSearch::CloudSearchResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudSearch_1_1BuildSuggestersResponse.html" title="Handles CloudSearch BuildSuggesters responses. " alt="" coords="597,5,781,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudSearch_1_1CreateDomainResponse.html" title="Handles CloudSearch CreateDomain responses. " alt="" coords="602,71,775,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudSearch_1_1DefineAnalysisSchemeResponse.html" title="Handles CloudSearch DefineAnalysisScheme responses. " alt="" coords="576,136,801,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudSearch_1_1DefineExpressionResponse.html" title="Handles CloudSearch DefineExpression responses. " alt="" coords="593,201,785,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudSearch_1_1DefineIndexFieldResponse.html" title="Handles CloudSearch DefineIndexField responses. " alt="" coords="595,267,782,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudSearch_1_1DefineSuggesterResponse.html" title="Handles CloudSearch DefineSuggester responses. " alt="" coords="595,332,782,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudSearch_1_1DeleteAnalysisSchemeResponse.html" title="Handles CloudSearch DeleteAnalysisScheme responses. " alt="" coords="576,397,801,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudSearch_1_1DeleteDomainResponse.html" title="Handles CloudSearch DeleteDomain responses. " alt="" coords="603,463,775,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudSearch_1_1DeleteExpressionResponse.html" title="Handles CloudSearch DeleteExpression responses. " alt="" coords="593,528,785,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudSearch_1_1DeleteIndexFieldResponse.html" title="Handles CloudSearch DeleteIndexField responses. " alt="" coords="595,593,782,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudSearch_1_1DeleteSuggesterResponse.html" title="Handles CloudSearch DeleteSuggester responses. " alt="" coords="595,659,782,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudSearch_1_1DescribeAnalysisSchemesResponse.html" title="Handles CloudSearch DescribeAnalysisSchemes responses. " alt="" coords="565,724,812,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudSearch_1_1DescribeAvailabilityOptionsResponse.html" title="Handles CloudSearch DescribeAvailabilityOptions responses. " alt="" coords="593,790,784,846"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudSearch_1_1DescribeDomainsResponse.html" title="Handles CloudSearch DescribeDomains responses. " alt="" coords="592,871,785,912"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudSearch_1_1DescribeExpressionsResponse.html" title="Handles CloudSearch DescribeExpressions responses. " alt="" coords="582,936,795,977"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudSearch_1_1DescribeIndexFieldsResponse.html" title="Handles CloudSearch DescribeIndexFields responses. " alt="" coords="585,1001,793,1043"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudSearch_1_1DescribeScalingParametersResponse.html" title="Handles CloudSearch DescribeScalingParameters responses. " alt="" coords="593,1067,785,1123"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudSearch_1_1DescribeServiceAccessPoliciesResponse.html" title="Handles CloudSearch DescribeServiceAccessPolicies responses. " alt="" coords="581,1147,797,1203"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudSearch_1_1DescribeSuggestersResponse.html" title="Handles CloudSearch DescribeSuggesters responses. " alt="" coords="585,1228,792,1269"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudSearch_1_1IndexDocumentsResponse.html" title="Handles CloudSearch IndexDocuments responses. " alt="" coords="595,1293,783,1335"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudSearch_1_1ListDomainNamesResponse.html" title="Handles CloudSearch ListDomainNames responses. " alt="" coords="590,1359,787,1400"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudSearch_1_1UpdateAvailabilityOptionsResponse.html" title="Handles CloudSearch UpdateAvailabilityOptions responses. " alt="" coords="599,1425,779,1481"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudSearch_1_1UpdateScalingParametersResponse.html" title="Handles CloudSearch UpdateScalingParameters responses. " alt="" coords="568,1505,809,1547"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudSearch_1_1UpdateServiceAccessPoliciesResponse.html" title="Handles CloudSearch UpdateServiceAccessPolicies responses. " alt="" coords="585,1571,792,1627"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,761,305,803"/>
+</map>

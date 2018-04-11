@@ -1,0 +1,4 @@
+<map id="QtAws::SWF::ListClosedWorkflowExecutionsRequest" name="QtAws::SWF::ListClosedWorkflowExecutionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SWF_1_1SWFRequest.html" title="Interface class for providing SWF requests. " alt="" coords="25,95,211,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="27,5,209,47"/>
+</map>

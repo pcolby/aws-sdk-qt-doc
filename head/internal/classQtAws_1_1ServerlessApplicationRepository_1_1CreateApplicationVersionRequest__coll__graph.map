@@ -1,0 +1,5 @@
+<map id="QtAws::ServerlessApplicationRepository::CreateApplicationVersionRequest" name="QtAws::ServerlessApplicationRepository::CreateApplicationVersionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ServerlessApplicationRepositoryRequest.html" title="Interface class for providing ServerlessApplicationRepository requests. " alt="" coords="16,109,235,165"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="195,5,376,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="259,117,440,158"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QtAws::ServerlessApplicationRepository::DeleteApplicationResponsePrivate" name="QtAws::ServerlessApplicationRepository::DeleteApplicationResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ServerlessApplicationRepositoryResponsePrivate.html" title="Private implementation for ServerlessApplicationRepositoryResponse. " alt="" coords="545,115,764,171"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="283,78,464,119"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="564,33,745,74"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,123,187,165"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="283,155,464,197"/>
+</map>

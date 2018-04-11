@@ -1,0 +1,5 @@
+<map id="QtAws::CloudTrail::RemoveTagsRequest" name="QtAws::CloudTrail::RemoveTagsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudTrail_1_1CloudTrailRequest.html" title="Interface class for providing CloudTrail requests. " alt="" coords="11,109,149,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="109,5,291,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="173,109,355,151"/>
+</map>

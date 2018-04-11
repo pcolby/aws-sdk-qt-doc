@@ -1,0 +1,4 @@
+<map id="QtAws::WorkSpaces::DescribeWorkspacesConnectionStatusRequest" name="QtAws::WorkSpaces::DescribeWorkspacesConnectionStatusRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkSpaces_1_1WorkSpacesRequest.html" title="Interface class for providing WorkSpaces requests. " alt="" coords="35,95,189,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="21,5,203,47"/>
+</map>

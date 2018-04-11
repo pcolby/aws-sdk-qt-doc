@@ -1,0 +1,4 @@
+<map id="QtAws::ApplicationDiscoveryService::StartExportTaskRequest" name="QtAws::ApplicationDiscoveryService::StartExportTaskRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ApplicationDiscoveryService_1_1ApplicationDiscoveryServiceRequest.html" title="Interface class for providing ApplicationDiscoveryService requests. " alt="" coords="5,95,247,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="35,5,217,47"/>
+</map>

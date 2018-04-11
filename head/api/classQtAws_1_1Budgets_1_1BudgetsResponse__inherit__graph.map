@@ -1,0 +1,16 @@
+<map id="QtAws::Budgets::BudgetsResponse" name="QtAws::Budgets::BudgetsResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Budgets_1_1CreateBudgetResponse.html" title="Handles Budgets CreateBudget responses. " alt="" coords="649,5,855,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Budgets_1_1CreateNotificationResponse.html" title="Handles Budgets CreateNotification responses. " alt="" coords="637,71,867,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Budgets_1_1CreateSubscriberResponse.html" title="Handles Budgets CreateSubscriber responses. " alt="" coords="639,136,865,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Budgets_1_1DeleteBudgetResponse.html" title="Handles Budgets DeleteBudget responses. " alt="" coords="649,201,855,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Budgets_1_1DeleteNotificationResponse.html" title="Handles Budgets DeleteNotification responses. " alt="" coords="637,267,867,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Budgets_1_1DeleteSubscriberResponse.html" title="Handles Budgets DeleteSubscriber responses. " alt="" coords="639,332,865,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Budgets_1_1DescribeBudgetResponse.html" title="Handles Budgets DescribeBudget responses. " alt="" coords="663,397,841,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Budgets_1_1DescribeBudgetsResponse.html" title="Handles Budgets DescribeBudgets responses. " alt="" coords="663,463,841,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Budgets_1_1DescribeNotificationsForBudgetResponse.html" title="Handles Budgets DescribeNotificationsForBudget responses. " alt="" coords="645,528,859,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Budgets_1_1DescribeSubscribersForNotificationResponse.html" title="Handles Budgets DescribeSubscribersForNotification responses. " alt="" coords="635,593,869,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Budgets_1_1UpdateBudgetResponse.html" title="Handles Budgets UpdateBudget responses. " alt="" coords="647,659,857,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Budgets_1_1UpdateNotificationResponse.html" title="Handles Budgets UpdateNotification responses. " alt="" coords="635,724,869,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Budgets_1_1UpdateSubscriberResponse.html" title="Handles Budgets UpdateSubscriber responses. " alt="" coords="637,789,867,831"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,397,305,439"/>
+</map>

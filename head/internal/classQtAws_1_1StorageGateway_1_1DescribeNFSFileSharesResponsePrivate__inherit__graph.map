@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::DescribeNFSFileSharesResponsePrivate" name="QtAws::StorageGateway::DescribeNFSFileSharesResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponsePrivate.html" title="Private implementation for StorageGatewayResponse. " alt="" coords="7,95,234,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="30,5,211,47"/>
+</map>

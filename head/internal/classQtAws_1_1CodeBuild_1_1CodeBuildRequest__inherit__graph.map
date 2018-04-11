@@ -1,0 +1,19 @@
+<map id="QtAws::CodeBuild::CodeBuildRequest" name="QtAws::CodeBuild::CodeBuildRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CodeBuild_1_1BatchDeleteBuildsRequest.html" title="Implements CodeBuild BatchDeleteBuilds requests. " alt="" coords="481,5,692,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CodeBuild_1_1BatchGetBuildsRequest.html" title="Implements CodeBuild BatchGetBuilds requests. " alt="" coords="490,71,683,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CodeBuild_1_1BatchGetProjectsRequest.html" title="Implements CodeBuild BatchGetProjects requests. " alt="" coords="490,136,683,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CodeBuild_1_1CreateProjectRequest.html" title="Implements CodeBuild CreateProject requests. " alt="" coords="498,201,675,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CodeBuild_1_1CreateWebhookRequest.html" title="Implements CodeBuild CreateWebhook requests. " alt="" coords="498,267,675,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CodeBuild_1_1DeleteProjectRequest.html" title="Implements CodeBuild DeleteProject requests. " alt="" coords="499,332,675,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CodeBuild_1_1DeleteWebhookRequest.html" title="Implements CodeBuild DeleteWebhook requests. " alt="" coords="499,397,675,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CodeBuild_1_1InvalidateProjectCacheRequest.html" title="Implements CodeBuild InvalidateProjectCache requests. " alt="" coords="489,463,684,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CodeBuild_1_1ListBuildsForProjectRequest.html" title="Implements CodeBuild ListBuildsForProject requests. " alt="" coords="489,528,684,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CodeBuild_1_1ListBuildsRequest.html" title="Implements CodeBuild ListBuilds requests. " alt="" coords="489,593,684,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CodeBuild_1_1ListCuratedEnvironmentImagesRequest.html" title="Implements CodeBuild ListCuratedEnvironmentImages requests. " alt="" coords="484,659,689,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CodeBuild_1_1ListProjectsRequest.html" title="Implements CodeBuild ListProjects requests. " alt="" coords="483,724,690,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CodeBuild_1_1StartBuildRequest.html" title="Implements CodeBuild StartBuild requests. " alt="" coords="489,789,684,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CodeBuild_1_1StopBuildRequest.html" title="Implements CodeBuild StopBuild requests. " alt="" coords="489,855,684,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CodeBuild_1_1UpdateProjectRequest.html" title="Implements CodeBuild UpdateProject requests. " alt="" coords="497,920,677,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CodeBuild_1_1UpdateWebhookRequest.html" title="Implements CodeBuild UpdateWebhook requests. " alt="" coords="497,985,677,1027"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,496,187,537"/>
+</map>

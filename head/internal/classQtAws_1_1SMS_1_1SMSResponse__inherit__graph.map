@@ -1,0 +1,14 @@
+<map id="QtAws::SMS::SMSResponse" name="QtAws::SMS::SMSResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1SMS_1_1CreateReplicationJobResponse.html" title="Handles SMS CreateReplicationJob responses. " alt="" coords="607,5,817,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SMS_1_1DeleteReplicationJobResponse.html" title="Handles SMS DeleteReplicationJob responses. " alt="" coords="607,71,817,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SMS_1_1DeleteServerCatalogResponse.html" title="Handles SMS DeleteServerCatalog responses. " alt="" coords="621,136,803,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SMS_1_1DisassociateConnectorResponse.html" title="Handles SMS DisassociateConnector responses. " alt="" coords="621,201,803,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SMS_1_1GetConnectorsResponse.html" title="Handles SMS GetConnectors responses. " alt="" coords="615,267,809,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SMS_1_1GetReplicationJobsResponse.html" title="Handles SMS GetReplicationJobs responses. " alt="" coords="615,332,809,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SMS_1_1GetReplicationRunsResponse.html" title="Handles SMS GetReplicationRuns responses. " alt="" coords="615,397,809,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SMS_1_1GetServersResponse.html" title="Handles SMS GetServers responses. " alt="" coords="596,463,828,490"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SMS_1_1ImportServerCatalogResponse.html" title="Handles SMS ImportServerCatalog responses. " alt="" coords="621,515,803,556"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SMS_1_1StartOnDemandReplicationRunResponse.html" title="Handles SMS StartOnDemandReplicationRun responses. " alt="" coords="611,580,813,621"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SMS_1_1UpdateReplicationJobResponse.html" title="Handles SMS UpdateReplicationJob responses. " alt="" coords="605,645,819,687"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,332,305,373"/>
+</map>

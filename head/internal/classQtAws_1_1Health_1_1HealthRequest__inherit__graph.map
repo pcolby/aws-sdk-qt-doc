@@ -1,0 +1,9 @@
+<map id="QtAws::Health::HealthRequest" name="QtAws::Health::HealthRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Health_1_1DescribeAffectedEntitiesRequest.html" title="Implements Health DescribeAffectedEntities requests. " alt="" coords="485,5,703,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Health_1_1DescribeEntityAggregatesRequest.html" title="Implements Health DescribeEntityAggregates requests. " alt="" coords="493,71,695,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Health_1_1DescribeEventAggregatesRequest.html" title="Implements Health DescribeEventAggregates requests. " alt="" coords="493,136,695,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Health_1_1DescribeEventDetailsRequest.html" title="Implements Health DescribeEventDetails requests. " alt="" coords="493,201,695,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Health_1_1DescribeEventsRequest.html" title="Implements Health DescribeEvents requests. " alt="" coords="489,267,699,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Health_1_1DescribeEventTypesRequest.html" title="Implements Health DescribeEventTypes requests. " alt="" coords="493,332,695,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,169,187,211"/>
+</map>

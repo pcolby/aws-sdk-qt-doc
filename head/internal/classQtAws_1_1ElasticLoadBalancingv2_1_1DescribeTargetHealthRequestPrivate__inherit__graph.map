@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticLoadBalancingv2::DescribeTargetHealthRequestPrivate" name="QtAws::ElasticLoadBalancingv2::DescribeTargetHealthRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticLoadBalancingv2_1_1ElasticLoadBalancingv2RequestPrivate.html" title="Private implementation for ElasticLoadBalancingv2Request. " alt="" coords="5,95,264,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="44,5,225,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::Greengrass::GetGroupCertificateAuthorityRequestPrivate" name="QtAws::Greengrass::GetGroupCertificateAuthorityRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassRequestPrivate.html" title="Private implementation for GreengrassRequest. " alt="" coords="11,109,190,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="150,5,331,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="214,109,395,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::IoT::ListPrincipalPoliciesResponse" name="QtAws::IoT::ListPrincipalPoliciesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoT_1_1IoTResponse.html" title="Handles IoT IoT responses. " alt="" coords="9,169,183,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="5,80,187,121"/>
+</map>

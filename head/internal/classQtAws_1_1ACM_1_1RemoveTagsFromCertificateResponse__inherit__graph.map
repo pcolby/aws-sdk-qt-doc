@@ -1,0 +1,4 @@
+<map id="QtAws::ACM::RemoveTagsFromCertificateResponse" name="QtAws::ACM::RemoveTagsFromCertificateResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ACM_1_1ACMResponse.html" title="Handles ACM ACM responses. " alt="" coords="15,169,212,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="23,80,204,121"/>
+</map>

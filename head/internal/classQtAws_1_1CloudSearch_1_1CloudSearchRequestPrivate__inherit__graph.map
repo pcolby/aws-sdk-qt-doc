@@ -1,0 +1,26 @@
+<map id="QtAws::CloudSearch::CloudSearchRequestPrivate" name="QtAws::CloudSearch::CloudSearchRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudSearch_1_1BuildSuggestersRequestPrivate.html" title="Private implementation for BuildSuggestersRequest. " alt="" coords="488,5,703,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudSearch_1_1CreateDomainRequestPrivate.html" title="Private implementation for CreateDomainRequest. " alt="" coords="493,71,697,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudSearch_1_1DefineAnalysisSchemeRequestPrivate.html" title="Private implementation for DefineAnalysisSchemeRequest. " alt="" coords="488,137,703,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudSearch_1_1DefineExpressionRequestPrivate.html" title="Private implementation for DefineExpressionRequest. " alt="" coords="484,217,707,259"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudSearch_1_1DefineIndexFieldRequestPrivate.html" title="Private implementation for DefineIndexFieldRequest. " alt="" coords="486,283,705,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudSearch_1_1DefineSuggesterRequestPrivate.html" title="Private implementation for DefineSuggesterRequest. " alt="" coords="487,348,704,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudSearch_1_1DeleteAnalysisSchemeRequestPrivate.html" title="Private implementation for DeleteAnalysisSchemeRequest. " alt="" coords="488,414,703,470"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudSearch_1_1DeleteDomainRequestPrivate.html" title="Private implementation for DeleteDomainRequest. " alt="" coords="494,495,697,536"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudSearch_1_1DeleteExpressionRequestPrivate.html" title="Private implementation for DeleteExpressionRequest. " alt="" coords="484,560,707,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudSearch_1_1DeleteIndexFieldRequestPrivate.html" title="Private implementation for DeleteIndexFieldRequest. " alt="" coords="486,625,705,667"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudSearch_1_1DeleteSuggesterRequestPrivate.html" title="Private implementation for DeleteSuggesterRequest. " alt="" coords="487,691,704,732"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudSearch_1_1DescribeAnalysisSchemesRequestPrivate.html" title="Private implementation for DescribeAnalysisSchemesRequest. " alt="" coords="477,757,713,813"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudSearch_1_1DescribeAvailabilityOptionsRequestPrivate.html" title="Private implementation for DescribeAvailabilityOptionsRequest. " alt="" coords="500,837,691,893"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudSearch_1_1DescribeDomainsRequestPrivate.html" title="Private implementation for DescribeDomainsRequest. " alt="" coords="483,917,707,959"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudSearch_1_1DescribeExpressionsRequestPrivate.html" title="Private implementation for DescribeExpressionsRequest. " alt="" coords="494,983,697,1039"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudSearch_1_1DescribeIndexFieldsRequestPrivate.html" title="Private implementation for DescribeIndexFieldsRequest. " alt="" coords="496,1063,695,1119"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudSearch_1_1DescribeScalingParametersRequestPrivate.html" title="Private implementation for DescribeScalingParametersRequest. " alt="" coords="499,1143,691,1199"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudSearch_1_1DescribeServiceAccessPoliciesRequestPrivate.html" title="Private implementation for DescribeServiceAccessPoliciesRequest. " alt="" coords="487,1223,703,1279"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudSearch_1_1DescribeSuggestersRequestPrivate.html" title="Private implementation for DescribeSuggestersRequest. " alt="" coords="497,1303,694,1359"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudSearch_1_1IndexDocumentsRequestPrivate.html" title="Private implementation for IndexDocumentsRequest. " alt="" coords="486,1384,705,1425"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudSearch_1_1UpdateAvailabilityOptionsRequestPrivate.html" title="Private implementation for UpdateAvailabilityOptionsRequest. " alt="" coords="505,1450,685,1506"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudSearch_1_1UpdateScalingParametersRequestPrivate.html" title="Private implementation for UpdateScalingParametersRequest. " alt="" coords="480,1530,711,1586"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudSearch_1_1UpdateServiceAccessPoliciesRequestPrivate.html" title="Private implementation for UpdateServiceAccessPoliciesRequest. " alt="" coords="492,1610,699,1666"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,764,187,805"/>
+</map>

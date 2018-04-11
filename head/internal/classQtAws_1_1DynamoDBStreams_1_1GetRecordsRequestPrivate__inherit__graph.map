@@ -1,0 +1,4 @@
+<map id="QtAws::DynamoDBStreams::GetRecordsRequestPrivate" name="QtAws::DynamoDBStreams::GetRecordsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DynamoDBStreams_1_1DynamoDBStreamsRequestPrivate.html" title="Private implementation for DynamoDBStreamsRequest. " alt="" coords="5,95,243,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="33,5,215,47"/>
+</map>

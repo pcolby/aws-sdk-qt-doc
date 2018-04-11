@@ -1,0 +1,4 @@
+<map id="QtAws::IoT::CreateKeysAndCertificateRequest" name="QtAws::IoT::CreateKeysAndCertificateRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoT_1_1IoTRequest.html" title="Interface class for providing IoT requests. " alt="" coords="17,95,183,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="9,5,191,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QtAws::MarketplaceMetering::MarketplaceMeteringRequestPrivate" name="QtAws::MarketplaceMetering::MarketplaceMeteringRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MarketplaceMetering_1_1BatchMeterUsageRequestPrivate.html" title="Private implementation for BatchMeterUsageRequest. " alt="" coords="524,5,749,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MarketplaceMetering_1_1MeterUsageRequestPrivate.html" title="Private implementation for MeterUsageRequest. " alt="" coords="541,71,732,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MarketplaceMetering_1_1ResolveCustomerRequestPrivate.html" title="Private implementation for ResolveCustomerRequest. " alt="" coords="524,136,749,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,71,187,112"/>
+</map>

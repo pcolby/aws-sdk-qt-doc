@@ -1,0 +1,5 @@
+<map id="QtAws::Glue::GetDataflowGraphRequestPrivate" name="QtAws::Glue::GetDataflowGraphRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Glue_1_1GlueRequestPrivate.html" title="Private implementation for GlueRequest. " alt="" coords="5,109,187,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="147,5,328,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="211,109,392,151"/>
+</map>

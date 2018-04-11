@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::DescribeGatewayInformationRequest" name="QtAws::StorageGateway::DescribeGatewayInformationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayRequest.html" title="Interface class for providing StorageGateway requests. " alt="" coords="17,95,193,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

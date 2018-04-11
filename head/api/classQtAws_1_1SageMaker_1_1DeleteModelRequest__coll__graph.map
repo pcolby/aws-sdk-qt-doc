@@ -1,0 +1,4 @@
+<map id="QtAws::SageMaker::DeleteModelRequest" name="QtAws::SageMaker::DeleteModelRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerRequest.html" title="Interface class for providing SageMaker requests. " alt="" coords="5,95,216,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="20,5,201,47"/>
+</map>

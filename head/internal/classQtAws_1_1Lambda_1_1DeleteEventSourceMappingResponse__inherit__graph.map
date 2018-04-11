@@ -1,0 +1,4 @@
+<map id="QtAws::Lambda::DeleteEventSourceMappingResponse" name="QtAws::Lambda::DeleteEventSourceMappingResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lambda_1_1LambdaResponse.html" title="Handles Lambda Lambda responses. " alt="" coords="5,169,235,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="29,80,211,121"/>
+</map>

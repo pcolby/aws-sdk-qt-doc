@@ -1,0 +1,4 @@
+<map id="QtAws::Route53::ListReusableDelegationSetsRequest" name="QtAws::Route53::ListReusableDelegationSetsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53_1_1Route53Request.html" title="Interface class for providing Route53 requests. " alt="" coords="5,95,231,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="27,5,209,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::MigrationHub::DescribeMigrationTaskRequest" name="QtAws::MigrationHub::DescribeMigrationTaskRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MigrationHub_1_1MigrationHubRequest.html" title="Interface class for providing MigrationHub requests. " alt="" coords="34,95,190,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="21,5,203,47"/>
+</map>

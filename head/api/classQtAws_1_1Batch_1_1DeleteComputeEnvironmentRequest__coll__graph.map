@@ -1,0 +1,4 @@
+<map id="QtAws::Batch::DeleteComputeEnvironmentRequest" name="QtAws::Batch::DeleteComputeEnvironmentRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Batch_1_1BatchRequest.html" title="Interface class for providing Batch requests. " alt="" coords="9,95,204,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="16,5,197,47"/>
+</map>

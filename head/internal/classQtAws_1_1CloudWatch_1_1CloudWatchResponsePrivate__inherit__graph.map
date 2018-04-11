@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatch::CloudWatchResponsePrivate" name="QtAws::CloudWatch::CloudWatchResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatch_1_1DeleteAlarmsResponsePrivate.html" title="Private implementation for DeleteAlarmsResponse. " alt="" coords="492,5,693,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatch_1_1DeleteDashboardsResponsePrivate.html" title="Private implementation for DeleteDashboardsResponse. " alt="" coords="477,71,708,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmHistoryResponsePrivate.html" title="Private implementation for DescribeAlarmHistoryResponse. " alt="" coords="488,137,697,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsForMetricResponsePrivate.html" title="Private implementation for DescribeAlarmsForMetricResponse. " alt="" coords="478,217,707,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatch_1_1DescribeAlarmsResponsePrivate.html" title="Private implementation for DescribeAlarmsResponse. " alt="" coords="485,297,700,339"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatch_1_1DisableAlarmActionsResponsePrivate.html" title="Private implementation for DisableAlarmActionsResponse. " alt="" coords="491,363,694,419"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatch_1_1EnableAlarmActionsResponsePrivate.html" title="Private implementation for EnableAlarmActionsResponse. " alt="" coords="493,443,692,499"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatch_1_1GetDashboardResponsePrivate.html" title="Private implementation for GetDashboardResponse. " alt="" coords="489,524,696,565"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatch_1_1GetMetricStatisticsResponsePrivate.html" title="Private implementation for GetMetricStatisticsResponse. " alt="" coords="496,590,689,646"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatch_1_1ListDashboardsResponsePrivate.html" title="Private implementation for ListDashboardsResponse. " alt="" coords="486,671,699,712"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatch_1_1ListMetricsResponsePrivate.html" title="Private implementation for ListMetricsResponse. " alt="" coords="499,736,686,777"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatch_1_1PutDashboardResponsePrivate.html" title="Private implementation for PutDashboardResponse. " alt="" coords="490,801,695,843"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatch_1_1PutMetricAlarmResponsePrivate.html" title="Private implementation for PutMetricAlarmResponse. " alt="" coords="487,867,699,908"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatch_1_1PutMetricDataResponsePrivate.html" title="Private implementation for PutMetricDataResponse. " alt="" coords="489,932,696,973"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatch_1_1SetAlarmStateResponsePrivate.html" title="Private implementation for SetAlarmStateResponse. " alt="" coords="489,997,696,1039"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,524,187,565"/>
+</map>

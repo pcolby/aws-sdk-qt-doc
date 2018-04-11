@@ -1,0 +1,26 @@
+<map id="QtAws::Kinesis::KinesisRequest" name="QtAws::Kinesis::KinesisRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Kinesis_1_1AddTagsToStreamRequest.html" title="Implements Kinesis AddTagsToStream requests. " alt="" coords="513,5,701,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Kinesis_1_1CreateStreamRequest.html" title="Implements Kinesis CreateStream requests. " alt="" coords="506,71,709,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Kinesis_1_1DecreaseStreamRetentionPeriodRequest.html" title="Implements Kinesis DecreaseStreamRetentionPeriod requests. " alt="" coords="504,136,711,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Kinesis_1_1DeleteStreamRequest.html" title="Implements Kinesis DeleteStream requests. " alt="" coords="507,201,708,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Kinesis_1_1DescribeLimitsRequest.html" title="Implements Kinesis DescribeLimits requests. " alt="" coords="521,267,694,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Kinesis_1_1DescribeStreamRequest.html" title="Implements Kinesis DescribeStream requests. " alt="" coords="521,332,694,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Kinesis_1_1DescribeStreamSummaryRequest.html" title="Implements Kinesis DescribeStreamSummary requests. " alt="" coords="521,397,694,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Kinesis_1_1DisableEnhancedMonitoringRequest.html" title="Implements Kinesis DisableEnhancedMonitoring requests. " alt="" coords="496,463,719,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Kinesis_1_1EnableEnhancedMonitoringRequest.html" title="Implements Kinesis EnableEnhancedMonitoring requests. " alt="" coords="498,528,717,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Kinesis_1_1GetRecordsRequest.html" title="Implements Kinesis GetRecords requests. " alt="" coords="512,593,703,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Kinesis_1_1GetShardIteratorRequest.html" title="Implements Kinesis GetShardIterator requests. " alt="" coords="519,659,695,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Kinesis_1_1IncreaseStreamRetentionPeriodRequest.html" title="Implements Kinesis IncreaseStreamRetentionPeriod requests. " alt="" coords="504,724,711,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Kinesis_1_1ListShardsRequest.html" title="Implements Kinesis ListShards requests. " alt="" coords="516,789,699,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Kinesis_1_1ListStreamsRequest.html" title="Implements Kinesis ListStreams requests. " alt="" coords="512,855,703,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Kinesis_1_1ListTagsForStreamRequest.html" title="Implements Kinesis ListTagsForStream requests. " alt="" coords="522,920,693,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Kinesis_1_1MergeShardsRequest.html" title="Implements Kinesis MergeShards requests. " alt="" coords="508,985,707,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Kinesis_1_1PutRecordRequest.html" title="Implements Kinesis PutRecord requests. " alt="" coords="516,1051,699,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Kinesis_1_1PutRecordsRequest.html" title="Implements Kinesis PutRecords requests. " alt="" coords="512,1116,703,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Kinesis_1_1RemoveTagsFromStreamRequest.html" title="Implements Kinesis RemoveTagsFromStream requests. " alt="" coords="508,1181,707,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Kinesis_1_1SplitShardRequest.html" title="Implements Kinesis SplitShard requests. " alt="" coords="517,1247,698,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Kinesis_1_1StartStreamEncryptionRequest.html" title="Implements Kinesis StartStreamEncryption requests. " alt="" coords="512,1312,703,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Kinesis_1_1StopStreamEncryptionRequest.html" title="Implements Kinesis StopStreamEncryption requests. " alt="" coords="512,1377,703,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Kinesis_1_1UpdateShardCountRequest.html" title="Implements Kinesis UpdateShardCount requests. " alt="" coords="509,1443,706,1484"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,724,187,765"/>
+</map>

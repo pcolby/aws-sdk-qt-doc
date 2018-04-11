@@ -1,0 +1,6 @@
+<map id="QtAws::MarketplaceMetering::MarketplaceMeteringResponse" name="QtAws::MarketplaceMetering::MarketplaceMeteringResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1MarketplaceMetering_1_1BatchMeterUsageResponse.html" title="Handles MarketplaceMetering BatchMeterUsage responses. " alt="" coords="612,5,807,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MarketplaceMetering_1_1MeterUsageResponse.html" title="Handles MarketplaceMetering MeterUsage responses. " alt="" coords="614,71,805,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MarketplaceMetering_1_1ResolveCustomerResponse.html" title="Handles MarketplaceMetering ResolveCustomer responses. " alt="" coords="612,136,807,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,71,305,112"/>
+</map>

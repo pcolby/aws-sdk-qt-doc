@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['regionservices',['RegionServices',['../classAwsEndpointPrivate.html#a52d7f51a80fbb48e1737479651c4187c',1,'AwsEndpointPrivate']]]
+  ['regionservices',['RegionServices',['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#a77f08466d7d363b0646b271267494fb1',1,'QtAws::Core::AwsEndpointPrivate']]]
 ];

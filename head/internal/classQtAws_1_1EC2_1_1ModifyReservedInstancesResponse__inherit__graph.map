@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::ModifyReservedInstancesResponse" name="QtAws::EC2::ModifyReservedInstancesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Response.html" title="Handles EC2 EC2 responses. " alt="" coords="10,169,199,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="14,80,195,121"/>
+</map>

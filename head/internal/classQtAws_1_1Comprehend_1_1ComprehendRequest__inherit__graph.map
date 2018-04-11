@@ -1,0 +1,14 @@
+<map id="QtAws::Comprehend::ComprehendRequest" name="QtAws::Comprehend::ComprehendRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Comprehend_1_1BatchDetectDominantLanguageRequest.html" title="Implements Comprehend BatchDetectDominantLanguage requests. " alt="" coords="443,5,649,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Comprehend_1_1BatchDetectEntitiesRequest.html" title="Implements Comprehend BatchDetectEntities requests. " alt="" coords="452,86,640,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Comprehend_1_1BatchDetectKeyPhrasesRequest.html" title="Implements Comprehend BatchDetectKeyPhrases requests. " alt="" coords="439,151,653,193"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Comprehend_1_1BatchDetectSentimentRequest.html" title="Implements Comprehend BatchDetectSentiment requests. " alt="" coords="445,217,647,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Comprehend_1_1DescribeTopicsDetectionJobRequest.html" title="Implements Comprehend DescribeTopicsDetectionJob requests. " alt="" coords="451,283,641,339"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Comprehend_1_1DetectDominantLanguageRequest.html" title="Implements Comprehend DetectDominantLanguage requests. " alt="" coords="435,363,657,405"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Comprehend_1_1DetectEntitiesRequest.html" title="Implements Comprehend DetectEntities requests. " alt="" coords="469,429,623,470"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Comprehend_1_1DetectKeyPhrasesRequest.html" title="Implements Comprehend DetectKeyPhrases requests. " alt="" coords="455,494,637,535"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Comprehend_1_1DetectSentimentRequest.html" title="Implements Comprehend DetectSentiment requests. " alt="" coords="461,559,631,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Comprehend_1_1ListTopicsDetectionJobsRequest.html" title="Implements Comprehend ListTopicsDetectionJobs requests. " alt="" coords="439,625,653,666"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Comprehend_1_1StartTopicsDetectionJobRequest.html" title="Implements Comprehend StartTopicsDetectionJob requests. " alt="" coords="439,690,653,731"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,363,187,405"/>
+</map>

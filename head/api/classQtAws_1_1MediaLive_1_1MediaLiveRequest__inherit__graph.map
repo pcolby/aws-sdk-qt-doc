@@ -1,0 +1,20 @@
+<map id="QtAws::MediaLive::MediaLiveRequest" name="QtAws::MediaLive::MediaLiveRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaLive_1_1CreateChannelRequest.html" title="Implements MediaLive CreateChannel requests. " alt="" coords="497,5,673,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaLive_1_1CreateInputRequest.html" title="Implements MediaLive CreateInput requests. " alt="" coords="497,71,673,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaLive_1_1CreateInputSecurityGroupRequest.html" title="Implements MediaLive CreateInputSecurityGroup requests. " alt="" coords="494,136,677,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaLive_1_1DeleteChannelRequest.html" title="Implements MediaLive DeleteChannel requests. " alt="" coords="498,201,673,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaLive_1_1DeleteInputRequest.html" title="Implements MediaLive DeleteInput requests. " alt="" coords="498,267,673,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaLive_1_1DeleteInputSecurityGroupRequest.html" title="Implements MediaLive DeleteInputSecurityGroup requests. " alt="" coords="494,332,677,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaLive_1_1DescribeChannelRequest.html" title="Implements MediaLive DescribeChannel requests. " alt="" coords="491,397,680,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaLive_1_1DescribeInputRequest.html" title="Implements MediaLive DescribeInput requests. " alt="" coords="491,463,680,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaLive_1_1DescribeInputSecurityGroupRequest.html" title="Implements MediaLive DescribeInputSecurityGroup requests. " alt="" coords="491,528,680,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaLive_1_1ListChannelsRequest.html" title="Implements MediaLive ListChannels requests. " alt="" coords="479,593,692,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaLive_1_1ListInputSecurityGroupsRequest.html" title="Implements MediaLive ListInputSecurityGroups requests. " alt="" coords="492,659,679,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MediaLive_1_1ListInputsRequest.html" title="Implements MediaLive ListInputs requests. " alt="" coords="488,724,683,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MediaLive_1_1StartChannelRequest.html" title="Implements MediaLive StartChannel requests. " alt="" coords="479,789,692,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MediaLive_1_1StopChannelRequest.html" title="Implements MediaLive StopChannel requests. " alt="" coords="479,855,691,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MediaLive_1_1UpdateChannelRequest.html" title="Implements MediaLive UpdateChannel requests. " alt="" coords="496,920,675,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MediaLive_1_1UpdateInputRequest.html" title="Implements MediaLive UpdateInput requests. " alt="" coords="496,985,675,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MediaLive_1_1UpdateInputSecurityGroupRequest.html" title="Implements MediaLive UpdateInputSecurityGroup requests. " alt="" coords="494,1051,677,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,528,187,569"/>
+</map>

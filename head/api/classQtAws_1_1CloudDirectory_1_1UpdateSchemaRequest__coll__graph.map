@@ -1,0 +1,4 @@
+<map id="QtAws::CloudDirectory::UpdateSchemaRequest" name="QtAws::CloudDirectory::UpdateSchemaRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudDirectory_1_1CloudDirectoryRequest.html" title="Interface class for providing CloudDirectory requests. " alt="" coords="13,95,179,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

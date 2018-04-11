@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['macroregion',['MacroRegion',['../classAwsRegion.html#ad78b2e6bccc468cc75998dfaa5100c14',1,'AwsRegion']]]
+  ['macroregion',['MacroRegion',['../classQtAws_1_1Core_1_1AwsRegion.html#a6f0381eb24eb3fdcc1baf0bd0fc90149',1,'QtAws::Core::AwsRegion']]]
 ];

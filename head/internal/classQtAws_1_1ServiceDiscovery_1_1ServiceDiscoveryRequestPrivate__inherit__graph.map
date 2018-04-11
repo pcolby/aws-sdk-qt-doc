@@ -1,0 +1,21 @@
+<map id="QtAws::ServiceDiscovery::ServiceDiscoveryRequestPrivate" name="QtAws::ServiceDiscovery::ServiceDiscoveryRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ServiceDiscovery_1_1CreatePrivateDnsNamespaceRequestPrivate.html" title="Private implementation for CreatePrivateDnsNamespaceRequest. " alt="" coords="505,5,759,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ServiceDiscovery_1_1CreatePublicDnsNamespaceRequestPrivate.html" title="Private implementation for CreatePublicDnsNamespaceRequest. " alt="" coords="508,85,756,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ServiceDiscovery_1_1CreateServiceRequestPrivate.html" title="Private implementation for CreateServiceRequest. " alt="" coords="531,166,733,207"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ServiceDiscovery_1_1DeleteNamespaceRequestPrivate.html" title="Private implementation for DeleteNamespaceRequest. " alt="" coords="518,231,746,273"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ServiceDiscovery_1_1DeleteServiceRequestPrivate.html" title="Private implementation for DeleteServiceRequest. " alt="" coords="531,297,733,338"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ServiceDiscovery_1_1DeregisterInstanceRequestPrivate.html" title="Private implementation for DeregisterInstanceRequest. " alt="" coords="517,362,747,403"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ServiceDiscovery_1_1GetInstanceRequestPrivate.html" title="Private implementation for GetInstanceRequest. " alt="" coords="537,427,727,469"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ServiceDiscovery_1_1GetInstancesHealthStatusRequestPrivate.html" title="Private implementation for GetInstancesHealthStatusRequest. " alt="" coords="515,493,749,549"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ServiceDiscovery_1_1GetNamespaceRequestPrivate.html" title="Private implementation for GetNamespaceRequest. " alt="" coords="527,574,737,615"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ServiceDiscovery_1_1GetOperationRequestPrivate.html" title="Private implementation for GetOperationRequest. " alt="" coords="533,639,731,681"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ServiceDiscovery_1_1GetServiceRequestPrivate.html" title="Private implementation for GetServiceRequest. " alt="" coords="539,705,725,746"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ServiceDiscovery_1_1ListInstancesRequestPrivate.html" title="Private implementation for ListInstancesRequest. " alt="" coords="533,770,731,811"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ServiceDiscovery_1_1ListNamespacesRequestPrivate.html" title="Private implementation for ListNamespacesRequest. " alt="" coords="523,835,741,877"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ServiceDiscovery_1_1ListOperationsRequestPrivate.html" title="Private implementation for ListOperationsRequest. " alt="" coords="530,901,734,942"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ServiceDiscovery_1_1ListServicesRequestPrivate.html" title="Private implementation for ListServicesRequest. " alt="" coords="536,966,728,1007"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ServiceDiscovery_1_1RegisterInstanceRequestPrivate.html" title="Private implementation for RegisterInstanceRequest. " alt="" coords="523,1031,741,1073"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ServiceDiscovery_1_1UpdateInstanceCustomHealthStatusRequestPrivate.html" title="Private implementation for UpdateInstanceCustomHealthStatusRequest. " alt="" coords="529,1097,735,1153"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ServiceDiscovery_1_1UpdateServiceRequestPrivate.html" title="Private implementation for UpdateServiceRequest. " alt="" coords="529,1178,735,1219"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,607,187,649"/>
+</map>

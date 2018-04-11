@@ -1,0 +1,4 @@
+<map id="QtAws::CloudSearchDomain::SuggestRequest" name="QtAws::CloudSearchDomain::SuggestRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudSearchDomain_1_1CloudSearchDomainRequest.html" title="Interface class for providing CloudSearchDomain requests. " alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

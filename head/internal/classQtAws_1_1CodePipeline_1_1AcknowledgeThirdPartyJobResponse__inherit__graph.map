@@ -1,0 +1,4 @@
+<map id="QtAws::CodePipeline::AcknowledgeThirdPartyJobResponse" name="QtAws::CodePipeline::AcknowledgeThirdPartyJobResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodePipeline_1_1CodePipelineResponse.html" title="Handles CodePipeline CodePipeline responses. " alt="" coords="17,169,183,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="9,80,191,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::EC2::ModifySnapshotAttributeRequest" name="QtAws::EC2::ModifySnapshotAttributeRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Request.html" title="Interface class for providing EC2 requests. " alt="" coords="15,117,194,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="154,5,335,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="218,109,399,151"/>
+</map>

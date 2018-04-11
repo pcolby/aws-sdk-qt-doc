@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoIdentity::ListIdentityPoolsRequest" name="QtAws::CognitoIdentity::ListIdentityPoolsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoIdentity_1_1CognitoIdentityRequest.html" title="Interface class for providing CognitoIdentity requests. " alt="" coords="13,95,179,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,5,187,47"/>
+</map>

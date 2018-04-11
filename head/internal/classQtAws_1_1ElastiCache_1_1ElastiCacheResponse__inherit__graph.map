@@ -1,0 +1,43 @@
+<map id="QtAws::ElastiCache::ElastiCacheResponse" name="QtAws::ElastiCache::ElastiCacheResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ElastiCache_1_1AddTagsToResourceResponse.html" title="Handles ElastiCache AddTagsToResource responses. " alt="" coords="582,5,794,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ElastiCache_1_1AuthorizeCacheSecurityGroupIngressResponse.html" title="Handles ElastiCache AuthorizeCacheSecurityGroupIngress responses. " alt="" coords="585,71,791,127"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ElastiCache_1_1CopySnapshotResponse.html" title="Handles ElastiCache CopySnapshot responses. " alt="" coords="601,152,775,193"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ElastiCache_1_1CreateCacheClusterResponse.html" title="Handles ElastiCache CreateCacheCluster responses. " alt="" coords="584,217,792,259"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ElastiCache_1_1CreateCacheParameterGroupResponse.html" title="Handles ElastiCache CreateCacheParameterGroup responses. " alt="" coords="587,283,789,339"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ElastiCache_1_1CreateCacheSecurityGroupResponse.html" title="Handles ElastiCache CreateCacheSecurityGroup responses. " alt="" coords="593,363,783,419"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ElastiCache_1_1CreateCacheSubnetGroupResponse.html" title="Handles ElastiCache CreateCacheSubnetGroup responses. " alt="" coords="567,444,809,485"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ElastiCache_1_1CreateReplicationGroupResponse.html" title="Handles ElastiCache CreateReplicationGroup responses. " alt="" coords="574,509,802,551"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ElastiCache_1_1CreateSnapshotResponse.html" title="Handles ElastiCache CreateSnapshot responses. " alt="" coords="597,575,779,616"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ElastiCache_1_1DeleteCacheClusterResponse.html" title="Handles ElastiCache DeleteCacheCluster responses. " alt="" coords="585,640,791,681"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1ElastiCache_1_1DeleteCacheParameterGroupResponse.html" title="Handles ElastiCache DeleteCacheParameterGroup responses. " alt="" coords="587,706,789,762"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1ElastiCache_1_1DeleteCacheSecurityGroupResponse.html" title="Handles ElastiCache DeleteCacheSecurityGroup responses. " alt="" coords="593,786,783,842"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1ElastiCache_1_1DeleteCacheSubnetGroupResponse.html" title="Handles ElastiCache DeleteCacheSubnetGroup responses. " alt="" coords="567,867,809,908"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1ElastiCache_1_1DeleteReplicationGroupResponse.html" title="Handles ElastiCache DeleteReplicationGroup responses. " alt="" coords="575,932,801,973"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1ElastiCache_1_1DeleteSnapshotResponse.html" title="Handles ElastiCache DeleteSnapshot responses. " alt="" coords="597,997,779,1039"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheClustersResponse.html" title="Handles ElastiCache DescribeCacheClusters responses. " alt="" coords="574,1063,802,1104"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheEngineVersionsResponse.html" title="Handles ElastiCache DescribeCacheEngineVersions responses. " alt="" coords="583,1129,793,1185"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheParameterGroupsResponse.html" title="Handles ElastiCache DescribeCacheParameterGroups responses. " alt="" coords="577,1209,799,1265"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheParametersResponse.html" title="Handles ElastiCache DescribeCacheParameters responses. " alt="" coords="565,1289,811,1331"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheSecurityGroupsResponse.html" title="Handles ElastiCache DescribeCacheSecurityGroups responses. " alt="" coords="583,1355,793,1411"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1ElastiCache_1_1DescribeCacheSubnetGroupsResponse.html" title="Handles ElastiCache DescribeCacheSubnetGroups responses. " alt="" coords="587,1435,789,1491"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1ElastiCache_1_1DescribeEngineDefaultParametersResponse.html" title="Handles ElastiCache DescribeEngineDefaultParameters responses. " alt="" coords="573,1515,803,1571"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1ElastiCache_1_1DescribeEventsResponse.html" title="Handles ElastiCache DescribeEvents responses. " alt="" coords="597,1596,779,1637"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1ElastiCache_1_1DescribeReplicationGroupsResponse.html" title="Handles ElastiCache DescribeReplicationGroups responses. " alt="" coords="593,1662,783,1718"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1ElastiCache_1_1DescribeReservedCacheNodesOfferingsResponse.html" title="Handles ElastiCache DescribeReservedCacheNodesOfferings responses. " alt="" coords="581,1742,795,1798"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1ElastiCache_1_1DescribeReservedCacheNodesResponse.html" title="Handles ElastiCache DescribeReservedCacheNodes responses. " alt="" coords="581,1822,795,1878"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1ElastiCache_1_1DescribeSnapshotsResponse.html" title="Handles ElastiCache DescribeSnapshots responses. " alt="" coords="587,1903,789,1944"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1ElastiCache_1_1ListAllowedNodeTypeModificationsResponse.html" title="Handles ElastiCache ListAllowedNodeTypeModifications responses. " alt="" coords="571,1969,805,2025"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1ElastiCache_1_1ListTagsForResourceResponse.html" title="Handles ElastiCache ListTagsForResource responses. " alt="" coords="581,2049,795,2091"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1ElastiCache_1_1ModifyCacheClusterResponse.html" title="Handles ElastiCache ModifyCacheCluster responses. " alt="" coords="584,2115,792,2156"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1ElastiCache_1_1ModifyCacheParameterGroupResponse.html" title="Handles ElastiCache ModifyCacheParameterGroup responses. " alt="" coords="587,2181,789,2237"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1ElastiCache_1_1ModifyCacheSubnetGroupResponse.html" title="Handles ElastiCache ModifyCacheSubnetGroup responses. " alt="" coords="567,2261,809,2303"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1ElastiCache_1_1ModifyReplicationGroupResponse.html" title="Handles ElastiCache ModifyReplicationGroup responses. " alt="" coords="574,2327,802,2368"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1ElastiCache_1_1ModifyReplicationGroupShardConfigurationResponse.html" title="Handles ElastiCache ModifyReplicationGroupShardConfiguration responses. " alt="" coords="587,2393,789,2449"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1ElastiCache_1_1PurchaseReservedCacheNodesOfferingResponse.html" title="Handles ElastiCache PurchaseReservedCacheNodesOffering responses. " alt="" coords="579,2473,797,2529"/>
+<area shape="rect" id="node39" href="$classQtAws_1_1ElastiCache_1_1RebootCacheClusterResponse.html" title="Handles ElastiCache RebootCacheCluster responses. " alt="" coords="583,2553,793,2595"/>
+<area shape="rect" id="node40" href="$classQtAws_1_1ElastiCache_1_1RemoveTagsFromResourceResponse.html" title="Handles ElastiCache RemoveTagsFromResource responses. " alt="" coords="561,2619,815,2660"/>
+<area shape="rect" id="node41" href="$classQtAws_1_1ElastiCache_1_1ResetCacheParameterGroupResponse.html" title="Handles ElastiCache ResetCacheParameterGroup responses. " alt="" coords="589,2685,787,2741"/>
+<area shape="rect" id="node42" href="$classQtAws_1_1ElastiCache_1_1RevokeCacheSecurityGroupIngressResponse.html" title="Handles ElastiCache RevokeCacheSecurityGroupIngress responses. " alt="" coords="590,2765,786,2821"/>
+<area shape="rect" id="node43" href="$classQtAws_1_1ElastiCache_1_1TestFailoverResponse.html" title="Handles ElastiCache TestFailover responses. " alt="" coords="607,2845,769,2887"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,1403,305,1444"/>
+</map>

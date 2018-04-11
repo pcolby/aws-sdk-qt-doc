@@ -1,0 +1,27 @@
+<map id="QtAws::Route53Domains::Route53DomainsResponse" name="QtAws::Route53Domains::Route53DomainsResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Route53Domains_1_1CheckDomainAvailabilityResponse.html" title="Handles Route53Domains CheckDomainAvailability responses. " alt="" coords="602,5,837,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Route53Domains_1_1CheckDomainTransferabilityResponse.html" title="Handles Route53Domains CheckDomainTransferability responses. " alt="" coords="622,71,817,127"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Route53Domains_1_1DeleteTagsForDomainResponse.html" title="Handles Route53Domains DeleteTagsForDomain responses. " alt="" coords="609,152,829,193"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Route53Domains_1_1DisableDomainAutoRenewResponse.html" title="Handles Route53Domains DisableDomainAutoRenew responses. " alt="" coords="596,217,843,259"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Route53Domains_1_1DisableDomainTransferLockResponse.html" title="Handles Route53Domains DisableDomainTransferLock responses. " alt="" coords="622,283,817,339"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Route53Domains_1_1EnableDomainAutoRenewResponse.html" title="Handles Route53Domains EnableDomainAutoRenew responses. " alt="" coords="598,364,841,405"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Route53Domains_1_1EnableDomainTransferLockResponse.html" title="Handles Route53Domains EnableDomainTransferLock responses. " alt="" coords="594,429,845,471"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Route53Domains_1_1GetContactReachabilityStatusResponse.html" title="Handles Route53Domains GetContactReachabilityStatus responses. " alt="" coords="616,495,823,551"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Route53Domains_1_1GetDomainDetailResponse.html" title="Handles Route53Domains GetDomainDetail responses. " alt="" coords="625,576,814,617"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Route53Domains_1_1GetDomainSuggestionsResponse.html" title="Handles Route53Domains GetDomainSuggestions responses. " alt="" coords="606,641,833,683"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Route53Domains_1_1GetOperationDetailResponse.html" title="Handles Route53Domains GetOperationDetail responses. " alt="" coords="619,707,819,748"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Route53Domains_1_1ListDomainsResponse.html" title="Handles Route53Domains ListDomains responses. " alt="" coords="634,772,805,813"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Route53Domains_1_1ListOperationsResponse.html" title="Handles Route53Domains ListOperations responses. " alt="" coords="633,837,806,879"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Route53Domains_1_1ListTagsForDomainResponse.html" title="Handles Route53Domains ListTagsForDomain responses. " alt="" coords="618,903,821,944"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Route53Domains_1_1RegisterDomainResponse.html" title="Handles Route53Domains RegisterDomain responses. " alt="" coords="628,968,811,1009"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Route53Domains_1_1RenewDomainResponse.html" title="Handles Route53Domains RenewDomain responses. " alt="" coords="632,1033,807,1075"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Route53Domains_1_1ResendContactReachabilityEmailResponse.html" title="Handles Route53Domains ResendContactReachabilityEmail responses. " alt="" coords="623,1099,816,1155"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Route53Domains_1_1RetrieveDomainAuthCodeResponse.html" title="Handles Route53Domains RetrieveDomainAuthCode responses. " alt="" coords="599,1180,840,1221"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Route53Domains_1_1TransferDomainResponse.html" title="Handles Route53Domains TransferDomain responses. " alt="" coords="628,1245,811,1287"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactPrivacyResponse.html" title="Handles Route53Domains UpdateDomainContactPrivacy responses. " alt="" coords="616,1311,823,1367"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactResponse.html" title="Handles Route53Domains UpdateDomainContact responses. " alt="" coords="608,1392,831,1433"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainNameserversResponse.html" title="Handles Route53Domains UpdateDomainNameservers responses. " alt="" coords="592,1457,847,1499"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Route53Domains_1_1UpdateTagsForDomainResponse.html" title="Handles Route53Domains UpdateTagsForDomain responses. " alt="" coords="607,1523,831,1564"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Route53Domains_1_1ViewBillingResponse.html" title="Handles Route53Domains ViewBilling responses. " alt="" coords="634,1588,805,1629"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,805,305,847"/>
+</map>

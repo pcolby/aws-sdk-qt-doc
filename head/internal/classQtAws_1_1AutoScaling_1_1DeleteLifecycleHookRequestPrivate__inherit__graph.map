@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScaling::DeleteLifecycleHookRequestPrivate" name="QtAws::AutoScaling::DeleteLifecycleHookRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingRequestPrivate.html" title="Private implementation for AutoScalingRequest. " alt="" coords="10,95,201,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="15,5,196,47"/>
+</map>

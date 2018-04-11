@@ -1,0 +1,4 @@
+<map id="QtAws::CloudDirectory::ListPolicyAttachmentsResponse" name="QtAws::CloudDirectory::ListPolicyAttachmentsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudDirectory_1_1CloudDirectoryResponse.html" title="Handles CloudDirectory CloudDirectory responses. " alt="" coords="27,169,203,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="25,80,206,121"/>
+</map>

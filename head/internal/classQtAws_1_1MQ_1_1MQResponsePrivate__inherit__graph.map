@@ -1,0 +1,20 @@
+<map id="QtAws::MQ::MQResponsePrivate" name="QtAws::MQ::MQResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MQ_1_1CreateBrokerResponsePrivate.html" title="Private implementation for CreateBrokerResponse. " alt="" coords="505,5,739,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MQ_1_1CreateConfigurationResponsePrivate.html" title="Private implementation for CreateConfigurationResponse. " alt="" coords="515,71,729,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MQ_1_1CreateUserResponsePrivate.html" title="Private implementation for CreateUserResponse. " alt="" coords="509,136,735,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MQ_1_1DeleteBrokerResponsePrivate.html" title="Private implementation for DeleteBrokerResponse. " alt="" coords="505,201,739,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MQ_1_1DeleteUserResponsePrivate.html" title="Private implementation for DeleteUserResponse. " alt="" coords="510,267,734,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MQ_1_1DescribeBrokerResponsePrivate.html" title="Private implementation for DescribeBrokerResponse. " alt="" coords="527,332,717,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MQ_1_1DescribeConfigurationResponsePrivate.html" title="Private implementation for DescribeConfigurationResponse. " alt="" coords="508,397,736,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MQ_1_1DescribeConfigurationRevisionResponsePrivate.html" title="Private implementation for DescribeConfigurationRevisionResponse. " alt="" coords="508,463,736,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MQ_1_1DescribeUserResponsePrivate.html" title="Private implementation for DescribeUserResponse. " alt="" coords="503,528,741,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MQ_1_1ListBrokersResponsePrivate.html" title="Private implementation for ListBrokersResponse. " alt="" coords="510,593,734,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MQ_1_1ListConfigurationRevisionsResponsePrivate.html" title="Private implementation for ListConfigurationRevisionsResponse. " alt="" coords="523,659,721,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MQ_1_1ListConfigurationsResponsePrivate.html" title="Private implementation for ListConfigurationsResponse. " alt="" coords="520,724,724,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MQ_1_1ListUsersResponsePrivate.html" title="Private implementation for ListUsersResponse. " alt="" coords="515,789,729,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MQ_1_1RebootBrokerResponsePrivate.html" title="Private implementation for RebootBrokerResponse. " alt="" coords="503,855,741,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MQ_1_1UpdateBrokerResponsePrivate.html" title="Private implementation for UpdateBrokerResponse. " alt="" coords="503,920,741,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MQ_1_1UpdateConfigurationResponsePrivate.html" title="Private implementation for UpdateConfigurationResponse. " alt="" coords="513,985,731,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MQ_1_1UpdateUserResponsePrivate.html" title="Private implementation for UpdateUserResponse. " alt="" coords="508,1051,736,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,528,187,569"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CodeCommit::PostCommentForComparedCommitRequest" name="QtAws::CodeCommit::PostCommentForComparedCommitRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeCommit_1_1CodeCommitRequest.html" title="Interface class for providing CodeCommit requests. " alt="" coords="43,95,198,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="30,5,211,47"/>
+</map>

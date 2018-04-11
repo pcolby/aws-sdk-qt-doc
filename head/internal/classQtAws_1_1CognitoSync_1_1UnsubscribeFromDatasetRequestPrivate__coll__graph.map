@@ -1,0 +1,5 @@
+<map id="QtAws::CognitoSync::UnsubscribeFromDatasetRequestPrivate" name="QtAws::CognitoSync::UnsubscribeFromDatasetRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoSync_1_1CognitoSyncRequestPrivate.html" title="Private implementation for CognitoSyncRequest. " alt="" coords="22,109,217,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="177,5,358,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="241,109,422,151"/>
+</map>

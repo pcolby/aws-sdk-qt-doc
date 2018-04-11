@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['endpoint',['endpoint',['../classAwsAbstractClientPrivate.html#ae71b89e98c1739bbe966aa756314f708',1,'AwsAbstractClientPrivate']]],
-  ['errors',['errors',['../classSqsResponsePrivate.html#aa4fcce1599cd2403a930d2e2887cd8d5',1,'SqsResponsePrivate']]]
+  ['endpoint',['endpoint',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#acf41a8c3d40b2b4f0dd5df55586bcf6d',1,'QtAws::Core::AwsAbstractClientPrivate']]],
+  ['endpointprefix',['endpointPrefix',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#aa3e8df8606cc35152f09be834fed1b7a',1,'QtAws::Core::AwsAbstractClientPrivate']]],
+  ['errors',['errors',['../classQtAws_1_1SqsOld_1_1SqsResponsePrivate.html#a11b93f7640c421df0d780b0b23e99b59',1,'QtAws::SqsOld::SqsResponsePrivate']]]
 ];

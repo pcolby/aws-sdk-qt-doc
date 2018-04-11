@@ -1,0 +1,4 @@
+<map id="QtAws::OpsWorks::StopInstanceResponse" name="QtAws::OpsWorks::StopInstanceResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksResponse.html" title="Handles OpsWorks OpsWorks responses. " alt="" coords="13,169,215,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="23,80,205,121"/>
+</map>

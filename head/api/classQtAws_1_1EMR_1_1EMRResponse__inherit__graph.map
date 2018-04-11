@@ -1,0 +1,30 @@
+<map id="QtAws::EMR::EMRResponse" name="QtAws::EMR::EMRResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1EMR_1_1AddInstanceFleetResponse.html" title="Handles EMR AddInstanceFleet responses. " alt="" coords="616,5,827,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1EMR_1_1AddInstanceGroupsResponse.html" title="Handles EMR AddInstanceGroups responses. " alt="" coords="610,71,833,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1EMR_1_1AddJobFlowStepsResponse.html" title="Handles EMR AddJobFlowSteps responses. " alt="" coords="614,136,829,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1EMR_1_1AddTagsResponse.html" title="Handles EMR AddTags responses. " alt="" coords="612,202,831,229"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1EMR_1_1CancelStepsResponse.html" title="Handles EMR CancelSteps responses. " alt="" coords="600,253,843,279"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1EMR_1_1CreateSecurityConfigurationResponse.html" title="Handles EMR CreateSecurityConfiguration responses. " alt="" coords="624,304,819,345"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1EMR_1_1DeleteSecurityConfigurationResponse.html" title="Handles EMR DeleteSecurityConfiguration responses. " alt="" coords="624,369,819,411"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1EMR_1_1DescribeClusterResponse.html" title="Handles EMR DescribeCluster responses. " alt="" coords="620,435,823,476"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1EMR_1_1DescribeJobFlowsResponse.html" title="Handles EMR DescribeJobFlows responses. " alt="" coords="613,500,829,541"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1EMR_1_1DescribeSecurityConfigurationResponse.html" title="Handles EMR DescribeSecurityConfiguration responses. " alt="" coords="617,565,825,607"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1EMR_1_1DescribeStepResponse.html" title="Handles EMR DescribeStep responses. " alt="" coords="628,631,815,672"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1EMR_1_1ListBootstrapActionsResponse.html" title="Handles EMR ListBootstrapActions responses. " alt="" coords="629,696,814,737"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1EMR_1_1ListClustersResponse.html" title="Handles EMR ListClusters responses. " alt="" coords="632,761,811,803"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1EMR_1_1ListInstanceFleetsResponse.html" title="Handles EMR ListInstanceFleets responses. " alt="" coords="632,827,811,868"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1EMR_1_1ListInstanceGroupsResponse.html" title="Handles EMR ListInstanceGroups responses. " alt="" coords="632,892,811,933"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1EMR_1_1ListInstancesResponse.html" title="Handles EMR ListInstances responses. " alt="" coords="628,957,815,999"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1EMR_1_1ListSecurityConfigurationsResponse.html" title="Handles EMR ListSecurityConfigurations responses. " alt="" coords="633,1023,810,1064"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1EMR_1_1ListStepsResponse.html" title="Handles EMR ListSteps responses. " alt="" coords="610,1089,833,1115"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1EMR_1_1ModifyInstanceFleetResponse.html" title="Handles EMR ModifyInstanceFleet responses. " alt="" coords="623,1140,820,1181"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1EMR_1_1ModifyInstanceGroupsResponse.html" title="Handles EMR ModifyInstanceGroups responses. " alt="" coords="623,1205,820,1247"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1EMR_1_1PutAutoScalingPolicyResponse.html" title="Handles EMR PutAutoScalingPolicy responses. " alt="" coords="622,1271,821,1312"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1EMR_1_1RemoveAutoScalingPolicyResponse.html" title="Handles EMR RemoveAutoScalingPolicy responses. " alt="" coords="608,1336,835,1377"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1EMR_1_1RemoveTagsResponse.html" title="Handles EMR RemoveTags responses. " alt="" coords="599,1402,844,1429"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1EMR_1_1RunJobFlowResponse.html" title="Handles EMR RunJobFlow responses. " alt="" coords="601,1453,841,1479"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1EMR_1_1SetTerminationProtectionResponse.html" title="Handles EMR SetTerminationProtection responses. " alt="" coords="623,1504,819,1545"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1EMR_1_1SetVisibleToAllUsersResponse.html" title="Handles EMR SetVisibleToAllUsers responses. " alt="" coords="630,1569,813,1611"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1EMR_1_1TerminateJobFlowsResponse.html" title="Handles EMR TerminateJobFlows responses. " alt="" coords="628,1635,815,1676"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,827,305,868"/>
+</map>

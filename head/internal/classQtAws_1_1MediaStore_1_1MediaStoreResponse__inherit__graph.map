@@ -1,0 +1,13 @@
+<map id="QtAws::MediaStore::MediaStoreResponse" name="QtAws::MediaStore::MediaStoreResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStore_1_1CreateContainerResponse.html" title="Handles MediaStore CreateContainer responses. " alt="" coords="565,5,741,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStore_1_1DeleteContainerPolicyResponse.html" title="Handles MediaStore DeleteContainerPolicy responses. " alt="" coords="548,71,759,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStore_1_1DeleteContainerResponse.html" title="Handles MediaStore DeleteContainer responses. " alt="" coords="566,136,741,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStore_1_1DeleteCorsPolicyResponse.html" title="Handles MediaStore DeleteCorsPolicy responses. " alt="" coords="562,201,745,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaStore_1_1DescribeContainerResponse.html" title="Handles MediaStore DescribeContainer responses. " alt="" coords="559,267,748,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaStore_1_1GetContainerPolicyResponse.html" title="Handles MediaStore GetContainerPolicy responses. " alt="" coords="556,332,751,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaStore_1_1GetCorsPolicyResponse.html" title="Handles MediaStore GetCorsPolicy responses. " alt="" coords="570,397,737,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaStore_1_1ListContainersResponse.html" title="Handles MediaStore ListContainers responses. " alt="" coords="571,463,736,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaStore_1_1PutContainerPolicyResponse.html" title="Handles MediaStore PutContainerPolicy responses. " alt="" coords="557,528,750,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MediaStore_1_1PutCorsPolicyResponse.html" title="Handles MediaStore PutCorsPolicy responses. " alt="" coords="571,593,736,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,300,305,341"/>
+</map>

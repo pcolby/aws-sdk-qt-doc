@@ -1,0 +1,4 @@
+<map id="QtAws::ResourceGroups::ListGroupResourcesRequest" name="QtAws::ResourceGroups::ListGroupResourcesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ResourceGroups_1_1ResourceGroupsRequest.html" title="Interface class for providing ResourceGroups requests. " alt="" coords="16,95,193,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="14,5,195,47"/>
+</map>

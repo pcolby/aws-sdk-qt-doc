@@ -1,0 +1,12 @@
+<map id="QtAws::Mobile::MobileRequestPrivate" name="QtAws::Mobile::MobileRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Mobile_1_1CreateProjectRequestPrivate.html" title="Private implementation for CreateProjectRequest. " alt="" coords="492,5,688,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Mobile_1_1DeleteProjectRequestPrivate.html" title="Private implementation for DeleteProjectRequest. " alt="" coords="493,71,687,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Mobile_1_1DescribeBundleRequestPrivate.html" title="Private implementation for DescribeBundleRequest. " alt="" coords="486,136,694,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Mobile_1_1DescribeProjectRequestPrivate.html" title="Private implementation for DescribeProjectRequest. " alt="" coords="485,201,695,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Mobile_1_1ExportBundleRequestPrivate.html" title="Private implementation for ExportBundleRequest. " alt="" coords="493,267,687,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Mobile_1_1ExportProjectRequestPrivate.html" title="Private implementation for ExportProjectRequest. " alt="" coords="493,332,687,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Mobile_1_1ListBundlesRequestPrivate.html" title="Private implementation for ListBundlesRequest. " alt="" coords="498,397,682,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Mobile_1_1ListProjectsRequestPrivate.html" title="Private implementation for ListProjectsRequest. " alt="" coords="497,463,683,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Mobile_1_1UpdateProjectRequestPrivate.html" title="Private implementation for UpdateProjectRequest. " alt="" coords="491,528,689,569"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,267,187,308"/>
+</map>

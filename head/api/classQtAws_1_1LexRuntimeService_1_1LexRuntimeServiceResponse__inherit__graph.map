@@ -1,0 +1,5 @@
+<map id="QtAws::LexRuntimeService::LexRuntimeServiceResponse" name="QtAws::LexRuntimeService::LexRuntimeServiceResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1LexRuntimeService_1_1PostContentResponse.html" title="Handles LexRuntimeService PostContent responses. " alt="" coords="604,5,788,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1LexRuntimeService_1_1PostTextResponse.html" title="Handles LexRuntimeService PostText responses. " alt="" coords="604,71,788,112"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,39,305,80"/>
+</map>

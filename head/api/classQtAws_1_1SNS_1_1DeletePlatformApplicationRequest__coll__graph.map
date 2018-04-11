@@ -1,0 +1,4 @@
+<map id="QtAws::SNS::DeletePlatformApplicationRequest" name="QtAws::SNS::DeletePlatformApplicationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSRequest.html" title="Interface class for providing SNS requests. " alt="" coords="11,95,193,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="11,5,193,47"/>
+</map>

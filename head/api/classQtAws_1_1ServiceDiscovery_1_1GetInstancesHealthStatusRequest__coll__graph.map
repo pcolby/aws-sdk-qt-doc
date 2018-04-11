@@ -1,0 +1,4 @@
+<map id="QtAws::ServiceDiscovery::GetInstancesHealthStatusRequest" name="QtAws::ServiceDiscovery::GetInstancesHealthStatusRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServiceDiscovery_1_1ServiceDiscoveryRequest.html" title="Interface class for providing ServiceDiscovery requests. " alt="" coords="31,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,213,47"/>
+</map>

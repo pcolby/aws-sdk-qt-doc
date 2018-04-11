@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::ConfirmProductInstanceResponse" name="QtAws::EC2::ConfirmProductInstanceResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Response.html" title="Handles EC2 EC2 responses. " alt="" coords="8,169,197,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="12,80,193,121"/>
+</map>

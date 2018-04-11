@@ -1,0 +1,4 @@
+<map id="QtAws::CloudHSMV2::CreateHsmResponse" name="QtAws::CloudHSMV2::CreateHsmResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudHSMV2_1_1CloudHSMV2Response.html" title="Handles CloudHSMV2 CloudHSMV2 responses. " alt="" coords="15,169,177,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="5,80,187,121"/>
+</map>

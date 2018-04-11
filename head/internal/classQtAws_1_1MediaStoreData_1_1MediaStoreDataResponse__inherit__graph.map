@@ -1,0 +1,8 @@
+<map id="QtAws::MediaStoreData::MediaStoreDataResponse" name="QtAws::MediaStoreData::MediaStoreDataResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStoreData_1_1DeleteObjectResponse.html" title="Handles MediaStoreData DeleteObject responses. " alt="" coords="591,5,756,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStoreData_1_1DescribeObjectResponse.html" title="Handles MediaStoreData DescribeObject responses. " alt="" coords="584,71,763,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStoreData_1_1GetObjectResponse.html" title="Handles MediaStoreData GetObject responses. " alt="" coords="591,136,755,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStoreData_1_1ListItemsResponse.html" title="Handles MediaStoreData ListItems responses. " alt="" coords="591,201,755,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaStoreData_1_1PutObjectResponse.html" title="Handles MediaStoreData PutObject responses. " alt="" coords="591,267,755,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,136,305,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticLoadBalancing::ConfigureHealthCheckRequest" name="QtAws::ElasticLoadBalancing::ConfigureHealthCheckRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticLoadBalancing_1_1ElasticLoadBalancingRequest.html" title="Interface class for providing ElasticLoadBalancing requests. " alt="" coords="9,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="20,5,201,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::GameLift::CreateGameSessionQueueRequest" name="QtAws::GameLift::CreateGameSessionQueueRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftRequest.html" title="Interface class for providing GameLift requests. " alt="" coords="16,109,200,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="160,5,341,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="224,109,405,151"/>
+</map>

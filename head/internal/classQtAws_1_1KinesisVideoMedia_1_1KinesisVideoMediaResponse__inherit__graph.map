@@ -1,0 +1,4 @@
+<map id="QtAws::KinesisVideoMedia::KinesisVideoMediaResponse" name="QtAws::KinesisVideoMedia::KinesisVideoMediaResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideoMedia_1_1GetMediaResponse.html" title="Handles KinesisVideoMedia GetMedia responses. " alt="" coords="15,259,196,300"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="15,80,196,121"/>
+</map>

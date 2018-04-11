@@ -1,0 +1,4 @@
+<map id="QtAws::CodePipeline::PutThirdPartyJobFailureResultRequest" name="QtAws::CodePipeline::PutThirdPartyJobFailureResultRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodePipeline_1_1CodePipelineRequest.html" title="Interface class for providing CodePipeline requests. " alt="" coords="31,95,187,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="19,5,200,47"/>
+</map>

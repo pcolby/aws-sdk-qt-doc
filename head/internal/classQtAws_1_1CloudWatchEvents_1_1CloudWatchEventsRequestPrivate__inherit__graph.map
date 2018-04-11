@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatchEvents::CloudWatchEventsRequestPrivate" name="QtAws::CloudWatchEvents::CloudWatchEventsRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatchEvents_1_1DeleteRuleRequestPrivate.html" title="Private implementation for DeleteRuleRequest. " alt="" coords="541,5,726,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeEventBusRequestPrivate.html" title="Private implementation for DescribeEventBusRequest. " alt="" coords="519,71,748,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeRuleRequestPrivate.html" title="Private implementation for DescribeRuleRequest. " alt="" coords="534,136,733,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatchEvents_1_1DisableRuleRequestPrivate.html" title="Private implementation for DisableRuleRequest. " alt="" coords="538,201,729,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatchEvents_1_1EnableRuleRequestPrivate.html" title="Private implementation for EnableRuleRequest. " alt="" coords="540,267,727,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatchEvents_1_1ListRuleNamesByTargetRequestPrivate.html" title="Private implementation for ListRuleNamesByTargetRequest. " alt="" coords="522,333,745,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatchEvents_1_1ListRulesRequestPrivate.html" title="Private implementation for ListRulesRequest. " alt="" coords="542,413,725,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatchEvents_1_1ListTargetsByRuleRequestPrivate.html" title="Private implementation for ListTargetsByRuleRequest. " alt="" coords="519,479,747,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatchEvents_1_1PutEventsRequestPrivate.html" title="Private implementation for PutEventsRequest. " alt="" coords="542,544,725,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatchEvents_1_1PutPermissionRequestPrivate.html" title="Private implementation for PutPermissionRequest. " alt="" coords="531,609,736,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatchEvents_1_1PutRuleRequestPrivate.html" title="Private implementation for PutRuleRequest. " alt="" coords="542,675,725,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatchEvents_1_1PutTargetsRequestPrivate.html" title="Private implementation for PutTargetsRequest. " alt="" coords="541,740,725,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatchEvents_1_1RemovePermissionRequestPrivate.html" title="Private implementation for RemovePermissionRequest. " alt="" coords="516,805,751,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatchEvents_1_1RemoveTargetsRequestPrivate.html" title="Private implementation for RemoveTargetsRequest. " alt="" coords="527,871,740,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatchEvents_1_1TestEventPatternRequestPrivate.html" title="Private implementation for TestEventPatternRequest. " alt="" coords="522,936,745,977"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,479,187,520"/>
+</map>

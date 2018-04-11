@@ -1,0 +1,5 @@
+<map id="QtAws::CodeCommit::ListPullRequestsRequest" name="QtAws::CodeCommit::ListPullRequestsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeCommit_1_1CodeCommitRequest.html" title="Interface class for providing CodeCommit requests. " alt="" coords="13,109,168,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="128,5,309,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="192,109,373,151"/>
+</map>

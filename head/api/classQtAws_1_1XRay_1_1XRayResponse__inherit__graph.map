@@ -1,0 +1,9 @@
+<map id="QtAws::XRay::XRayResponse" name="QtAws::XRay::XRayResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1XRay_1_1BatchGetTracesResponse.html" title="Handles XRay BatchGetTraces responses. " alt="" coords="616,5,823,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1XRay_1_1GetServiceGraphResponse.html" title="Handles XRay GetServiceGraph responses. " alt="" coords="614,71,825,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1XRay_1_1GetTraceGraphResponse.html" title="Handles XRay GetTraceGraph responses. " alt="" coords="619,136,819,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1XRay_1_1GetTraceSummariesResponse.html" title="Handles XRay GetTraceSummaries responses. " alt="" coords="604,201,835,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1XRay_1_1PutTelemetryRecordsResponse.html" title="Handles XRay PutTelemetryRecords responses. " alt="" coords="625,267,814,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1XRay_1_1PutTraceSegmentsResponse.html" title="Handles XRay PutTraceSegments responses. " alt="" coords="608,332,831,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,169,305,211"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::CodeCommit::UpdatePullRequestStatusResponse" name="QtAws::CodeCommit::UpdatePullRequestStatusResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeCommit_1_1CodeCommitResponse.html" title="Handles CodeCommit CodeCommit responses. " alt="" coords="42,169,201,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="31,80,212,121"/>
+</map>

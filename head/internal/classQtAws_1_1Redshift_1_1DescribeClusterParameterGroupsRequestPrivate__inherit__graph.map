@@ -1,0 +1,4 @@
+<map id="QtAws::Redshift::DescribeClusterParameterGroupsRequestPrivate" name="QtAws::Redshift::DescribeClusterParameterGroupsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Redshift_1_1RedshiftRequestPrivate.html" title="Private implementation for RedshiftRequest. " alt="" coords="45,95,221,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="43,5,224,47"/>
+</map>

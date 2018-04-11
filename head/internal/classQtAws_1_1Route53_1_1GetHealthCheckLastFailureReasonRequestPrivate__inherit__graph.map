@@ -1,0 +1,4 @@
+<map id="QtAws::Route53::GetHealthCheckLastFailureReasonRequestPrivate" name="QtAws::Route53::GetHealthCheckLastFailureReasonRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53_1_1Route53RequestPrivate.html" title="Private implementation for Route53Request. " alt="" coords="22,95,247,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="44,5,225,47"/>
+</map>

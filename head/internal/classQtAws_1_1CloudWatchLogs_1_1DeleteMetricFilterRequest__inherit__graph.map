@@ -1,0 +1,4 @@
+<map id="QtAws::CloudWatchLogs::DeleteMetricFilterRequest" name="QtAws::CloudWatchLogs::DeleteMetricFilterRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatchLogs_1_1CloudWatchLogsRequest.html" title="Interface class for providing CloudWatchLogs requests. " alt="" coords="7,95,186,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="6,5,187,47"/>
+</map>

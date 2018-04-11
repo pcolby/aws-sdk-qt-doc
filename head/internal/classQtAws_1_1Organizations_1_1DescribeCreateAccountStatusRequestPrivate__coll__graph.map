@@ -1,0 +1,5 @@
+<map id="QtAws::Organizations::DescribeCreateAccountStatusRequestPrivate" name="QtAws::Organizations::DescribeCreateAccountStatusRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Organizations_1_1OrganizationsRequestPrivate.html" title="Private implementation for OrganizationsRequest. " alt="" coords="9,109,209,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="169,5,350,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="233,109,414,151"/>
+</map>

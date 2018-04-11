@@ -1,0 +1,4 @@
+<map id="QtAws::EC2::CreateNetworkAclResponsePrivate" name="QtAws::EC2::CreateNetworkAclResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2ResponsePrivate.html" title="Private implementation for EC2Response. " alt="" coords="5,95,236,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="30,5,211,47"/>
+</map>

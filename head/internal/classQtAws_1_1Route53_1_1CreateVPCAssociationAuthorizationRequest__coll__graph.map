@@ -1,0 +1,5 @@
+<map id="QtAws::Route53::CreateVPCAssociationAuthorizationRequest" name="QtAws::Route53::CreateVPCAssociationAuthorizationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53_1_1Route53Request.html" title="Interface class for providing Route53 requests. " alt="" coords="24,117,249,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="210,5,391,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="274,109,455,151"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="QtAws::AppStream::AppStreamRequest" name="QtAws::AppStream::AppStreamRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1AppStream_1_1AssociateFleetRequest.html" title="Implements AppStream AssociateFleet requests. " alt="" coords="507,5,709,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1AppStream_1_1CopyImageRequest.html" title="Implements AppStream CopyImage requests. " alt="" coords="503,71,713,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1AppStream_1_1CreateDirectoryConfigRequest.html" title="Implements AppStream CreateDirectoryConfig requests. " alt="" coords="517,136,699,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1AppStream_1_1CreateFleetRequest.html" title="Implements AppStream CreateFleet requests. " alt="" coords="517,201,699,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1AppStream_1_1CreateImageBuilderRequest.html" title="Implements AppStream CreateImageBuilder requests. " alt="" coords="517,267,699,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1AppStream_1_1CreateImageBuilderStreamingURLRequest.html" title="Implements AppStream CreateImageBuilderStreamingURL requests. " alt="" coords="491,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1AppStream_1_1CreateStackRequest.html" title="Implements AppStream CreateStack requests. " alt="" coords="517,397,699,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1AppStream_1_1CreateStreamingURLRequest.html" title="Implements AppStream CreateStreamingURL requests. " alt="" coords="517,463,699,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1AppStream_1_1DeleteDirectoryConfigRequest.html" title="Implements AppStream DeleteDirectoryConfig requests. " alt="" coords="517,528,699,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1AppStream_1_1DeleteFleetRequest.html" title="Implements AppStream DeleteFleet requests. " alt="" coords="517,593,699,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1AppStream_1_1DeleteImageBuilderRequest.html" title="Implements AppStream DeleteImageBuilder requests. " alt="" coords="517,659,699,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1AppStream_1_1DeleteImageRequest.html" title="Implements AppStream DeleteImage requests. " alt="" coords="517,724,699,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1AppStream_1_1DeleteStackRequest.html" title="Implements AppStream DeleteStack requests. " alt="" coords="517,789,699,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1AppStream_1_1DescribeDirectoryConfigsRequest.html" title="Implements AppStream DescribeDirectoryConfigs requests. " alt="" coords="511,855,705,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1AppStream_1_1DescribeFleetsRequest.html" title="Implements AppStream DescribeFleets requests. " alt="" coords="511,920,705,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1AppStream_1_1DescribeImageBuildersRequest.html" title="Implements AppStream DescribeImageBuilders requests. " alt="" coords="511,985,705,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1AppStream_1_1DescribeImagesRequest.html" title="Implements AppStream DescribeImages requests. " alt="" coords="511,1051,705,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1AppStream_1_1DescribeSessionsRequest.html" title="Implements AppStream DescribeSessions requests. " alt="" coords="511,1116,705,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1AppStream_1_1DescribeStacksRequest.html" title="Implements AppStream DescribeStacks requests. " alt="" coords="511,1181,705,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1AppStream_1_1DisassociateFleetRequest.html" title="Implements AppStream DisassociateFleet requests. " alt="" coords="499,1247,717,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1AppStream_1_1ExpireSessionRequest.html" title="Implements AppStream ExpireSession requests. " alt="" coords="518,1312,698,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1AppStream_1_1ListAssociatedFleetsRequest.html" title="Implements AppStream ListAssociatedFleets requests. " alt="" coords="493,1377,723,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1AppStream_1_1ListAssociatedStacksRequest.html" title="Implements AppStream ListAssociatedStacks requests. " alt="" coords="493,1443,723,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1AppStream_1_1ListTagsForResourceRequest.html" title="Implements AppStream ListTagsForResource requests. " alt="" coords="511,1508,705,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1AppStream_1_1StartFleetRequest.html" title="Implements AppStream StartFleet requests. " alt="" coords="508,1573,708,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1AppStream_1_1StartImageBuilderRequest.html" title="Implements AppStream StartImageBuilder requests. " alt="" coords="505,1639,711,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1AppStream_1_1StopFleetRequest.html" title="Implements AppStream StopFleet requests. " alt="" coords="509,1704,707,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1AppStream_1_1StopImageBuilderRequest.html" title="Implements AppStream StopImageBuilder requests. " alt="" coords="505,1769,711,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1AppStream_1_1TagResourceRequest.html" title="Implements AppStream TagResource requests. " alt="" coords="497,1835,719,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1AppStream_1_1UntagResourceRequest.html" title="Implements AppStream UntagResource requests. " alt="" coords="491,1900,725,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1AppStream_1_1UpdateDirectoryConfigRequest.html" title="Implements AppStream UpdateDirectoryConfig requests. " alt="" coords="515,1965,701,2007"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1AppStream_1_1UpdateFleetRequest.html" title="Implements AppStream UpdateFleet requests. " alt="" coords="515,2031,701,2072"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1AppStream_1_1UpdateStackRequest.html" title="Implements AppStream UpdateStack requests. " alt="" coords="515,2096,701,2137"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1051,187,1092"/>
+</map>

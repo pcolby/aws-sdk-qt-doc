@@ -1,0 +1,22 @@
+<map id="QtAws::SFN::SFNRequest" name="QtAws::SFN::SFNRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1SFN_1_1CreateActivityRequest.html" title="Implements SFN CreateActivity requests. " alt="" coords="483,5,671,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SFN_1_1CreateStateMachineRequest.html" title="Implements SFN CreateStateMachine requests. " alt="" coords="465,71,689,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SFN_1_1DeleteActivityRequest.html" title="Implements SFN DeleteActivity requests. " alt="" coords="484,136,671,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SFN_1_1DeleteStateMachineRequest.html" title="Implements SFN DeleteStateMachine requests. " alt="" coords="466,201,689,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SFN_1_1DescribeActivityRequest.html" title="Implements SFN DescribeActivity requests. " alt="" coords="477,267,678,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SFN_1_1DescribeExecutionRequest.html" title="Implements SFN DescribeExecution requests. " alt="" coords="470,332,685,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SFN_1_1DescribeStateMachineForExecutionRequest.html" title="Implements SFN DescribeStateMachineForExecution requests. " alt="" coords="479,397,676,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SFN_1_1DescribeStateMachineRequest.html" title="Implements SFN DescribeStateMachine requests. " alt="" coords="483,463,671,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SFN_1_1GetActivityTaskRequest.html" title="Implements SFN GetActivityTask requests. " alt="" coords="478,528,677,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SFN_1_1GetExecutionHistoryRequest.html" title="Implements SFN GetExecutionHistory requests. " alt="" coords="485,593,669,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SFN_1_1ListActivitiesRequest.html" title="Implements SFN ListActivities requests. " alt="" coords="487,659,667,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SFN_1_1ListExecutionsRequest.html" title="Implements SFN ListExecutions requests. " alt="" coords="482,724,673,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SFN_1_1ListStateMachinesRequest.html" title="Implements SFN ListStateMachines requests. " alt="" coords="471,789,684,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SFN_1_1SendTaskFailureRequest.html" title="Implements SFN SendTaskFailure requests. " alt="" coords="476,855,679,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SFN_1_1SendTaskHeartbeatRequest.html" title="Implements SFN SendTaskHeartbeat requests. " alt="" coords="467,920,688,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SFN_1_1SendTaskSuccessRequest.html" title="Implements SFN SendTaskSuccess requests. " alt="" coords="470,985,685,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SFN_1_1StartExecutionRequest.html" title="Implements SFN StartExecution requests. " alt="" coords="482,1051,673,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SFN_1_1StopExecutionRequest.html" title="Implements SFN StopExecution requests. " alt="" coords="482,1116,673,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SFN_1_1UpdateStateMachineRequest.html" title="Implements SFN UpdateStateMachine requests. " alt="" coords="464,1181,691,1223"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,593,187,635"/>
+</map>

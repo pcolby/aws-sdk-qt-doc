@@ -1,0 +1,4 @@
+<map id="QtAws::Kinesis::ListTagsForStreamResponse" name="QtAws::Kinesis::ListTagsForStreamResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Kinesis_1_1KinesisResponse.html" title="Handles Kinesis Kinesis responses. " alt="" coords="5,169,228,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

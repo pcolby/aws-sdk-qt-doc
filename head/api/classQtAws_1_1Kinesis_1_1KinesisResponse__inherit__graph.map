@@ -1,0 +1,26 @@
+<map id="QtAws::Kinesis::KinesisResponse" name="QtAws::Kinesis::KinesisResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Kinesis_1_1AddTagsToStreamResponse.html" title="Handles Kinesis AddTagsToStream responses. " alt="" coords="641,5,829,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Kinesis_1_1CreateStreamResponse.html" title="Handles Kinesis CreateStream responses. " alt="" coords="634,71,837,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Kinesis_1_1DecreaseStreamRetentionPeriodResponse.html" title="Handles Kinesis DecreaseStreamRetentionPeriod responses. " alt="" coords="627,136,843,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Kinesis_1_1DeleteStreamResponse.html" title="Handles Kinesis DeleteStream responses. " alt="" coords="635,201,836,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Kinesis_1_1DescribeLimitsResponse.html" title="Handles Kinesis DescribeLimits responses. " alt="" coords="649,267,822,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Kinesis_1_1DescribeStreamResponse.html" title="Handles Kinesis DescribeStream responses. " alt="" coords="649,332,822,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Kinesis_1_1DescribeStreamSummaryResponse.html" title="Handles Kinesis DescribeStreamSummary responses. " alt="" coords="646,397,825,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Kinesis_1_1DisableEnhancedMonitoringResponse.html" title="Handles Kinesis DisableEnhancedMonitoring responses. " alt="" coords="624,463,847,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Kinesis_1_1EnableEnhancedMonitoringResponse.html" title="Handles Kinesis EnableEnhancedMonitoring responses. " alt="" coords="626,528,845,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Kinesis_1_1GetRecordsResponse.html" title="Handles Kinesis GetRecords responses. " alt="" coords="640,593,831,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Kinesis_1_1GetShardIteratorResponse.html" title="Handles Kinesis GetShardIterator responses. " alt="" coords="647,659,823,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Kinesis_1_1IncreaseStreamRetentionPeriodResponse.html" title="Handles Kinesis IncreaseStreamRetentionPeriod responses. " alt="" coords="627,724,843,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Kinesis_1_1ListShardsResponse.html" title="Handles Kinesis ListShards responses. " alt="" coords="644,789,827,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Kinesis_1_1ListStreamsResponse.html" title="Handles Kinesis ListStreams responses. " alt="" coords="640,855,831,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Kinesis_1_1ListTagsForStreamResponse.html" title="Handles Kinesis ListTagsForStream responses. " alt="" coords="650,920,821,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Kinesis_1_1MergeShardsResponse.html" title="Handles Kinesis MergeShards responses. " alt="" coords="636,985,835,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Kinesis_1_1PutRecordResponse.html" title="Handles Kinesis PutRecord responses. " alt="" coords="644,1051,827,1092"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Kinesis_1_1PutRecordsResponse.html" title="Handles Kinesis PutRecords responses. " alt="" coords="640,1116,831,1157"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Kinesis_1_1RemoveTagsFromStreamResponse.html" title="Handles Kinesis RemoveTagsFromStream responses. " alt="" coords="636,1181,835,1223"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Kinesis_1_1SplitShardResponse.html" title="Handles Kinesis SplitShard responses. " alt="" coords="645,1247,826,1288"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Kinesis_1_1StartStreamEncryptionResponse.html" title="Handles Kinesis StartStreamEncryption responses. " alt="" coords="640,1312,831,1353"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Kinesis_1_1StopStreamEncryptionResponse.html" title="Handles Kinesis StopStreamEncryption responses. " alt="" coords="640,1377,831,1419"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Kinesis_1_1UpdateShardCountResponse.html" title="Handles Kinesis UpdateShardCount responses. " alt="" coords="637,1443,834,1484"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,724,305,765"/>
+</map>

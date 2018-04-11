@@ -1,0 +1,14 @@
+<map id="QtAws::Athena::AthenaResponsePrivate" name="QtAws::Athena::AthenaResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Athena_1_1BatchGetNamedQueryResponsePrivate.html" title="Private implementation for BatchGetNamedQueryResponse. " alt="" coords="510,5,726,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Athena_1_1BatchGetQueryExecutionResponsePrivate.html" title="Private implementation for BatchGetQueryExecutionResponse. " alt="" coords="513,71,723,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Athena_1_1CreateNamedQueryResponsePrivate.html" title="Private implementation for CreateNamedQueryResponse. " alt="" coords="518,136,718,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Athena_1_1DeleteNamedQueryResponsePrivate.html" title="Private implementation for DeleteNamedQueryResponse. " alt="" coords="519,201,717,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Athena_1_1GetNamedQueryResponsePrivate.html" title="Private implementation for GetNamedQueryResponse. " alt="" coords="509,267,727,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Athena_1_1GetQueryExecutionResponsePrivate.html" title="Private implementation for GetQueryExecutionResponse. " alt="" coords="501,332,735,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Athena_1_1GetQueryResultsResponsePrivate.html" title="Private implementation for GetQueryResultsResponse. " alt="" coords="508,397,728,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Athena_1_1ListNamedQueriesResponsePrivate.html" title="Private implementation for ListNamedQueriesResponse. " alt="" coords="527,463,709,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Athena_1_1ListQueryExecutionsResponsePrivate.html" title="Private implementation for ListQueryExecutionsResponse. " alt="" coords="525,528,711,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Athena_1_1StartQueryExecutionResponsePrivate.html" title="Private implementation for StartQueryExecutionResponse. " alt="" coords="527,593,709,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Athena_1_1StopQueryExecutionResponsePrivate.html" title="Private implementation for StopQueryExecutionResponse. " alt="" coords="527,659,709,700"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,332,187,373"/>
+</map>

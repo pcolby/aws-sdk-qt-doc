@@ -1,0 +1,5 @@
+<map id="QtAws::SqsOld::SqsCreateQueueResponsePrivate" name="QtAws::SqsOld::SqsCreateQueueResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SqsOld_1_1SqsResponsePrivate.html" title="Private implementation for SqsResponse. " alt="" coords="5,157,208,199"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SqsOld_1_1SqsCreateQueueResponse.html" title="Handles SQS CreateQueue responses. " alt="" coords="234,157,417,199"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SqsOld_1_1SqsResponse.html" title="Interface class for processing SQS responses. " alt="" coords="228,81,431,108"/>
+</map>

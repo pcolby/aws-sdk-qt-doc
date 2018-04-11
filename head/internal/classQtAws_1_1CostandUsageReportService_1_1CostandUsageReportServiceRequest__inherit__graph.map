@@ -1,0 +1,6 @@
+<map id="QtAws::CostandUsageReportService::CostandUsageReportServiceRequest" name="QtAws::CostandUsageReportService::CostandUsageReportServiceRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CostandUsageReportService_1_1DeleteReportDefinitionRequest.html" title="Implements CostandUsageReportService DeleteReportDefinition requests. " alt="" coords="542,5,749,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CostandUsageReportService_1_1DescribeReportDefinitionsRequest.html" title="Implements CostandUsageReportService DescribeReportDefinitions requests. " alt="" coords="532,85,759,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CostandUsageReportService_1_1PutReportDefinitionRequest.html" title="Implements CostandUsageReportService PutReportDefinition requests. " alt="" coords="527,166,764,207"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,93,187,134"/>
+</map>

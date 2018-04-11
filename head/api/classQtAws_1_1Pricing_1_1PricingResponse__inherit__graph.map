@@ -1,0 +1,6 @@
+<map id="QtAws::Pricing::PricingResponse" name="QtAws::Pricing::PricingResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Pricing_1_1DescribeServicesResponse.html" title="Handles Pricing DescribeServices responses. " alt="" coords="629,5,799,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Pricing_1_1GetAttributeValuesResponse.html" title="Handles Pricing GetAttributeValues responses. " alt="" coords="620,71,808,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Pricing_1_1GetProductsResponse.html" title="Handles Pricing GetProducts responses. " alt="" coords="619,136,809,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,71,305,112"/>
+</map>

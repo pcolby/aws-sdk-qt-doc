@@ -1,0 +1,33 @@
+<map id="QtAws::Lambda::LambdaRequestPrivate" name="QtAws::Lambda::LambdaRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Lambda_1_1AddPermissionRequestPrivate.html" title="Private implementation for AddPermissionRequest. " alt="" coords="515,5,727,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Lambda_1_1CreateAliasRequestPrivate.html" title="Private implementation for CreateAliasRequest. " alt="" coords="525,71,717,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Lambda_1_1CreateEventSourceMappingRequestPrivate.html" title="Private implementation for CreateEventSourceMappingRequest. " alt="" coords="519,136,722,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Lambda_1_1CreateFunctionRequestPrivate.html" title="Private implementation for CreateFunctionRequest. " alt="" coords="514,201,727,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Lambda_1_1DeleteAliasRequestPrivate.html" title="Private implementation for DeleteAliasRequest. " alt="" coords="525,267,716,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Lambda_1_1DeleteEventSourceMappingRequestPrivate.html" title="Private implementation for DeleteEventSourceMappingRequest. " alt="" coords="519,332,722,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Lambda_1_1DeleteFunctionConcurrencyRequestPrivate.html" title="Private implementation for DeleteFunctionConcurrencyRequest. " alt="" coords="515,397,727,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Lambda_1_1DeleteFunctionRequestPrivate.html" title="Private implementation for DeleteFunctionRequest. " alt="" coords="515,463,727,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Lambda_1_1GetAccountSettingsRequestPrivate.html" title="Private implementation for GetAccountSettingsRequest. " alt="" coords="524,528,717,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Lambda_1_1GetAliasRequestPrivate.html" title="Private implementation for GetAliasRequest. " alt="" coords="509,593,732,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Lambda_1_1GetEventSourceMappingRequestPrivate.html" title="Private implementation for GetEventSourceMappingRequest. " alt="" coords="511,659,731,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Lambda_1_1GetFunctionConfigurationRequestPrivate.html" title="Private implementation for GetFunctionConfigurationRequest. " alt="" coords="523,724,718,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Lambda_1_1GetFunctionRequestPrivate.html" title="Private implementation for GetFunctionRequest. " alt="" coords="523,789,718,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Lambda_1_1GetPolicyRequestPrivate.html" title="Private implementation for GetPolicyRequest. " alt="" coords="530,855,711,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Lambda_1_1InvokeAsyncRequestPrivate.html" title="Private implementation for InvokeAsyncRequest. " alt="" coords="521,920,721,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Lambda_1_1InvokeRequestPrivate.html" title="Private implementation for InvokeRequest. " alt="" coords="515,985,727,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Lambda_1_1ListAliasesRequestPrivate.html" title="Private implementation for ListAliasesRequest. " alt="" coords="527,1051,715,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Lambda_1_1ListEventSourceMappingsRequestPrivate.html" title="Private implementation for ListEventSourceMappingsRequest. " alt="" coords="516,1116,725,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Lambda_1_1ListFunctionsRequestPrivate.html" title="Private implementation for ListFunctionsRequest. " alt="" coords="519,1181,722,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Lambda_1_1ListTagsRequestPrivate.html" title="Private implementation for ListTagsRequest. " alt="" coords="509,1247,732,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Lambda_1_1ListVersionsByFunctionRequestPrivate.html" title="Private implementation for ListVersionsByFunctionRequest. " alt="" coords="523,1312,719,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Lambda_1_1PublishVersionRequestPrivate.html" title="Private implementation for PublishVersionRequest. " alt="" coords="515,1377,726,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Lambda_1_1PutFunctionConcurrencyRequestPrivate.html" title="Private implementation for PutFunctionConcurrencyRequest. " alt="" coords="523,1443,718,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Lambda_1_1RemovePermissionRequestPrivate.html" title="Private implementation for RemovePermissionRequest. " alt="" coords="501,1508,740,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1Lambda_1_1TagResourceRequestPrivate.html" title="Private implementation for TagResourceRequest. " alt="" coords="519,1573,722,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1Lambda_1_1UntagResourceRequestPrivate.html" title="Private implementation for UntagResourceRequest. " alt="" coords="513,1639,728,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1Lambda_1_1UpdateAliasRequestPrivate.html" title="Private implementation for UpdateAliasRequest. " alt="" coords="523,1704,718,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1Lambda_1_1UpdateEventSourceMappingRequestPrivate.html" title="Private implementation for UpdateEventSourceMappingRequest. " alt="" coords="519,1769,722,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1Lambda_1_1UpdateFunctionCodeRequestPrivate.html" title="Private implementation for UpdateFunctionCodeRequest. " alt="" coords="513,1835,729,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1Lambda_1_1UpdateFunctionConfigurationRequestPrivate.html" title="Private implementation for UpdateFunctionConfigurationRequest. " alt="" coords="513,1900,729,1941"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,953,187,995"/>
+</map>

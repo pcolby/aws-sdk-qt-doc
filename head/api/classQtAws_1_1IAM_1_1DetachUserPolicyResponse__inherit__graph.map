@@ -1,0 +1,4 @@
+<map id="QtAws::IAM::DetachUserPolicyResponse" name="QtAws::IAM::DetachUserPolicyResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1IAM_1_1IAMResponse.html" title="Handles IAM IAM responses. " alt="" coords="17,169,202,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="19,80,200,121"/>
+</map>

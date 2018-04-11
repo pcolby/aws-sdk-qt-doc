@@ -1,0 +1,5 @@
+<map id="QtAws::MarketplaceMetering::BatchMeterUsageRequestPrivate" name="QtAws::MarketplaceMetering::BatchMeterUsageRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1MarketplaceMetering_1_1MarketplaceMeteringRequestPrivate.html" title="Private implementation for MarketplaceMeteringRequest. " alt="" coords="5,109,247,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="207,5,389,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="271,109,453,151"/>
+</map>

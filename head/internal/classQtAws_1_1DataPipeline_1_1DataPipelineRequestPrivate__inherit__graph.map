@@ -1,0 +1,22 @@
+<map id="QtAws::DataPipeline::DataPipelineRequestPrivate" name="QtAws::DataPipeline::DataPipelineRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1DataPipeline_1_1ActivatePipelineRequestPrivate.html" title="Private implementation for ActivatePipelineRequest. " alt="" coords="479,5,693,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DataPipeline_1_1AddTagsRequestPrivate.html" title="Private implementation for AddTagsRequest. " alt="" coords="500,71,672,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DataPipeline_1_1CreatePipelineRequestPrivate.html" title="Private implementation for CreatePipelineRequest. " alt="" coords="483,136,689,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DataPipeline_1_1DeactivatePipelineRequestPrivate.html" title="Private implementation for DeactivatePipelineRequest. " alt="" coords="492,202,680,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DataPipeline_1_1DeletePipelineRequestPrivate.html" title="Private implementation for DeletePipelineRequest. " alt="" coords="484,283,688,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DataPipeline_1_1DescribeObjectsRequestPrivate.html" title="Private implementation for DescribeObjectsRequest. " alt="" coords="477,348,695,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DataPipeline_1_1DescribePipelinesRequestPrivate.html" title="Private implementation for DescribePipelinesRequest. " alt="" coords="494,414,678,470"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DataPipeline_1_1EvaluateExpressionRequestPrivate.html" title="Private implementation for EvaluateExpressionRequest. " alt="" coords="489,494,683,550"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DataPipeline_1_1GetPipelineDefinitionRequestPrivate.html" title="Private implementation for GetPipelineDefinitionRequest. " alt="" coords="485,574,687,630"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DataPipeline_1_1ListPipelinesRequestPrivate.html" title="Private implementation for ListPipelinesRequest. " alt="" coords="489,655,683,696"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DataPipeline_1_1PollForTaskRequestPrivate.html" title="Private implementation for PollForTaskRequest. " alt="" coords="491,720,681,761"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DataPipeline_1_1PutPipelineDefinitionRequestPrivate.html" title="Private implementation for PutPipelineDefinitionRequest. " alt="" coords="486,786,686,842"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DataPipeline_1_1QueryObjectsRequestPrivate.html" title="Private implementation for QueryObjectsRequest. " alt="" coords="486,867,686,908"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DataPipeline_1_1RemoveTagsRequestPrivate.html" title="Private implementation for RemoveTagsRequest. " alt="" coords="487,932,685,973"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DataPipeline_1_1ReportTaskProgressRequestPrivate.html" title="Private implementation for ReportTaskProgressRequest. " alt="" coords="487,998,685,1054"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DataPipeline_1_1ReportTaskRunnerHeartbeatRequestPrivate.html" title="Private implementation for ReportTaskRunnerHeartbeatRequest. " alt="" coords="487,1078,685,1134"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DataPipeline_1_1SetStatusRequestPrivate.html" title="Private implementation for SetStatusRequest. " alt="" coords="497,1159,675,1200"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DataPipeline_1_1SetTaskStatusRequestPrivate.html" title="Private implementation for SetTaskStatusRequest. " alt="" coords="483,1224,689,1265"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DataPipeline_1_1ValidatePipelineDefinitionRequestPrivate.html" title="Private implementation for ValidatePipelineDefinitionRequest. " alt="" coords="497,1290,675,1346"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,655,187,696"/>
+</map>

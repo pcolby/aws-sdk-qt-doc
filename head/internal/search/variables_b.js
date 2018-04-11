@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['rawcode',['rawCode',['../classSqsErrorPrivate.html#aa4b2826aac3ae41385ffd2945efbc7d9',1,'SqsErrorPrivate']]],
-  ['rawtype',['rawType',['../classSqsErrorPrivate.html#a261102caf4fb216354d337455280dd58',1,'SqsErrorPrivate']]],
-  ['region',['region',['../classAwsAbstractClientPrivate.html#a380b81e7b820b6b04b581cc00ec9b0c0',1,'AwsAbstractClientPrivate::region()'],['../classAwsRegionPrivate.html#ae5185facf662728b0dadf4fe646b8971',1,'AwsRegionPrivate::region()']]],
-  ['regionname',['regionName',['../classAwsEndpointPrivate.html#ac6fef7bca4012bed4feeb7bc59cbc254',1,'AwsEndpointPrivate']]],
-  ['regionnames',['regionNames',['../structAwsEndpointPrivate_1_1HostInfo.html#a7835e6e9657a9dd88296d389b67ab7de',1,'AwsEndpointPrivate::HostInfo::regionNames()'],['../structAwsEndpointPrivate_1_1ServiceInfo.html#adbc2f3be0a04b556468608130c7d7473',1,'AwsEndpointPrivate::ServiceInfo::regionNames()']]],
-  ['regions',['regions',['../classAwsEndpointPrivate.html#a4fde1f3d151910b897bda27da37ad25e',1,'AwsEndpointPrivate']]],
-  ['reply',['reply',['../classAwsAbstractResponsePrivate.html#a63f6f6197cd3239d5537cae88899cb55',1,'AwsAbstractResponsePrivate']]],
-  ['request',['request',['../classAwsAbstractResponsePrivate.html#afaf7eea4e060d7365e159b901865b1c1',1,'AwsAbstractResponsePrivate']]],
-  ['requestid',['requestId',['../classSqsResponsePrivate.html#a0c32040a36e5c2846bc344323e654715',1,'SqsResponsePrivate']]]
+  ['rawcode',['rawCode',['../classQtAws_1_1SqsOld_1_1SqsErrorPrivate.html#a9990894330df62c5fae7ce76718be750',1,'QtAws::SqsOld::SqsErrorPrivate']]],
+  ['rawtype',['rawType',['../classQtAws_1_1SqsOld_1_1SqsErrorPrivate.html#afe96ce8563fd6e0e6484fcd565b7952f',1,'QtAws::SqsOld::SqsErrorPrivate']]],
+  ['region',['region',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#a51de0e8f1ad8eac468aa84b58d91bf6c',1,'QtAws::Core::AwsAbstractClientPrivate::region()'],['../classQtAws_1_1Core_1_1AwsRegionPrivate.html#a92e61da07dfebd02189a63e6091f4ce2',1,'QtAws::Core::AwsRegionPrivate::region()']]],
+  ['regionname',['regionName',['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#a2bd5d203198836994c3a8fd8719fa21f',1,'QtAws::Core::AwsEndpointPrivate']]],
+  ['regionnames',['regionNames',['../structQtAws_1_1Core_1_1AwsEndpointPrivate_1_1HostInfo.html#ab28cb3d80616308566f837b33b55af4e',1,'QtAws::Core::AwsEndpointPrivate::HostInfo::regionNames()'],['../structQtAws_1_1Core_1_1AwsEndpointPrivate_1_1ServiceInfo.html#a848114e344966cd6cc1e6a2911b3fa42',1,'QtAws::Core::AwsEndpointPrivate::ServiceInfo::regionNames()']]],
+  ['regions',['regions',['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#aa895528724f38f3871b50f2c886e33dd',1,'QtAws::Core::AwsEndpointPrivate']]],
+  ['reply',['reply',['../classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html#a89e3ad2ca9f174b7b552147fc95c1949',1,'QtAws::Core::AwsAbstractResponsePrivate']]],
+  ['request',['request',['../classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html#a0402e375763ac35948a4f7448a73bf6a',1,'QtAws::Core::AwsAbstractResponsePrivate']]],
+  ['requestid',['requestId',['../classQtAws_1_1SqsOld_1_1SqsResponsePrivate.html#ab18437d57d2ca744eb51f48160ff3060',1,'QtAws::SqsOld::SqsResponsePrivate']]]
 ];

@@ -1,0 +1,4 @@
+<map id="QtAws::SMS::GetConnectorsRequest" name="QtAws::SMS::GetConnectorsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SMS_1_1SMSRequest.html" title="Interface class for providing SMS requests. " alt="" coords="10,95,195,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="12,5,193,47"/>
+</map>

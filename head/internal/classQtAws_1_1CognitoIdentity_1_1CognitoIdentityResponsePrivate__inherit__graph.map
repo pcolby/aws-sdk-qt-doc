@@ -1,0 +1,21 @@
+<map id="QtAws::CognitoIdentity::CognitoIdentityResponsePrivate" name="QtAws::CognitoIdentity::CognitoIdentityResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CognitoIdentity_1_1CreateIdentityPoolResponsePrivate.html" title="Private implementation for CreateIdentityPoolResponse. " alt="" coords="522,5,719,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentitiesResponsePrivate.html" title="Private implementation for DeleteIdentitiesResponse. " alt="" coords="510,86,731,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CognitoIdentity_1_1DeleteIdentityPoolResponsePrivate.html" title="Private implementation for DeleteIdentityPoolResponse. " alt="" coords="523,152,719,208"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityPoolResponsePrivate.html" title="Private implementation for DescribeIdentityPoolResponse. " alt="" coords="515,232,726,288"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CognitoIdentity_1_1DescribeIdentityResponsePrivate.html" title="Private implementation for DescribeIdentityResponse. " alt="" coords="508,313,733,354"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CognitoIdentity_1_1GetCredentialsForIdentityResponsePrivate.html" title="Private implementation for GetCredentialsForIdentityResponse. " alt="" coords="501,379,740,435"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CognitoIdentity_1_1GetIdentityPoolRolesResponsePrivate.html" title="Private implementation for GetIdentityPoolRolesResponse. " alt="" coords="514,459,727,515"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CognitoIdentity_1_1GetIdResponsePrivate.html" title="Private implementation for GetIdResponse. " alt="" coords="539,539,702,581"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenForDeveloperIdentityResponsePrivate.html" title="Private implementation for GetOpenIdTokenForDeveloperIdentityResponse. " alt="" coords="517,605,724,661"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CognitoIdentity_1_1GetOpenIdTokenResponsePrivate.html" title="Private implementation for GetOpenIdTokenResponse. " alt="" coords="506,686,735,727"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentitiesResponsePrivate.html" title="Private implementation for ListIdentitiesResponse. " alt="" coords="519,751,723,793"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CognitoIdentity_1_1ListIdentityPoolsResponsePrivate.html" title="Private implementation for ListIdentityPoolsResponse. " alt="" coords="507,817,734,858"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CognitoIdentity_1_1LookupDeveloperIdentityResponsePrivate.html" title="Private implementation for LookupDeveloperIdentityResponse. " alt="" coords="504,883,737,939"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CognitoIdentity_1_1MergeDeveloperIdentitiesResponsePrivate.html" title="Private implementation for MergeDeveloperIdentitiesResponse. " alt="" coords="502,963,739,1019"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CognitoIdentity_1_1SetIdentityPoolRolesResponsePrivate.html" title="Private implementation for SetIdentityPoolRolesResponse. " alt="" coords="515,1043,727,1099"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkDeveloperIdentityResponsePrivate.html" title="Private implementation for UnlinkDeveloperIdentityResponse. " alt="" coords="507,1123,735,1179"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CognitoIdentity_1_1UnlinkIdentityResponsePrivate.html" title="Private implementation for UnlinkIdentityResponse. " alt="" coords="515,1203,726,1245"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CognitoIdentity_1_1UpdateIdentityPoolResponsePrivate.html" title="Private implementation for UpdateIdentityPoolResponse. " alt="" coords="521,1269,721,1325"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,650,187,691"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::GameLift::CreateVpcPeeringConnectionResponsePrivate" name="QtAws::GameLift::CreateVpcPeeringConnectionResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftResponsePrivate.html" title="Private implementation for GameLiftResponse. " alt="" coords="29,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="31,5,212,47"/>
+</map>

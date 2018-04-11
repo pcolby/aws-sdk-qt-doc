@@ -1,0 +1,31 @@
+<map id="QtAws::WorkMail::WorkMailRequest" name="QtAws::WorkMail::WorkMailRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1WorkMail_1_1AssociateDelegateToResourceRequest.html" title="Implements WorkMail AssociateDelegateToResource requests. " alt="" coords="491,5,685,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1WorkMail_1_1AssociateMemberToGroupRequest.html" title="Implements WorkMail AssociateMemberToGroup requests. " alt="" coords="493,71,683,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1WorkMail_1_1CreateAliasRequest.html" title="Implements WorkMail CreateAlias requests. " alt="" coords="487,136,689,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1WorkMail_1_1CreateGroupRequest.html" title="Implements WorkMail CreateGroup requests. " alt="" coords="485,201,691,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1WorkMail_1_1CreateResourceRequest.html" title="Implements WorkMail CreateResource requests. " alt="" coords="474,267,702,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1WorkMail_1_1CreateUserRequest.html" title="Implements WorkMail CreateUser requests. " alt="" coords="488,332,688,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1WorkMail_1_1DeleteAliasRequest.html" title="Implements WorkMail DeleteAlias requests. " alt="" coords="488,397,688,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1WorkMail_1_1DeleteGroupRequest.html" title="Implements WorkMail DeleteGroup requests. " alt="" coords="485,463,691,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1WorkMail_1_1DeleteResourceRequest.html" title="Implements WorkMail DeleteResource requests. " alt="" coords="475,528,701,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1WorkMail_1_1DeleteUserRequest.html" title="Implements WorkMail DeleteUser requests. " alt="" coords="489,593,687,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1WorkMail_1_1DeregisterFromWorkMailRequest.html" title="Implements WorkMail DeregisterFromWorkMail requests. " alt="" coords="491,659,685,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1WorkMail_1_1DescribeGroupRequest.html" title="Implements WorkMail DescribeGroup requests. " alt="" coords="495,724,681,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1WorkMail_1_1DescribeOrganizationRequest.html" title="Implements WorkMail DescribeOrganization requests. " alt="" coords="495,789,681,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1WorkMail_1_1DescribeResourceRequest.html" title="Implements WorkMail DescribeResource requests. " alt="" coords="495,855,681,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1WorkMail_1_1DescribeUserRequest.html" title="Implements WorkMail DescribeUser requests. " alt="" coords="495,920,681,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1WorkMail_1_1DisassociateDelegateFromResourceRequest.html" title="Implements WorkMail DisassociateDelegateFromResource requests. " alt="" coords="483,985,693,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1WorkMail_1_1DisassociateMemberFromGroupRequest.html" title="Implements WorkMail DisassociateMemberFromGroup requests. " alt="" coords="483,1051,693,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1WorkMail_1_1ListAliasesRequest.html" title="Implements WorkMail ListAliases requests. " alt="" coords="489,1116,687,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1WorkMail_1_1ListGroupMembersRequest.html" title="Implements WorkMail ListGroupMembers requests. " alt="" coords="493,1181,683,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1WorkMail_1_1ListGroupsRequest.html" title="Implements WorkMail ListGroups requests. " alt="" coords="490,1247,686,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1WorkMail_1_1ListOrganizationsRequest.html" title="Implements WorkMail ListOrganizations requests. " alt="" coords="471,1312,705,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1WorkMail_1_1ListResourceDelegatesRequest.html" title="Implements WorkMail ListResourceDelegates requests. " alt="" coords="483,1377,693,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1WorkMail_1_1ListResourcesRequest.html" title="Implements WorkMail ListResources requests. " alt="" coords="479,1443,697,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1WorkMail_1_1ListUsersRequest.html" title="Implements WorkMail ListUsers requests. " alt="" coords="493,1508,683,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1WorkMail_1_1RegisterToWorkMailRequest.html" title="Implements WorkMail RegisterToWorkMail requests. " alt="" coords="497,1573,679,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1WorkMail_1_1ResetPasswordRequest.html" title="Implements WorkMail ResetPassword requests. " alt="" coords="475,1639,701,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1WorkMail_1_1UpdatePrimaryEmailAddressRequest.html" title="Implements WorkMail UpdatePrimaryEmailAddress requests. " alt="" coords="478,1704,698,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1WorkMail_1_1UpdateResourceRequest.html" title="Implements WorkMail UpdateResource requests. " alt="" coords="473,1769,703,1811"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,888,187,929"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::GameLift::UpdateMatchmakingConfigurationResponse" name="QtAws::GameLift::UpdateMatchmakingConfigurationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1GameLift_1_1GameLiftResponse.html" title="Handles GameLift GameLift responses. " alt="" coords="39,169,223,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="40,80,221,121"/>
+</map>

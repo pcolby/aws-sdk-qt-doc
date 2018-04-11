@@ -1,0 +1,31 @@
+<map id="QtAws::MachineLearning::MachineLearningRequest" name="QtAws::MachineLearning::MachineLearningRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MachineLearning_1_1AddTagsRequest.html" title="Implements MachineLearning AddTags requests. " alt="" coords="499,5,667,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MachineLearning_1_1CreateBatchPredictionRequest.html" title="Implements MachineLearning CreateBatchPrediction requests. " alt="" coords="478,71,689,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromRDSRequest.html" title="Implements MachineLearning CreateDataSourceFromRDS requests. " alt="" coords="460,136,707,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromRedshiftRequest.html" title="Implements MachineLearning CreateDataSourceFromRedshift requests. " alt="" coords="475,202,692,258"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MachineLearning_1_1CreateDataSourceFromS3Request.html" title="Implements MachineLearning CreateDataSourceFromS3 requests. " alt="" coords="467,283,700,324"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MachineLearning_1_1CreateEvaluationRequest.html" title="Implements MachineLearning CreateEvaluation requests. " alt="" coords="494,348,673,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MachineLearning_1_1CreateMLModelRequest.html" title="Implements MachineLearning CreateMLModel requests. " alt="" coords="498,413,669,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MachineLearning_1_1CreateRealtimeEndpointRequest.html" title="Implements MachineLearning CreateRealtimeEndpoint requests. " alt="" coords="473,479,694,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MachineLearning_1_1DeleteBatchPredictionRequest.html" title="Implements MachineLearning DeleteBatchPrediction requests. " alt="" coords="479,544,688,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MachineLearning_1_1DeleteDataSourceRequest.html" title="Implements MachineLearning DeleteDataSource requests. " alt="" coords="490,609,677,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1MachineLearning_1_1DeleteEvaluationRequest.html" title="Implements MachineLearning DeleteEvaluation requests. " alt="" coords="494,675,673,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1MachineLearning_1_1DeleteMLModelRequest.html" title="Implements MachineLearning DeleteMLModel requests. " alt="" coords="498,740,669,781"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1MachineLearning_1_1DeleteRealtimeEndpointRequest.html" title="Implements MachineLearning DeleteRealtimeEndpoint requests. " alt="" coords="473,805,693,847"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1MachineLearning_1_1DeleteTagsRequest.html" title="Implements MachineLearning DeleteTags requests. " alt="" coords="499,871,667,912"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1MachineLearning_1_1DescribeBatchPredictionsRequest.html" title="Implements MachineLearning DescribeBatchPredictions requests. " alt="" coords="468,936,699,977"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1MachineLearning_1_1DescribeDataSourcesRequest.html" title="Implements MachineLearning DescribeDataSources requests. " alt="" coords="480,1001,687,1043"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1MachineLearning_1_1DescribeEvaluationsRequest.html" title="Implements MachineLearning DescribeEvaluations requests. " alt="" coords="484,1067,683,1108"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1MachineLearning_1_1DescribeMLModelsRequest.html" title="Implements MachineLearning DescribeMLModels requests. " alt="" coords="488,1132,679,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1MachineLearning_1_1DescribeTagsRequest.html" title="Implements MachineLearning DescribeTags requests. " alt="" coords="499,1197,667,1239"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1MachineLearning_1_1GetBatchPredictionRequest.html" title="Implements MachineLearning GetBatchPrediction requests. " alt="" coords="487,1263,679,1304"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1MachineLearning_1_1GetDataSourceRequest.html" title="Implements MachineLearning GetDataSource requests. " alt="" coords="499,1328,668,1369"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1MachineLearning_1_1GetEvaluationRequest.html" title="Implements MachineLearning GetEvaluation requests. " alt="" coords="499,1393,667,1435"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1MachineLearning_1_1GetMLModelRequest.html" title="Implements MachineLearning GetMLModel requests. " alt="" coords="499,1459,667,1500"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1MachineLearning_1_1PredictRequest.html" title="Implements MachineLearning Predict requests. " alt="" coords="499,1524,667,1565"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1MachineLearning_1_1UpdateBatchPredictionRequest.html" title="Implements MachineLearning UpdateBatchPrediction requests. " alt="" coords="477,1589,690,1631"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1MachineLearning_1_1UpdateDataSourceRequest.html" title="Implements MachineLearning UpdateDataSource requests. " alt="" coords="488,1655,679,1696"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1MachineLearning_1_1UpdateEvaluationRequest.html" title="Implements MachineLearning UpdateEvaluation requests. " alt="" coords="492,1720,675,1761"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1MachineLearning_1_1UpdateMLModelRequest.html" title="Implements MachineLearning UpdateMLModel requests. " alt="" coords="496,1785,671,1827"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,904,187,945"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::CloudFormation::CancelUpdateStackRequest" name="QtAws::CloudFormation::CancelUpdateStackRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFormation_1_1CloudFormationRequest.html" title="Interface class for providing CloudFormation requests. " alt="" coords="18,109,189,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="149,5,330,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="213,109,394,151"/>
+</map>

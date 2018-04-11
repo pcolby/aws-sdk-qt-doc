@@ -1,0 +1,5 @@
+<map id="QtAws::KinesisVideo::ListStreamsRequestPrivate" name="QtAws::KinesisVideo::ListStreamsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1KinesisVideo_1_1KinesisVideoRequestPrivate.html" title="Private implementation for KinesisVideoRequest. " alt="" coords="5,109,201,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="162,5,343,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="226,109,407,151"/>
+</map>

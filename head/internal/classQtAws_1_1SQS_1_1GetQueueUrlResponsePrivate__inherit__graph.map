@@ -1,0 +1,4 @@
+<map id="QtAws::SQS::GetQueueUrlResponsePrivate" name="QtAws::SQS::GetQueueUrlResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SQS_1_1SQSResponsePrivate.html" title="Private implementation for SQSResponse. " alt="" coords="9,95,243,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="35,5,217,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::SimpleDB::SelectRequest" name="QtAws::SimpleDB::SelectRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SimpleDB_1_1SimpleDBRequest.html" title="Interface class for providing SimpleDB requests. " alt="" coords="5,95,251,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="37,5,219,47"/>
+</map>

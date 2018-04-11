@@ -1,0 +1,5 @@
+<map id="QtAws::DirectConnect::CreateConnectionRequestPrivate" name="QtAws::DirectConnect::CreateConnectionRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DirectConnect_1_1DirectConnectRequestPrivate.html" title="Private implementation for DirectConnectRequest. " alt="" coords="16,109,220,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="181,5,362,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="245,109,426,151"/>
+</map>

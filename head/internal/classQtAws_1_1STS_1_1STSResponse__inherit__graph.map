@@ -1,0 +1,10 @@
+<map id="QtAws::STS::STSResponse" name="QtAws::STS::STSResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1STS_1_1AssumeRoleResponse.html" title="Handles STS AssumeRole responses. " alt="" coords="591,5,829,32"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1STS_1_1AssumeRoleWithSAMLResponse.html" title="Handles STS AssumeRoleWithSAML responses. " alt="" coords="607,57,813,98"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1STS_1_1AssumeRoleWithWebIdentityResponse.html" title="Handles STS AssumeRoleWithWebIdentity responses. " alt="" coords="607,122,813,163"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1STS_1_1DecodeAuthorizationMessageResponse.html" title="Handles STS DecodeAuthorizationMessage responses. " alt="" coords="597,187,823,229"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1STS_1_1GetCallerIdentityResponse.html" title="Handles STS GetCallerIdentity responses. " alt="" coords="609,253,811,294"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1STS_1_1GetFederationTokenResponse.html" title="Handles STS GetFederationToken responses. " alt="" coords="617,318,803,359"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1STS_1_1GetSessionTokenResponse.html" title="Handles STS GetSessionToken responses. " alt="" coords="606,383,814,425"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,187,305,229"/>
+</map>

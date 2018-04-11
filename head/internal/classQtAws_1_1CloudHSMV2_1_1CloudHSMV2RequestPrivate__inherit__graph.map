@@ -1,0 +1,13 @@
+<map id="QtAws::CloudHSMV2::CloudHSMV2RequestPrivate" name="QtAws::CloudHSMV2::CloudHSMV2RequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSMV2_1_1CreateClusterRequestPrivate.html" title="Private implementation for CreateClusterRequest. " alt="" coords="485,5,679,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSMV2_1_1CreateHsmRequestPrivate.html" title="Private implementation for CreateHsmRequest. " alt="" coords="493,71,671,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSMV2_1_1DeleteClusterRequestPrivate.html" title="Private implementation for DeleteClusterRequest. " alt="" coords="486,136,678,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSMV2_1_1DeleteHsmRequestPrivate.html" title="Private implementation for DeleteHsmRequest. " alt="" coords="493,201,671,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSMV2_1_1DescribeBackupsRequestPrivate.html" title="Private implementation for DescribeBackupsRequest. " alt="" coords="475,267,689,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSMV2_1_1DescribeClustersRequestPrivate.html" title="Private implementation for DescribeClustersRequest. " alt="" coords="475,332,689,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSMV2_1_1InitializeClusterRequestPrivate.html" title="Private implementation for InitializeClusterRequest. " alt="" coords="481,397,683,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSMV2_1_1ListTagsRequestPrivate.html" title="Private implementation for ListTagsRequest. " alt="" coords="501,463,663,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSMV2_1_1TagResourceRequestPrivate.html" title="Private implementation for TagResourceRequest. " alt="" coords="487,528,677,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSMV2_1_1UntagResourceRequestPrivate.html" title="Private implementation for UntagResourceRequest. " alt="" coords="481,593,683,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,300,187,341"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Cloud9::DescribeEnvironmentMembershipsRequest" name="QtAws::Cloud9::DescribeEnvironmentMembershipsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Cloud9_1_1Cloud9Request.html" title="Interface class for providing Cloud9 requests. " alt="" coords="23,95,232,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="37,5,218,47"/>
+</map>

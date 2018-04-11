@@ -1,0 +1,4 @@
+<map id="QtAws::LexModelBuildingService::GetBotChannelAssociationResponse" name="QtAws::LexModelBuildingService::GetBotChannelAssociationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1LexModelBuildingService_1_1LexModelBuildingServiceResponse.html" title="Handles LexModelBuildingService LexModelBuildingService responses. " alt="" coords="11,169,246,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="38,80,219,121"/>
+</map>

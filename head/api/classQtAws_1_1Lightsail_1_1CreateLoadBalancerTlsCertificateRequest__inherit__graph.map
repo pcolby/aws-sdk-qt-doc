@@ -1,0 +1,4 @@
+<map id="QtAws::Lightsail::CreateLoadBalancerTlsCertificateRequest" name="QtAws::Lightsail::CreateLoadBalancerTlsCertificateRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Lightsail_1_1LightsailRequest.html" title="Interface class for providing Lightsail requests. " alt="" coords="32,95,207,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="29,5,210,47"/>
+</map>

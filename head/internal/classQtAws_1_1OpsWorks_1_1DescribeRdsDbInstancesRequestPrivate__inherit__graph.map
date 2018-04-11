@@ -1,0 +1,4 @@
+<map id="QtAws::OpsWorks::DescribeRdsDbInstancesRequestPrivate" name="QtAws::OpsWorks::DescribeRdsDbInstancesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1OpsWorks_1_1OpsWorksRequestPrivate.html" title="Private implementation for OpsWorksRequest. " alt="" coords="9,95,212,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="20,5,201,47"/>
+</map>

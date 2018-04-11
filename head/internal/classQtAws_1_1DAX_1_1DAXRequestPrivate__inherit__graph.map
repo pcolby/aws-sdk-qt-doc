@@ -1,0 +1,24 @@
+<map id="QtAws::DAX::DAXRequestPrivate" name="QtAws::DAX::DAXRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1DAX_1_1CreateClusterRequestPrivate.html" title="Private implementation for CreateClusterRequest. " alt="" coords="530,5,717,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DAX_1_1CreateParameterGroupRequestPrivate.html" title="Private implementation for CreateParameterGroupRequest. " alt="" coords="521,71,726,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DAX_1_1CreateSubnetGroupRequestPrivate.html" title="Private implementation for CreateSubnetGroupRequest. " alt="" coords="530,136,717,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DAX_1_1DecreaseReplicationFactorRequestPrivate.html" title="Private implementation for DecreaseReplicationFactorRequest. " alt="" coords="510,201,737,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DAX_1_1DeleteClusterRequestPrivate.html" title="Private implementation for DeleteClusterRequest. " alt="" coords="530,267,717,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DAX_1_1DeleteParameterGroupRequestPrivate.html" title="Private implementation for DeleteParameterGroupRequest. " alt="" coords="521,332,725,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DAX_1_1DeleteSubnetGroupRequestPrivate.html" title="Private implementation for DeleteSubnetGroupRequest. " alt="" coords="531,397,716,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DAX_1_1DescribeClustersRequestPrivate.html" title="Private implementation for DescribeClustersRequest. " alt="" coords="520,463,727,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DAX_1_1DescribeDefaultParametersRequestPrivate.html" title="Private implementation for DescribeDefaultParametersRequest. " alt="" coords="523,528,723,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DAX_1_1DescribeEventsRequestPrivate.html" title="Private implementation for DescribeEventsRequest. " alt="" coords="524,593,723,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DAX_1_1DescribeParameterGroupsRequestPrivate.html" title="Private implementation for DescribeParameterGroupsRequest. " alt="" coords="514,659,733,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DAX_1_1DescribeParametersRequestPrivate.html" title="Private implementation for DescribeParametersRequest. " alt="" coords="511,724,736,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DAX_1_1DescribeSubnetGroupsRequestPrivate.html" title="Private implementation for DescribeSubnetGroupsRequest. " alt="" coords="524,789,723,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DAX_1_1IncreaseReplicationFactorRequestPrivate.html" title="Private implementation for IncreaseReplicationFactorRequest. " alt="" coords="513,855,734,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DAX_1_1ListTagsRequestPrivate.html" title="Private implementation for ListTagsRequest. " alt="" coords="521,920,726,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DAX_1_1RebootNodeRequestPrivate.html" title="Private implementation for RebootNodeRequest. " alt="" coords="509,985,737,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DAX_1_1TagResourceRequestPrivate.html" title="Private implementation for TagResourceRequest. " alt="" coords="507,1051,740,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DAX_1_1UntagResourceRequestPrivate.html" title="Private implementation for UntagResourceRequest. " alt="" coords="525,1116,722,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DAX_1_1UpdateClusterRequestPrivate.html" title="Private implementation for UpdateClusterRequest. " alt="" coords="528,1181,719,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1DAX_1_1UpdateParameterGroupRequestPrivate.html" title="Private implementation for UpdateParameterGroupRequest. " alt="" coords="519,1247,727,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1DAX_1_1UpdateSubnetGroupRequestPrivate.html" title="Private implementation for UpdateSubnetGroupRequest. " alt="" coords="529,1312,718,1353"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,659,187,700"/>
+</map>

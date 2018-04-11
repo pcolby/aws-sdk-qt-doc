@@ -1,0 +1,4 @@
+<map id="QtAws::KinesisAnalytics::DeleteApplicationCloudWatchLoggingOptionResponsePrivate" name="QtAws::KinesisAnalytics::DeleteApplicationCloudWatchLoggingOptionResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1KinesisAnalytics_1_1KinesisAnalyticsResponsePrivate.html" title="Private implementation for KinesisAnalyticsResponse. " alt="" coords="5,95,232,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="28,5,209,47"/>
+</map>

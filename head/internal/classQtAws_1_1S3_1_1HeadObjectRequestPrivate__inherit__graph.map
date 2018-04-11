@@ -1,0 +1,4 @@
+<map id="QtAws::S3::HeadObjectRequestPrivate" name="QtAws::S3::HeadObjectRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1S3_1_1S3RequestPrivate.html" title="Private implementation for S3Request. " alt="" coords="11,95,211,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="21,5,202,47"/>
+</map>

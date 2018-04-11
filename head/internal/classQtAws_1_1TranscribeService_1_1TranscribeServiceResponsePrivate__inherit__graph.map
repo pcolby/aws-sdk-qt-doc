@@ -1,0 +1,6 @@
+<map id="QtAws::TranscribeService::TranscribeServiceResponsePrivate" name="QtAws::TranscribeService::TranscribeServiceResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1TranscribeService_1_1GetTranscriptionJobResponsePrivate.html" title="Private implementation for GetTranscriptionJobResponse. " alt="" coords="517,5,764,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1TranscribeService_1_1ListTranscriptionJobsResponsePrivate.html" title="Private implementation for ListTranscriptionJobsResponse. " alt="" coords="534,71,747,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1TranscribeService_1_1StartTranscriptionJobResponsePrivate.html" title="Private implementation for StartTranscriptionJobResponse. " alt="" coords="534,151,747,207"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,79,187,120"/>
+</map>

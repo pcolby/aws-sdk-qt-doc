@@ -1,0 +1,5 @@
+<map id="QtAws::AutoScaling::DescribePoliciesRequestPrivate" name="QtAws::AutoScaling::DescribePoliciesRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingRequestPrivate.html" title="Private implementation for AutoScalingRequest. " alt="" coords="19,109,210,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="171,5,352,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="235,109,416,151"/>
+</map>

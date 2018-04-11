@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::DescribeStorediSCSIVolumesResponse" name="QtAws::StorageGateway::DescribeStorediSCSIVolumesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayResponse.html" title="Handles StorageGateway StorageGateway responses. " alt="" coords="15,169,202,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="18,80,199,121"/>
+</map>

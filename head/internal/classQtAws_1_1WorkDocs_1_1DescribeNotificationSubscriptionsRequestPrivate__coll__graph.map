@@ -1,0 +1,5 @@
+<map id="QtAws::WorkDocs::DescribeNotificationSubscriptionsRequestPrivate" name="QtAws::WorkDocs::DescribeNotificationSubscriptionsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1WorkDocs_1_1WorkDocsRequestPrivate.html" title="Private implementation for WorkDocsRequest. " alt="" coords="12,109,215,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="175,5,356,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="239,109,420,151"/>
+</map>

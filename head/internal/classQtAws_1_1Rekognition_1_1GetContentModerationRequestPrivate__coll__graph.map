@@ -1,0 +1,5 @@
+<map id="QtAws::Rekognition::GetContentModerationRequestPrivate" name="QtAws::Rekognition::GetContentModerationRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionRequestPrivate.html" title="Private implementation for RekognitionRequest. " alt="" coords="16,109,205,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="165,5,347,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="229,109,411,151"/>
+</map>

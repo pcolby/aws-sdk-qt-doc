@@ -1,0 +1,4 @@
+<map id="QtAws::SageMaker::CreateEndpointResponse" name="QtAws::SageMaker::CreateEndpointResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1SageMaker_1_1SageMakerResponse.html" title="Handles SageMaker SageMaker responses. " alt="" coords="5,169,216,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="20,80,201,121"/>
+</map>

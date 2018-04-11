@@ -1,0 +1,9 @@
+<map id="QtAws::Polly::PollyRequestPrivate" name="QtAws::Polly::PollyRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Polly_1_1DeleteLexiconRequestPrivate.html" title="Private implementation for DeleteLexiconRequest. " alt="" coords="472,5,663,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Polly_1_1DescribeVoicesRequestPrivate.html" title="Private implementation for DescribeVoicesRequest. " alt="" coords="468,71,667,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Polly_1_1GetLexiconRequestPrivate.html" title="Private implementation for GetLexiconRequest. " alt="" coords="481,136,654,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Polly_1_1ListLexiconsRequestPrivate.html" title="Private implementation for ListLexiconsRequest. " alt="" coords="477,201,657,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Polly_1_1PutLexiconRequestPrivate.html" title="Private implementation for PutLexiconRequest. " alt="" coords="481,267,653,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Polly_1_1SynthesizeSpeechRequestPrivate.html" title="Private implementation for SynthesizeSpeechRequest. " alt="" coords="481,332,653,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,169,187,211"/>
+</map>

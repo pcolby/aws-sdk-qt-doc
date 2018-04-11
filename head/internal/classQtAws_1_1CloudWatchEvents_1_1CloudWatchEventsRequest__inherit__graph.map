@@ -1,0 +1,18 @@
+<map id="QtAws::CloudWatchEvents::CloudWatchEventsRequest" name="QtAws::CloudWatchEvents::CloudWatchEventsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudWatchEvents_1_1DeleteRuleRequest.html" title="Implements CloudWatchEvents DeleteRule requests. " alt="" coords="495,5,677,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeEventBusRequest.html" title="Implements CloudWatchEvents DescribeEventBus requests. " alt="" coords="492,71,680,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatchEvents_1_1DescribeRuleRequest.html" title="Implements CloudWatchEvents DescribeRule requests. " alt="" coords="495,136,677,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatchEvents_1_1DisableRuleRequest.html" title="Implements CloudWatchEvents DisableRule requests. " alt="" coords="495,201,677,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatchEvents_1_1EnableRuleRequest.html" title="Implements CloudWatchEvents EnableRule requests. " alt="" coords="495,267,677,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatchEvents_1_1ListRuleNamesByTargetRequest.html" title="Implements CloudWatchEvents ListRuleNamesByTarget requests. " alt="" coords="475,332,697,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatchEvents_1_1ListRulesRequest.html" title="Implements CloudWatchEvents ListRules requests. " alt="" coords="495,397,677,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatchEvents_1_1ListTargetsByRuleRequest.html" title="Implements CloudWatchEvents ListTargetsByRule requests. " alt="" coords="493,463,679,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatchEvents_1_1PutEventsRequest.html" title="Implements CloudWatchEvents PutEvents requests. " alt="" coords="495,528,677,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatchEvents_1_1PutPermissionRequest.html" title="Implements CloudWatchEvents PutPermission requests. " alt="" coords="495,593,677,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatchEvents_1_1PutRuleRequest.html" title="Implements CloudWatchEvents PutRule requests. " alt="" coords="495,659,677,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatchEvents_1_1PutTargetsRequest.html" title="Implements CloudWatchEvents PutTargets requests. " alt="" coords="495,724,677,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatchEvents_1_1RemovePermissionRequest.html" title="Implements CloudWatchEvents RemovePermission requests. " alt="" coords="489,789,683,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatchEvents_1_1RemoveTargetsRequest.html" title="Implements CloudWatchEvents RemoveTargets requests. " alt="" coords="495,855,677,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatchEvents_1_1TestEventPatternRequest.html" title="Implements CloudWatchEvents TestEventPattern requests. " alt="" coords="495,920,677,961"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,463,187,504"/>
+</map>

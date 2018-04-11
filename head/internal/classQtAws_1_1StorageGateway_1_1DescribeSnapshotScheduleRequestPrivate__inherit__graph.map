@@ -1,0 +1,4 @@
+<map id="QtAws::StorageGateway::DescribeSnapshotScheduleRequestPrivate" name="QtAws::StorageGateway::DescribeSnapshotScheduleRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1StorageGateway_1_1StorageGatewayRequestPrivate.html" title="Private implementation for StorageGatewayRequest. " alt="" coords="17,95,234,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="35,5,216,47"/>
+</map>

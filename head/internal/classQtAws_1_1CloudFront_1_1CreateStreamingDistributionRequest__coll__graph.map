@@ -1,0 +1,5 @@
+<map id="QtAws::CloudFront::CreateStreamingDistributionRequest" name="QtAws::CloudFront::CreateStreamingDistributionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudFront_1_1CloudFrontRequest.html" title="Interface class for providing CloudFront requests. " alt="" coords="27,109,170,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="131,5,312,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="195,109,376,151"/>
+</map>

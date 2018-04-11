@@ -1,0 +1,5 @@
+<map id="QtAws::Rekognition::DetectLabelsRequest" name="QtAws::Rekognition::DetectLabelsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionRequest.html" title="Interface class for providing Rekognition requests. " alt="" coords="9,109,157,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="118,5,299,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="182,109,363,151"/>
+</map>

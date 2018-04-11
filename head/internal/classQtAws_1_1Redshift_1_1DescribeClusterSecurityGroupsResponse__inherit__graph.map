@@ -1,0 +1,4 @@
+<map id="QtAws::Redshift::DescribeClusterSecurityGroupsResponse" name="QtAws::Redshift::DescribeClusterSecurityGroupsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Redshift_1_1RedshiftResponse.html" title="Handles Redshift Redshift responses. " alt="" coords="24,169,200,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="21,80,203,121"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIRequestPrivate" name="QtAws::ResourceGroupsTaggingAPI::ResourceGroupsTaggingAPIRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetResourcesRequestPrivate.html" title="Private implementation for GetResourcesRequest. " alt="" coords="556,5,783,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagKeysRequestPrivate.html" title="Private implementation for GetTagKeysRequest. " alt="" coords="562,71,777,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1GetTagValuesRequestPrivate.html" title="Private implementation for GetTagValuesRequest. " alt="" coords="557,136,782,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1TagResourcesRequestPrivate.html" title="Private implementation for TagResourcesRequest. " alt="" coords="556,201,783,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ResourceGroupsTaggingAPI_1_1UntagResourcesRequestPrivate.html" title="Private implementation for UntagResourcesRequest. " alt="" coords="549,267,789,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,136,187,177"/>
+</map>

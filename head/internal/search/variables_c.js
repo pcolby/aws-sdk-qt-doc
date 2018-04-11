@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['secretkey',['secretKey',['../classAwsBasicCredentialsPrivate.html#afa1a2eaa5980590924ddae1a214fd8a1',1,'AwsBasicCredentialsPrivate']]],
-  ['servicename',['serviceName',['../classAwsAbstractClientPrivate.html#a75afacee72ba4c8c304d2dae63291598',1,'AwsAbstractClientPrivate::serviceName()'],['../classAwsEndpointPrivate.html#acd6874056a5bcac4f0b91c930bff63be',1,'AwsEndpointPrivate::serviceName()'],['../structAwsEndpointPrivate_1_1HostInfo.html#a76008e259f91f511b1c24f998ce7a7d8',1,'AwsEndpointPrivate::HostInfo::serviceName()']]],
-  ['services',['services',['../structAwsEndpointPrivate_1_1RegionInfo.html#a236210b92e5b60e94a000fc774d3bd3d',1,'AwsEndpointPrivate::RegionInfo::services()'],['../classAwsEndpointPrivate.html#a71eb49ea8885f0a40da9f88f01a4b4c1',1,'AwsEndpointPrivate::services()']]],
-  ['signature',['signature',['../classAwsAbstractClientPrivate.html#a494e7025ec09c0e655a16ff04a8e754c',1,'AwsAbstractClientPrivate']]]
+  ['secretkey',['secretKey',['../classQtAws_1_1Core_1_1AwsBasicCredentialsPrivate.html#ad6a9694cf5a2f84629287e10ef23de3f',1,'QtAws::Core::AwsBasicCredentialsPrivate']]],
+  ['servicefullname',['serviceFullName',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#a40a8700c650a26bd06fea6a4f24c1619',1,'QtAws::Core::AwsAbstractClientPrivate']]],
+  ['servicename',['serviceName',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#abdfa23b7317b88f941eb3734b039f268',1,'QtAws::Core::AwsAbstractClientPrivate::serviceName()'],['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#a81c184cbddcc8cc4e63e395beb11408f',1,'QtAws::Core::AwsEndpointPrivate::serviceName()'],['../structQtAws_1_1Core_1_1AwsEndpointPrivate_1_1HostInfo.html#a67add1d62904d9adf22bae2c4ed1212a',1,'QtAws::Core::AwsEndpointPrivate::HostInfo::serviceName()']]],
+  ['services',['services',['../structQtAws_1_1Core_1_1AwsEndpointPrivate_1_1RegionInfo.html#ac4943d4e2bb3132a54fcde6268f960a3',1,'QtAws::Core::AwsEndpointPrivate::RegionInfo::services()'],['../classQtAws_1_1Core_1_1AwsEndpointPrivate.html#aaa5d48461d6905345ed6116c22dfe99e',1,'QtAws::Core::AwsEndpointPrivate::services()']]],
+  ['signature',['signature',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#a1141bea046df8af8b92d91b17063aa53',1,'QtAws::Core::AwsAbstractClientPrivate']]]
 ];

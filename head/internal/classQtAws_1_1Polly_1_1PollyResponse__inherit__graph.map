@@ -1,0 +1,9 @@
+<map id="QtAws::Polly::PollyResponse" name="QtAws::Polly::PollyResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1Polly_1_1DeleteLexiconResponse.html" title="Handles Polly DeleteLexicon responses. " alt="" coords="600,5,791,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Polly_1_1DescribeVoicesResponse.html" title="Handles Polly DescribeVoices responses. " alt="" coords="596,71,795,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Polly_1_1GetLexiconResponse.html" title="Handles Polly GetLexicon responses. " alt="" coords="609,136,782,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Polly_1_1ListLexiconsResponse.html" title="Handles Polly ListLexicons responses. " alt="" coords="605,201,785,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Polly_1_1PutLexiconResponse.html" title="Handles Polly PutLexicon responses. " alt="" coords="609,267,781,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Polly_1_1SynthesizeSpeechResponse.html" title="Handles Polly SynthesizeSpeech responses. " alt="" coords="609,332,781,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,169,305,211"/>
+</map>

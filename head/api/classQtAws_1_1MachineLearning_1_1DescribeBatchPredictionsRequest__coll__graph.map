@@ -1,0 +1,4 @@
+<map id="QtAws::MachineLearning::DescribeBatchPredictionsRequest" name="QtAws::MachineLearning::DescribeBatchPredictionsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MachineLearning_1_1MachineLearningRequest.html" title="Interface class for providing MachineLearning requests. " alt="" coords="32,95,209,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="30,5,211,47"/>
+</map>

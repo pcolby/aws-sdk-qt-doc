@@ -1,0 +1,4 @@
+<map id="QtAws::Snowball::GetJobManifestRequest" name="QtAws::Snowball::GetJobManifestRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Snowball_1_1SnowballRequest.html" title="Interface class for providing Snowball requests. " alt="" coords="25,95,209,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="26,5,207,47"/>
+</map>

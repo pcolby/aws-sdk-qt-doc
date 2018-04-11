@@ -1,0 +1,5 @@
+<map id="QtAws::MediaStoreData::DeleteObjectRequest" name="QtAws::MediaStoreData::DeleteObjectRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MediaStoreData_1_1MediaStoreDataRequest.html" title="Interface class for providing MediaStoreData requests. " alt="" coords="5,109,179,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="139,5,320,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="203,109,384,151"/>
+</map>

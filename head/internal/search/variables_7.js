@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['networkaccessmanager',['networkAccessManager',['../classAwsAbstractClientPrivate.html#acd1058b018c2a30a0b52df6fa210c1c7',1,'AwsAbstractClientPrivate']]]
+  ['networkaccessmanager',['networkAccessManager',['../classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html#ac0a985cf15f9dd4209569d42bfb4d3d3',1,'QtAws::Core::AwsAbstractClientPrivate']]]
 ];

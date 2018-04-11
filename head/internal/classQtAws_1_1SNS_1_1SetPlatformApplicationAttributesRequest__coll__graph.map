@@ -1,0 +1,5 @@
+<map id="QtAws::SNS::SetPlatformApplicationAttributesRequest" name="QtAws::SNS::SetPlatformApplicationAttributesRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSRequest.html" title="Interface class for providing SNS requests. " alt="" coords="33,117,216,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="177,5,358,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="241,109,422,151"/>
+</map>

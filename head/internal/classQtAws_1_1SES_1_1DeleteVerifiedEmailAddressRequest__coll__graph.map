@@ -1,0 +1,5 @@
+<map id="QtAws::SES::DeleteVerifiedEmailAddressRequest" name="QtAws::SES::DeleteVerifiedEmailAddressRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1SES_1_1SESRequest.html" title="Interface class for providing SES requests. " alt="" coords="8,117,189,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="149,5,331,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="213,109,395,151"/>
+</map>

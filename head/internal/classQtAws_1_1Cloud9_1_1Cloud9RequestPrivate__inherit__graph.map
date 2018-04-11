@@ -1,0 +1,13 @@
+<map id="QtAws::Cloud9::Cloud9RequestPrivate" name="QtAws::Cloud9::Cloud9RequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Cloud9_1_1CreateEnvironmentEC2RequestPrivate.html" title="Private implementation for CreateEnvironmentEC2Request. " alt="" coords="502,5,733,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Cloud9_1_1CreateEnvironmentMembershipRequestPrivate.html" title="Private implementation for CreateEnvironmentMembershipRequest. " alt="" coords="502,71,733,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Cloud9_1_1DeleteEnvironmentMembershipRequestPrivate.html" title="Private implementation for DeleteEnvironmentMembershipRequest. " alt="" coords="502,136,733,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Cloud9_1_1DeleteEnvironmentRequestPrivate.html" title="Private implementation for DeleteEnvironmentRequest. " alt="" coords="502,201,733,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Cloud9_1_1DescribeEnvironmentMembershipsRequestPrivate.html" title="Private implementation for DescribeEnvironmentMembershipsRequest. " alt="" coords="495,267,739,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Cloud9_1_1DescribeEnvironmentsRequestPrivate.html" title="Private implementation for DescribeEnvironmentsRequest. " alt="" coords="492,332,743,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Cloud9_1_1DescribeEnvironmentStatusRequestPrivate.html" title="Private implementation for DescribeEnvironmentStatusRequest. " alt="" coords="495,397,739,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Cloud9_1_1ListEnvironmentsRequestPrivate.html" title="Private implementation for ListEnvironmentsRequest. " alt="" coords="507,463,727,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Cloud9_1_1UpdateEnvironmentMembershipRequestPrivate.html" title="Private implementation for UpdateEnvironmentMembershipRequest. " alt="" coords="500,528,735,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Cloud9_1_1UpdateEnvironmentRequestPrivate.html" title="Private implementation for UpdateEnvironmentRequest. " alt="" coords="500,593,735,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,300,187,341"/>
+</map>

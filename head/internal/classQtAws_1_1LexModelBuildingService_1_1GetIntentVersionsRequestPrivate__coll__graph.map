@@ -1,0 +1,5 @@
+<map id="QtAws::LexModelBuildingService::GetIntentVersionsRequestPrivate" name="QtAws::LexModelBuildingService::GetIntentVersionsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1LexModelBuildingService_1_1LexModelBuildingServiceRequestPrivate.html" title="Private implementation for LexModelBuildingServiceRequest. " alt="" coords="5,109,272,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="232,5,413,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="296,109,477,151"/>
+</map>

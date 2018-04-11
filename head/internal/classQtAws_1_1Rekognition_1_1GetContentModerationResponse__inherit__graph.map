@@ -1,0 +1,4 @@
+<map id="QtAws::Rekognition::GetContentModerationResponse" name="QtAws::Rekognition::GetContentModerationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Rekognition_1_1RekognitionResponse.html" title="Handles Rekognition Rekognition responses. " alt="" coords="36,169,195,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="25,80,206,121"/>
+</map>

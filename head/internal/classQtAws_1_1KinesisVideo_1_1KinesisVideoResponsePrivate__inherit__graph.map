@@ -1,0 +1,13 @@
+<map id="QtAws::KinesisVideo::KinesisVideoResponsePrivate" name="QtAws::KinesisVideo::KinesisVideoResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1KinesisVideo_1_1CreateStreamResponsePrivate.html" title="Private implementation for CreateStreamResponse. " alt="" coords="499,5,710,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KinesisVideo_1_1DeleteStreamResponsePrivate.html" title="Private implementation for DeleteStreamResponse. " alt="" coords="499,71,710,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KinesisVideo_1_1DescribeStreamResponsePrivate.html" title="Private implementation for DescribeStreamResponse. " alt="" coords="493,136,717,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KinesisVideo_1_1GetDataEndpointResponsePrivate.html" title="Private implementation for GetDataEndpointResponse. " alt="" coords="489,201,720,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KinesisVideo_1_1ListStreamsResponsePrivate.html" title="Private implementation for ListStreamsResponse. " alt="" coords="505,267,705,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KinesisVideo_1_1ListTagsForStreamResponsePrivate.html" title="Private implementation for ListTagsForStreamResponse. " alt="" coords="505,333,705,389"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KinesisVideo_1_1TagStreamResponsePrivate.html" title="Private implementation for TagStreamResponse. " alt="" coords="507,413,702,455"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KinesisVideo_1_1UntagStreamResponsePrivate.html" title="Private implementation for UntagStreamResponse. " alt="" coords="501,479,708,520"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KinesisVideo_1_1UpdateDataRetentionResponsePrivate.html" title="Private implementation for UpdateDataRetentionResponse. " alt="" coords="497,545,712,601"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KinesisVideo_1_1UpdateStreamResponsePrivate.html" title="Private implementation for UpdateStreamResponse. " alt="" coords="497,625,712,667"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,304,187,345"/>
+</map>

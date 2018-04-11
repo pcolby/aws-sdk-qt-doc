@@ -1,0 +1,4 @@
+<map id="QtAws::AppStream::ListAssociatedFleetsResponse" name="QtAws::AppStream::ListAssociatedFleetsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1AppStream_1_1AppStreamResponse.html" title="Handles AppStream AppStream responses. " alt="" coords="16,169,224,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="29,80,211,121"/>
+</map>

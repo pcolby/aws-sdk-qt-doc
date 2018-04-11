@@ -1,0 +1,4 @@
+<map id="QtAws::WAF::GetChangeTokenResponse" name="QtAws::WAF::GetChangeTokenResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAF_1_1WAFResponse.html" title="Handles WAF WAF responses. " alt="" coords="12,169,209,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="20,80,201,121"/>
+</map>

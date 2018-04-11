@@ -1,0 +1,5 @@
+<map id="QtAws::Support::DescribeTrustedAdvisorChecksRequestPrivate" name="QtAws::Support::DescribeTrustedAdvisorChecksRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Support_1_1SupportRequestPrivate.html" title="Private implementation for SupportRequest. " alt="" coords="19,109,237,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="197,5,379,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="261,109,443,151"/>
+</map>

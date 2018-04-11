@@ -1,0 +1,19 @@
+<map id="QtAws::Batch::BatchRequestPrivate" name="QtAws::Batch::BatchRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Batch_1_1CancelJobRequestPrivate.html" title="Private implementation for CancelJobRequest. " alt="" coords="477,5,700,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Batch_1_1CreateComputeEnvironmentRequestPrivate.html" title="Private implementation for CreateComputeEnvironmentRequest. " alt="" coords="487,71,691,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Batch_1_1CreateJobQueueRequestPrivate.html" title="Private implementation for CreateJobQueueRequest. " alt="" coords="483,136,694,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Batch_1_1DeleteComputeEnvironmentRequestPrivate.html" title="Private implementation for DeleteComputeEnvironmentRequest. " alt="" coords="487,201,690,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Batch_1_1DeleteJobQueueRequestPrivate.html" title="Private implementation for DeleteJobQueueRequest. " alt="" coords="484,267,693,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Batch_1_1DeregisterJobDefinitionRequestPrivate.html" title="Private implementation for DeregisterJobDefinitionRequest. " alt="" coords="495,332,683,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Batch_1_1DescribeComputeEnvironmentsRequestPrivate.html" title="Private implementation for DescribeComputeEnvironmentsRequest. " alt="" coords="480,397,697,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Batch_1_1DescribeJobDefinitionsRequestPrivate.html" title="Private implementation for DescribeJobDefinitionsRequest. " alt="" coords="496,463,681,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Batch_1_1DescribeJobQueuesRequestPrivate.html" title="Private implementation for DescribeJobQueuesRequest. " alt="" coords="496,528,681,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Batch_1_1DescribeJobsRequestPrivate.html" title="Private implementation for DescribeJobsRequest. " alt="" coords="493,593,685,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Batch_1_1ListJobsRequestPrivate.html" title="Private implementation for ListJobsRequest. " alt="" coords="483,659,694,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Batch_1_1RegisterJobDefinitionRequestPrivate.html" title="Private implementation for RegisterJobDefinitionRequest. " alt="" coords="497,724,680,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Batch_1_1SubmitJobRequestPrivate.html" title="Private implementation for SubmitJobRequest. " alt="" coords="477,789,700,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Batch_1_1TerminateJobRequestPrivate.html" title="Private implementation for TerminateJobRequest. " alt="" coords="493,855,684,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Batch_1_1UpdateComputeEnvironmentRequestPrivate.html" title="Private implementation for UpdateComputeEnvironmentRequest. " alt="" coords="485,920,692,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Batch_1_1UpdateJobQueueRequestPrivate.html" title="Private implementation for UpdateJobQueueRequest. " alt="" coords="482,985,695,1027"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,496,187,537"/>
+</map>

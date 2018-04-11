@@ -1,0 +1,38 @@
+<map id="QtAws::KMS::KMSRequest" name="QtAws::KMS::KMSRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1KMS_1_1CancelKeyDeletionRequest.html" title="Implements KMS CancelKeyDeletion requests. " alt="" coords="478,5,697,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1KMS_1_1CreateAliasRequest.html" title="Implements KMS CreateAlias requests. " alt="" coords="475,71,699,98"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1KMS_1_1CreateGrantRequest.html" title="Implements KMS CreateGrant requests. " alt="" coords="474,122,701,149"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1KMS_1_1CreateKeyRequest.html" title="Implements KMS CreateKey requests. " alt="" coords="478,173,697,199"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1KMS_1_1DecryptRequest.html" title="Implements KMS Decrypt requests. " alt="" coords="486,223,689,250"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1KMS_1_1DeleteAliasRequest.html" title="Implements KMS DeleteAlias requests. " alt="" coords="476,274,699,301"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1KMS_1_1DeleteImportedKeyMaterialRequest.html" title="Implements KMS DeleteImportedKeyMaterial requests. " alt="" coords="489,325,685,367"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1KMS_1_1DescribeKeyRequest.html" title="Implements KMS DescribeKey requests. " alt="" coords="472,391,703,418"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1KMS_1_1DisableKeyRequest.html" title="Implements KMS DisableKey requests. " alt="" coords="476,442,699,469"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1KMS_1_1DisableKeyRotationRequest.html" title="Implements KMS DisableKeyRotation requests. " alt="" coords="476,493,699,535"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1KMS_1_1EnableKeyRequest.html" title="Implements KMS EnableKey requests. " alt="" coords="478,559,697,586"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1KMS_1_1EnableKeyRotationRequest.html" title="Implements KMS EnableKeyRotation requests. " alt="" coords="478,611,697,652"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1KMS_1_1EncryptRequest.html" title="Implements KMS Encrypt requests. " alt="" coords="487,677,688,703"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1KMS_1_1GenerateDataKeyRequest.html" title="Implements KMS GenerateDataKey requests. " alt="" coords="493,728,681,769"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1KMS_1_1GenerateDataKeyWithoutPlaintextRequest.html" title="Implements KMS GenerateDataKeyWithoutPlaintext requests. " alt="" coords="492,793,683,835"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1KMS_1_1GenerateRandomRequest.html" title="Implements KMS GenerateRandom requests. " alt="" coords="483,859,692,900"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1KMS_1_1GetKeyPolicyRequest.html" title="Implements KMS GetKeyPolicy requests. " alt="" coords="494,924,681,965"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1KMS_1_1GetKeyRotationStatusRequest.html" title="Implements KMS GetKeyRotationStatus requests. " alt="" coords="487,989,687,1031"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1KMS_1_1GetParametersForImportRequest.html" title="Implements KMS GetParametersForImport requests. " alt="" coords="490,1055,685,1096"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1KMS_1_1ImportKeyMaterialRequest.html" title="Implements KMS ImportKeyMaterial requests. " alt="" coords="481,1120,694,1161"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1KMS_1_1ListAliasesRequest.html" title="Implements KMS ListAliases requests. " alt="" coords="477,1186,697,1213"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1KMS_1_1ListGrantsRequest.html" title="Implements KMS ListGrants requests. " alt="" coords="479,1237,695,1263"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1KMS_1_1ListKeyPoliciesRequest.html" title="Implements KMS ListKeyPolicies requests. " alt="" coords="489,1288,686,1329"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1KMS_1_1ListKeysRequest.html" title="Implements KMS ListKeys requests. " alt="" coords="484,1354,691,1381"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1KMS_1_1ListResourceTagsRequest.html" title="Implements KMS ListResourceTags requests. " alt="" coords="495,1405,679,1447"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1KMS_1_1ListRetirableGrantsRequest.html" title="Implements KMS ListRetirableGrants requests. " alt="" coords="497,1471,677,1512"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1KMS_1_1PutKeyPolicyRequest.html" title="Implements KMS PutKeyPolicy requests. " alt="" coords="494,1536,681,1577"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1KMS_1_1ReEncryptRequest.html" title="Implements KMS ReEncrypt requests. " alt="" coords="478,1602,697,1629"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1KMS_1_1RetireGrantRequest.html" title="Implements KMS RetireGrant requests. " alt="" coords="476,1653,699,1679"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1KMS_1_1RevokeGrantRequest.html" title="Implements KMS RevokeGrant requests. " alt="" coords="471,1703,704,1730"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1KMS_1_1ScheduleKeyDeletionRequest.html" title="Implements KMS ScheduleKeyDeletion requests. " alt="" coords="471,1755,703,1796"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1KMS_1_1TagResourceRequest.html" title="Implements KMS TagResource requests. " alt="" coords="470,1821,705,1847"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1KMS_1_1UntagResourceRequest.html" title="Implements KMS UntagResource requests. " alt="" coords="488,1872,687,1913"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1KMS_1_1UpdateAliasRequest.html" title="Implements KMS UpdateAlias requests. " alt="" coords="474,1938,701,1965"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1KMS_1_1UpdateKeyDescriptionRequest.html" title="Implements KMS UpdateKeyDescription requests. " alt="" coords="468,1989,707,2031"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,989,187,1031"/>
+</map>

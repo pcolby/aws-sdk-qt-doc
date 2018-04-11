@@ -1,0 +1,4 @@
+<map id="QtAws::DeviceFarm::DeleteRemoteAccessSessionRequest" name="QtAws::DeviceFarm::DeleteRemoteAccessSessionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DeviceFarm_1_1DeviceFarmRequest.html" title="Interface class for providing DeviceFarm requests. " alt="" coords="54,95,203,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="38,5,219,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Route53Domains::DisableDomainAutoRenewRequest" name="QtAws::Route53Domains::DisableDomainAutoRenewRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsRequest.html" title="Interface class for providing Route53Domains requests. " alt="" coords="33,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="33,5,214,47"/>
+</map>

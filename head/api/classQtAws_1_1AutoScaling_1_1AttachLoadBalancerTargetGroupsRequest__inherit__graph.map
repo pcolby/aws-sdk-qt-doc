@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScaling::AttachLoadBalancerTargetGroupsRequest" name="QtAws::AutoScaling::AttachLoadBalancerTargetGroupsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingRequest.html" title="Interface class for providing AutoScaling requests. " alt="" coords="23,95,172,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="7,5,188,47"/>
+</map>

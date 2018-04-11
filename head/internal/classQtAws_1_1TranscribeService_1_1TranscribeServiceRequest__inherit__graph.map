@@ -1,0 +1,6 @@
+<map id="QtAws::TranscribeService::TranscribeServiceRequest" name="QtAws::TranscribeService::TranscribeServiceRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1TranscribeService_1_1GetTranscriptionJobRequest.html" title="Implements TranscribeService GetTranscriptionJob requests. " alt="" coords="470,5,666,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1TranscribeService_1_1ListTranscriptionJobsRequest.html" title="Implements TranscribeService ListTranscriptionJobs requests. " alt="" coords="467,71,669,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1TranscribeService_1_1StartTranscriptionJobRequest.html" title="Implements TranscribeService StartTranscriptionJob requests. " alt="" coords="467,136,669,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,71,187,112"/>
+</map>

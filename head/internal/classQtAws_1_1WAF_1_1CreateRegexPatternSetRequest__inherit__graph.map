@@ -1,0 +1,4 @@
+<map id="QtAws::WAF::CreateRegexPatternSetRequest" name="QtAws::WAF::CreateRegexPatternSetRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1WAF_1_1WAFRequest.html" title="Interface class for providing WAF requests. " alt="" coords="25,95,212,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="28,5,209,47"/>
+</map>

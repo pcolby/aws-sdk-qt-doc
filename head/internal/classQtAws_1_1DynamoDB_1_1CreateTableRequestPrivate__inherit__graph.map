@@ -1,0 +1,4 @@
+<map id="QtAws::DynamoDB::CreateTableRequestPrivate" name="QtAws::DynamoDB::CreateTableRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DynamoDB_1_1DynamoDBRequestPrivate.html" title="Private implementation for DynamoDBRequest. " alt="" coords="5,95,268,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="46,5,227,47"/>
+</map>

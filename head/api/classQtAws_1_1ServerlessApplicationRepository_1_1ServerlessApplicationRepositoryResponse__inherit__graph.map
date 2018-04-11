@@ -1,0 +1,13 @@
+<map id="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryResponse" name="QtAws::ServerlessApplicationRepository::ServerlessApplicationRepositoryResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationResponse.html" title="Handles ServerlessApplicationRepository CreateApplication responses. " alt="" coords="622,5,877,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateApplicationVersionResponse.html" title="Handles ServerlessApplicationRepository CreateApplicationVersion responses. " alt="" coords="629,71,869,127"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ServerlessApplicationRepository_1_1CreateCloudFormationChangeSetResponse.html" title="Handles ServerlessApplicationRepository CreateCloudFormationChangeSet responses. " alt="" coords="637,151,861,207"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ServerlessApplicationRepository_1_1DeleteApplicationResponse.html" title="Handles ServerlessApplicationRepository DeleteApplication responses. " alt="" coords="622,232,877,273"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationPolicyResponse.html" title="Handles ServerlessApplicationRepository GetApplicationPolicy responses. " alt="" coords="642,298,857,354"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1ServerlessApplicationRepository_1_1GetApplicationResponse.html" title="Handles ServerlessApplicationRepository GetApplication responses. " alt="" coords="631,379,868,420"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationsResponse.html" title="Handles ServerlessApplicationRepository ListApplications responses. " alt="" coords="627,444,871,485"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ListApplicationVersionsResponse.html" title="Handles ServerlessApplicationRepository ListApplicationVersions responses. " alt="" coords="635,510,864,566"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1ServerlessApplicationRepository_1_1PutApplicationPolicyResponse.html" title="Handles ServerlessApplicationRepository PutApplicationPolicy responses. " alt="" coords="643,590,856,646"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1ServerlessApplicationRepository_1_1UpdateApplicationResponse.html" title="Handles ServerlessApplicationRepository UpdateApplication responses. " alt="" coords="620,671,879,712"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,343,305,384"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::DeviceFarm::GetRemoteAccessSessionRequest" name="QtAws::DeviceFarm::GetRemoteAccessSessionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DeviceFarm_1_1DeviceFarmRequest.html" title="Interface class for providing DeviceFarm requests. " alt="" coords="45,95,195,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="29,5,211,47"/>
+</map>

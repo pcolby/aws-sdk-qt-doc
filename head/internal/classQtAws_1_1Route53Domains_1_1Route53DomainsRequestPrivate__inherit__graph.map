@@ -1,0 +1,27 @@
+<map id="QtAws::Route53Domains::Route53DomainsRequestPrivate" name="QtAws::Route53Domains::Route53DomainsRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1Route53Domains_1_1CheckDomainAvailabilityRequestPrivate.html" title="Private implementation for CheckDomainAvailabilityRequest. " alt="" coords="513,5,739,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Route53Domains_1_1CheckDomainTransferabilityRequestPrivate.html" title="Private implementation for CheckDomainTransferabilityRequest. " alt="" coords="529,85,723,141"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Route53Domains_1_1DeleteTagsForDomainRequestPrivate.html" title="Private implementation for DeleteTagsForDomainRequest. " alt="" coords="521,165,731,221"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Route53Domains_1_1DisableDomainAutoRenewRequestPrivate.html" title="Private implementation for DisableDomainAutoRenewRequest. " alt="" coords="508,245,744,301"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Route53Domains_1_1DisableDomainTransferLockRequestPrivate.html" title="Private implementation for DisableDomainTransferLockRequest. " alt="" coords="529,325,723,381"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Route53Domains_1_1EnableDomainAutoRenewRequestPrivate.html" title="Private implementation for EnableDomainAutoRenewRequest. " alt="" coords="510,405,742,461"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Route53Domains_1_1EnableDomainTransferLockRequestPrivate.html" title="Private implementation for EnableDomainTransferLockRequest. " alt="" coords="506,485,746,541"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Route53Domains_1_1GetContactReachabilityStatusRequestPrivate.html" title="Private implementation for GetContactReachabilityStatusRequest. " alt="" coords="523,565,729,621"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Route53Domains_1_1GetDomainDetailRequestPrivate.html" title="Private implementation for GetDomainDetailRequest. " alt="" coords="516,646,736,687"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Route53Domains_1_1GetDomainSuggestionsRequestPrivate.html" title="Private implementation for GetDomainSuggestionsRequest. " alt="" coords="517,712,735,768"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Route53Domains_1_1GetOperationDetailRequestPrivate.html" title="Private implementation for GetOperationDetailRequest. " alt="" coords="531,792,721,848"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Route53Domains_1_1ListDomainsRequestPrivate.html" title="Private implementation for ListDomainsRequest. " alt="" coords="529,873,723,914"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Route53Domains_1_1ListOperationsRequestPrivate.html" title="Private implementation for ListOperationsRequest. " alt="" coords="524,938,728,979"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Route53Domains_1_1ListTagsForDomainRequestPrivate.html" title="Private implementation for ListTagsForDomainRequest. " alt="" coords="509,1003,743,1045"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Route53Domains_1_1RegisterDomainRequestPrivate.html" title="Private implementation for RegisterDomainRequest. " alt="" coords="519,1069,733,1110"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Route53Domains_1_1RenewDomainRequestPrivate.html" title="Private implementation for RenewDomainRequest. " alt="" coords="523,1134,729,1175"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Route53Domains_1_1ResendContactReachabilityEmailRequestPrivate.html" title="Private implementation for ResendContactReachabilityEmailRequest. " alt="" coords="529,1200,723,1256"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1Route53Domains_1_1RetrieveDomainAuthCodeRequestPrivate.html" title="Private implementation for RetrieveDomainAuthCodeRequest. " alt="" coords="511,1280,741,1336"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1Route53Domains_1_1TransferDomainRequestPrivate.html" title="Private implementation for TransferDomainRequest. " alt="" coords="519,1361,733,1402"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactPrivacyRequestPrivate.html" title="Private implementation for UpdateDomainContactPrivacyRequest. " alt="" coords="523,1427,729,1483"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainContactRequestPrivate.html" title="Private implementation for UpdateDomainContactRequest. " alt="" coords="520,1507,732,1563"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1Route53Domains_1_1UpdateDomainNameserversRequestPrivate.html" title="Private implementation for UpdateDomainNameserversRequest. " alt="" coords="504,1587,748,1643"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1Route53Domains_1_1UpdateTagsForDomainRequestPrivate.html" title="Private implementation for UpdateTagsForDomainRequest. " alt="" coords="519,1667,733,1723"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1Route53Domains_1_1ViewBillingRequestPrivate.html" title="Private implementation for ViewBillingRequest. " alt="" coords="534,1747,718,1789"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,906,187,947"/>
+</map>

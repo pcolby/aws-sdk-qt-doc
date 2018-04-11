@@ -1,0 +1,5 @@
+<map id="QtAws::GuardDuty::ListInvitationsRequestPrivate" name="QtAws::GuardDuty::ListInvitationsRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1GuardDuty_1_1GuardDutyRequestPrivate.html" title="Private implementation for GuardDutyRequest. " alt="" coords="15,109,219,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="179,5,361,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="243,109,425,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtAws::LexRuntimeService::LexRuntimeServiceResponsePrivate" name="QtAws::LexRuntimeService::LexRuntimeServiceResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1LexRuntimeService_1_1PostContentResponsePrivate.html" title="Private implementation for PostContentResponse. " alt="" coords="527,5,729,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1LexRuntimeService_1_1PostTextResponsePrivate.html" title="Private implementation for PostTextResponse. " alt="" coords="536,71,720,112"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,39,187,80"/>
+</map>

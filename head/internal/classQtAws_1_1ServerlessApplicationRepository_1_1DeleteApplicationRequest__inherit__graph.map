@@ -1,0 +1,4 @@
+<map id="QtAws::ServerlessApplicationRepository::DeleteApplicationRequest" name="QtAws::ServerlessApplicationRepository::DeleteApplicationRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ServerlessApplicationRepository_1_1ServerlessApplicationRepositoryRequest.html" title="Interface class for providing ServerlessApplicationRepository requests. " alt="" coords="18,95,237,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="37,5,218,47"/>
+</map>

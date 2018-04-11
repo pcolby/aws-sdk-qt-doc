@@ -1,0 +1,6 @@
+<map id="QtAws::CloudSearchDomain::CloudSearchDomainResponsePrivate" name="QtAws::CloudSearchDomain::CloudSearchDomainResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudSearchDomain_1_1SearchResponsePrivate.html" title="Private implementation for SearchResponse. " alt="" coords="557,5,748,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudSearchDomain_1_1SuggestResponsePrivate.html" title="Private implementation for SuggestResponse. " alt="" coords="557,71,748,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudSearchDomain_1_1UploadDocumentsResponsePrivate.html" title="Private implementation for UploadDocumentsResponse. " alt="" coords="533,136,772,177"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,71,187,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAws::Greengrass::CreateDeviceDefinitionVersionResponse" name="QtAws::Greengrass::CreateDeviceDefinitionVersionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1Greengrass_1_1GreengrassResponse.html" title="Handles Greengrass Greengrass responses. " alt="" coords="32,169,180,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="15,80,197,121"/>
+</map>

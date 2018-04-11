@@ -1,0 +1,23 @@
+<map id="QtAws::SQS::SQSResponsePrivate" name="QtAws::SQS::SQSResponsePrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1SQS_1_1AddPermissionResponsePrivate.html" title="Private implementation for AddPermissionResponse. " alt="" coords="544,5,739,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityBatchResponsePrivate.html" title="Private implementation for ChangeMessageVisibilityBatchResponse. " alt="" coords="539,71,744,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1SQS_1_1ChangeMessageVisibilityResponsePrivate.html" title="Private implementation for ChangeMessageVisibilityResponse. " alt="" coords="539,136,743,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1SQS_1_1CreateQueueResponsePrivate.html" title="Private implementation for CreateQueueResponse. " alt="" coords="520,201,763,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1SQS_1_1DeleteMessageBatchResponsePrivate.html" title="Private implementation for DeleteMessageBatchResponse. " alt="" coords="543,267,740,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1SQS_1_1DeleteMessageResponsePrivate.html" title="Private implementation for DeleteMessageResponse. " alt="" coords="543,332,740,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1SQS_1_1DeleteQueueResponsePrivate.html" title="Private implementation for DeleteQueueResponse. " alt="" coords="521,397,762,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1SQS_1_1GetQueueAttributesResponsePrivate.html" title="Private implementation for GetQueueAttributesResponse. " alt="" coords="531,463,752,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1SQS_1_1GetQueueUrlResponsePrivate.html" title="Private implementation for GetQueueUrlResponse. " alt="" coords="521,528,762,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1SQS_1_1ListDeadLetterSourceQueuesResponsePrivate.html" title="Private implementation for ListDeadLetterSourceQueuesResponse. " alt="" coords="537,593,745,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1SQS_1_1ListQueuesResponsePrivate.html" title="Private implementation for ListQueuesResponse. " alt="" coords="526,659,757,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1SQS_1_1ListQueueTagsResponsePrivate.html" title="Private implementation for ListQueueTagsResponse. " alt="" coords="544,724,739,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1SQS_1_1PurgeQueueResponsePrivate.html" title="Private implementation for PurgeQueueResponse. " alt="" coords="523,789,760,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1SQS_1_1ReceiveMessageResponsePrivate.html" title="Private implementation for ReceiveMessageResponse. " alt="" coords="538,855,745,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1SQS_1_1RemovePermissionResponsePrivate.html" title="Private implementation for RemovePermissionResponse. " alt="" coords="531,920,751,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1SQS_1_1SendMessageBatchResponsePrivate.html" title="Private implementation for SendMessageBatchResponse. " alt="" coords="530,985,753,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1SQS_1_1SendMessageResponsePrivate.html" title="Private implementation for SendMessageResponse. " alt="" coords="517,1051,765,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1SQS_1_1SetQueueAttributesResponsePrivate.html" title="Private implementation for SetQueueAttributesResponse. " alt="" coords="531,1116,751,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1SQS_1_1TagQueueResponsePrivate.html" title="Private implementation for TagQueueResponse. " alt="" coords="529,1181,754,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1SQS_1_1UntagQueueResponsePrivate.html" title="Private implementation for UntagQueueResponse. " alt="" coords="522,1247,761,1288"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="5,627,187,668"/>
+</map>

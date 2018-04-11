@@ -1,0 +1,4 @@
+<map id="QtAws::CognitoSync::BulkPublishResponse" name="QtAws::CognitoSync::BulkPublishResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1CognitoSync_1_1CognitoSyncResponse.html" title="Handles CognitoSync CognitoSync responses. " alt="" coords="14,169,178,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="5,80,187,121"/>
+</map>

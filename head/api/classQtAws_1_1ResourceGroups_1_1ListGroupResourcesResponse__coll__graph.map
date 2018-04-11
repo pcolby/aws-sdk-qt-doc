@@ -1,0 +1,4 @@
+<map id="QtAws::ResourceGroups::ListGroupResourcesResponse" name="QtAws::ResourceGroups::ListGroupResourcesResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ResourceGroups_1_1ResourceGroupsResponse.html" title="Handles ResourceGroups ResourceGroups responses. " alt="" coords="16,169,203,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="19,80,200,121"/>
+</map>

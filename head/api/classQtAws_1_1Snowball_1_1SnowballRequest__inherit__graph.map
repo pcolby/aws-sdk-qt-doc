@@ -1,0 +1,20 @@
+<map id="QtAws::Snowball::SnowballRequest" name="QtAws::Snowball::SnowballRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Snowball_1_1CancelClusterRequest.html" title="Implements Snowball CancelCluster requests. " alt="" coords="471,5,685,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Snowball_1_1CancelJobRequest.html" title="Implements Snowball CancelJob requests. " alt="" coords="481,71,675,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Snowball_1_1CreateAddressRequest.html" title="Implements Snowball CreateAddress requests. " alt="" coords="469,136,687,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Snowball_1_1CreateClusterRequest.html" title="Implements Snowball CreateCluster requests. " alt="" coords="472,201,684,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Snowball_1_1CreateJobRequest.html" title="Implements Snowball CreateJob requests. " alt="" coords="483,267,673,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Snowball_1_1DescribeAddressesRequest.html" title="Implements Snowball DescribeAddresses requests. " alt="" coords="487,332,669,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Snowball_1_1DescribeAddressRequest.html" title="Implements Snowball DescribeAddress requests. " alt="" coords="487,397,669,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Snowball_1_1DescribeClusterRequest.html" title="Implements Snowball DescribeCluster requests. " alt="" coords="487,463,669,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Snowball_1_1DescribeJobRequest.html" title="Implements Snowball DescribeJob requests. " alt="" coords="487,528,669,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Snowball_1_1GetJobManifestRequest.html" title="Implements Snowball GetJobManifest requests. " alt="" coords="467,593,689,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Snowball_1_1GetJobUnlockCodeRequest.html" title="Implements Snowball GetJobUnlockCode requests. " alt="" coords="471,659,685,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Snowball_1_1GetSnowballUsageRequest.html" title="Implements Snowball GetSnowballUsage requests. " alt="" coords="475,724,681,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Snowball_1_1ListClusterJobsRequest.html" title="Implements Snowball ListClusterJobs requests. " alt="" coords="481,789,675,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Snowball_1_1ListClustersRequest.html" title="Implements Snowball ListClusters requests. " alt="" coords="477,855,679,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1Snowball_1_1ListJobsRequest.html" title="Implements Snowball ListJobs requests. " alt="" coords="488,920,668,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1Snowball_1_1UpdateClusterRequest.html" title="Implements Snowball UpdateCluster requests. " alt="" coords="471,985,685,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1Snowball_1_1UpdateJobRequest.html" title="Implements Snowball UpdateJob requests. " alt="" coords="481,1051,675,1092"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,528,187,569"/>
+</map>

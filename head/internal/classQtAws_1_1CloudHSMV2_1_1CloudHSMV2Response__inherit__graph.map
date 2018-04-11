@@ -1,0 +1,13 @@
+<map id="QtAws::CloudHSMV2::CloudHSMV2Response" name="QtAws::CloudHSMV2::CloudHSMV2Response">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSMV2_1_1CreateClusterResponse.html" title="Handles CloudHSMV2 CreateCluster responses. " alt="" coords="573,5,736,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSMV2_1_1CreateHsmResponse.html" title="Handles CloudHSMV2 CreateHsm responses. " alt="" coords="575,71,734,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSMV2_1_1DeleteClusterResponse.html" title="Handles CloudHSMV2 DeleteCluster responses. " alt="" coords="574,136,735,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSMV2_1_1DeleteHsmResponse.html" title="Handles CloudHSMV2 DeleteHsm responses. " alt="" coords="575,201,734,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSMV2_1_1DescribeBackupsResponse.html" title="Handles CloudHSMV2 DescribeBackups responses. " alt="" coords="563,267,747,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSMV2_1_1DescribeClustersResponse.html" title="Handles CloudHSMV2 DescribeClusters responses. " alt="" coords="563,332,746,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSMV2_1_1InitializeClusterResponse.html" title="Handles CloudHSMV2 InitializeCluster responses. " alt="" coords="569,397,740,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSMV2_1_1ListTagsResponse.html" title="Handles CloudHSMV2 ListTags responses. " alt="" coords="575,463,734,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSMV2_1_1TagResourceResponse.html" title="Handles CloudHSMV2 TagResource responses. " alt="" coords="575,528,734,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudHSMV2_1_1UntagResourceResponse.html" title="Handles CloudHSMV2 UntagResource responses. " alt="" coords="569,593,741,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,300,305,341"/>
+</map>

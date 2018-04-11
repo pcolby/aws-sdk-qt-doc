@@ -1,0 +1,36 @@
+<map id="QtAws::CloudWatchLogs::CloudWatchLogsResponse" name="QtAws::CloudWatchLogs::CloudWatchLogsResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudWatchLogs_1_1AssociateKmsKeyResponse.html" title="Handles CloudWatchLogs AssociateKmsKey responses. " alt="" coords="613,5,811,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudWatchLogs_1_1CancelExportTaskResponse.html" title="Handles CloudWatchLogs CancelExportTask responses. " alt="" coords="613,71,811,112"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudWatchLogs_1_1CreateExportTaskResponse.html" title="Handles CloudWatchLogs CreateExportTask responses. " alt="" coords="615,136,809,177"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudWatchLogs_1_1CreateLogGroupResponse.html" title="Handles CloudWatchLogs CreateLogGroup responses. " alt="" coords="620,201,804,243"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudWatchLogs_1_1CreateLogStreamResponse.html" title="Handles CloudWatchLogs CreateLogStream responses. " alt="" coords="617,267,807,308"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteDestinationResponse.html" title="Handles CloudWatchLogs DeleteDestination responses. " alt="" coords="615,332,809,373"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteLogGroupResponse.html" title="Handles CloudWatchLogs DeleteLogGroup responses. " alt="" coords="621,397,803,439"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteLogStreamResponse.html" title="Handles CloudWatchLogs DeleteLogStream responses. " alt="" coords="617,463,807,504"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteMetricFilterResponse.html" title="Handles CloudWatchLogs DeleteMetricFilter responses. " alt="" coords="616,528,808,569"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteResourcePolicyResponse.html" title="Handles CloudWatchLogs DeleteResourcePolicy responses. " alt="" coords="603,593,821,635"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteRetentionPolicyResponse.html" title="Handles CloudWatchLogs DeleteRetentionPolicy responses. " alt="" coords="603,659,821,700"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudWatchLogs_1_1DeleteSubscriptionFilterResponse.html" title="Handles CloudWatchLogs DeleteSubscriptionFilter responses. " alt="" coords="598,724,826,765"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeDestinationsResponse.html" title="Handles CloudWatchLogs DescribeDestinations responses. " alt="" coords="605,789,819,831"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeExportTasksResponse.html" title="Handles CloudWatchLogs DescribeExportTasks responses. " alt="" coords="605,855,819,896"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeLogGroupsResponse.html" title="Handles CloudWatchLogs DescribeLogGroups responses. " alt="" coords="610,920,814,961"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeLogStreamsResponse.html" title="Handles CloudWatchLogs DescribeLogStreams responses. " alt="" coords="607,985,817,1027"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeMetricFiltersResponse.html" title="Handles CloudWatchLogs DescribeMetricFilters responses. " alt="" coords="605,1051,819,1092"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeResourcePoliciesResponse.html" title="Handles CloudWatchLogs DescribeResourcePolicies responses. " alt="" coords="591,1116,833,1157"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudWatchLogs_1_1DescribeSubscriptionFiltersResponse.html" title="Handles CloudWatchLogs DescribeSubscriptionFilters responses. " alt="" coords="617,1182,807,1238"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudWatchLogs_1_1DisassociateKmsKeyResponse.html" title="Handles CloudWatchLogs DisassociateKmsKey responses. " alt="" coords="605,1263,819,1304"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudWatchLogs_1_1FilterLogEventsResponse.html" title="Handles CloudWatchLogs FilterLogEvents responses. " alt="" coords="622,1328,802,1369"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudWatchLogs_1_1GetLogEventsResponse.html" title="Handles CloudWatchLogs GetLogEvents responses. " alt="" coords="626,1393,798,1435"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudWatchLogs_1_1ListTagsLogGroupResponse.html" title="Handles CloudWatchLogs ListTagsLogGroup responses. " alt="" coords="615,1459,809,1500"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudWatchLogs_1_1PutDestinationPolicyResponse.html" title="Handles CloudWatchLogs PutDestinationPolicy responses. " alt="" coords="607,1524,817,1565"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudWatchLogs_1_1PutDestinationResponse.html" title="Handles CloudWatchLogs PutDestination responses. " alt="" coords="625,1589,799,1631"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudWatchLogs_1_1PutLogEventsResponse.html" title="Handles CloudWatchLogs PutLogEvents responses. " alt="" coords="627,1655,797,1696"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudWatchLogs_1_1PutMetricFilterResponse.html" title="Handles CloudWatchLogs PutMetricFilter responses. " alt="" coords="625,1720,799,1761"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1CloudWatchLogs_1_1PutResourcePolicyResponse.html" title="Handles CloudWatchLogs PutResourcePolicy responses. " alt="" coords="611,1785,813,1827"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1CloudWatchLogs_1_1PutRetentionPolicyResponse.html" title="Handles CloudWatchLogs PutRetentionPolicy responses. " alt="" coords="611,1851,813,1892"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1CloudWatchLogs_1_1PutSubscriptionFilterResponse.html" title="Handles CloudWatchLogs PutSubscriptionFilter responses. " alt="" coords="607,1916,817,1957"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1CloudWatchLogs_1_1TagLogGroupResponse.html" title="Handles CloudWatchLogs TagLogGroup responses. " alt="" coords="627,1981,797,2023"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1CloudWatchLogs_1_1TestMetricFilterResponse.html" title="Handles CloudWatchLogs TestMetricFilter responses. " alt="" coords="622,2047,802,2088"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1CloudWatchLogs_1_1UntagLogGroupResponse.html" title="Handles CloudWatchLogs UntagLogGroup responses. " alt="" coords="622,2112,802,2153"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,1051,305,1092"/>
+</map>

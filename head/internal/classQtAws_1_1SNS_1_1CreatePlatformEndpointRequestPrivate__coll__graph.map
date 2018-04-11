@@ -1,0 +1,5 @@
+<map id="QtAws::SNS::CreatePlatformEndpointRequestPrivate" name="QtAws::SNS::CreatePlatformEndpointRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1SNS_1_1SNSRequestPrivate.html" title="Private implementation for SNSRequest. " alt="" coords="5,117,229,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="189,5,371,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="253,109,435,151"/>
+</map>

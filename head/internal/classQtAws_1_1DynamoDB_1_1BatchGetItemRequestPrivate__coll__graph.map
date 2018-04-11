@@ -1,0 +1,5 @@
+<map id="QtAws::DynamoDB::BatchGetItemRequestPrivate" name="QtAws::DynamoDB::BatchGetItemRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1DynamoDB_1_1DynamoDBRequestPrivate.html" title="Private implementation for DynamoDBRequest. " alt="" coords="5,109,268,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="229,5,410,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="293,109,474,151"/>
+</map>

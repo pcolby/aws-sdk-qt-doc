@@ -1,0 +1,9 @@
+<map id="QtAws::ImportExport::ImportExportRequest" name="QtAws::ImportExport::ImportExportRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1ImportExport_1_1CancelJobRequest.html" title="Implements ImportExport CancelJob requests. " alt="" coords="455,5,601,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1ImportExport_1_1CreateJobRequest.html" title="Implements ImportExport CreateJob requests. " alt="" coords="455,71,601,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1ImportExport_1_1GetShippingLabelRequest.html" title="Implements ImportExport GetShippingLabel requests. " alt="" coords="437,136,619,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1ImportExport_1_1GetStatusRequest.html" title="Implements ImportExport GetStatus requests. " alt="" coords="455,201,601,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1ImportExport_1_1ListJobsRequest.html" title="Implements ImportExport ListJobs requests. " alt="" coords="455,267,601,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1ImportExport_1_1UpdateJobRequest.html" title="Implements ImportExport UpdateJob requests. " alt="" coords="455,332,601,373"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,169,187,211"/>
+</map>

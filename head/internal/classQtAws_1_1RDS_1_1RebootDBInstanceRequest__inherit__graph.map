@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::RebootDBInstanceRequest" name="QtAws::RDS::RebootDBInstanceRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequest.html" title="Interface class for providing RDS requests. " alt="" coords="22,95,207,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="24,5,205,47"/>
+</map>

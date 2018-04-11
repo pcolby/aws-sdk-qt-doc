@@ -1,0 +1,4 @@
+<map id="QtAws::GuardDuty::GetDetectorRequest" name="QtAws::GuardDuty::GetDetectorRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1GuardDuty_1_1GuardDutyRequest.html" title="Interface class for providing GuardDuty requests. " alt="" coords="9,95,213,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="21,5,202,47"/>
+</map>

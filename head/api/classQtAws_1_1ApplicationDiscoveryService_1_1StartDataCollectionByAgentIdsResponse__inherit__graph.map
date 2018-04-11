@@ -1,0 +1,4 @@
+<map id="QtAws::ApplicationDiscoveryService::StartDataCollectionByAgentIdsResponse" name="QtAws::ApplicationDiscoveryService::StartDataCollectionByAgentIdsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ApplicationDiscoveryService_1_1ApplicationDiscoveryServiceResponse.html" title="Handles ApplicationDiscoveryService ApplicationDiscoveryService responses. " alt="" coords="5,169,247,225"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="35,80,217,121"/>
+</map>

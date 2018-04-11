@@ -1,0 +1,5 @@
+<map id="QtAws::Firehose::DescribeDeliveryStreamRequestPrivate" name="QtAws::Firehose::DescribeDeliveryStreamRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Firehose_1_1FirehoseRequestPrivate.html" title="Private implementation for FirehoseRequest. " alt="" coords="17,109,196,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="156,5,337,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="220,109,401,151"/>
+</map>

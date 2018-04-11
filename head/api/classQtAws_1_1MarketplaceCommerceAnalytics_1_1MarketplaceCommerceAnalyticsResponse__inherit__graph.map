@@ -1,0 +1,5 @@
+<map id="QtAws::MarketplaceCommerceAnalytics::MarketplaceCommerceAnalyticsResponse" name="QtAws::MarketplaceCommerceAnalytics::MarketplaceCommerceAnalyticsResponse">
+<area shape="rect" id="node4" href="$classQtAws_1_1MarketplaceCommerceAnalytics_1_1GenerateDataSetResponse.html" title="Handles MarketplaceCommerceAnalytics GenerateDataSet responses. " alt="" coords="620,5,864,47"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MarketplaceCommerceAnalytics_1_1StartSupportDataExportResponse.html" title="Handles MarketplaceCommerceAnalytics StartSupportDataExport responses. " alt="" coords="631,71,853,127"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="124,43,305,84"/>
+</map>

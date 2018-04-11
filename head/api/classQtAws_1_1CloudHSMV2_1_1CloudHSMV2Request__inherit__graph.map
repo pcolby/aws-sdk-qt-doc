@@ -1,0 +1,13 @@
+<map id="QtAws::CloudHSMV2::CloudHSMV2Request" name="QtAws::CloudHSMV2::CloudHSMV2Request">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudHSMV2_1_1CreateClusterRequest.html" title="Implements CloudHSMV2 CreateCluster requests. " alt="" coords="449,5,608,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudHSMV2_1_1CreateHsmRequest.html" title="Implements CloudHSMV2 CreateHsm requests. " alt="" coords="449,71,608,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudHSMV2_1_1DeleteClusterRequest.html" title="Implements CloudHSMV2 DeleteCluster requests. " alt="" coords="449,136,608,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudHSMV2_1_1DeleteHsmRequest.html" title="Implements CloudHSMV2 DeleteHsm requests. " alt="" coords="449,201,608,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudHSMV2_1_1DescribeBackupsRequest.html" title="Implements CloudHSMV2 DescribeBackups requests. " alt="" coords="441,267,616,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudHSMV2_1_1DescribeClustersRequest.html" title="Implements CloudHSMV2 DescribeClusters requests. " alt="" coords="443,332,615,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudHSMV2_1_1InitializeClusterRequest.html" title="Implements CloudHSMV2 InitializeCluster requests. " alt="" coords="448,397,609,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudHSMV2_1_1ListTagsRequest.html" title="Implements CloudHSMV2 ListTags requests. " alt="" coords="449,463,608,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudHSMV2_1_1TagResourceRequest.html" title="Implements CloudHSMV2 TagResource requests. " alt="" coords="449,528,608,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudHSMV2_1_1UntagResourceRequest.html" title="Implements CloudHSMV2 UntagResource requests. " alt="" coords="447,593,610,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,300,187,341"/>
+</map>

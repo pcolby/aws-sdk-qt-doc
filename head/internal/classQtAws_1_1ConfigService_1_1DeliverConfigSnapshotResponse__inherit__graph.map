@@ -1,0 +1,4 @@
+<map id="QtAws::ConfigService::DeliverConfigSnapshotResponse" name="QtAws::ConfigService::DeliverConfigSnapshotResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1ConfigService_1_1ConfigServiceResponse.html" title="Handles ConfigService ConfigService responses. " alt="" coords="31,169,202,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

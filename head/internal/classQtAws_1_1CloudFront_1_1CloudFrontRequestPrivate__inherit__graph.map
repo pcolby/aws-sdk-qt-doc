@@ -1,0 +1,31 @@
+<map id="QtAws::CloudFront::CloudFrontRequestPrivate" name="QtAws::CloudFront::CloudFrontRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1CloudFront_1_1CreateCloudFrontOriginAccessIdentityRequestPrivate.html" title="Private implementation for CreateCloudFrontOriginAccessIdentityRequest. " alt="" coords="471,5,674,61"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1CloudFront_1_1CreateDistributionRequestPrivate.html" title="Private implementation for CreateDistributionRequest. " alt="" coords="464,86,681,127"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1CloudFront_1_1CreateDistributionWithTagsRequestPrivate.html" title="Private implementation for CreateDistributionWithTagsRequest. " alt="" coords="481,152,664,208"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1CloudFront_1_1CreateInvalidationRequestPrivate.html" title="Private implementation for CreateInvalidationRequest. " alt="" coords="464,233,681,274"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1CloudFront_1_1CreateStreamingDistributionRequestPrivate.html" title="Private implementation for CreateStreamingDistributionRequest. " alt="" coords="479,299,666,355"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1CloudFront_1_1CreateStreamingDistributionWithTagsRequestPrivate.html" title="Private implementation for CreateStreamingDistributionWithTagsRequest. " alt="" coords="479,379,666,435"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1CloudFront_1_1DeleteCloudFrontOriginAccessIdentityRequestPrivate.html" title="Private implementation for DeleteCloudFrontOriginAccessIdentityRequest. " alt="" coords="471,459,674,515"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1CloudFront_1_1DeleteDistributionRequestPrivate.html" title="Private implementation for DeleteDistributionRequest. " alt="" coords="465,539,681,581"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1CloudFront_1_1DeleteServiceLinkedRoleRequestPrivate.html" title="Private implementation for DeleteServiceLinkedRoleRequest. " alt="" coords="463,605,682,661"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1CloudFront_1_1DeleteStreamingDistributionRequestPrivate.html" title="Private implementation for DeleteStreamingDistributionRequest. " alt="" coords="480,685,665,741"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1CloudFront_1_1GetCloudFrontOriginAccessIdentityConfigRequestPrivate.html" title="Private implementation for GetCloudFrontOriginAccessIdentityConfigRequest. " alt="" coords="459,765,687,821"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1CloudFront_1_1GetCloudFrontOriginAccessIdentityRequestPrivate.html" title="Private implementation for GetCloudFrontOriginAccessIdentityRequest. " alt="" coords="459,845,687,901"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1CloudFront_1_1GetDistributionConfigRequestPrivate.html" title="Private implementation for GetDistributionConfigRequest. " alt="" coords="475,925,671,981"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1CloudFront_1_1GetDistributionRequestPrivate.html" title="Private implementation for GetDistributionRequest. " alt="" coords="473,1006,672,1047"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1CloudFront_1_1GetInvalidationRequestPrivate.html" title="Private implementation for GetInvalidationRequest. " alt="" coords="473,1071,672,1113"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1CloudFront_1_1GetStreamingDistributionConfigRequestPrivate.html" title="Private implementation for GetStreamingDistributionConfigRequest. " alt="" coords="469,1137,676,1193"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1CloudFront_1_1GetStreamingDistributionRequestPrivate.html" title="Private implementation for GetStreamingDistributionRequest. " alt="" coords="464,1217,681,1273"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1CloudFront_1_1ListCloudFrontOriginAccessIdentitiesRequestPrivate.html" title="Private implementation for ListCloudFrontOriginAccessIdentitiesRequest. " alt="" coords="480,1297,665,1353"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1CloudFront_1_1ListDistributionsByWebACLIdRequestPrivate.html" title="Private implementation for ListDistributionsByWebACLIdRequest. " alt="" coords="475,1377,671,1433"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1CloudFront_1_1ListDistributionsRequestPrivate.html" title="Private implementation for ListDistributionsRequest. " alt="" coords="469,1458,676,1499"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1CloudFront_1_1ListInvalidationsRequestPrivate.html" title="Private implementation for ListInvalidationsRequest. " alt="" coords="469,1523,676,1565"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1CloudFront_1_1ListStreamingDistributionsRequestPrivate.html" title="Private implementation for ListStreamingDistributionsRequest. " alt="" coords="485,1589,660,1645"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1CloudFront_1_1ListTagsForResourceRequestPrivate.html" title="Private implementation for ListTagsForResourceRequest. " alt="" coords="475,1669,671,1725"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1CloudFront_1_1TagResourceRequestPrivate.html" title="Private implementation for TagResourceRequest. " alt="" coords="477,1750,668,1791"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1CloudFront_1_1UntagResourceRequestPrivate.html" title="Private implementation for UntagResourceRequest. " alt="" coords="471,1815,674,1857"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1CloudFront_1_1UpdateCloudFrontOriginAccessIdentityRequestPrivate.html" title="Private implementation for UpdateCloudFrontOriginAccessIdentityRequest. " alt="" coords="469,1881,676,1937"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1CloudFront_1_1UpdateDistributionRequestPrivate.html" title="Private implementation for UpdateDistributionRequest. " alt="" coords="463,1962,683,2003"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1CloudFront_1_1UpdateStreamingDistributionRequestPrivate.html" title="Private implementation for UpdateStreamingDistributionRequest. " alt="" coords="478,2028,667,2084"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,1039,187,1081"/>
+</map>

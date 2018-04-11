@@ -1,0 +1,4 @@
+<map id="QtAws::KinesisAnalytics::StopApplicationResponse" name="QtAws::KinesisAnalytics::StopApplicationResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1KinesisAnalytics_1_1KinesisAnalyticsResponse.html" title="Handles KinesisAnalytics KinesisAnalytics responses. " alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="8,80,189,121"/>
+</map>

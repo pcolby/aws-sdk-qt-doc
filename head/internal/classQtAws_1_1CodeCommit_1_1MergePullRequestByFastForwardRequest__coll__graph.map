@@ -1,0 +1,5 @@
+<map id="QtAws::CodeCommit::MergePullRequestByFastForwardRequest" name="QtAws::CodeCommit::MergePullRequestByFastForwardRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CodeCommit_1_1CodeCommitRequest.html" title="Interface class for providing CodeCommit requests. " alt="" coords="37,109,192,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="152,5,333,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="216,109,397,151"/>
+</map>

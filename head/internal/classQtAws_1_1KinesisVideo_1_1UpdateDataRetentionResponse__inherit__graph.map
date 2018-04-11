@@ -1,0 +1,4 @@
+<map id="QtAws::KinesisVideo::UpdateDataRetentionResponse" name="QtAws::KinesisVideo::UpdateDataRetentionResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1KinesisVideo_1_1KinesisVideoResponse.html" title="Handles KinesisVideo KinesisVideo responses. " alt="" coords="30,169,195,211"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="22,80,203,121"/>
+</map>

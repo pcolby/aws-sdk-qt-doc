@@ -1,0 +1,39 @@
+<map id="QtAws::LexModelBuildingService::LexModelBuildingServiceRequest" name="QtAws::LexModelBuildingService::LexModelBuildingServiceRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1LexModelBuildingService_1_1CreateBotVersionRequest.html" title="Implements LexModelBuildingService CreateBotVersion requests. " alt="" coords="527,5,743,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1LexModelBuildingService_1_1CreateIntentVersionRequest.html" title="Implements LexModelBuildingService CreateIntentVersion requests. " alt="" coords="527,71,743,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1LexModelBuildingService_1_1CreateSlotTypeVersionRequest.html" title="Implements LexModelBuildingService CreateSlotTypeVersion requests. " alt="" coords="527,136,743,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteBotAliasRequest.html" title="Implements LexModelBuildingService DeleteBotAlias requests. " alt="" coords="527,201,743,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteBotChannelAssociationRequest.html" title="Implements LexModelBuildingService DeleteBotChannelAssociation requests. " alt="" coords="508,267,761,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteBotRequest.html" title="Implements LexModelBuildingService DeleteBot requests. " alt="" coords="527,332,743,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteBotVersionRequest.html" title="Implements LexModelBuildingService DeleteBotVersion requests. " alt="" coords="527,397,743,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteIntentRequest.html" title="Implements LexModelBuildingService DeleteIntent requests. " alt="" coords="527,463,743,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteIntentVersionRequest.html" title="Implements LexModelBuildingService DeleteIntentVersion requests. " alt="" coords="527,528,743,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteSlotTypeRequest.html" title="Implements LexModelBuildingService DeleteSlotType requests. " alt="" coords="527,593,743,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteSlotTypeVersionRequest.html" title="Implements LexModelBuildingService DeleteSlotTypeVersion requests. " alt="" coords="527,659,743,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1LexModelBuildingService_1_1DeleteUtterancesRequest.html" title="Implements LexModelBuildingService DeleteUtterances requests. " alt="" coords="527,724,743,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotAliasesRequest.html" title="Implements LexModelBuildingService GetBotAliases requests. " alt="" coords="527,789,743,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotAliasRequest.html" title="Implements LexModelBuildingService GetBotAlias requests. " alt="" coords="527,855,743,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotChannelAssociationRequest.html" title="Implements LexModelBuildingService GetBotChannelAssociation requests. " alt="" coords="517,920,753,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotChannelAssociationsRequest.html" title="Implements LexModelBuildingService GetBotChannelAssociations requests. " alt="" coords="513,985,756,1027"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotRequest.html" title="Implements LexModelBuildingService GetBot requests. " alt="" coords="527,1051,743,1092"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotsRequest.html" title="Implements LexModelBuildingService GetBots requests. " alt="" coords="527,1116,743,1157"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1LexModelBuildingService_1_1GetBotVersionsRequest.html" title="Implements LexModelBuildingService GetBotVersions requests. " alt="" coords="527,1181,743,1223"/>
+<area shape="rect" id="node22" href="$classQtAws_1_1LexModelBuildingService_1_1GetBuiltinIntentRequest.html" title="Implements LexModelBuildingService GetBuiltinIntent requests. " alt="" coords="527,1247,743,1288"/>
+<area shape="rect" id="node23" href="$classQtAws_1_1LexModelBuildingService_1_1GetBuiltinIntentsRequest.html" title="Implements LexModelBuildingService GetBuiltinIntents requests. " alt="" coords="527,1312,743,1353"/>
+<area shape="rect" id="node24" href="$classQtAws_1_1LexModelBuildingService_1_1GetBuiltinSlotTypesRequest.html" title="Implements LexModelBuildingService GetBuiltinSlotTypes requests. " alt="" coords="527,1377,743,1419"/>
+<area shape="rect" id="node25" href="$classQtAws_1_1LexModelBuildingService_1_1GetExportRequest.html" title="Implements LexModelBuildingService GetExport requests. " alt="" coords="527,1443,743,1484"/>
+<area shape="rect" id="node26" href="$classQtAws_1_1LexModelBuildingService_1_1GetImportRequest.html" title="Implements LexModelBuildingService GetImport requests. " alt="" coords="527,1508,743,1549"/>
+<area shape="rect" id="node27" href="$classQtAws_1_1LexModelBuildingService_1_1GetIntentRequest.html" title="Implements LexModelBuildingService GetIntent requests. " alt="" coords="527,1573,743,1615"/>
+<area shape="rect" id="node28" href="$classQtAws_1_1LexModelBuildingService_1_1GetIntentsRequest.html" title="Implements LexModelBuildingService GetIntents requests. " alt="" coords="527,1639,743,1680"/>
+<area shape="rect" id="node29" href="$classQtAws_1_1LexModelBuildingService_1_1GetIntentVersionsRequest.html" title="Implements LexModelBuildingService GetIntentVersions requests. " alt="" coords="527,1704,743,1745"/>
+<area shape="rect" id="node30" href="$classQtAws_1_1LexModelBuildingService_1_1GetSlotTypeRequest.html" title="Implements LexModelBuildingService GetSlotType requests. " alt="" coords="527,1769,743,1811"/>
+<area shape="rect" id="node31" href="$classQtAws_1_1LexModelBuildingService_1_1GetSlotTypesRequest.html" title="Implements LexModelBuildingService GetSlotTypes requests. " alt="" coords="527,1835,743,1876"/>
+<area shape="rect" id="node32" href="$classQtAws_1_1LexModelBuildingService_1_1GetSlotTypeVersionsRequest.html" title="Implements LexModelBuildingService GetSlotTypeVersions requests. " alt="" coords="527,1900,743,1941"/>
+<area shape="rect" id="node33" href="$classQtAws_1_1LexModelBuildingService_1_1GetUtterancesViewRequest.html" title="Implements LexModelBuildingService GetUtterancesView requests. " alt="" coords="527,1965,743,2007"/>
+<area shape="rect" id="node34" href="$classQtAws_1_1LexModelBuildingService_1_1PutBotAliasRequest.html" title="Implements LexModelBuildingService PutBotAlias requests. " alt="" coords="527,2031,743,2072"/>
+<area shape="rect" id="node35" href="$classQtAws_1_1LexModelBuildingService_1_1PutBotRequest.html" title="Implements LexModelBuildingService PutBot requests. " alt="" coords="527,2096,743,2137"/>
+<area shape="rect" id="node36" href="$classQtAws_1_1LexModelBuildingService_1_1PutIntentRequest.html" title="Implements LexModelBuildingService PutIntent requests. " alt="" coords="527,2161,743,2203"/>
+<area shape="rect" id="node37" href="$classQtAws_1_1LexModelBuildingService_1_1PutSlotTypeRequest.html" title="Implements LexModelBuildingService PutSlotType requests. " alt="" coords="527,2227,743,2268"/>
+<area shape="rect" id="node38" href="$classQtAws_1_1LexModelBuildingService_1_1StartImportRequest.html" title="Implements LexModelBuildingService StartImport requests. " alt="" coords="527,2292,743,2333"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,1149,187,1191"/>
+</map>

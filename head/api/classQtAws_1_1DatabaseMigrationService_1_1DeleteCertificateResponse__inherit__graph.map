@@ -1,0 +1,4 @@
+<map id="QtAws::DatabaseMigrationService::DeleteCertificateResponse" name="QtAws::DatabaseMigrationService::DeleteCertificateResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1DatabaseMigrationService_1_1DatabaseMigrationServiceResponse.html" title="Handles DatabaseMigrationService DatabaseMigrationService responses. " alt="" coords="7,169,234,225"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="30,80,211,121"/>
+</map>

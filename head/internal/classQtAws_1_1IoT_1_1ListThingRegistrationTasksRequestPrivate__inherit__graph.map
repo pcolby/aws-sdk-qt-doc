@@ -1,0 +1,4 @@
+<map id="QtAws::IoT::ListThingRegistrationTasksRequestPrivate" name="QtAws::IoT::ListThingRegistrationTasksRequestPrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1IoT_1_1IoTRequestPrivate.html" title="Private implementation for IoTRequest. " alt="" coords="12,95,219,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="25,5,206,47"/>
+</map>

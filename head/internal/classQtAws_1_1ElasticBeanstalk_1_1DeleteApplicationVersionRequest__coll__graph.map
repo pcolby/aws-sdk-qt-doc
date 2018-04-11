@@ -1,0 +1,5 @@
+<map id="QtAws::ElasticBeanstalk::DeleteApplicationVersionRequest" name="QtAws::ElasticBeanstalk::DeleteApplicationVersionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticBeanstalk_1_1ElasticBeanstalkRequest.html" title="Interface class for providing ElasticBeanstalk requests. " alt="" coords="29,109,207,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="167,5,349,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="231,109,413,151"/>
+</map>

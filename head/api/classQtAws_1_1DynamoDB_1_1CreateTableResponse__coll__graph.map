@@ -1,0 +1,4 @@
+<map id="QtAws::DynamoDB::CreateTableResponse" name="QtAws::DynamoDB::CreateTableResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1DynamoDB_1_1DynamoDBResponse.html" title="Handles DynamoDB DynamoDB responses. " alt="" coords="5,169,279,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="51,80,233,121"/>
+</map>

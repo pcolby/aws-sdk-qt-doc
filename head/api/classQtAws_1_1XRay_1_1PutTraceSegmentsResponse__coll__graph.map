@@ -1,0 +1,4 @@
+<map id="QtAws::XRay::PutTraceSegmentsResponse" name="QtAws::XRay::PutTraceSegmentsResponse">
+<area shape="rect" id="node2" href="$classQtAws_1_1XRay_1_1XRayResponse.html" title="Handles XRay XRay responses. " alt="" coords="15,169,218,196"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponse.html" title="Interface class for processing AWS responses. " alt="" coords="26,80,207,121"/>
+</map>

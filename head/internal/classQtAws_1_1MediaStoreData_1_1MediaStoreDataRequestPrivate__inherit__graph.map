@@ -1,0 +1,8 @@
+<map id="QtAws::MediaStoreData::MediaStoreDataRequestPrivate" name="QtAws::MediaStoreData::MediaStoreDataRequestPrivate">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStoreData_1_1DeleteObjectRequestPrivate.html" title="Private implementation for DeleteObjectRequest. " alt="" coords="505,5,701,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStoreData_1_1DescribeObjectRequestPrivate.html" title="Private implementation for DescribeObjectRequest. " alt="" coords="497,71,708,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStoreData_1_1GetObjectRequestPrivate.html" title="Private implementation for GetObjectRequest. " alt="" coords="513,136,692,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStoreData_1_1ListItemsRequestPrivate.html" title="Private implementation for ListItemsRequest. " alt="" coords="515,201,690,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStoreData_1_1PutObjectRequestPrivate.html" title="Private implementation for PutObjectRequest. " alt="" coords="513,267,692,308"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="5,136,187,177"/>
+</map>

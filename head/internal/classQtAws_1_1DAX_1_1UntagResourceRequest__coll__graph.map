@@ -1,0 +1,5 @@
+<map id="QtAws::DAX::UntagResourceRequest" name="QtAws::DAX::UntagResourceRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DAX_1_1DAXRequest.html" title="Interface class for providing DAX requests. " alt="" coords="13,117,195,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="156,5,337,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="220,109,401,151"/>
+</map>

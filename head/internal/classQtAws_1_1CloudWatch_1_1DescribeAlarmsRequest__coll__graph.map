@@ -1,0 +1,5 @@
+<map id="QtAws::CloudWatch::DescribeAlarmsRequest" name="QtAws::CloudWatch::DescribeAlarmsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatch_1_1CloudWatchRequest.html" title="Interface class for providing CloudWatch requests. " alt="" coords="12,109,163,151"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="123,5,305,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="187,109,369,151"/>
+</map>

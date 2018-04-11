@@ -1,0 +1,4 @@
+<map id="QtAws::RDS::ListTagsForResourceRequest" name="QtAws::RDS::ListTagsForResourceRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1RDS_1_1RDSRequest.html" title="Interface class for providing RDS requests. " alt="" coords="29,95,214,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="31,5,212,47"/>
+</map>

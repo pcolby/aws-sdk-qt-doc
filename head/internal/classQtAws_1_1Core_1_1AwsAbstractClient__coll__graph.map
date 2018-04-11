@@ -1,0 +1,7 @@
+<map id="QtAws::Core::AwsAbstractClient" name="QtAws::Core::AwsAbstractClient">
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractClientPrivate.html" title="Private implementation for AwsAbstractClient. " alt="" coords="423,141,604,183"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Core_1_1AwsAbstractCredentials.html" title="Interface class for providing AWS credentials. " alt="" coords="125,248,307,289"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractSignature.html" title="Interface class for providing AWS signatures. " alt="" coords="125,28,307,69"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Core_1_1AwsAbstractSignaturePrivate.html" title="Private implementation for AwsAbstractSignature. " alt="" coords="423,5,604,47"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Core_1_1AwsAbstractCredentialsPrivate.html" title="Private implementation for AwsAbstractCredentials. " alt="" coords="423,277,604,319"/>
+</map>

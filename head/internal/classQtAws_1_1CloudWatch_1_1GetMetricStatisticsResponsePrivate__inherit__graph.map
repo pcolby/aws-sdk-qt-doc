@@ -1,0 +1,4 @@
+<map id="QtAws::CloudWatch::GetMetricStatisticsResponsePrivate" name="QtAws::CloudWatch::GetMetricStatisticsResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudWatch_1_1CloudWatchResponsePrivate.html" title="Private implementation for CloudWatchResponse. " alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="12,5,193,47"/>
+</map>

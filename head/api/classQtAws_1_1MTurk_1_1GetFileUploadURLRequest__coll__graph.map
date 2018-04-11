@@ -1,0 +1,4 @@
+<map id="QtAws::MTurk::GetFileUploadURLRequest" name="QtAws::MTurk::GetFileUploadURLRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1MTurk_1_1MTurkRequest.html" title="Interface class for providing MTurk requests. " alt="" coords="5,95,207,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="15,5,197,47"/>
+</map>

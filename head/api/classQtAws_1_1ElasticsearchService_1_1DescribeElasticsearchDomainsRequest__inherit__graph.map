@@ -1,0 +1,4 @@
+<map id="QtAws::ElasticsearchService::DescribeElasticsearchDomainsRequest" name="QtAws::ElasticsearchService::DescribeElasticsearchDomainsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1ElasticsearchService_1_1ElasticsearchServiceRequest.html" title="Interface class for providing ElasticsearchService requests. " alt="" coords="35,95,238,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="46,5,227,47"/>
+</map>

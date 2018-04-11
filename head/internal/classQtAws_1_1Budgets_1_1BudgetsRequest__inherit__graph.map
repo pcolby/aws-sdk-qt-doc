@@ -1,0 +1,16 @@
+<map id="QtAws::Budgets::BudgetsRequest" name="QtAws::Budgets::BudgetsRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Budgets_1_1CreateBudgetRequest.html" title="Implements Budgets CreateBudget requests. " alt="" coords="519,5,726,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Budgets_1_1CreateNotificationRequest.html" title="Implements Budgets CreateNotification requests. " alt="" coords="507,71,738,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Budgets_1_1CreateSubscriberRequest.html" title="Implements Budgets CreateSubscriber requests. " alt="" coords="509,136,736,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Budgets_1_1DeleteBudgetRequest.html" title="Implements Budgets DeleteBudget requests. " alt="" coords="520,201,725,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Budgets_1_1DeleteNotificationRequest.html" title="Implements Budgets DeleteNotification requests. " alt="" coords="507,267,738,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Budgets_1_1DeleteSubscriberRequest.html" title="Implements Budgets DeleteSubscriber requests. " alt="" coords="509,332,736,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Budgets_1_1DescribeBudgetRequest.html" title="Implements Budgets DescribeBudget requests. " alt="" coords="533,397,712,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Budgets_1_1DescribeBudgetsRequest.html" title="Implements Budgets DescribeBudgets requests. " alt="" coords="533,463,712,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Budgets_1_1DescribeNotificationsForBudgetRequest.html" title="Implements Budgets DescribeNotificationsForBudget requests. " alt="" coords="521,528,725,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Budgets_1_1DescribeSubscribersForNotificationRequest.html" title="Implements Budgets DescribeSubscribersForNotification requests. " alt="" coords="510,593,735,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Budgets_1_1UpdateBudgetRequest.html" title="Implements Budgets UpdateBudget requests. " alt="" coords="518,659,727,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Budgets_1_1UpdateNotificationRequest.html" title="Implements Budgets UpdateNotification requests. " alt="" coords="505,724,740,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Budgets_1_1UpdateSubscriberRequest.html" title="Implements Budgets UpdateSubscriber requests. " alt="" coords="507,789,738,831"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,397,187,439"/>
+</map>

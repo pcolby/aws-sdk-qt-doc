@@ -1,0 +1,4 @@
+<map id="QtAws::AutoScaling::CompleteLifecycleActionRequest" name="QtAws::AutoScaling::CompleteLifecycleActionRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1AutoScaling_1_1AutoScalingRequest.html" title="Interface class for providing AutoScaling requests. " alt="" coords="43,95,192,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="27,5,208,47"/>
+</map>

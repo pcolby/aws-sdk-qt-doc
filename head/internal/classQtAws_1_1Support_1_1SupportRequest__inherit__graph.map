@@ -1,0 +1,17 @@
+<map id="QtAws::Support::SupportRequest" name="QtAws::Support::SupportRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1Support_1_1AddAttachmentsToSetRequest.html" title="Implements Support AddAttachmentsToSet requests. " alt="" coords="513,5,733,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Support_1_1AddCommunicationToCaseRequest.html" title="Implements Support AddCommunicationToCase requests. " alt="" coords="505,71,742,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1Support_1_1CreateCaseRequest.html" title="Implements Support CreateCase requests. " alt="" coords="527,136,720,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1Support_1_1DescribeAttachmentRequest.html" title="Implements Support DescribeAttachment requests. " alt="" coords="536,201,711,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1Support_1_1DescribeCasesRequest.html" title="Implements Support DescribeCases requests. " alt="" coords="536,267,711,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1Support_1_1DescribeCommunicationsRequest.html" title="Implements Support DescribeCommunications requests. " alt="" coords="536,332,711,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1Support_1_1DescribeServicesRequest.html" title="Implements Support DescribeServices requests. " alt="" coords="536,397,711,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1Support_1_1DescribeSeverityLevelsRequest.html" title="Implements Support DescribeSeverityLevels requests. " alt="" coords="536,463,711,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckRefreshStatusesRequest.html" title="Implements Support DescribeTrustedAdvisorCheckRefreshStatuses requests. " alt="" coords="500,529,747,585"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckResultRequest.html" title="Implements Support DescribeTrustedAdvisorCheckResult requests. " alt="" coords="506,609,741,651"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorChecksRequest.html" title="Implements Support DescribeTrustedAdvisorChecks requests. " alt="" coords="521,675,725,716"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1Support_1_1DescribeTrustedAdvisorCheckSummariesRequest.html" title="Implements Support DescribeTrustedAdvisorCheckSummaries requests. " alt="" coords="516,741,731,797"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1Support_1_1RefreshTrustedAdvisorCheckRequest.html" title="Implements Support RefreshTrustedAdvisorCheck requests. " alt="" coords="517,821,730,863"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1Support_1_1ResolveCaseRequest.html" title="Implements Support ResolveCase requests. " alt="" coords="522,887,725,928"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,431,187,472"/>
+</map>

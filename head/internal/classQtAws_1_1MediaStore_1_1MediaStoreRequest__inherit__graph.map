@@ -1,0 +1,13 @@
+<map id="QtAws::MediaStore::MediaStoreRequest" name="QtAws::MediaStore::MediaStoreRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1MediaStore_1_1CreateContainerRequest.html" title="Implements MediaStore CreateContainer requests. " alt="" coords="444,5,611,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1MediaStore_1_1DeleteContainerPolicyRequest.html" title="Implements MediaStore DeleteContainerPolicy requests. " alt="" coords="427,71,628,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1MediaStore_1_1DeleteContainerRequest.html" title="Implements MediaStore DeleteContainer requests. " alt="" coords="445,136,610,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1MediaStore_1_1DeleteCorsPolicyRequest.html" title="Implements MediaStore DeleteCorsPolicy requests. " alt="" coords="441,201,614,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1MediaStore_1_1DescribeContainerRequest.html" title="Implements MediaStore DescribeContainer requests. " alt="" coords="438,267,617,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1MediaStore_1_1GetContainerPolicyRequest.html" title="Implements MediaStore GetContainerPolicy requests. " alt="" coords="435,332,619,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1MediaStore_1_1GetCorsPolicyRequest.html" title="Implements MediaStore GetCorsPolicy requests. " alt="" coords="449,397,605,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1MediaStore_1_1ListContainersRequest.html" title="Implements MediaStore ListContainers requests. " alt="" coords="450,463,605,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1MediaStore_1_1PutContainerPolicyRequest.html" title="Implements MediaStore PutContainerPolicy requests. " alt="" coords="436,528,619,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1MediaStore_1_1PutCorsPolicyRequest.html" title="Implements MediaStore PutCorsPolicy requests. " alt="" coords="450,593,605,635"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,300,187,341"/>
+</map>

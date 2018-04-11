@@ -1,0 +1,22 @@
+<map id="QtAws::DataPipeline::DataPipelineRequest" name="QtAws::DataPipeline::DataPipelineRequest">
+<area shape="rect" id="node3" href="$classQtAws_1_1DataPipeline_1_1ActivatePipelineRequest.html" title="Implements DataPipeline ActivatePipeline requests. " alt="" coords="450,5,623,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1DataPipeline_1_1AddTagsRequest.html" title="Implements DataPipeline AddTags requests. " alt="" coords="465,71,609,112"/>
+<area shape="rect" id="node5" href="$classQtAws_1_1DataPipeline_1_1CreatePipelineRequest.html" title="Implements DataPipeline CreatePipeline requests. " alt="" coords="455,136,619,177"/>
+<area shape="rect" id="node6" href="$classQtAws_1_1DataPipeline_1_1DeactivatePipelineRequest.html" title="Implements DataPipeline DeactivatePipeline requests. " alt="" coords="443,201,631,243"/>
+<area shape="rect" id="node7" href="$classQtAws_1_1DataPipeline_1_1DeletePipelineRequest.html" title="Implements DataPipeline DeletePipeline requests. " alt="" coords="455,267,618,308"/>
+<area shape="rect" id="node8" href="$classQtAws_1_1DataPipeline_1_1DescribeObjectsRequest.html" title="Implements DataPipeline DescribeObjects requests. " alt="" coords="449,332,625,373"/>
+<area shape="rect" id="node9" href="$classQtAws_1_1DataPipeline_1_1DescribePipelinesRequest.html" title="Implements DataPipeline DescribePipelines requests. " alt="" coords="445,397,629,439"/>
+<area shape="rect" id="node10" href="$classQtAws_1_1DataPipeline_1_1EvaluateExpressionRequest.html" title="Implements DataPipeline EvaluateExpression requests. " alt="" coords="439,463,634,504"/>
+<area shape="rect" id="node11" href="$classQtAws_1_1DataPipeline_1_1GetPipelineDefinitionRequest.html" title="Implements DataPipeline GetPipelineDefinition requests. " alt="" coords="436,528,637,569"/>
+<area shape="rect" id="node12" href="$classQtAws_1_1DataPipeline_1_1ListPipelinesRequest.html" title="Implements DataPipeline ListPipelines requests. " alt="" coords="460,593,613,635"/>
+<area shape="rect" id="node13" href="$classQtAws_1_1DataPipeline_1_1PollForTaskRequest.html" title="Implements DataPipeline PollForTask requests. " alt="" coords="462,659,611,700"/>
+<area shape="rect" id="node14" href="$classQtAws_1_1DataPipeline_1_1PutPipelineDefinitionRequest.html" title="Implements DataPipeline PutPipelineDefinition requests. " alt="" coords="437,724,637,765"/>
+<area shape="rect" id="node15" href="$classQtAws_1_1DataPipeline_1_1QueryObjectsRequest.html" title="Implements DataPipeline QueryObjects requests. " alt="" coords="457,789,616,831"/>
+<area shape="rect" id="node16" href="$classQtAws_1_1DataPipeline_1_1RemoveTagsRequest.html" title="Implements DataPipeline RemoveTags requests. " alt="" coords="458,855,615,896"/>
+<area shape="rect" id="node17" href="$classQtAws_1_1DataPipeline_1_1ReportTaskProgressRequest.html" title="Implements DataPipeline ReportTaskProgress requests. " alt="" coords="437,920,636,961"/>
+<area shape="rect" id="node18" href="$classQtAws_1_1DataPipeline_1_1ReportTaskRunnerHeartbeatRequest.html" title="Implements DataPipeline ReportTaskRunnerHeartbeat requests. " alt="" coords="438,986,635,1042"/>
+<area shape="rect" id="node19" href="$classQtAws_1_1DataPipeline_1_1SetStatusRequest.html" title="Implements DataPipeline SetStatus requests. " alt="" coords="465,1067,609,1108"/>
+<area shape="rect" id="node20" href="$classQtAws_1_1DataPipeline_1_1SetTaskStatusRequest.html" title="Implements DataPipeline SetTaskStatus requests. " alt="" coords="453,1132,620,1173"/>
+<area shape="rect" id="node21" href="$classQtAws_1_1DataPipeline_1_1ValidatePipelineDefinitionRequest.html" title="Implements DataPipeline ValidatePipelineDefinition requests. " alt="" coords="447,1198,626,1254"/>
+<area shape="rect" id="node2" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="5,593,187,635"/>
+</map>

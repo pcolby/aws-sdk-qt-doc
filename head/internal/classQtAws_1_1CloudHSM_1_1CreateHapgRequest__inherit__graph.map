@@ -1,0 +1,4 @@
+<map id="QtAws::CloudHSM::CreateHapgRequest" name="QtAws::CloudHSM::CreateHapgRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1CloudHSM_1_1CloudHSMRequest.html" title="Interface class for providing CloudHSM requests. " alt="" coords="5,95,260,121"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="42,5,223,47"/>
+</map>

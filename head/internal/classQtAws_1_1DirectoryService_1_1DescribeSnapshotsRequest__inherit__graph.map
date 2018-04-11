@@ -1,0 +1,4 @@
+<map id="QtAws::DirectoryService::DescribeSnapshotsRequest" name="QtAws::DirectoryService::DescribeSnapshotsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1DirectoryService_1_1DirectoryServiceRequest.html" title="Interface class for providing DirectoryService requests. " alt="" coords="14,95,190,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="11,5,193,47"/>
+</map>

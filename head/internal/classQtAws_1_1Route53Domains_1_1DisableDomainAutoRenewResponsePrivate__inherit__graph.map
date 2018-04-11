@@ -1,0 +1,4 @@
+<map id="QtAws::Route53Domains::DisableDomainAutoRenewResponsePrivate" name="QtAws::Route53Domains::DisableDomainAutoRenewResponsePrivate">
+<area shape="rect" id="node2" href="$classQtAws_1_1Route53Domains_1_1Route53DomainsResponsePrivate.html" title="Private implementation for Route53DomainsResponse. " alt="" coords="13,95,244,136"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractResponsePrivate.html" title="Private implementation for AwsAbstractResponse. " alt="" coords="38,5,219,47"/>
+</map>

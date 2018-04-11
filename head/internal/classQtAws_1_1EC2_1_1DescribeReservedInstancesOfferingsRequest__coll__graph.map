@@ -1,0 +1,5 @@
+<map id="QtAws::EC2::DescribeReservedInstancesOfferingsRequest" name="QtAws::EC2::DescribeReservedInstancesOfferingsRequest">
+<area shape="rect" id="node2" href="$classQtAws_1_1EC2_1_1EC2Request.html" title="Interface class for providing EC2 requests. " alt="" coords="22,117,201,143"/>
+<area shape="rect" id="node3" href="$classQtAws_1_1Core_1_1AwsAbstractRequest.html" title="Interface class for providing AWS requests. " alt="" coords="161,5,342,47"/>
+<area shape="rect" id="node4" href="$classQtAws_1_1Core_1_1AwsAbstractRequestPrivate.html" title="Private implementation for AwsAbstractRequest. " alt="" coords="225,109,406,151"/>
+</map>
